@@ -7,10 +7,19 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -27,3 +36,14 @@ jobs:
             git commit -m "chore: 刷新光电热点数据 $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
+      - name: 准备站点文件
+        run: |
+          mkdir -p _site/data
+          cp dist/index.html _site/index.html
+          cp data/items.json data/hot-topics.json data/daily.json data/dailies.json data/report.csv _site/data/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

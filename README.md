@@ -122,9 +122,23 @@ opto-hot/
 └── LICENSE               # MIT
 ```
 
-## GitHub Actions 自动更新
+## 每 6 小时自动更新
 
-`.github/workflows/update.yml` 每 6 小时运行一次采集器并自动提交数据更新（也可手动 `workflow_dispatch` 触发）。因为 GitHub 服务器位于海外，个别国内站点可能超时，采集器对每个源单独容错，单源失败不影响整体输出。
+**GitHub Actions（默认启用，推荐）**
+
+![workflow](https://github.com/sun-zihang/opto-hot/actions/workflows/update.yml/badge.svg)
+
+`.github/workflows/update.yml` 每 6 小时运行一次（UTC 每 6 小时的第 17 分，即北京时间 04:17 / 10:17 / 16:17 / 22:17）：
+1. 运行 `python collector/collect.py --limit 25` 重新采集
+2. 有变化则提交并推送数据（`chore: 刷新光电热点数据 …`）
+3. **直接部署 GitHub Pages**（`actions/deploy-pages`），因此定时刷新后线上站点立即更新
+
+也可在 Actions 页面手动 `workflow_dispatch` 触发。注意：GitHub 服务器位于海外，个别国内站点可能超时，采集器对每个源单独容错，单源失败不影响整体输出。
+
+**本地计划任务（可选，适合离线运行 / 联动 CloudBase）**
+
+- `scripts/install-schedule.ps1`：注册 Windows 计划任务，每 6 小时运行一次 `scripts/auto-update.ps1`（采集 → git 提交 → push，从而触发 GitHub Pages 重新部署）
+- 若要同时刷新 CloudBase：把 CloudBase 部署命令写成 `scripts/cloudbase-deploy.ps1`，`auto-update.ps1` 会在每次更新后自动调用它
 
 ## 路线图
 
