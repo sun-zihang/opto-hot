@@ -1,0 +1,29 @@
+name: 定时更新光电热点数据
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 运行采集器
+        run: python collector/collect.py --limit 25
+      - name: 提交数据更新
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data dist
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: 刷新光电热点数据 $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
