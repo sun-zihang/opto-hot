@@ -3,6 +3,8 @@
 以 [AIHOT](https://aihot.virxact.com) 为模板的开源「光电行业热点统计」工具：
 
 > **在线报告（GitHub Pages）**：https://sun-zihang.github.io/opto-hot/
+>
+> **在线报告（腾讯云开发 CloudBase 静态托管）**：https://opto-hot-a455-d3g2s3dt865d86640.webapps.tcloudbase.com/
 
 自动采集公开网络上的光电产业资讯，去重分类、聚类打分，输出热点榜 / 精选 / 分类统计 / 每日趋势，并生成可离线打开的中文 HTML 报告。
 
@@ -15,6 +17,19 @@
 - **零依赖**：仅用 Python 标准库；HTML 报告为自包含单文件（无 CDN / 无外部资源）
 - **自动化**：内置 GitHub Actions，每 6 小时自动刷新数据并提交
 
+
+## CloudBase 部署
+
+| 项 | 值 |
+|---|---|
+| 环境 | `a455-d3g2s3dt865d86640`（ap-shanghai） |
+| 应用服务名 | opto-hot（版本 opto-hot-001） |
+| 访问域名 | https://opto-hot-a455-d3g2s3dt865d86640.webapps.tcloudbase.com/ |
+| 控制台 | https://tcb.cloud.tencent.com/dev?envId=a455-d3g2s3dt865d86640 |
+
+- 该域名与 GitHub Pages（sun-zihang.github.io/opto-hot/）相互独立、可同时访问，数据同源于 data/ 下的采集产物。
+- 更新方式：本地重新构建 dist/ 后，用 CloudBase 部署工具以同一服务名 opto-hot 重新部署即可生成新版本，**域名保持不变**。
+- 数据刷新仍由 GitHub Actions 每 6 小时自动完成；CloudBase 侧如需同步，可在本地运行 python collector/collect.py 后重新部署。
 ## 快速开始
 
 ```bash
