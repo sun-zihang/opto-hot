@@ -15,6 +15,8 @@
 - **领域分类**：激光、光通信、显示与面板、光电芯片与半导体、光学元件与成像、光传感与激光雷达、光伏与新能源、科研进展、产业与资本、通信与算力
 - **热点榜**：按「来源数 / 信号数 / 时效」加权打分，自动聚类并合并同一事件的多角度报道
 - **零依赖**：仅用 Python 标准库；HTML 报告为自包含单文件（无 CDN / 无外部资源）
+- **AIHOT 风格 UI**：六个视图（精选时间线 / 全部动态 / 热点榜 / 光电日报 / 主题 / 数据），浅色卡片风、侧边导航、评分与热度徽章，移动端自适应
+- **日报归档机制**：自动按天生成光电日报（今日看点 TOC + 分类文章 + 日历归档），支持回看历史
 - **自动化**：内置 GitHub Actions，每 6 小时自动刷新数据并提交
 
 
@@ -30,6 +32,29 @@
 - 该域名与 GitHub Pages（sun-zihang.github.io/opto-hot/）相互独立、可同时访问，数据同源于 data/ 下的采集产物。
 - 更新方式：本地重新构建 dist/ 后，用 CloudBase 部署工具以同一服务名 opto-hot 重新部署即可生成新版本，**域名保持不变**。
 - 数据刷新仍由 GitHub Actions 每 6 小时自动完成；CloudBase 侧如需同步，可在本地运行 python collector/collect.py 后重新部署。
+
+## UI 与机制（对标 AIHOT）
+
+| 视图 | 对应 AIHOT 页面 | 说明 |
+|---|---|---|
+| 精选 #/ | /（精选） | 按日分组的资讯时间线：来源、时间、分类徽章、推荐分、精选标记 |
+| 全部动态 #/all | /all | 全部条目，支持关键词搜索 + 分类筛选 + 按推荐分/时间排序 |
+| 热点榜 #/hot | /hot | 排名 + 状态（爆/发酵中/关注中）+ 信源数/信号数/热度值 + 信源展开 |
+| 光电日报 #/daily | /daily | 报头 + 今日看点 TOC + 分类文章 + 日历归档 |
+| 主题 #/topics | /topics | 分类卡片（24h/7d/总数），点击进入筛选 |
+| 数据 #/data | - | 统计卡片、14 天趋势、来源表、CSV/JSON 下载 |
+
+**数据机制**（静态 JSON API，兼容 AIHOT 字段风格）：
+- data/items.json：{id, title, url, links.original, source, category, publishedAt, discoveredAt, score, selected, summary, role, keywords}
+- data/hot-topics.json：{rank, title, status, heat, sourceCount, signalCount, latestAt, sources, links, terms}
+- data/dailies.json：按日期归档的日报；data/daily.json：统计聚合
+- 时间窗口语义：优先原文发布时间，缺失回退收录时间；24h / 7d / 日报按北京时间
+
+**相比 AIHOT 的改进**：
+- 打分公式透明可复现（AIHOT 为「AI 编辑部评分」，本工具公式见下）
+- 光电行业专属分类（10 类）与领域词表
+- 完全离线可用（单文件 HTML + 内嵌数据），无需后端
+- 开源 + MIT + GitHub Actions 自动刷新
 ## 快速开始
 
 ```bash
@@ -42,10 +67,11 @@ python collector/collect.py          # 需要联网；Python 3.8+
 
 | 文件 | 说明 |
 |---|---|
-| `dist/index.html` | 中文 HTML 报告（热点榜 / 精选 / 统计图表） |
+| `dist/index.html` | AIHOT 风格单页应用（精选/全部/热点榜/日报/主题/数据，内嵌数据可离线打开） |
 | `data/items.json` | 全部采集条目（含分类、关键词、得分） |
 | `data/hot-topics.json` | 热点榜（rank / 来源数 / 信号数 / 链接） |
 | `data/daily.json` | 统计：分类、每日趋势、来源分布 |
+| `data/dailies.json` | 光电日报归档（按日期） |
 | `data/report.csv` | 条目 CSV 导出（Excel 可直接打开） |
 
 常用参数：
