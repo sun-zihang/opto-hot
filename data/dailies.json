@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T13:20:06.484041+00:00",
-  "count": 21,
+  "generatedAt": "2026-08-03T21:54:15.230839+00:00",
+  "count": 22,
   "dailies": {
     "2025-04-17": {
       "date": "2025-04-17",
@@ -223,7 +223,7 @@
               "url": "https://www.ledinside.cn/research/20260707-62053.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 59.5,
+              "score": 59.2,
               "role": "行业媒体",
               "published_at": "2026-07-07"
             }
@@ -246,7 +246,7 @@
               "url": "https://cioe.cn/news/2917_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 59.5,
+              "score": 59.2,
               "role": "行业媒体",
               "published_at": "2026-07-13"
             }
@@ -269,7 +269,7 @@
               "url": "https://cioe.cn/news/2918_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 77.9,
+              "score": 77.6,
               "role": "行业媒体",
               "published_at": "2026-07-14"
             }
@@ -292,7 +292,7 @@
               "url": "https://cioe.cn/news/2919_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 55.4,
+              "score": 55.1,
               "role": "行业媒体",
               "published_at": "2026-07-17"
             }
@@ -315,7 +315,7 @@
               "url": "https://www.ledinside.cn/research/20260721-62162.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 71.2,
+              "score": 70.9,
               "role": "行业媒体",
               "published_at": "2026-07-21"
             }
@@ -338,7 +338,7 @@
               "url": "https://www.ledinside.cn/products/20260722-62171.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 72.0,
+              "score": 71.7,
               "role": "行业媒体",
               "published_at": "2026-07-22"
             }
@@ -361,7 +361,7 @@
               "url": "https://cioe.cn/news/2921_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 67.9,
+              "score": 67.6,
               "role": "行业媒体",
               "published_at": "2026-07-23"
             }
@@ -384,7 +384,7 @@
               "url": "https://www.ledinside.cn/research/20260728-62203.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 89.5,
+              "score": 89.2,
               "role": "行业媒体",
               "published_at": "2026-07-28"
             }
@@ -398,7 +398,7 @@
               "url": "https://www.ledinside.cn/news/20260728-62207.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 69.5,
+              "score": 69.2,
               "role": "行业媒体",
               "published_at": "2026-07-28"
             }
@@ -421,7 +421,7 @@
               "url": "https://cioe.cn/news/2928_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 75.4,
+              "score": 75.1,
               "role": "行业媒体",
               "published_at": "2026-07-29"
             },
@@ -430,7 +430,7 @@
               "url": "https://www.ledinside.cn/fsa/20260729-62215.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 72.9,
+              "score": 72.6,
               "role": "行业媒体",
               "published_at": "2026-07-29"
             }
@@ -444,7 +444,7 @@
               "url": "https://www.ledinside.cn/products/20260729-62208.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 77.9,
+              "score": 77.6,
               "role": "行业媒体",
               "published_at": "2026-07-29"
             }
@@ -467,7 +467,7 @@
               "url": "https://cioe.cn/news/2929_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 91.2,
+              "score": 90.9,
               "role": "行业媒体",
               "published_at": "2026-07-30"
             }
@@ -481,7 +481,7 @@
               "url": "https://www.ledinside.cn/fsa/20260730-62227.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 83.7,
+              "score": 83.4,
               "role": "行业媒体",
               "published_at": "2026-07-30"
             },
@@ -490,7 +490,7 @@
               "url": "https://www.ledinside.cn/products/20260730-62226.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 78.7,
+              "score": 78.4,
               "role": "行业媒体",
               "published_at": "2026-07-30"
             }
@@ -513,7 +513,7 @@
               "url": "https://cioe.cn/news/2930_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 92.0,
+              "score": 91.7,
               "role": "行业媒体",
               "published_at": "2026-07-31"
             },
@@ -522,78 +522,9 @@
               "url": "https://cioe.cn/news/2931_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 77.0,
+              "score": 76.7,
               "role": "行业媒体",
               "published_at": "2026-07-31"
-            },
-            {
-              "title": "Breaking the power wall in programmable photonics",
-              "url": "https://www.nature.com/articles/s41566-026-01960-w",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01960-w A non-volatile photonic gate array based on ferroelectric domain switching eliminates static power consumption, pointing towards scalable and energy-efficient ",
-              "score": 67.0,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            }
-          ]
-        },
-        {
-          "category": "光电芯片与半导体",
-          "articles": [
-            {
-              "title": "Valleytronics on a single chip",
-              "url": "https://www.nature.com/articles/s41566-026-01975-3",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01975-3 The integration of light-programmable valley optoelectronic nanocircuits based on two-dimensional semiconductors has been limited by complex optical readout us",
-              "score": 67.0,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            }
-          ]
-        },
-        {
-          "category": "光学元件与成像",
-          "articles": [
-            {
-              "title": "Silencing pain with infrared light",
-              "url": "https://www.nature.com/articles/s41566-026-01970-8",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01970-8 Lanthanide upconversion nanoparticles convert near-infrared illumination into local visible emission, enabling wireless optogenetic modulation of deep pain pat",
-              "score": 67.0,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            }
-          ]
-        },
-        {
-          "category": "科研进展",
-          "articles": [
-            {
-              "title": "Optical–electrical skin sensing",
-              "url": "https://www.nature.com/articles/s41566-026-01967-3",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01967-3 Optical–electrical skin sensing",
-              "score": 92.0,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            },
-            {
-              "title": "The path ahead for organic photovoltaics",
-              "url": "https://www.nature.com/articles/s41566-026-01963-7",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01963-7 Nature Photonics spoke with Yongsheng Chen from Nankai University, who was recently elected an Academician of the Chinese Academy of Sciences, about milestones",
-              "score": 67.0,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            },
-            {
-              "title": "A hot-electron-based plasmonic artificial leaf",
-              "url": "https://www.nature.com/articles/s41566-026-01969-1",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01969-1 Non-radiative plasmonic decay generates energetic charge carriers that rapidly thermalize; however, if captured quickly, these hot electrons can be harnessed f",
-              "score": 67.0,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
             }
           ]
         },
@@ -605,20 +536,253 @@
               "url": "https://www.ledinside.cn/fsa/20260731-62241.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 67.0,
+              "score": 66.7,
               "role": "行业媒体",
               "published_at": "2026-07-31"
             }
           ]
         }
       ],
-      "tocCount": 9,
-      "readMinutes": 2
+      "tocCount": 3,
+      "readMinutes": 1
     },
     "2026-08-03": {
       "date": "2026-08-03",
       "weekday": "周一",
       "label": "2026年8月3日",
+      "sections": [
+        {
+          "category": "激光",
+          "articles": [
+            {
+              "title": "Coating-free monolithic fused silica resonator via total internal reflection for precision laser stabilization",
+              "url": "https://arxiv.org/abs/2607.29407",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.29407v1 Announce Type: new Abstract: Brownian noise in the thin-film mirror coatings of optical reference cavities is a fundamental limitation in precision metrology, including gravitational-wave detectors and optical atomic cloc",
+              "score": 74.4,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
+            }
+          ]
+        },
+        {
+          "category": "光通信",
+          "articles": [
+            {
+              "title": "光芯片收入高涨78%，仕佳光子上半年营收15亿",
+              "url": "https://www.ledinside.cn/fsa/20260803-62247.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 79.2,
+              "role": "行业媒体",
+              "published_at": "2026-08-03"
+            },
+            {
+              "title": "华为供应商定增12.8亿，布局光模块、器件、芯片全链条",
+              "url": "https://www.ledinside.cn/news/20260803-62245.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 79.2,
+              "role": "行业媒体",
+              "published_at": "2026-08-03"
+            }
+          ]
+        },
+        {
+          "category": "显示与面板",
+          "articles": [
+            {
+              "title": "定价近1.5万元，Snap AR眼镜即将正式亮相",
+              "url": "https://www.ledinside.cn/products/20260803-62244.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 94.2,
+              "role": "行业媒体",
+              "published_at": "2026-08-03"
+            },
+            {
+              "title": "大彩光电西南基地投产，加码LED显示及Mini LED制造",
+              "url": "https://www.ledinside.cn/news/20260803-62246.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 89.2,
+              "role": "行业媒体",
+              "published_at": "2026-08-03"
+            },
+            {
+              "title": "国内首个RGB-MiniLED行业标准即将发布",
+              "url": "https://www.ledinside.cn/news/20260803-62252.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 69.2,
+              "role": "行业媒体",
+              "published_at": "2026-08-03"
+            }
+          ]
+        },
+        {
+          "category": "光电芯片与半导体",
+          "articles": [
+            {
+              "title": "新增18亿元投资，友达光电加码半导体封装",
+              "url": "https://www.ledinside.cn/news/20260803-62248.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 89.2,
+              "role": "行业媒体",
+              "published_at": "2026-08-03"
+            },
+            {
+              "title": "TCL华星CEO：半导体封装处于技术论证开发阶段，预计下半年展示样品",
+              "url": "https://www.ledinside.cn/news/20260803-62251.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 79.2,
+              "role": "行业媒体",
+              "published_at": "2026-08-03"
+            },
+            {
+              "title": "国内首张第8.5代高精度掩模基板正式下线",
+              "url": "https://www.ledinside.cn/news/20260803-62253.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 74.2,
+              "role": "行业媒体",
+              "published_at": "2026-08-03"
+            }
+          ]
+        },
+        {
+          "category": "光学元件与成像",
+          "articles": [
+            {
+              "title": "Tomographic Phase Imaging with Randomized Probe Imaging",
+              "url": "https://arxiv.org/abs/2607.29471",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.29471v1 Announce Type: new Abstract: We demonstrate tomographic phase imaging of cubic gold nanoparticles with sub-100 nm resolution requiring just a single far-field coherent diffraction pattern per projection. By using randomiz",
+              "score": 74.4,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
+            },
+            {
+              "title": "Comparative analysis of wavenumber response in phase contrast and spiral phase imaging systems for plasma diagnostics",
+              "url": "https://arxiv.org/abs/2607.29307",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.29307v1 Announce Type: cross Abstract: Phase contrast imaging (PCI) has been used for decades to study plasma density fluctuations, but its wavenumber response $k$ is constrained by the phase plate groove width and beam waist. Sp",
+              "score": 74.4,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
+            }
+          ]
+        },
+        {
+          "category": "科研进展",
+          "articles": [
+            {
+              "title": "Mode-Selective and Anharmonicity-Controlled Energy Transport in Cavity-Coupled Water",
+              "url": "https://arxiv.org/abs/2607.28782",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.28782v1 Announce Type: new Abstract: Recent experiments demonstrate the modification of chemical dynamics via cavity-enhanced vibrational energy transport. Here, we provide a microscopic account of both photonic and mode-selectiv",
+              "score": 89.4,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
+            },
+            {
+              "title": "Broadband Control of Light through Complex Media via Automatic Self-Referencing Transmission Matrix Characterisation",
+              "url": "https://arxiv.org/abs/2607.29047",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.29047v1 Announce Type: new Abstract: Light propagation through complex media underpins critical optical technologies, from imaging distant stars and ground-to-space communication to imaging inside biological tissue with hair-thin",
+              "score": 89.4,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
+            },
+            {
+              "title": "High-Density Monocular 3D Particle Image Velocimetry by Wavefront Shaping and Deep Learning",
+              "url": "https://arxiv.org/abs/2607.29163",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.29163v1 Announce Type: new Abstract: Three-dimensional (3D) Particle Image Velocimetry (PIV) measures flow velocities by imaging laser-illuminated tracer particles seeded in a fluid, and is widely used in both academia and indust",
+              "score": 89.4,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
+            },
+            {
+              "title": "Observation of Antichiral Hinge States in a Three-dimensional Gyromagnetic Photonic Crystal",
+              "url": "https://arxiv.org/abs/2607.29340",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.29340v1 Announce Type: new Abstract: Recent advances in topological physics have revealed a counterintuitive class of antichiral edge and surface states that propagate in the same direction along spatially separated parallel boun",
+              "score": 89.4,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
+            },
+            {
+              "title": "A Group-Theoretical Framework for Local k-Space Topology and Berry Phase in 2D Photonic Systems",
+              "url": "https://arxiv.org/abs/2607.29356",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.29356v1 Announce Type: new Abstract: Two-dimensional photonic crystals (2D PhCs) enable fine-grained control over a broad set of Bloch modes without the constraints of band occupancy and natural crystal structures, and, as intrin",
+              "score": 89.4,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
+            },
+            {
+              "title": "PROPEL: A Memory-Driven, Adaptive Vector-Flow-Field Router with Process-Aware Waveguide Generation for Large-Scale Photonic Integrated Circuits",
+              "url": "https://arxiv.org/abs/2607.29543",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.29543v1 Announce Type: new Abstract: Photonic integrated circuits (PICs) are increasing in scale and routing complexity, driven by photonic computing, optical switching, programmable interferometer meshes, wavelength-routed optic",
+              "score": 89.4,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
+            },
+            {
+              "title": "Information limits of photonic lantern wavefront sensing: a Fisher- and quantum-Fisher-information framework and its relation to Fourier-filtering sensitivity limits",
+              "url": "https://arxiv.org/abs/2607.29342",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.29342v1 Announce Type: cross Abstract: The photonic lantern is an all-photonic wavefront sensor native to single-mode-fibre-fed instruments, but its performance is almost always quoted through a specific reconstruction algorithm,",
+              "score": 89.4,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
+            },
+            {
+              "title": "Overcoming the low signal-to-noise problem for hybrid mode-selective photonic lantern-based wavefront correction using machine learning",
+              "url": "https://arxiv.org/abs/2607.03285",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.03285v2 Announce Type: replace Abstract: Hybrid mode-selective photonic lanterns transform an input complex point-spread function into several single-mode outputs, where a selected core feeds the fundamental mode to a photonic sc",
+              "score": 89.4,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
+            }
+          ]
+        },
+        {
+          "category": "其他",
+          "articles": [
+            {
+              "title": "台湾地区首条完整TGV金属化产线建成",
+              "url": "https://www.ledinside.cn/news/20260803-62250.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 69.2,
+              "role": "行业媒体",
+              "published_at": "2026-08-03"
+            },
+            {
+              "title": "内存紧缺，苹果Mac Book Air传缺货",
+              "url": "https://www.ledinside.cn/news/20260803-62249.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 69.2,
+              "role": "行业媒体",
+              "published_at": "2026-08-03"
+            }
+          ]
+        }
+      ],
+      "tocCount": 21,
+      "readMinutes": 2
+    },
+    "2026-08-04": {
+      "date": "2026-08-04",
+      "weekday": "周二",
+      "label": "2026年8月4日",
       "sections": [
         {
           "category": "激光",
@@ -746,29 +910,20 @@
               "published_at": null
             },
             {
-              "title": "光芯片收入高涨78%，仕佳光子上半年营收15亿",
-              "url": "https://www.ledinside.cn/fsa/20260803-62247.html",
-              "source": "LEDinside 中文",
-              "summary": "",
-              "score": 79.5,
-              "role": "行业媒体",
-              "published_at": "2026-08-03"
-            },
-            {
-              "title": "华为供应商定增12.8亿，布局光模块、器件、芯片全链条",
-              "url": "https://www.ledinside.cn/news/20260803-62245.html",
-              "source": "LEDinside 中文",
-              "summary": "",
-              "score": 79.5,
-              "role": "行业媒体",
-              "published_at": "2026-08-03"
-            },
-            {
               "title": "推进光纤入户 工信部联合住建部解决”最后一公里”问题",
               "url": "http://www.c114.net/news/549/a997513.html",
               "source": "C114中国通信网_要闻精选",
               "summary": "",
               "score": 77.5,
+              "role": "行业媒体",
+              "published_at": null
+            },
+            {
+              "title": "国际海缆韧性咨询机构召开全体会议",
+              "url": "https://www.c114.com.cn/news/550/a1313802.html",
+              "source": "C114中国通信网_监管",
+              "summary": "2026年7月10日，国际电信联盟国际海缆韧性咨询机构首届任期收官会议在瑞士日内瓦召开。该机构是国际电信联盟推动全球海缆治理体系建设的重要机制，下设海缆快速部署与维修风险监测与缓解地理路由多样性三个工作组，旨在凝聚各界力量，研究海缆建设与保护中的重大问题，推动形成国际共识和政策建议。",
+              "score": 60.0,
               "role": "行业媒体",
               "published_at": null
             }
@@ -785,24 +940,6 @@
               "score": 100.0,
               "role": "行业媒体",
               "published_at": "2026-07"
-            },
-            {
-              "title": "定价近1.5万元，Snap AR眼镜即将正式亮相",
-              "url": "https://www.ledinside.cn/products/20260803-62244.html",
-              "source": "LEDinside 中文",
-              "summary": "",
-              "score": 94.5,
-              "role": "行业媒体",
-              "published_at": "2026-08-03"
-            },
-            {
-              "title": "大彩光电西南基地投产，加码LED显示及Mini LED制造",
-              "url": "https://www.ledinside.cn/news/20260803-62246.html",
-              "source": "LEDinside 中文",
-              "summary": "",
-              "score": 89.5,
-              "role": "行业媒体",
-              "published_at": "2026-08-03"
             },
             {
               "title": "One LED produces four stable colors at room temperature",
@@ -841,13 +978,13 @@
               "published_at": "2026-07"
             },
             {
-              "title": "国内首个RGB-MiniLED行业标准即将发布",
-              "url": "https://www.ledinside.cn/news/20260803-62252.html",
-              "source": "LEDinside 中文",
-              "summary": "",
-              "score": 69.5,
+              "title": "关键节点！维信诺合肥8.6代AMOLED产线转入设备调试阶段",
+              "url": "https://www.c114.com.cn/news/211/a1307762.html",
+              "source": "C114中国通信网_IT资讯",
+              "summary": "3月26日，合肥国显科技有限公司（以下简称合肥国显）第8.6代AMOLED生产线项目在主厂房举行洁净室清扫仪式，标志着全球首条搭载无FMM技术（ViP）的高世代AMOLED生产线已顺利完成厂房建设交付，全面转入工艺设备搬入及调试阶段，为产线后续顺利量产与运营奠定坚实基础。",
+              "score": 65.0,
               "role": "行业媒体",
-              "published_at": "2026-08-03"
+              "published_at": null
             }
           ]
         },
@@ -873,15 +1010,6 @@
               "published_at": "2026-07"
             },
             {
-              "title": "新增18亿元投资，友达光电加码半导体封装",
-              "url": "https://www.ledinside.cn/news/20260803-62248.html",
-              "source": "LEDinside 中文",
-              "summary": "",
-              "score": 89.5,
-              "role": "行业媒体",
-              "published_at": "2026-08-03"
-            },
-            {
               "title": "Two independent studies push semiconductor qubits towards practical scales",
               "url": "https://phys.org/news/2026-07-independent-semiconductor-qubits-scales.html",
               "source": "Phys.org 物理新闻",
@@ -889,24 +1017,6 @@
               "score": 80.0,
               "role": "科研",
               "published_at": null
-            },
-            {
-              "title": "TCL华星CEO：半导体封装处于技术论证开发阶段，预计下半年展示样品",
-              "url": "https://www.ledinside.cn/news/20260803-62251.html",
-              "source": "LEDinside 中文",
-              "summary": "",
-              "score": 79.5,
-              "role": "行业媒体",
-              "published_at": "2026-08-03"
-            },
-            {
-              "title": "国内首张第8.5代高精度掩模基板正式下线",
-              "url": "https://www.ledinside.cn/news/20260803-62253.html",
-              "source": "LEDinside 中文",
-              "summary": "",
-              "score": 74.5,
-              "role": "行业媒体",
-              "published_at": "2026-08-03"
             },
             {
               "title": "英特尔代工获微软下一代AI芯片订单，将采用18A工艺",
@@ -986,13 +1096,13 @@
               "published_at": "2026-06"
             },
             {
-              "title": "Methods, trade-offs and opportunities in high-speed optical microscopy for neural voltage imaging",
-              "url": "https://www.nature.com/articles/s41566-026-01965-5",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 03 August 2026; doi:10.1038/s41566-026-01965-5 The Review discusses recent advances in neural voltage imaging, with an emphasis on relevant microscopy techniques and outstanding challenges in the field.",
-              "score": 94.5,
-              "role": "科研",
-              "published_at": "2026-08-03T00:00:00+00:00"
+              "title": "新思科技获准向是德科技出售光学解决方案部门",
+              "url": "https://www.c114.com.cn/news/212/a1298390.html",
+              "source": "C114中国通信网_IT资讯",
+              "summary": "新思科技（Synopsys）宣布已获得所有相关监管机构的最终批准，将正式推进此前已公布的业务剥离计划：将旗下光学解决方案部门（Optical Solutions Group）及 PowerArtist 业务出售给是德科技（Keysight）。",
+              "score": 90.0,
+              "role": "行业媒体",
+              "published_at": null
             }
           ]
         },
@@ -1023,76 +1133,76 @@
           "category": "科研进展",
           "articles": [
             {
-              "title": "Mode-Selective and Anharmonicity-Controlled Energy Transport in Cavity-Coupled Water",
-              "url": "https://arxiv.org/abs/2607.28782",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2607.28782v1 Announce Type: new Abstract: Recent experiments demonstrate the modification of chemical dynamics via cavity-enhanced vibrational energy transport. Here, we provide a microscopic account of both photonic and mode-selectiv",
-              "score": 89.7,
+              "title": "New quantum encryption method prevents ciphertext from being cloned",
+              "url": "https://phys.org/news/2026-08-quantum-encryption-method-ciphertext-cloned.html",
+              "source": "Phys.org 物理新闻",
+              "summary": "Digital security currently relies on difficult equations to protect data. For example, when you use a credit card online, the information is locked inside a math problem that would take a modern computer thousands of years to solve. However",
+              "score": 80.0,
               "role": "科研",
-              "published_at": "2026-08-03T04:00:00+00:00"
+              "published_at": null
             },
             {
-              "title": "Broadband Control of Light through Complex Media via Automatic Self-Referencing Transmission Matrix Characterisation",
-              "url": "https://arxiv.org/abs/2607.29047",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2607.29047v1 Announce Type: new Abstract: Light propagation through complex media underpins critical optical technologies, from imaging distant stars and ground-to-space communication to imaging inside biological tissue with hair-thin",
-              "score": 89.7,
+              "title": "Quantum computer completes verified task beyond practical reach of classical simulations",
+              "url": "https://phys.org/news/2026-07-quantum-task-classical-simulations.html",
+              "source": "Phys.org 物理新闻",
+              "summary": "IBM and researchers from the University of Chicago announced a demonstration in quantum computing that meets the fundamental criteria for \"quantum advantage\"—the point where quantum computers can be confirmed to have outperformed classical ",
+              "score": 80.0,
               "role": "科研",
-              "published_at": "2026-08-03T04:00:00+00:00"
+              "published_at": null
             },
             {
-              "title": "High-Density Monocular 3D Particle Image Velocimetry by Wavefront Shaping and Deep Learning",
-              "url": "https://arxiv.org/abs/2607.29163",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2607.29163v1 Announce Type: new Abstract: Three-dimensional (3D) Particle Image Velocimetry (PIV) measures flow velocities by imaging laser-illuminated tracer particles seeded in a fluid, and is widely used in both academia and indust",
-              "score": 89.7,
+              "title": "Diamond's newfound defect may tame vibrations that hinder quantum light sources",
+              "url": "https://phys.org/news/2026-07-diamond-newfound-defect-vibrations-hinder.html",
+              "source": "Phys.org 物理新闻",
+              "summary": "Researchers in the Department of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign have discovered a new type of quantum light emitter in diamonds that could help overcome a number of challenges facing quant",
+              "score": 80.0,
               "role": "科研",
-              "published_at": "2026-08-03T04:00:00+00:00"
+              "published_at": null
             },
             {
-              "title": "Observation of Antichiral Hinge States in a Three-dimensional Gyromagnetic Photonic Crystal",
-              "url": "https://arxiv.org/abs/2607.29340",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2607.29340v1 Announce Type: new Abstract: Recent advances in topological physics have revealed a counterintuitive class of antichiral edge and surface states that propagate in the same direction along spatially separated parallel boun",
-              "score": 89.7,
+              "title": "New photonic platform offers a four-lane highway for light",
+              "url": "https://phys.org/news/2026-07-photonic-platform-lane-highway.html",
+              "source": "Phys.org 物理新闻",
+              "summary": "Topological photonics can force propagating light to travel in a single direction—allowing researchers to route optical signals around corners and past defects without any of it scattering backward. So far, however, this one-way flow has on",
+              "score": 80.0,
               "role": "科研",
-              "published_at": "2026-08-03T04:00:00+00:00"
+              "published_at": null
             },
             {
-              "title": "A Group-Theoretical Framework for Local k-Space Topology and Berry Phase in 2D Photonic Systems",
-              "url": "https://arxiv.org/abs/2607.29356",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2607.29356v1 Announce Type: new Abstract: Two-dimensional photonic crystals (2D PhCs) enable fine-grained control over a broad set of Bloch modes without the constraints of band occupancy and natural crystal structures, and, as intrin",
-              "score": 89.7,
+              "title": "Less-explored form of quantum code could be more powerful—and more stable—than its alternative in error correction",
+              "url": "https://phys.org/news/2026-07-explored-quantum-code-powerful-stable.html",
+              "source": "Phys.org 物理新闻",
+              "summary": "In mathematics and getting dressed, some processes are commutative, while others are noncommutative. Commutative means the order doesn't matter (3 + 2 is the same as 2 + 3, and it doesn't matter which sock goes on first). Noncommutative mea",
+              "score": 80.0,
               "role": "科研",
-              "published_at": "2026-08-03T04:00:00+00:00"
+              "published_at": null
             },
             {
-              "title": "Ascorbic acid mitigates oxidative structural degradation in bovine spermatozoa: a label-free quantitative phase microscopy study",
-              "url": "https://arxiv.org/abs/2607.29428",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2607.29428v1 Announce Type: new Abstract: Oxidative stress is a key factor in low fertility outcomes during assisted reproduction technology (ART) and contributes to poor sperm quality. Conventional assessment relies on bright-field m",
-              "score": 89.7,
+              "title": "Photonic time crystals unlock ultrafast control of light in the terahertz range",
+              "url": "https://phys.org/news/2026-07-photonic-crystals-ultrafast-terahertz-range.html",
+              "source": "Phys.org 物理新闻",
+              "summary": "An international team of researchers from École Polytechnique, Collège de France and Helmholtz-Zentrum Dresden-Rossendorf (HZDR) has achieved a world first: the experimental realization of an all-optical photonic time crystal (PTC), a mater",
+              "score": 80.0,
               "role": "科研",
-              "published_at": "2026-08-03T04:00:00+00:00"
+              "published_at": null
             },
             {
-              "title": "High-NA vectorial hologram optimization",
-              "url": "https://arxiv.org/abs/2607.29505",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2607.29505v1 Announce Type: new Abstract: We present a vectorial phase-only framework for the gradient-based optimization of computer-generated holograms. Our approach addresses a critical limitation in high numerical aperture (NA) op",
-              "score": 89.7,
+              "title": "Quantum spin effects may enhance one-way electrical transport in chiral magnets",
+              "url": "https://phys.org/news/2026-07-quantum-effects-electrical-chiral-magnets.html",
+              "source": "Phys.org 物理新闻",
+              "summary": "Quantum fluctuations influence direction-dependent electrical transport in chiral magnets, researchers from Science Tokyo report. In chiral magnetic systems, electric current flows differently depending on its direction, but the role of qua",
+              "score": 80.0,
               "role": "科研",
-              "published_at": "2026-08-03T04:00:00+00:00"
+              "published_at": null
             },
             {
-              "title": "PROPEL: A Memory-Driven, Adaptive Vector-Flow-Field Router with Process-Aware Waveguide Generation for Large-Scale Photonic Integrated Circuits",
-              "url": "https://arxiv.org/abs/2607.29543",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2607.29543v1 Announce Type: new Abstract: Photonic integrated circuits (PICs) are increasing in scale and routing complexity, driven by photonic computing, optical switching, programmable interferometer meshes, wavelength-routed optic",
-              "score": 89.7,
+              "title": "Cesium atoms and quantum dots generate indistinguishable photons for modular quantum networks",
+              "url": "https://phys.org/news/2026-07-cesium-atoms-quantum-dots-generate.html",
+              "source": "Phys.org 物理新闻",
+              "summary": "Large-scale quantum communication networks require both reliable quantum memories and coherent single-photon sources that can exchange quantum information efficiently. A coherent source of single photons with narrow linewidth, high brightne",
+              "score": 80.0,
               "role": "科研",
-              "published_at": "2026-08-03T04:00:00+00:00"
+              "published_at": null
             }
           ]
         },
@@ -1328,7 +1438,7 @@
           ]
         }
       ],
-      "tocCount": 73,
+      "tocCount": 67,
       "readMinutes": 2
     }
   }
