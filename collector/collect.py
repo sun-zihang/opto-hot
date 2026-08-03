@@ -592,75 +592,444 @@ def build_daily(items, topics, generated):
     }
 
 
-# ---------------- HTML 报告 ----------------
+# ---------------- 日报归档 ----------------
+WEEKDAYS_CN = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
+MONTHS_CN = "一二三四五六七八九十"
+
+
+def cn_date(dstr):
+    """2026-08-03 -> 2026年8月3日"""
+    try:
+        y, m, d = dstr.split("-")
+        return "%s年%d月%d日" % (y, int(m), int(d))
+    except Exception:
+        return dstr
+
+
+def role_tag(source):
+    if any(k in source for k in ("arXiv", "Nature Photonics", "Phys.org")):
+        return "科研"
+    if any(k in source for k in ("OFweek", "LEDinside", "CIOE", "COEMA", "C114")):
+        return "行业媒体"
+    return "媒体"
+
+
+def build_dailies(items):
+    """按天生成光电日报（AIHOT 日报机制）"""
+    by_date = {}
+    for it in items:
+        d = (eff_dt(it) + timedelta(hours=8)).date().isoformat()
+        by_date.setdefault(d, []).append(it)
+    out = {}
+    for d, its in sorted(by_date.items()):
+        its.sort(key=lambda i: i["score"], reverse=True)
+        sections = []
+        for cat in CATEGORY_ORDER:
+            arts = [i for i in its if i["category"] == cat][:8]
+            if arts:
+                sections.append({
+                    "category": cat,
+                    "articles": [{
+                        "title": a["title"],
+                        "url": a["url"],
+                        "source": a["source"],
+                        "summary": (a.get("summary") or "")[:240],
+                        "score": a["score"],
+                        "role": role_tag(a["source"]),
+                        "published_at": a.get("published_at"),
+                    } for a in arts],
+                })
+        if not sections:
+            continue
+        try:
+            wd = WEEKDAYS_CN[datetime.strptime(d, "%Y-%m-%d").weekday()]
+        except Exception:
+            wd = ""
+        total_chars = sum(len(s["articles"][0]["summary"]) for s in sections if s["articles"])
+        out[d] = {
+            "date": d,
+            "weekday": wd,
+            "label": cn_date(d),
+            "sections": sections,
+            "tocCount": sum(len(s["articles"]) for s in sections),
+            "readMinutes": max(1, round(total_chars / 300)),
+        }
+    return out
+
+
+# ---------------- HTML 报告（AIHOT 风格） ----------------
 CAT_CLS = {
     "激光": "laser", "光通信": "fiber", "显示与面板": "display", "光电芯片与半导体": "chip",
     "光学元件与成像": "optics", "光传感与激光雷达": "sensing", "光伏与新能源": "pv",
     "科研进展": "research", "产业与资本": "capital", "通信与算力": "telecom", "其他": "other",
 }
 
-CSS = """
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { font-family: "PingFang SC", "Microsoft YaHei", "Noto Sans SC", "Segoe UI", sans-serif;
-       background: #f4f6fb; color: #1f2430; line-height: 1.6; }
-a { color: #2557d6; text-decoration: none; }
-a:hover { text-decoration: underline; }
-.wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
-.top { background: linear-gradient(120deg, #0f2a5f 0%, #1b4b9e 55%, #2f7ce0 100%);
-       color: #fff; padding: 34px 0 26px; }
-.top h1 { font-size: 26px; letter-spacing: 1px; }
-.top h1 .en { font-size: 15px; opacity: .85; font-weight: 500; margin-left: 8px; }
-.top .sub { margin-top: 8px; font-size: 13px; opacity: .9; }
-.top .sub a { color: #cfe0ff; }
-.cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin: 22px 0 6px; }
-.card { background: #fff; border-radius: 12px; padding: 16px 18px; box-shadow: 0 1px 4px rgba(20,40,90,.08); }
-.card .num { font-size: 30px; font-weight: 700; color: #1b4b9e; }
-.card .lbl { font-size: 13px; color: #6b7280; margin-top: 2px; }
-section { margin: 26px 0; }
-h2 { font-size: 19px; color: #0f2a5f; margin-bottom: 12px; display: flex; align-items: baseline; gap: 10px; }
-h2 .hint { font-size: 12px; color: #8a93a6; font-weight: 400; }
-.topics { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; min-width: 0; }
-.topic { background: #fff; border-radius: 12px; padding: 16px 18px; box-shadow: 0 1px 4px rgba(20,40,90,.08);
-         border-left: 4px solid #2f7ce0; min-width: 0; overflow: hidden; }
-.topic .t-head { display: flex; align-items: center; gap: 10px; }
-.topic .rank { min-width: 26px; height: 26px; border-radius: 8px; background: #0f2a5f; color: #fff;
-               font-size: 14px; font-weight: 700; display: flex; align-items: center; justify-content: center; }
-.topic .t-title { font-size: 15.5px; font-weight: 600; color: #1b3a75; }
-.topic .t-meta { font-size: 12px; color: #7a8396; margin-top: 6px; }
-.topic .t-src { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 6px; }
-.chip { font-size: 11px; background: #eef2fb; color: #3c5a9e; border-radius: 20px; padding: 2px 10px; }
-.topic .t-links { margin-top: 8px; font-size: 12.5px; }
-.topic .t-links li { list-style: none; margin: 2px 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.items { background: #fff; border-radius: 12px; box-shadow: 0 1px 4px rgba(20,40,90,.08); list-style: none; min-width: 0; }
-.item { display: flex; align-items: center; gap: 12px; padding: 11px 16px; border-bottom: 1px solid #eef1f7; }
-.item:last-child { border-bottom: none; }
-.item .it-main { flex: 1; min-width: 0; }
-.item .it-title { font-size: 14.5px; color: #1f2430; font-weight: 500; }
-.item .it-meta { font-size: 12px; color: #8a93a6; margin-top: 2px; }
-.item .it-score { font-size: 13px; color: #2f7ce0; font-weight: 600; min-width: 34px; text-align: right; }
-.badge { font-size: 11px; color: #fff; border-radius: 6px; padding: 2px 8px; white-space: nowrap; }
-.b-laser { background: #e0563c; } .b-fiber { background: #2f7ce0; } .b-display { background: #8e44ad; }
-.b-chip { background: #16a085; } .b-optics { background: #e67e22; } .b-sensing { background: #27ae60; }
-.b-pv { background: #f39c12; } .b-research { background: #5b6ee1; } .b-capital { background: #c0392b; } .b-telecom { background: #34495e; }
-.b-other { background: #7f8c8d; }
-.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; min-width: 0; }
-.panel { background: #fff; border-radius: 12px; padding: 16px 18px; box-shadow: 0 1px 4px rgba(20,40,90,.08); min-width: 0; overflow: hidden; }
-.panel h3 { font-size: 14px; color: #0f2a5f; margin-bottom: 10px; }
-.cat-row { display: grid; grid-template-columns: 84px 1fr 120px; align-items: center; gap: 10px; margin: 7px 0; font-size: 12.5px; }
-.cat-row .bar { height: 10px; border-radius: 6px; background: #eef1f7; overflow: hidden; }
-.cat-row .bar > i { display: block; height: 100%; background: linear-gradient(90deg, #2f7ce0, #6aa4f0); border-radius: 6px; }
-.cat-row .n { color: #6b7280; text-align: right; }
-.day-chart { display: flex; align-items: flex-end; gap: 6px; height: 120px; padding-top: 6px; }
-.day-col { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; gap: 4px; height: 100%; }
-.day-col .dbar { width: 70%; background: linear-gradient(180deg, #6aa4f0, #2f7ce0); border-radius: 5px 5px 0 0; min-height: 2px; }
-.day-col .dl { font-size: 10px; color: #8a93a6; }
-table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 4px rgba(20,40,90,.08); font-size: 13px; }
-th, td { padding: 9px 14px; text-align: left; border-bottom: 1px solid #eef1f7; }
-th { background: #f7f9fd; color: #556; font-weight: 600; }
-footer { margin: 34px 0 26px; font-size: 12px; color: #8a93a6; text-align: center; }
-footer a { color: #2f7ce0; }
-@media (max-width: 860px) { .cards { grid-template-columns: 1fr 1fr; } .topics, .cols { grid-template-columns: 1fr; } }
+APP_CSS = r"""
+:root { --bg:#f4f5f6; --card:#fff; --border:#e2e4e7; --text:#1c2733; --muted:#5c6672;
+        --accent:#135e6b; --accent-soft:rgba(19,94,107,.08); --radius:12px;
+        --gold:#96702e; --gold-bg:rgba(184,135,58,.12); --score-hi:#135e6b; --score-mid:#b7791f; --score-low:#9aa3af; }
+* { margin:0; padding:0; box-sizing:border-box; }
+html { -webkit-text-size-adjust:100%; }
+body { background:var(--bg); color:var(--text); font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","HarmonyOS Sans SC","Microsoft YaHei",sans-serif; line-height:1.6; }
+a { color:inherit; text-decoration:none; }
+a:hover { opacity:.85; }
+.mono { font-variant-numeric:tabular-nums; font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+/* top bar */
+.m-topbar { position:sticky; top:0; z-index:50; background:rgba(255,255,255,.9); backdrop-filter:blur(8px); border-bottom:1px solid var(--border); }
+.topbar-inner { max-width:1180px; margin:0 auto; padding:10px 18px; display:flex; align-items:center; gap:16px; }
+.brand { font-weight:700; font-size:16px; color:var(--accent); display:flex; align-items:center; gap:8px; white-space:nowrap; }
+.brand .logo { width:24px; height:24px; border-radius:7px; background:linear-gradient(135deg,#135e6b,#1d8a9c); color:#fff; display:flex; align-items:center; justify-content:center; font-size:13px; }
+.searchbox { flex:1; max-width:420px; display:flex; align-items:center; gap:8px; background:var(--bg); border:1px solid var(--border); border-radius:10px; padding:6px 12px; }
+.searchbox input { flex:1; border:none; background:none; outline:none; font-size:14px; color:var(--text); }
+.searchbox .kbd { font-size:11px; color:var(--muted); border:1px solid var(--border); border-radius:5px; padding:0 5px; }
+.topbar-meta { margin-left:auto; font-size:12px; color:var(--muted); white-space:nowrap; }
+/* layout */
+.app-layout { max-width:1180px; margin:0 auto; display:grid; grid-template-columns:176px 1fr; gap:22px; padding:18px; }
+.side-nav { position:sticky; top:66px; align-self:start; display:flex; flex-direction:column; gap:2px; }
+.side-group { font-size:11px; color:var(--muted); padding:8px 10px 4px; letter-spacing:.5px; }
+.side-link { display:flex; align-items:center; gap:9px; padding:8px 10px; border-radius:9px; color:var(--muted); font-size:14px; }
+.side-link:hover { background:var(--accent-soft); color:var(--accent); }
+.side-link-active { background:var(--accent-soft); color:var(--accent); font-weight:600; }
+.side-link .si { width:16px; height:16px; display:inline-flex; align-items:center; justify-content:center; opacity:.9; }
+.app-main { min-width:0; }
+.view { display:none; }
+.view-active { display:block; }
+/* cards */
+.card { background:var(--card); border:1px solid var(--border); border-radius:var(--radius); }
+.pad { padding:16px 18px; }
+.page-head { display:flex; align-items:baseline; gap:12px; padding:14px 18px; margin-bottom:14px; }
+.page-head h1 { font-size:20px; font-weight:700; }
+.page-head .sub { font-size:13px; color:var(--muted); }
+/* hot card on feed */
+.hotcard { margin-bottom:16px; }
+.hotcard-head { display:flex; align-items:center; justify-content:space-between; padding:12px 16px 4px; }
+.hotcard-head .t { font-weight:600; font-size:15px; display:flex; align-items:center; gap:8px; }
+.hotcard-head .more { font-size:12px; color:var(--muted); }
+.hot-topics-list { list-style:none; }
+.hot-topics-row { display:flex; align-items:center; gap:12px; padding:9px 16px; border-top:1px solid var(--border); }
+.hot-topics-row:first-of-type { border-top:none; }
+.hot-topics-rank { min-width:22px; height:22px; border-radius:7px; background:var(--bg); color:var(--muted); font-weight:700; font-size:13px; display:flex; align-items:center; justify-content:center; }
+.hot-topics-rank-1, .hot-topics-rank-2, .hot-topics-rank-3 { background:var(--accent); color:#fff; }
+.hot-topics-link { flex:1; min-width:0; font-size:14.5px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; }
+.hot-topics-meta { font-size:12px; color:var(--muted); white-space:nowrap; }
+.hot-topics-meta b { color:var(--accent); font-weight:600; }
+/* feed timeline */
+.timeline { display:flex; flex-direction:column; gap:16px; }
+.timeline-day-head { display:flex; align-items:baseline; gap:10px; padding:2px 2px 8px; }
+.timeline-day-head h2 { font-size:16px; font-weight:700; }
+.timeline-day-head .week { font-size:13px; color:var(--muted); }
+.timeline-day-head .cnt { margin-left:auto; font-size:12px; color:var(--muted); }
+.timeline-card { background:var(--card); border:1px solid var(--border); border-radius:var(--radius); padding:13px 16px; }
+.timeline-card-head { display:flex; align-items:center; gap:10px; margin-bottom:8px; }
+.timeline-head-left { display:flex; align-items:center; gap:7px; min-width:0; flex:1; }
+.timeline-source { font-size:12.5px; font-weight:600; color:var(--text); }
+.timeline-time { font-size:12px; color:var(--muted); }
+.timeline-head-right { display:flex; align-items:center; gap:8px; }
+.badge { font-size:11px; border-radius:6px; padding:1px 7px; white-space:nowrap; }
+.b-cat { color:#3c5a9e; background:#eef2fb; }
+.b-selected { color:var(--gold); background:var(--gold-bg); }
+.timeline-score { font-size:13px; font-weight:600; }
+.score-hi { color:var(--score-hi); } .score-mid { color:var(--score-mid); } .score-low { color:var(--score-low); }
+.timeline-body { font-size:14px; color:var(--text); }
+.timeline-body a { display:block; }
+.timeline-summary { margin-top:4px; font-size:13px; color:var(--muted); }
+.timeline-orig { margin-top:8px; display:inline-flex; align-items:center; gap:5px; font-size:12px; color:var(--muted); }
+/* hot page */
+.hot-rank-list { list-style:none; }
+.hot-rank-row { display:flex; align-items:center; gap:14px; padding:13px 16px; border-top:1px solid var(--border); }
+.hot-rank-row:first-child { border-top:none; }
+.hot-rank-no { font-family:ui-monospace,Menlo,monospace; font-size:17px; font-weight:700; color:var(--muted); width:30px; text-align:center; }
+.hot-rank-row:nth-child(1) .hot-rank-no, .hot-rank-row:nth-child(2) .hot-rank-no, .hot-rank-row:nth-child(3) .hot-rank-no { color:var(--accent); }
+.hot-rank-main { flex:1; min-width:0; }
+.hot-rank-title { font-size:15px; font-weight:600; }
+.hot-rank-meta { font-size:12px; color:var(--muted); margin-top:3px; display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+.hot-rank-heat { font-size:14px; font-weight:700; color:var(--accent); white-space:nowrap; }
+.flag { font-size:11px; border-radius:6px; padding:1px 7px; font-weight:600; }
+.flag-hot { color:#b3261e; background:rgba(179,38,30,.1); }
+.flag-warm { color:#b7791f; background:rgba(183,121,31,.12); }
+.flag-watch { color:var(--muted); background:var(--bg); }
+.src-chips { display:flex; flex-wrap:wrap; gap:5px; margin-top:7px; }
+.chip { font-size:11px; background:var(--bg); color:var(--muted); border-radius:20px; padding:1px 9px; }
+/* daily */
+.daily-shell { display:grid; grid-template-columns:190px 1fr; gap:16px; align-items:start; }
+.daily-side { position:sticky; top:66px; }
+.daily-side-card { background:var(--card); border:1px solid var(--border); border-radius:var(--radius); padding:12px; }
+.daily-side-card h3 { font-size:12px; color:var(--muted); margin-bottom:8px; }
+.daily-day { display:flex; align-items:center; justify-content:space-between; font-size:12.5px; padding:5px 8px; border-radius:8px; cursor:pointer; }
+.daily-day:hover { background:var(--accent-soft); }
+.daily-day-active { background:var(--accent-soft); color:var(--accent); font-weight:600; }
+.m-daily-body { background:var(--card); border:1px solid var(--border); border-radius:var(--radius); padding:20px 22px; }
+.m-daily-eyebrow { font-size:11px; letter-spacing:3px; color:var(--muted); }
+.m-daily-issue-date { font-size:20px; font-weight:700; margin:2px 0 14px; }
+.reader-toc { border:1px solid var(--border); border-radius:var(--radius); padding:12px 14px; margin-bottom:16px; background:var(--bg); }
+.reader-toc-head { display:flex; align-items:baseline; gap:10px; margin-bottom:8px; }
+.reader-toc-heading { font-weight:600; font-size:14px; }
+.reader-toc-meta { font-size:12px; color:var(--muted); }
+.reader-toc-list { list-style:none; display:flex; flex-direction:column; gap:4px; }
+.reader-toc-row { display:flex; gap:10px; font-size:13px; padding:3px 2px; }
+.reader-toc-no { font-family:ui-monospace,Menlo,monospace; color:var(--accent); }
+.reader-toc-label { color:var(--muted); }
+.daily-sec { margin-bottom:18px; }
+.daily-sec h3 { font-size:14px; color:var(--accent); border-left:3px solid var(--accent); padding-left:9px; margin-bottom:9px; }
+.daily-article { padding:10px 0; border-top:1px solid var(--border); }
+.daily-article:first-child { border-top:none; }
+.daily-article-title { font-size:15px; font-weight:600; }
+.daily-article-source { font-size:12px; color:var(--muted); margin:3px 0 5px; display:flex; gap:8px; align-items:center; }
+.role-tag { font-size:11px; border-radius:6px; padding:0 6px; color:#3c5a9e; background:#eef2fb; }
+.daily-article-summary { font-size:13px; color:var(--muted); }
+/* topics */
+.topic-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:12px; }
+.topic-card { background:var(--card); border:1px solid var(--border); border-radius:var(--radius); padding:14px 16px; cursor:pointer; }
+.topic-card:hover { border-color:var(--accent); }
+.topic-card .t-name { font-weight:600; font-size:14.5px; display:flex; align-items:center; justify-content:space-between; }
+.topic-card .t-nums { font-size:12px; color:var(--muted); margin-top:6px; display:flex; gap:12px; }
+.topic-card .t-nums b { color:var(--accent); }
+/* data */
+.stats { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin-bottom:16px; }
+.stat { background:var(--card); border:1px solid var(--border); border-radius:var(--radius); padding:14px 16px; }
+.stat .num { font-size:26px; font-weight:700; color:var(--accent); }
+.stat .lbl { font-size:12px; color:var(--muted); }
+table { width:100%; border-collapse:collapse; font-size:13px; }
+th, td { text-align:left; padding:8px 12px; border-bottom:1px solid var(--border); }
+th { color:var(--muted); font-weight:600; font-size:12px; }
+.day-chart { display:flex; align-items:flex-end; gap:6px; height:110px; padding:8px 4px 0; }
+.day-col { flex:1; display:flex; flex-direction:column; align-items:center; justify-content:flex-end; gap:4px; height:100%; }
+.day-col .dbar { width:68%; background:linear-gradient(180deg,#2f9db1,var(--accent)); border-radius:5px 5px 0 0; min-height:2px; }
+.day-col .dl { font-size:10px; color:var(--muted); }
+.dl-row { display:flex; gap:10px; margin-top:10px; flex-wrap:wrap; }
+.dl-btn { display:inline-block; border:1px solid var(--border); border-radius:9px; padding:6px 12px; font-size:13px; background:var(--card); color:var(--accent); }
+.empty { color:var(--muted); padding:26px; text-align:center; font-size:13px; }
+footer { max-width:1180px; margin:0 auto; padding:10px 18px 30px; font-size:12px; color:var(--muted); text-align:center; }
+@media (max-width: 900px) {
+  .app-layout { grid-template-columns:1fr; }
+  .side-nav { position:static; flex-direction:row; overflow-x:auto; padding-bottom:6px; }
+  .side-group { display:none; }
+  .daily-shell { grid-template-columns:1fr; }
+  .stats { grid-template-columns:1fr 1fr; }
+}
 """
+
+APP_JS = r"""
+const S = __SNAPSHOT__;
+const $ = (sel, root=document) => root.querySelector(sel);
+const $$ = (sel, root=document) => [...root.querySelectorAll(sel)];
+const esc = s => String(s==null?"":s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+const CAT_CLS = S.catCls || {};
+function fmtRel(iso){
+  if(!iso) return "";
+  const t = new Date(iso);
+  const d = (Date.now() - t.getTime())/1000;
+  if(d < 60) return "刚刚";
+  if(d < 3600) return Math.floor(d/60)+" 分钟前";
+  if(d < 86400) return Math.floor(d/3600)+" 小时前";
+  return Math.floor(d/86400)+" 天前";
+}
+function effDate(it){
+  const p = it.published_at;
+  if(p && p.length >= 10) return p.slice(0,10);
+  const d = new Date(it.discovered_at);
+  const off = d.getTime() + 8*3600*1000;
+  return new Date(off).toISOString().slice(0,10);
+}
+function fmtDay(dstr){
+  const [y,m,d] = dstr.split("-").map(Number);
+  return y+"年"+m+"月"+d+"日";
+}
+function wdCN(dstr){
+  const dt = new Date(dstr+"T00:00:00+08:00");
+  return ["周日","周一","周二","周三","周四","周五","周六"][dt.getDay()];
+}
+function todayCN(){
+  const d = new Date(Date.now()+8*3600*1000);
+  return d.toISOString().slice(0,10);
+}
+function isToday(dstr){ return dstr === todayCN(); }
+function scoreCls(s){ return s>=75?"score-hi":(s>=50?"score-mid":"score-low"); }
+function pubLabel(it){
+  if(it.published_at){
+    const p = it.published_at;
+    if(p.length===7) return p+"（月级）发布";
+    if(p.length===10) return p+" 发布";
+    return p.replace("T"," ").slice(5,16)+" 发布";
+  }
+  return "收录 "+fmtRel(it.discovered_at);
+}
+function catBadge(cat){ return '<span class="badge b-cat">'+esc(cat)+'</span>'; }
+function selBadge(){ return '<span class="badge b-selected">精选</span>'; }
+function scoreEl(it){ return '<span class="timeline-score mono '+scoreCls(it.score)+'" title="推荐分（满分100）">'+Math.round(it.score)+'</span>'; }
+function itemCard(it){
+  return '<article class="timeline-card"><div class="timeline-card-head">'+
+    '<div class="timeline-head-left">'+catBadge(it.category)+'<span class="timeline-source">'+esc(it.source)+'</span>'+
+    '<span class="timeline-time">'+esc(pubLabel(it))+'</span>'+(it.selected?selBadge():"")+'</div>'+
+    '<div class="timeline-head-right">'+scoreEl(it)+'</div></div>'+
+    '<div class="timeline-body"><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(it.title)+'</a>'+
+    (it.summary?'<div class="timeline-summary">'+esc(it.summary)+'</div>':"")+
+    '<a class="timeline-orig" href="'+esc(it.url)+'" target="_blank" rel="noopener">↗ 查看原文</a></div></article>';
+}
+/* views */
+const state = { q:"", cat:"全部", sort:"score", dailyDate: todayCN() };
+function setView(name){ $$(".view").forEach(v=>v.classList.remove("view-active")); $("#view-"+name).classList.add("view-active"); }
+function router(){
+  const h = (location.hash||"#/").replace("#","");
+  const name = h.split("?")[0] || "/";
+  const map = {"/":"feed","/all":"all","/hot":"hot","/daily":"daily","/topics":"topics","/data":"data"};
+  const v = map[name] || "feed";
+  $$(".side-link").forEach(a=>a.classList.toggle("side-link-active", a.getAttribute("href")===("#"+name)));
+  setView(v);
+  renderers[v]();
+}
+function renderFeed(){
+  const root = $("#view-feed"); root.innerHTML = "";
+  // hot card
+  const top = S.topics.slice(0,6);
+  let hotHtml = '<div class="card hotcard"><div class="hotcard-head"><span class="t">🔥 光电热点</span><a class="more" href="#/hot">热点榜 →</a></div><ol class="hot-topics-list">'+
+    top.map((t,i)=>'<li class="hot-topics-row"><span class="hot-topics-rank hot-topics-rank-'+(i+1)+'">'+(i+1)+'</span><a class="hot-topics-link" href="'+esc(t.links&&t.links[0]?t.links[0].url:"#/hot")+'" target="_blank" rel="noopener">'+esc(t.title)+'</a><span class="hot-topics-meta">'+t.source_count+' 来源 · <b>'+Math.round(t.heat||t.score)+'</b> 热度</span></li>').join("")+
+    '</ol></div>';
+  // group by day
+  const groups = {};
+  for(const it of S.items){ const d = effDate(it); (groups[d]=groups[d]||[]).push(it); }
+  const days = Object.keys(groups).sort().reverse().slice(0,7);
+  let tl = "";
+  for(const d of days){
+    const its = groups[d].slice().sort((a,b)=>b.score-a.score).slice(0,20);
+    const label = isToday(d) ? "今天 "+fmtDay(d) : fmtDay(d);
+    tl += '<div class="timeline-day"><div class="timeline-day-head"><h2>'+label+'</h2><span class="week">'+wdCN(d)+'</span><span class="cnt">'+its.length+' 条精选</span></div><div class="timeline">'+its.map(itemCard).join("")+'</div></div>';
+  }
+  root.innerHTML = hotHtml + tl;
+}
+function renderAll(){
+  const root = $("#view-all");
+  let its = S.items.slice();
+  if(state.q){ const q = state.q.toLowerCase(); its = its.filter(i=>(i.title+" "+(i.summary||"")+" "+i.source).toLowerCase().includes(q)); }
+  if(state.cat!=="全部") its = its.filter(i=>i.category===state.cat);
+  if(state.sort==="score") its.sort((a,b)=>b.score-a.score);
+  else if(state.sort==="time") its.sort((a,b)=>b.discovered_at.localeCompare(a.discovered_at));
+  root.querySelector(".count").textContent = its.length;
+  const list = $("#all-list"); list.innerHTML = its.length ? its.map(itemCard).join("") : '<div class="empty">没有匹配的条目</div>';
+}
+function renderHot(){
+  const root = $("#view-hot");
+  root.innerHTML = '<div class="card"><ol class="hot-rank-list">'+S.topics.map((t,i)=>{
+    const flag = t.status==="爆"?'<span class="flag flag-hot">爆</span>':(t.status==="发酵中"?'<span class="flag flag-warm">发酵中</span>':'<span class="flag flag-watch">关注中</span>');
+    const chips = (t.sources||[]).map(s=>'<span class="chip">'+esc(s)+'</span>').join("");
+    const link0 = t.links&&t.links[0]?t.links[0].url:"";
+    return '<li class="hot-rank-row"><span class="hot-rank-no">'+String(i+1).padStart(2,"0")+'</span>'+
+      '<div class="hot-rank-main"><div class="hot-rank-title"><a href="'+esc(link0)+'" target="_blank" rel="noopener">'+esc(t.title)+'</a> '+flag+'</div>'+
+      '<div class="hot-rank-meta"><span>'+(t.sources[0]||"")+'</span><span>'+fmtRel(t.latest_at)+'</span><span>'+t.source_count+' 个信源 · '+t.signal_count+' 条信号</span></div>'+
+      '<div class="src-chips">'+chips+'</div></div>'+
+      '<div class="hot-rank-heat">'+Math.round(t.heat||t.score)+'<div style="font-size:11px;color:var(--muted);font-weight:400">热度值</div></div></li>';
+  }).join("")+'</ol></div>';
+}
+function renderDaily(){
+  const root = $("#view-daily");
+  const dates = Object.keys(S.dailies||{}).sort().reverse();
+  const d = state.dailyDate && S.dailies[state.dailyDate] ? state.dailyDate : (dates[0]||todayCN());
+  state.dailyDate = d;
+  const rep = S.dailies[d];
+  const side = '<aside class="daily-side"><div class="daily-side-card"><h3>日报归档</h3>'+
+    dates.map(x=>'<div class="daily-day'+(x===d?" daily-day-active":"")+'" data-d="'+x+'">'+fmtDay(x).slice(5)+'<span class="week">'+wdCN(x)+'</span></div>').join("")+
+    '</div></aside>';
+  let body = '<div class="m-daily-body">';
+  if(rep){
+    const toc = rep.sections.map((s,i)=>'<li><a class="reader-toc-row" href="#sec-'+i+'"><span class="reader-toc-no">'+String(i+1).padStart(2,"0")+'</span><span class="reader-toc-label">'+esc(s.category)+'</span><span>'+esc(s.articles[0].title)+'</span></a></li>').join("");
+    body += '<div class="m-daily-eyebrow">OPTOHOT DAILY</div><div class="m-daily-issue-date">'+esc(rep.label)+' · '+esc(rep.weekday)+'</div>'+
+      '<nav class="reader-toc"><div class="reader-toc-head"><span class="reader-toc-heading">今日看点</span><span class="reader-toc-meta">'+rep.tocCount+' 篇报道 · 约 '+rep.readMinutes+' 分钟</span></div><ol class="reader-toc-list">'+toc+'</ol></nav>';
+    rep.sections.forEach((s,i)=>{
+      body += '<section class="daily-sec" id="sec-'+i+'"><h3>'+esc(s.category)+'</h3>'+
+        s.articles.map(a=>'<article class="daily-article"><div class="daily-article-title"><a href="'+esc(a.url)+'" target="_blank" rel="noopener">'+esc(a.title)+'</a></div>'+
+        '<div class="daily-article-source"><span class="role-tag">'+esc(a.role)+'</span><span>'+esc(a.source)+'</span><span>'+esc(pubLabel(a))+'</span></div>'+
+        (a.summary?'<p class="daily-article-summary">'+esc(a.summary)+'</p>':"")+'</article>').join("");
+      body += '</section>';
+    });
+  } else {
+    body += '<div class="empty">该日期暂无日报</div>';
+  }
+  body += '</div>';
+  root.innerHTML = '<div class="daily-shell">'+side+body+'</div>';
+  $$(".daily-day", root).forEach(el=>el.onclick=()=>{ state.dailyDate = el.dataset.d; renderDaily(); });
+}
+function renderTopics(){
+  const root = $("#view-topics");
+  const rows = S.daily.byCategory || [];
+  root.innerHTML = '<div class="topic-grid">'+rows.map(r=>
+    '<div class="topic-card" data-cat="'+esc(r.category)+'"><div class="t-name">'+esc(r.category)+'<span class="badge b-cat">'+r.total+'</span></div>'+
+    '<div class="t-nums"><span>24h <b>'+r.last24h+'</b></span><span>7d <b>'+r.last7d+'</b></span><span>共 <b>'+r.total+'</b></span></div></div>').join("")+'</div>';
+  $$(".topic-card", root).forEach(el=>el.onclick=()=>{ state.cat = el.dataset.cat; $("#all-cat").value = state.cat; location.hash = "#/all"; });
+}
+function renderData(){
+  const root = $("#view-data");
+  const dl = S.daily;
+  const maxDay = Math.max(...dl.byDay.map(x=>x.count), 1);
+  const chart = '<div class="day-chart">'+dl.byDay.map(x=>'<div class="day-col"><div class="dbar" style="height:'+Math.max(2,x.count/maxDay*100).toFixed(1)+'%"></div><span class="dl">'+x.date.slice(5)+'</span></div>').join("")+'</div>';
+  const rows = dl.bySource.map(s=>'<tr><td>'+esc(s.source)+'</td><td>'+s.count+'</td><td>'+fmtRel(s.latestAt)+'</td></tr>').join("");
+  root.innerHTML =
+    '<div class="stats">'+
+    '<div class="stat"><div class="num">'+dl.total+'</div><div class="lbl">收录总数</div></div>'+
+    '<div class="stat"><div class="num">'+dl.last24h+'</div><div class="lbl">24 小时新增</div></div>'+
+    '<div class="stat"><div class="num">'+dl.last7d+'</div><div class="lbl">7 天新增</div></div>'+
+    '<div class="stat"><div class="num">'+dl.topicCount+'</div><div class="lbl">热点话题</div></div></div>'+
+    '<div class="card pad"><h3 style="font-size:14px;margin-bottom:6px">每日收录趋势（近 14 天）</h3>'+chart+'</div>'+
+    '<div class="card pad" style="margin-top:14px"><h3 style="font-size:14px;margin-bottom:6px">数据来源</h3><table><thead><tr><th>来源</th><th>收录数</th><th>最新收录</th></tr></thead><tbody>'+rows+'</tbody></table></div>'+
+    '<div class="dl-row"><a class="dl-btn" href="data/report.csv" download>⬇ 下载 CSV</a><a class="dl-btn" href="data/items.json" target="_blank">查看 items.json</a><a class="dl-btn" href="data/hot-topics.json" target="_blank">查看 hot-topics.json</a><a class="dl-btn" href="data/dailies.json" target="_blank">查看 dailies.json</a></div>';
+}
+const renderers = { feed:renderFeed, all:renderAll, hot:renderHot, daily:renderDaily, topics:renderTopics, data:renderData };
+function bind(){
+  const cats = new Set(S.items.map(i=>i.category));
+  const sel = $("#all-cat");
+  for(const c of cats){ const o = document.createElement("option"); o.value = c; o.textContent = c; sel.appendChild(o); }
+  $("#q").addEventListener("input", e=>{ state.q = e.target.value; if(location.hash==="#/all") renderAll(); });
+  $("#all-cat").addEventListener("change", e=>{ state.cat = e.target.value; renderAll(); });
+  $("#all-sort").addEventListener("change", e=>{ state.sort = e.target.value; renderAll(); });
+  window.addEventListener("hashchange", router);
+  router();
+}
+document.addEventListener("DOMContentLoaded", bind);
+"""
+
+APP_HTML = """<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Opto-Hot · 光电行业热点统计</title>
+<style>/*__CSS__*/</style>
+</head>
+<body>
+<header class="m-topbar"><div class="topbar-inner">
+  <a class="brand" href="#/"><span class="logo">OH</span>Opto-Hot</a>
+  <label class="searchbox"><input id="q" type="search" placeholder="搜索光电资讯 / 公司 / 关键词…" autocomplete="off"><span class="kbd">⌘K</span></label>
+  <span class="topbar-meta">生成于 __GEN__ · 北京时间</span>
+</div></header>
+<div class="app-layout">
+  <nav class="side-nav">
+    <div class="side-group">内容</div>
+    <a class="side-link" href="#/"><span class="si">✦</span><span class="side-label">精选</span></a>
+    <a class="side-link" href="#/all"><span class="si">☰</span><span class="side-label">全部动态</span></a>
+    <a class="side-link" href="#/hot"><span class="si">🔥</span><span class="side-label">热点榜</span></a>
+    <a class="side-link" href="#/daily"><span class="si">📰</span><span class="side-label">光电日报</span></a>
+    <a class="side-link" href="#/topics"><span class="si">◈</span><span class="side-label">主题</span></a>
+    <a class="side-link" href="#/data"><span class="si">◉</span><span class="side-label">数据</span></a>
+  </nav>
+  <main class="app-main">
+    <section id="view-feed" class="view"><div class="card page-head"><h1>精选</h1><span class="sub">AIHOT 模式 · 光电行业时间线</span></div></section>
+    <section id="view-all" class="view"><div class="card page-head"><h1>全部动态</h1><span class="sub">共 <span class="count">0</span> 条</span>
+      <select id="all-cat" class="dl-btn" style="margin-left:auto"><option>全部</option></select>
+      <select id="all-sort" class="dl-btn"><option value="score">按推荐分</option><option value="time">按时间</option></select></div>
+      <div id="all-list"></div></section>
+    <section id="view-hot" class="view"><div class="card page-head"><h1>光电热点榜</h1><span class="sub">按信源密度 / 信号数 / 时效加权（48 小时报道密度）</span></div></section>
+    <section id="view-daily" class="view"><div class="card page-head"><h1>光电日报</h1><span class="sub">自动生成 · 每日一篇</span></div></section>
+    <section id="view-topics" class="view"><div class="card page-head"><h1>主题</h1><span class="sub">光电行业分类统计，点击进入筛选</span></div></section>
+    <section id="view-data" class="view"><div class="card page-head"><h1>数据</h1><span class="sub">统计与导出</span></div></section>
+  </main>
+</div>
+<footer>
+  Opto-Hot · 光电行业热点统计（AIHOT 模式） · 数据来自公开网络，仅供参考，不构成投资建议 · <a href="https://github.com/sun-zihang/opto-hot" target="_blank" rel="noopener" style="color:var(--accent)">GitHub 开源</a>
+</footer>
+<script>
+/*__JS__*/
+</script>
+</body>
+</html>"""
 
 
 def fmt_dt(iso):
@@ -684,111 +1053,25 @@ def pub_label(it):
     return "收录 " + fmt_dt(it["discovered_at"])
 
 
-def item_html(it):
-    t = htmlmod.escape(it["title"])
-    u = htmlmod.escape(it["url"])
-    cat = it["category"]
-    src = htmlmod.escape(it["source"])
-    return ('<li class="item"><span class="badge b-%s">%s</span>'
-            '<div class="it-main"><a class="it-title" href="%s" target="_blank" rel="noopener">%s</a>'
-            '<div class="it-meta">%s · %s</div></div>'
-            '<span class="it-score">%.0f</span></li>'
-            % (CAT_CLS.get(cat, "other"), htmlmod.escape(cat), u, t, src,
-               pub_label(it), it["score"]))
-
-
-def render_html(items, topics, daily, generated):
-    cards = ""
-    cards += '<div class="card"><div class="num">%d</div><div class="lbl">收录总数</div></div>' % daily["total"]
-    cards += '<div class="card"><div class="num">%d</div><div class="lbl">24 小时新增</div></div>' % daily["last24h"]
-    cards += '<div class="card"><div class="num">%d</div><div class="lbl">7 天新增</div></div>' % daily["last7d"]
-    cards += '<div class="card"><div class="num">%d</div><div class="lbl">热点话题</div></div>' % daily["topicCount"]
-
-    topic_html = []
-    for t in topics:
-        links = "".join(
-            '<li><a href="%s" target="_blank" rel="noopener">%s</a> · <span style="color:#8a93a6">%s</span></li>'
-            % (htmlmod.escape(l["url"]), htmlmod.escape(l["title"][:46]), htmlmod.escape(l["source"]))
-            for l in t["links"][:3])
-        chips = "".join('<span class="chip">%s</span>' % htmlmod.escape(s) for s in t["sources"][:8])
-        topic_html.append(
-            '<div class="topic"><div class="t-head"><span class="rank">%d</span>'
-            '<span class="t-title"><a href="%s" target="_blank" rel="noopener">%s</a></span></div>'
-            '<div class="t-meta">来源 %d 个 · 信号 %d 条 · 更新 %s · 热度 %.0f</div>'
-            '<div class="t-src">%s</div><ul class="t-links">%s</ul></div>'
-            % (t["rank"], htmlmod.escape(t["links"][0]["url"] if t["links"] else "#"),
-               htmlmod.escape(t["title"][:52]), t["source_count"], t["signal_count"],
-               fmt_dt(t["latest_at"]), t["score"], chips, links))
-    topics_block = "\n".join(topic_html)
-
-    items_24 = [i for i in items if age_days(eff_dt(i)) <= 1]
-    items_7 = [i for i in items if age_days(eff_dt(i)) <= 7][:30]
-    list_24 = "\n".join(item_html(i) for i in items_24) or '<li class="item" style="color:#8a93a6">24 小时内暂无收录</li>'
-    list_7 = "\n".join(item_html(i) for i in items_7) or '<li class="item" style="color:#8a93a6">7 天内暂无收录</li>'
-
-    max24 = max([c["last24h"] for c in daily["byCategory"]] + [1])
-    max7 = max([c["last7d"] for c in daily["byCategory"]] + [1])
-    cat_rows = []
-    for c in daily["byCategory"]:
-        w24 = c["last24h"] / max24 * 100
-        w7 = c["last7d"] / max7 * 100
-        cat_rows.append(
-            '<div class="cat-row"><span>%s</span><div class="bar"><i style="width:%.1f%%"></i></div>'
-            '<span class="n">24h %d · 7d %d · 共 %d</span></div>'
-            % (htmlmod.escape(c["category"]), w24, c["last24h"], c["last7d"], c["total"]))
-    cat_block = "\n".join(cat_rows)
-
-    maxday = max([d["count"] for d in daily["byDay"]] + [1])
-    day_cols = []
-    for d in daily["byDay"]:
-        h = max(2, d["count"] / maxday * 100)
-        day_cols.append('<div class="day-col"><div class="dbar" style="height:%.1f%%"></div>'
-                        '<span class="dl">%s</span></div>' % (h, d["date"][5:]))
-    day_block = '<div class="day-chart">%s</div>' % "\n".join(day_cols)
-
-    src_rows = "".join(
-        "<tr><td>%s</td><td>%d</td><td>%s</td></tr>"
-        % (htmlmod.escape(s["source"]), s["count"], fmt_dt(s["latestAt"]))
-        for s in daily["bySource"])
-
-    gen_cn = generated.astimezone(TZ_CN).strftime("%Y-%m-%d %H:%M:%S")
-    html = """<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>光电行业热点统计 · Opto-Hot</title>
-<style>%s</style>
-</head>
-<body>
-<header class="top"><div class="wrap">
-<h1>光电行业热点统计 <span class="en">Opto-Hot</span></h1>
-<p class="sub">以 AIHOT 为模板的光电产业资讯聚合与热点统计 · 生成于 %s（北京时间） · <a href="%s" target="_blank" rel="noopener">GitHub 开源仓库</a></p>
-</div></header>
-<main class="wrap">
-<section class="cards">%s</section>
-<section><h2>热点榜 <span class="hint">按来源数 / 信号数 / 时效加权</span></h2><div class="topics">%s</div></section>
-<section><h2>24 小时精选 <span class="hint">共 %d 条</span></h2><ul class="items">%s</ul></section>
-<section><h2>7 天精选 Top 30 <span class="hint">共 %d 条</span></h2><ul class="items">%s</ul></section>
-<section class="cols">
-<div class="panel"><h3>分类统计（24h / 7d / 总计）</h3>%s</div>
-<div class="panel"><h3>每日收录趋势（近 14 天，北京时间）</h3>%s</div>
-</section>
-<section><h2>数据来源</h2><table><thead><tr><th>来源</th><th>收录数</th><th>最新收录</th></tr></thead><tbody>%s</tbody></table></section>
-<footer>
-数据来自公开网络（RSS / 行业网站首页），由 opto-hot 自动采集统计，仅供参考，不构成任何投资建议。
-<br>生成时间：%s（北京时间）· <a href="%s" target="_blank" rel="noopener">opto-hot</a> · 数据模式参考 AIHOT（自建实现）
-</footer>
-</main>
-</body>
-</html>""" % (
-        CSS, gen_cn, REPO_URL, cards, topics_block, daily["last24h"], list_24,
-        daily["last7d"], list_7, cat_block, day_block, src_rows, gen_cn, REPO_URL)
+def render_app_html(items, topics, daily, dailies, generated):
+    import json as _json
+    snapshot = {
+        "generatedAt": generated.isoformat(),
+        "catCls": CAT_CLS,
+        "items": items,
+        "topics": topics,
+        "daily": daily,
+        "dailies": dailies,
+    }
+    snap_json = _json.dumps(snapshot, ensure_ascii=False)
+    snap_json = snap_json.replace("</", "<\\/")
+    html = APP_HTML.replace("/*__CSS__*/", APP_CSS).replace("/*__JS__*/", APP_JS)
+    html = html.replace("__SNAPSHOT__", snap_json)
+    html = html.replace("__GEN__", generated.astimezone(TZ_CN).strftime("%Y-%m-%d %H:%M"))
     return html
 
-
 # ---------------- 输出 ----------------
-def write_outputs(items, topics, daily, generated):
+def write_outputs(items, topics, daily, dailies, generated):
     os.makedirs(DATA_DIR, exist_ok=True)
     os.makedirs(DIST_DIR, exist_ok=True)
 
@@ -796,25 +1079,43 @@ def write_outputs(items, topics, daily, generated):
         with open(path, "w", encoding="utf-8") as f:
             json.dump(obj, f, ensure_ascii=False, indent=2)
 
+    for it in items:
+        it.setdefault("links", {})
+        it["links"]["original"] = it["url"]
+        it["selected"] = it["score"] >= 60
+        it["role"] = role_tag(it["source"])
+    for t in topics:
+        t["heat"] = t["score"]
+        if t["source_count"] >= 5 and t["score"] >= 80:
+            t["status"] = "爆"
+        elif t["source_count"] >= 3:
+            t["status"] = "发酵中"
+        else:
+            t["status"] = "关注中"
+
     dump({"schemaVersion": 1, "generatedAt": generated.isoformat(),
           "count": len(items), "items": items}, os.path.join(DATA_DIR, "items.json"))
     dump({"schemaVersion": 1, "generatedAt": generated.isoformat(),
           "count": len(topics), "items": topics}, os.path.join(DATA_DIR, "hot-topics.json"))
     dump(daily, os.path.join(DATA_DIR, "daily.json"))
+    dump({"schemaVersion": 1, "generatedAt": generated.isoformat(),
+          "count": len(dailies), "dailies": dailies}, os.path.join(DATA_DIR, "dailies.json"))
 
     buf = io.StringIO()
     w = csv.writer(buf)
-    w.writerow(["id", "title", "category", "source", "published_at", "discovered_at", "score", "url"])
+    w.writerow(["id", "title", "category", "source", "published_at", "discovered_at",
+                "score", "url", "role", "selected"])
     for it in items:
         w.writerow([it["id"], it["title"], it["category"], it["source"],
-                    it.get("published_at") or "", it["discovered_at"], it["score"], it["url"]])
+                    it.get("published_at") or "", it["discovered_at"], it["score"], it["url"],
+                    it["role"], it["selected"]])
     with open(os.path.join(DATA_DIR, "report.csv"), "w", encoding="utf-8-sig", newline="") as f:
         f.write(buf.getvalue())
 
     with open(os.path.join(DIST_DIR, "index.html"), "w", encoding="utf-8") as f:
-        f.write(render_html(items, topics, daily, generated))
+        f.write(render_app_html(items, topics, daily, dailies, generated))
 
-    log("[*] 已写出: data/items.json, data/hot-topics.json, data/daily.json, data/report.csv, dist/index.html")
+    log("[*] 已写出: data/items.json, data/hot-topics.json, data/daily.json, data/dailies.json, data/report.csv, dist/index.html")
 
 
 def main():
@@ -875,7 +1176,8 @@ def main():
         t.pop("items", None)
 
     daily = build_daily(items, topics, generated)
-    write_outputs(items, topics, daily, generated)
+    dailies = build_dailies(items)
+    write_outputs(items, topics, daily, dailies, generated)
 
     log("[*] 完成。热点榜 TOP5：")
     for t in topics[:5]:
