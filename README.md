@@ -1,6 +1,10 @@
 # Opto-Hot · 光电行业热点统计
 
-以 [AIHOT](https://aihot.virxact.com) 为模板的开源「光电行业热点统计」工具：自动采集公开网络上的光电产业资讯，去重分类、聚类打分，输出热点榜 / 精选 / 分类统计 / 每日趋势，并生成可离线打开的中文 HTML 报告。
+以 [AIHOT](https://aihot.virxact.com) 为模板的开源「光电行业热点统计」工具：
+
+> **在线报告（GitHub Pages）**：https://sun-zihang.github.io/opto-hot/
+
+自动采集公开网络上的光电产业资讯，去重分类、聚类打分，输出热点榜 / 精选 / 分类统计 / 每日趋势，并生成可离线打开的中文 HTML 报告。
 
 ## 特性
 
