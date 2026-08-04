@@ -36,8 +36,13 @@ jobs:
 
 
         run: |
-          npx -y mcporter call cloudbase.auth action=login_by_api_key apiKey="$TCB_API_KEY" apiKeyEnvId="$TCB_ENV_ID" --output json
-          npx -y mcporter call cloudbase.manageApps action=deployApp serviceName=opto-hot filePath="$GITHUB_WORKSPACE" buildPath=dist framework=static installCmd= buildCmd= --output json
+          set -e
+          LOGIN=$(npx -y mcporter call cloudbase.auth action=login_by_api_key apiKey="$TCB_API_KEY" apiKeyEnvId="$TCB_ENV_ID" --output json)
+          echo "$LOGIN"
+          echo "$LOGIN" | grep -q '"ok": true' || { echo "CloudBase API Key 登录失败"; exit 1; }
+          OUT=$(npx -y mcporter call cloudbase.manageApps action=deployApp serviceName=opto-hot filePath="$GITHUB_WORKSPACE" buildPath=dist framework=static installCmd= buildCmd= --output json)
+          echo "$OUT"
+          echo "$OUT" | grep -q '"success": true' || { echo "CloudBase 部署失败"; exit 1; }
       - name: 提交数据更新
         run: |
           git config user.name "github-actions[bot]"
