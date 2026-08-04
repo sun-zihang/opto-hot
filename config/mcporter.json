@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "cloudbase": {
+      "command": "npx.cmd",
+      "args": ["-y", "@cloudbase/cloudbase-mcp@latest"],
+      "description": "CloudBase MCP",
+      "lifecycle": "keep-alive"
+    }
+  }
+}

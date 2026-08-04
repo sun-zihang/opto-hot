@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T00:00:48.459072+00:00",
+  "generatedAt": "2026-08-04T00:21:47.908363+00:00",
   "count": 22,
   "dailies": {
     "2025-04-17": {
@@ -154,7 +154,7 @@
               "url": "https://www.ledinside.cn/knowledge/20260509-61624.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 60.0,
+              "score": 62.5,
               "role": "行业媒体",
               "published_at": "2026-05-09"
             }
@@ -481,7 +481,7 @@
               "url": "https://www.ledinside.cn/fsa/20260730-62227.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 80.8,
+              "score": 83.3,
               "role": "行业媒体",
               "published_at": "2026-07-30"
             },
@@ -525,75 +525,6 @@
               "score": 76.7,
               "role": "行业媒体",
               "published_at": "2026-07-31"
-            },
-            {
-              "title": "Breaking the power wall in programmable photonics",
-              "url": "https://www.nature.com/articles/s41566-026-01960-w",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01960-w A non-volatile photonic gate array based on ferroelectric domain switching eliminates static power consumption, pointing towards scalable and energy-efficient ",
-              "score": 66.7,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            }
-          ]
-        },
-        {
-          "category": "光电芯片与半导体",
-          "articles": [
-            {
-              "title": "Valleytronics on a single chip",
-              "url": "https://www.nature.com/articles/s41566-026-01975-3",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01975-3 The integration of light-programmable valley optoelectronic nanocircuits based on two-dimensional semiconductors has been limited by complex optical readout us",
-              "score": 66.7,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            }
-          ]
-        },
-        {
-          "category": "光学元件与成像",
-          "articles": [
-            {
-              "title": "Silencing pain with infrared light",
-              "url": "https://www.nature.com/articles/s41566-026-01970-8",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01970-8 Lanthanide upconversion nanoparticles convert near-infrared illumination into local visible emission, enabling wireless optogenetic modulation of deep pain pat",
-              "score": 66.7,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            }
-          ]
-        },
-        {
-          "category": "科研进展",
-          "articles": [
-            {
-              "title": "Optical–electrical skin sensing",
-              "url": "https://www.nature.com/articles/s41566-026-01967-3",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01967-3 Optical–electrical skin sensing",
-              "score": 91.7,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            },
-            {
-              "title": "The path ahead for organic photovoltaics",
-              "url": "https://www.nature.com/articles/s41566-026-01963-7",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01963-7 Nature Photonics spoke with Yongsheng Chen from Nankai University, who was recently elected an Academician of the Chinese Academy of Sciences, about milestones",
-              "score": 66.7,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            },
-            {
-              "title": "A hot-electron-based plasmonic artificial leaf",
-              "url": "https://www.nature.com/articles/s41566-026-01969-1",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01969-1 Non-radiative plasmonic decay generates energetic charge carriers that rapidly thermalize; however, if captured quickly, these hot electrons can be harnessed f",
-              "score": 66.7,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
             }
           ]
         },
@@ -612,8 +543,8 @@
           ]
         }
       ],
-      "tocCount": 9,
-      "readMinutes": 2
+      "tocCount": 3,
+      "readMinutes": 1
     },
     "2026-08-03": {
       "date": "2026-08-03",
@@ -624,20 +555,11 @@
           "category": "激光",
           "articles": [
             {
-              "title": "Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW",
-              "url": "https://www.nature.com/articles/s41566-026-01977-1",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 03 August 2026; doi:10.1038/s41566-026-01977-1 The researchers demonstrate amplification of an ultrabroadband pulse in a laser–plasma Raman amplifier, achieving efficiencies of up to 8.7%, final powers of",
-              "score": 94.2,
-              "role": "科研",
-              "published_at": "2026-08-03T00:00:00+00:00"
-            },
-            {
               "title": "Coating-free monolithic fused silica resonator via total internal reflection for precision laser stabilization",
               "url": "https://arxiv.org/abs/2607.29407",
               "source": "arXiv 光学与光子学 (physics.optics)",
               "summary": "arXiv:2607.29407v1 Announce Type: new Abstract: Brownian noise in the thin-film mirror coatings of optical reference cavities is a fundamental limitation in precision metrology, including gravitational-wave detectors and optical atomic cloc",
-              "score": 76.8,
+              "score": 74.3,
               "role": "科研",
               "published_at": "2026-08-03T04:00:00+00:00"
             }
@@ -734,20 +656,11 @@
           "category": "光学元件与成像",
           "articles": [
             {
-              "title": "Methods, trade-offs and opportunities in high-speed optical microscopy for neural voltage imaging",
-              "url": "https://www.nature.com/articles/s41566-026-01965-5",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 03 August 2026; doi:10.1038/s41566-026-01965-5 The Review discusses recent advances in neural voltage imaging, with an emphasis on relevant microscopy techniques and outstanding challenges in the field.",
-              "score": 94.2,
-              "role": "科研",
-              "published_at": "2026-08-03T00:00:00+00:00"
-            },
-            {
               "title": "Tomographic Phase Imaging with Randomized Probe Imaging",
               "url": "https://arxiv.org/abs/2607.29471",
               "source": "arXiv 光学与光子学 (physics.optics)",
               "summary": "arXiv:2607.29471v1 Announce Type: new Abstract: We demonstrate tomographic phase imaging of cubic gold nanoparticles with sub-100 nm resolution requiring just a single far-field coherent diffraction pattern per projection. By using randomiz",
-              "score": 89.3,
+              "score": 74.3,
               "role": "科研",
               "published_at": "2026-08-03T04:00:00+00:00"
             },
@@ -756,7 +669,7 @@
               "url": "https://arxiv.org/abs/2607.29307",
               "source": "arXiv 光学与光子学 (physics.optics)",
               "summary": "arXiv:2607.29307v1 Announce Type: cross Abstract: Phase contrast imaging (PCI) has been used for decades to study plasma density fluctuations, but its wavenumber response $k$ is constrained by the phase plate groove width and beam waist. Sp",
-              "score": 89.3,
+              "score": 74.3,
               "role": "科研",
               "published_at": "2026-08-03T04:00:00+00:00"
             }
@@ -770,33 +683,6 @@
               "url": "https://arxiv.org/abs/2607.28782",
               "source": "arXiv 光学与光子学 (physics.optics)",
               "summary": "arXiv:2607.28782v1 Announce Type: new Abstract: Recent experiments demonstrate the modification of chemical dynamics via cavity-enhanced vibrational energy transport. Here, we provide a microscopic account of both photonic and mode-selectiv",
-              "score": 89.3,
-              "role": "科研",
-              "published_at": "2026-08-03T04:00:00+00:00"
-            },
-            {
-              "title": "Near single-cycle pulse generation using a cascaded all-bulk multi-pass cell compression system",
-              "url": "https://arxiv.org/abs/2607.29372",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2607.29372v1 Announce Type: new Abstract: We experimentally demonstrate the generation of sub-two-cycle optical pulses using a cascaded post-compression scheme based on two bulk multi-pass cells. Starting from 220 fs, 100 ${\\mu}$J pul",
-              "score": 89.3,
-              "role": "科研",
-              "published_at": "2026-08-03T04:00:00+00:00"
-            },
-            {
-              "title": "Ascorbic acid mitigates oxidative structural degradation in bovine spermatozoa: a label-free quantitative phase microscopy study",
-              "url": "https://arxiv.org/abs/2607.29428",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2607.29428v1 Announce Type: new Abstract: Oxidative stress is a key factor in low fertility outcomes during assisted reproduction technology (ART) and contributes to poor sperm quality. Conventional assessment relies on bright-field m",
-              "score": 89.3,
-              "role": "科研",
-              "published_at": "2026-08-03T04:00:00+00:00"
-            },
-            {
-              "title": "Universal Phase Contrast in Micro-CT Systems",
-              "url": "https://arxiv.org/abs/2607.29478",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2607.29478v1 Announce Type: new Abstract: Conventional high-resolution micro-CT systems are regarded as attenuation-based unless visible Fresnel fringes reveal the presence of propagation-based phase contrast. Here we show that this i",
               "score": 89.3,
               "role": "科研",
               "published_at": "2026-08-03T04:00:00+00:00"
@@ -836,6 +722,33 @@
               "score": 84.3,
               "role": "科研",
               "published_at": "2026-08-03T04:00:00+00:00"
+            },
+            {
+              "title": "Observation of Antichiral Hinge States in a Three-dimensional Gyromagnetic Photonic Crystal",
+              "url": "https://arxiv.org/abs/2607.29340",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.29340v1 Announce Type: new Abstract: Recent advances in topological physics have revealed a counterintuitive class of antichiral edge and surface states that propagate in the same direction along spatially separated parallel boun",
+              "score": 84.3,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
+            },
+            {
+              "title": "A Group-Theoretical Framework for Local k-Space Topology and Berry Phase in 2D Photonic Systems",
+              "url": "https://arxiv.org/abs/2607.29356",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.29356v1 Announce Type: new Abstract: Two-dimensional photonic crystals (2D PhCs) enable fine-grained control over a broad set of Bloch modes without the constraints of band occupancy and natural crystal structures, and, as intrin",
+              "score": 84.3,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
+            },
+            {
+              "title": "PROPEL: A Memory-Driven, Adaptive Vector-Flow-Field Router with Process-Aware Waveguide Generation for Large-Scale Photonic Integrated Circuits",
+              "url": "https://arxiv.org/abs/2607.29543",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2607.29543v1 Announce Type: new Abstract: Photonic integrated circuits (PICs) are increasing in scale and routing complexity, driven by photonic computing, optical switching, programmable interferometer meshes, wavelength-routed optic",
+              "score": 84.3,
+              "role": "科研",
+              "published_at": "2026-08-03T04:00:00+00:00"
             }
           ]
         },
@@ -863,7 +776,7 @@
           ]
         }
       ],
-      "tocCount": 23,
+      "tocCount": 21,
       "readMinutes": 2
     },
     "2026-08-04": {
@@ -952,15 +865,6 @@
           "category": "光通信",
           "articles": [
             {
-              "title": "【洞察】微型光纤光谱仪应用领域广泛 晶飞科技为领先企业",
-              "url": "https://optics.ofweek.com/2026-07/ART-250003-8420-30695950.html",
-              "source": "OFweek 光电频道",
-              "summary": "",
-              "score": 100.0,
-              "role": "行业媒体",
-              "published_at": "2026-07"
-            },
-            {
               "title": "零碳算力：AI时代数据中心行业的绿色转型与系统性能源革命",
               "url": "https://www.c114.com.cn/news/212/a1298294.html",
               "source": "C114中国通信网_IT资讯",
@@ -988,11 +892,29 @@
               "published_at": "2026-05"
             },
             {
+              "title": "【洞察】微型光纤光谱仪应用领域广泛 晶飞科技为领先企业",
+              "url": "https://optics.ofweek.com/2026-07/ART-250003-8420-30695950.html",
+              "source": "OFweek 光电频道",
+              "summary": "",
+              "score": 82.5,
+              "role": "行业媒体",
+              "published_at": "2026-07"
+            },
+            {
               "title": "高速光模块订单大增，剑桥科技上半年净利润同比增长156.65%至197.18%",
               "url": "https://www.c114.com.cn/news/123/a1313968.html",
               "source": "C114中国通信网_通信财经",
               "summary": "剑桥科技2026年上半年净利润大幅增长，主要受益于高速光模块业务订单与毛利率提升，虽受汇兑损失拖累，整体仍保持强劲预增态势。",
               "score": 80.0,
+              "role": "行业媒体",
+              "published_at": null
+            },
+            {
+              "title": "推进光纤入户 工信部联合住建部解决”最后一公里”问题",
+              "url": "http://www.c114.net/news/549/a997513.html",
+              "source": "C114中国通信网_要闻精选",
+              "summary": "",
+              "score": 77.5,
               "role": "行业媒体",
               "published_at": null
             },
@@ -1342,19 +1264,19 @@
               "published_at": null
             },
             {
-              "title": "华为计算模组首次亮相WAIC 2026世界人工智能大会",
-              "url": "https://www.c114.com.cn/news/126/a1314293.html",
+              "title": "中兴通讯发布新支点AIOS：构筑智能体时代操作系统，驱动产业智能化新引擎",
+              "url": "https://www.c114.com.cn/news/127/a1314305.html",
               "source": "C114中国通信网_设备商",
-              "summary": "",
+              "summary": "当AI应用从你问我答迈向你说我做，智能化的竞争焦点正发生深刻转变：企业需要的不再仅仅是单点AI能力，而是能够理解意图、调用工具、协同业务、持续进化的智能体操作系统。",
               "score": 87.5,
               "role": "行业媒体",
               "published_at": null
             },
             {
-              "title": "中兴通讯深度参与中国电信2026 WAIC原生云网运营开发者大会，共绘智能时代新蓝图",
-              "url": "https://www.c114.com.cn/news/127/a1314200.html",
+              "title": "华为计算模组首次亮相WAIC 2026世界人工智能大会",
+              "url": "https://www.c114.com.cn/news/126/a1314293.html",
               "source": "C114中国通信网_设备商",
-              "summary": "中兴通讯携手中国电信亮相WAIC原生云网开发者大会，展示AI与云网融合成果，聚焦网优大模型、超级数字员工及AI原生网络演进。",
+              "summary": "",
               "score": 87.5,
               "role": "行业媒体",
               "published_at": null
@@ -1370,6 +1292,15 @@
               "source": "C114中国通信网_设备商",
               "summary": "2026世界人工智能大会在上海隆重举行，昇腾以“与时代 共昇腾”为主题亮相世博展览馆，围绕超节点架构创新、规模商用实践、开源生态建设三大核心维度，呈现Agentic AI时代算力基础设施的完整解决方案。从旗舰级的Atlas 950 SuperPoD到普惠型Atlas 850E风冷超节点，从CANN开源到千行百业的规模化落地，昇腾以根技术能力与开放兼容的生态策略，为智能时代的算力基础设施建设提供全新路径。",
               "score": 95.0,
+              "role": "行业媒体",
+              "published_at": null
+            },
+            {
+              "title": "徐直军详解视频驱动力与挑战：华为助力运营商淘金万亿级新市场",
+              "url": "http://www.c114.net/news/126/a996989.html",
+              "source": "C114中国通信网_要闻精选",
+              "summary": "徐直军在2017世界移动大会期间的Keynote上发表了“让视频成为运营商增长的新动力”的主题演讲。他指出，内容、视频正在重新定义电信产业，对运营商来说视频业务已成必须，华为将自己定位为运营商视频业务成功的使能者，帮助运营商发展视频业务并获得增长。",
+              "score": 87.5,
               "role": "行业媒体",
               "published_at": null
             },
@@ -1401,37 +1332,28 @@
               "published_at": null
             },
             {
-              "title": "中信科移动技术专家参加WAIC2026，聚焦AI与6G NTN技术融合创新",
-              "url": "https://www.c114.com.cn/news/654/a1314395.html",
-              "source": "C114中国通信网_设备商",
-              "summary": "7月17日，世界人工智能大会（WAIC2026）开幕，在当天举行的2026人工智能赋能无线电创新论坛上，中信科移动6G标准技术专家缪德山博士参加了“AI赋能6G NTN标准演进”的圆桌对话，与业界专家共同探讨了AI与6G NTN融合的关键挑战和新的发展机会。",
+              "title": "两会关注：提速降费步伐加快，三大运营商打出全新组合拳",
+              "url": "http://www.c114.net/news/16/a997421.html",
+              "source": "C114中国通信网_要闻精选",
+              "summary": "年两会总理提出了2017年“网络提速降费要迈出更大步伐”，并明确了三个方向：年内全部取消手机国内长途和漫游费；大幅降低中小企业互联网专线接入资费；降低国际长途电话费。为了响应政府号召，三大运营商都公布了2017年提速降费的新政，通过一些列组合拳持续推进提速降费。",
               "score": 70.0,
               "role": "行业媒体",
               "published_at": null
             },
             {
-              "title": "云端连万物，飞行即生活——5G-ATG 重塑万米高空新体验",
-              "url": "https://www.c114.com.cn/news/127/a1314364.html",
-              "source": "C114中国通信网_设备商",
-              "summary": "在数字技术深度融入生活的今天，如何让数亿飞行旅客在万米高空也能享受稳定、高速的网络服务，已成为智慧航空建设的重要课题。近日，中国移动、中国东航、中国商飞、中兴通讯签署了5G-ATG（5G地空通信）四方合作协议，携手推进5G-ATG加速落地。未来，5G-ATG将彻底打破空中与地面的互联壁垒，开创空中“高速在线”的畅享时代，从“飞行模式”到“空中冲浪”，从“客舱上网”到“智慧飞行”，从“一段航程”到“一程生活”，5G-ATG的到来不仅是技术的革新，更是生活的重塑。",
+              "title": "大招齐发，英特尔直击网络转型",
+              "url": "http://www.c114.com.cn/topic/5096/a996852.html?utm_medium=C114&dclid=CLmNp8bEwdICFRwhKgodT4YHqQ",
+              "source": "C114中国通信网_要闻精选",
+              "summary": "运营商是实现5G连接及应用和业务创新的重要基石，也是网络转型的主角。作为中国三大运营商之一的中国电信，正在努力推进网络转型，为5G的到来做好准备。中国电信选择与英特尔合作，采用英特尔RSD实施方案，联手击破运营商在网络转型中的各个难题，真正做到在网络转型之路所向披靡。",
               "score": 70.0,
               "role": "行业媒体",
               "published_at": null
             },
             {
-              "title": "千站级iSDU落地云南：云南移动携手华为打造可唤醒极致休眠绿色网络标杆",
-              "url": "https://www.c114.com.cn/news/126/a1314282.html",
-              "source": "C114中国通信网_设备商",
-              "summary": "—— 落地“0 Bit 0 Watt”创新技术 践行中国移动“C三能”双碳行动",
-              "score": 70.0,
-              "role": "行业媒体",
-              "published_at": null
-            },
-            {
-              "title": "中兴通讯携手中国移动及央企伙伴共筑“焕新社区”2.0版，赋能AI新质生产力发展",
-              "url": "https://www.c114.com.cn/news/127/a1314225.html",
-              "source": "C114中国通信网_设备商",
-              "summary": "2026年7月17日，由中国移动承办的“智赋新质 全域焕新”企业人工智能高质量发展论坛在上海世博中心成功举办。论坛紧跟国资委对人工智能发展的统筹布局，汇聚政府、产业、学术界及研究机构等各界代表，集中展示人工智能领域的前沿成果与创新实践，深入探讨技术赋能产业转型升级路径。现场重磅发布“焕新社区”2.0版，标志着央企协同创新迈入新阶段。中兴通讯高级副总裁石铨受邀出席，中兴通讯副总裁吴昊作为企业代表受邀参与发布仪式。",
+              "title": "Juniper今年发力电信市场：重振国内运营商业务",
+              "url": "http://www.c114.net/news/16/a997327.html",
+              "source": "C114中国通信网_要闻精选",
+              "summary": "日前，Juniper Networks (瞻博网络) 举办了主题为飞跃的合作伙伴大会。在会上，瞻博网络大中国区总裁林小平表示，今年Juniper将重点发力运营商、OTT、企业市场及BTI、Contrail业务。其中，运营商市场是Juniper第一要发展的市场。",
               "score": 70.0,
               "role": "行业媒体",
               "published_at": null
@@ -1505,10 +1427,10 @@
               "published_at": "2026-06"
             },
             {
-              "title": "铭普光磁预计上半年大幅减亏",
-              "url": "https://www.c114.com.cn/news/123/a1313963.html",
-              "source": "C114中国通信网_通信财经",
-              "summary": "铭普光磁发布2026年半年度业绩预告。公告显示，公司预计2026年上半年实现归属于上市公司股东的净利润为亏损1400万元至1800万元，较上年同期亏损7303.87万元实现大幅减亏",
+              "title": "中兴许明解读有线五大亮点：大带宽有大机遇",
+              "url": "http://www.c114.net/news/127/a996901.html",
+              "source": "C114中国通信网_要闻精选",
+              "summary": "在本届MWC中兴通讯展台，有线产品家族集体亮相，占据了展厅的重要位置。中兴通讯高级副总裁许明在展台上接受C114等媒体采访，解读了有线产品本次展出的五大亮点。",
               "score": 70.0,
               "role": "行业媒体",
               "published_at": null
@@ -1516,7 +1438,7 @@
           ]
         }
       ],
-      "tocCount": 66,
+      "tocCount": 67,
       "readMinutes": 2
     }
   }

@@ -138,7 +138,12 @@ opto-hot/
 **本地计划任务（可选，适合离线运行 / 联动 CloudBase）**
 
 - `scripts/install-schedule.ps1`：注册 Windows 计划任务，每 6 小时运行一次 `scripts/auto-update.ps1`（采集 → git 提交 → push，从而触发 GitHub Pages 重新部署）
-- 若要同时刷新 CloudBase：把 CloudBase 部署命令写成 `scripts/cloudbase-deploy.ps1`，`auto-update.ps1` 会在每次更新后自动调用它
+- 若要同时刷新 CloudBase：
+  - **云端（推荐，免登录）**：在 GitHub 仓库 Settings → Secrets and variables → Actions 添加两个 Secret：
+    - `TCB_ENV_ID` = `a455-d3g2s3dt865d86640`
+    - `TCB_API_KEY` = 腾讯云 CloudBase 控制台创建的 API Key（环境 → 访问密钥 / API Key）
+    - 配置后，`update.yml` 每 6 小时采集完成会自动 `manageApps deployApp` 重新部署 CloudBase（服务名 `opto-hot` 复用，**域名不变**）；未配置时该步骤自动跳过
+  - **本地**：`scripts/cloudbase-deploy.ps1` 封装同样的部署调用，`auto-update.ps1` 每次更新后会自动调用它（需 mcporter 已登录，或设置环境变量 `TCB_API_KEY`）
 
 ## 路线图
 
