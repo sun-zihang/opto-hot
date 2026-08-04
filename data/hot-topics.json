@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T21:54:15.230839+00:00",
+  "generatedAt": "2026-08-04T00:00:48.459072+00:00",
   "count": 10,
   "items": [
     {
@@ -23,7 +23,7 @@
         "OFweek 激光频道"
       ],
       "score": 96.5,
-      "latest_at": "2026-08-03T21:54:15.230839+00:00",
+      "latest_at": "2026-08-04T00:00:48.459072+00:00",
       "title": "助力AI算力集群高速互连升级！中航光电发布ELSFP外置光源光学连接器",
       "id": "2ff06d2793a5",
       "links": [
@@ -83,7 +83,7 @@
         "OFweek 激光频道"
       ],
       "score": 87.8,
-      "latest_at": "2026-08-03T21:54:15.230839+00:00",
+      "latest_at": "2026-08-04T00:00:48.459072+00:00",
       "title": "挂牌即辅导！富兰光学借力资本加速精密光学国产替代",
       "id": "da80c2571949",
       "links": [
@@ -129,23 +129,29 @@
     },
     {
       "terms": [
-        "光子",
+        "光纤",
         "激光",
         "激光器"
       ],
-      "source_count": 4,
-      "signal_count": 24,
+      "source_count": 3,
+      "signal_count": 22,
       "sources": [
         "COEMA 中国光电子行业协会",
-        "LEDinside 中文",
         "OFweek 光电频道",
         "OFweek 激光频道"
       ],
-      "score": 85.0,
-      "latest_at": "2026-08-03T21:54:15.230839+00:00",
-      "title": "欧菲光携手灵明光子，基于ADS6311芯片推进全固态激光雷达规模化落地！",
-      "id": "685ec69a4e92",
+      "score": 77.5,
+      "latest_at": "2026-08-04T00:00:48.459072+00:00",
+      "title": "【洞察】微型光纤光谱仪应用领域广泛 晶飞科技为领先企业",
+      "id": "6545bdb9b1b8",
       "links": [
+        {
+          "title": "【洞察】微型光纤光谱仪应用领域广泛 晶飞科技为领先企业",
+          "url": "https://optics.ofweek.com/2026-07/ART-250003-8420-30695950.html",
+          "source": "OFweek 光电频道",
+          "score": 100.0,
+          "published_at": "2026-07"
+        },
         {
           "title": "欧菲光携手灵明光子，基于ADS6311芯片推进全固态激光雷达规模化落地！",
           "url": "https://optics.ofweek.com/2026-07/ART-8100-2500-30695664.html",
@@ -173,36 +179,161 @@
           "source": "OFweek 激光频道",
           "score": 100.0,
           "published_at": "2026-07"
-        },
-        {
-          "title": "【展商推荐】岗春激光——手持激光熔覆设备！",
-          "url": "https://laser.ofweek.com/2026-07/ART-8100-2400-30695239.html",
-          "source": "OFweek 激光频道",
-          "score": 100.0,
-          "published_at": "2026-07"
         }
       ],
       "rank": 3,
-      "heat": 85.0,
+      "heat": 77.5,
       "status": "发酵中"
+    },
+    {
+      "terms": [
+        "contrast",
+        "correction",
+        "cryogenic",
+        "electrical",
+        "electrically",
+        "imaging",
+        "information",
+        "laser",
+        "microscopy",
+        "mode-selective",
+        "more",
+        "neural",
+        "optical",
+        "plasma",
+        "practical",
+        "pulse",
+        "quantum",
+        "qubits",
+        "sensing",
+        "stable",
+        "transport",
+        "ultrafast"
+      ],
+      "source_count": 3,
+      "signal_count": 30,
+      "sources": [
+        "Nature Photonics",
+        "Phys.org 物理新闻",
+        "arXiv 光学与光子学 (physics.optics)"
+      ],
+      "score": 76.8,
+      "latest_at": "2026-08-04T00:00:48.459072+00:00",
+      "title": "Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW",
+      "id": "8a4c7835fc3c",
+      "links": [
+        {
+          "title": "Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW",
+          "url": "https://www.nature.com/articles/s41566-026-01977-1",
+          "source": "Nature Photonics",
+          "score": 94.2,
+          "published_at": "2026-08-03T00:00:00+00:00"
+        },
+        {
+          "title": "Methods, trade-offs and opportunities in high-speed optical microscopy for neural voltage imaging",
+          "url": "https://www.nature.com/articles/s41566-026-01965-5",
+          "source": "Nature Photonics",
+          "score": 94.2,
+          "published_at": "2026-08-03T00:00:00+00:00"
+        },
+        {
+          "title": "Optical–electrical skin sensing",
+          "url": "https://www.nature.com/articles/s41566-026-01967-3",
+          "source": "Nature Photonics",
+          "score": 91.7,
+          "published_at": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "Mode-Selective and Anharmonicity-Controlled Energy Transport in Cavity-Coupled Water",
+          "url": "https://arxiv.org/abs/2607.28782",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.3,
+          "published_at": "2026-08-03T04:00:00+00:00"
+        },
+        {
+          "title": "Near single-cycle pulse generation using a cascaded all-bulk multi-pass cell compression system",
+          "url": "https://arxiv.org/abs/2607.29372",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.3,
+          "published_at": "2026-08-03T04:00:00+00:00"
+        }
+      ],
+      "rank": 4,
+      "heat": 76.8,
+      "status": "发酵中"
+    },
+    {
+      "terms": [
+        "photonic",
+        "wavefront"
+      ],
+      "source_count": 2,
+      "signal_count": 8,
+      "sources": [
+        "Phys.org 物理新闻",
+        "arXiv 光学与光子学 (physics.optics)"
+      ],
+      "score": 63.0,
+      "latest_at": "2026-08-04T00:00:48.459072+00:00",
+      "title": "Information limits of photonic lantern wavefront sensing: a Fisher- and quantum-Fisher-information framework and its relation to Fourier-filtering sensitivity limits",
+      "id": "41a7caa40988",
+      "links": [
+        {
+          "title": "Information limits of photonic lantern wavefront sensing: a Fisher- and quantum-Fisher-information framework and its relation to Fourier-filtering sensitivity limits",
+          "url": "https://arxiv.org/abs/2607.29342",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.3,
+          "published_at": "2026-08-03T04:00:00+00:00"
+        },
+        {
+          "title": "Overcoming the low signal-to-noise problem for hybrid mode-selective photonic lantern-based wavefront correction using machine learning",
+          "url": "https://arxiv.org/abs/2607.03285",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.3,
+          "published_at": "2026-08-03T04:00:00+00:00"
+        },
+        {
+          "title": "High-Density Monocular 3D Particle Image Velocimetry by Wavefront Shaping and Deep Learning",
+          "url": "https://arxiv.org/abs/2607.29163",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 84.3,
+          "published_at": "2026-08-03T04:00:00+00:00"
+        },
+        {
+          "title": "Observation of Antichiral Hinge States in a Three-dimensional Gyromagnetic Photonic Crystal",
+          "url": "https://arxiv.org/abs/2607.29340",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 84.3,
+          "published_at": "2026-08-03T04:00:00+00:00"
+        },
+        {
+          "title": "A Group-Theoretical Framework for Local k-Space Topology and Berry Phase in 2D Photonic Systems",
+          "url": "https://arxiv.org/abs/2607.29356",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 84.3,
+          "published_at": "2026-08-03T04:00:00+00:00"
+        }
+      ],
+      "rank": 5,
+      "heat": 63.0,
+      "status": "关注中"
     },
     {
       "terms": [
         "驱动"
       ],
-      "source_count": 5,
-      "signal_count": 7,
+      "source_count": 4,
+      "signal_count": 6,
       "sources": [
-        "C114中国通信网_要闻精选",
         "C114中国通信网_设备商",
         "CIOE 中国光博会",
         "LEDinside 中文",
         "OFweek 光电频道"
       ],
-      "score": 73.4,
-      "latest_at": "2026-08-03T21:54:15.230839+00:00",
+      "score": 61.0,
+      "latest_at": "2026-08-04T00:00:48.459072+00:00",
       "title": "宇瞳光学日本子公司东京揭牌，战略重心转向技术驱动",
-      "id": "8dc0a40f7d17",
+      "id": "8b81082f0fa7",
       "links": [
         {
           "title": "宇瞳光学日本子公司东京揭牌，战略重心转向技术驱动",
@@ -226,144 +357,23 @@
           "published_at": "2026-07-31"
         },
         {
-          "title": "徐直军详解视频驱动力与挑战：华为助力运营商淘金万亿级新市场",
-          "url": "http://www.c114.net/news/126/a996989.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 87.5,
-          "published_at": null
-        },
-        {
           "title": "中兴通讯发布新支点AIOS：构筑智能体时代操作系统，驱动产业智能化新引擎",
           "url": "https://www.c114.com.cn/news/127/a1314305.html",
           "source": "C114中国通信网_设备商",
-          "score": 87.5,
+          "score": 85.0,
           "published_at": null
-        }
-      ],
-      "rank": 4,
-      "heat": 73.4,
-      "status": "发酵中"
-    },
-    {
-      "terms": [
-        "correction",
-        "information",
-        "mode-selective",
-        "more",
-        "practical",
-        "quantum",
-        "qubits",
-        "stable",
-        "transport",
-        "ultrafast"
-      ],
-      "source_count": 2,
-      "signal_count": 18,
-      "sources": [
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "score": 70.0,
-      "latest_at": "2026-08-03T21:54:15.230839+00:00",
-      "title": "Mode-Selective and Anharmonicity-Controlled Energy Transport in Cavity-Coupled Water",
-      "id": "9a4ef7e41b2a",
-      "links": [
-        {
-          "title": "Mode-Selective and Anharmonicity-Controlled Energy Transport in Cavity-Coupled Water",
-          "url": "https://arxiv.org/abs/2607.28782",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.4,
-          "published_at": "2026-08-03T04:00:00+00:00"
         },
         {
-          "title": "Information limits of photonic lantern wavefront sensing: a Fisher- and quantum-Fisher-information framework and its relation to Fourier-filtering sensitivity limits",
-          "url": "https://arxiv.org/abs/2607.29342",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.4,
-          "published_at": "2026-08-03T04:00:00+00:00"
-        },
-        {
-          "title": "Overcoming the low signal-to-noise problem for hybrid mode-selective photonic lantern-based wavefront correction using machine learning",
-          "url": "https://arxiv.org/abs/2607.03285",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.4,
-          "published_at": "2026-08-03T04:00:00+00:00"
-        },
-        {
-          "title": "Quantum optical neural networks using atom-cavity interactions to provide all-optical nonlinearity",
-          "url": "https://arxiv.org/abs/2511.06167",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.4,
-          "published_at": "2026-08-03T04:00:00+00:00"
-        },
-        {
-          "title": "New quantum encryption method prevents ciphertext from being cloned",
-          "url": "https://phys.org/news/2026-08-quantum-encryption-method-ciphertext-cloned.html",
-          "source": "Phys.org 物理新闻",
-          "score": 80.0,
-          "published_at": null
-        }
-      ],
-      "rank": 5,
-      "heat": 70.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [
-        "complex",
-        "photonic",
-        "wavefront"
-      ],
-      "source_count": 2,
-      "signal_count": 10,
-      "sources": [
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "score": 70.0,
-      "latest_at": "2026-08-03T21:54:15.230839+00:00",
-      "title": "Broadband Control of Light through Complex Media via Automatic Self-Referencing Transmission Matrix Characterisation",
-      "id": "21aa7a37419a",
-      "links": [
-        {
-          "title": "Broadband Control of Light through Complex Media via Automatic Self-Referencing Transmission Matrix Characterisation",
-          "url": "https://arxiv.org/abs/2607.29047",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.4,
-          "published_at": "2026-08-03T04:00:00+00:00"
-        },
-        {
-          "title": "High-Density Monocular 3D Particle Image Velocimetry by Wavefront Shaping and Deep Learning",
-          "url": "https://arxiv.org/abs/2607.29163",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.4,
-          "published_at": "2026-08-03T04:00:00+00:00"
-        },
-        {
-          "title": "Observation of Antichiral Hinge States in a Three-dimensional Gyromagnetic Photonic Crystal",
-          "url": "https://arxiv.org/abs/2607.29340",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.4,
-          "published_at": "2026-08-03T04:00:00+00:00"
-        },
-        {
-          "title": "A Group-Theoretical Framework for Local k-Space Topology and Berry Phase in 2D Photonic Systems",
-          "url": "https://arxiv.org/abs/2607.29356",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.4,
-          "published_at": "2026-08-03T04:00:00+00:00"
-        },
-        {
-          "title": "PROPEL: A Memory-Driven, Adaptive Vector-Flow-Field Router with Process-Aware Waveguide Generation for Large-Scale Photonic Integrated Circuits",
-          "url": "https://arxiv.org/abs/2607.29543",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.4,
-          "published_at": "2026-08-03T04:00:00+00:00"
+          "title": "富满微：LED显示控制及驱动类芯片营收大增145%",
+          "url": "https://www.ledinside.cn/fsa/20260730-62227.html",
+          "source": "LEDinside 中文",
+          "score": 80.8,
+          "published_at": "2026-07-30"
         }
       ],
       "rank": 6,
-      "heat": 70.0,
-      "status": "关注中"
+      "heat": 61.0,
+      "status": "发酵中"
     },
     {
       "terms": [
@@ -378,7 +388,7 @@
         "OFweek 光电频道"
       ],
       "score": 59.0,
-      "latest_at": "2026-08-03T21:54:15.230839+00:00",
+      "latest_at": "2026-08-04T00:00:48.459072+00:00",
       "title": "光模块测试设备，谁是成长最快企业？",
       "id": "bc6914d78db6",
       "links": [
@@ -417,63 +427,52 @@
     },
     {
       "terms": [
-        "attosecond",
-        "contrast",
-        "damage",
-        "imaging",
-        "pulses",
-        "x-ray"
+        "光子"
       ],
-      "source_count": 2,
-      "signal_count": 6,
+      "source_count": 3,
+      "signal_count": 4,
       "sources": [
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
+        "LEDinside 中文",
+        "OFweek 光电频道",
+        "OFweek 激光频道"
       ],
-      "score": 56.0,
-      "latest_at": "2026-08-03T21:54:15.230839+00:00",
-      "title": "Ultrafast X-ray flashes partially reverse the damage they cause, enabling brighter, more accurate imaging",
-      "id": "a36a0dfe6285",
+      "score": 56.5,
+      "latest_at": "2026-08-04T00:00:48.459072+00:00",
+      "title": "欧菲光携手灵明光子，基于ADS6311芯片推进全固态激光雷达规模化落地！",
+      "id": "29f320615246",
       "links": [
         {
-          "title": "Ultrafast X-ray flashes partially reverse the damage they cause, enabling brighter, more accurate imaging",
-          "url": "https://phys.org/news/2026-08-ultrafast-ray-partially-reverse-enabling.html",
-          "source": "Phys.org 物理新闻",
-          "score": 80.0,
-          "published_at": null
+          "title": "欧菲光携手灵明光子，基于ADS6311芯片推进全固态激光雷达规模化落地！",
+          "url": "https://optics.ofweek.com/2026-07/ART-8100-2500-30695664.html",
+          "source": "OFweek 光电频道",
+          "score": 100.0,
+          "published_at": "2026-07"
         },
         {
-          "title": "Tomographic Phase Imaging with Randomized Probe Imaging",
-          "url": "https://arxiv.org/abs/2607.29471",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 74.4,
-          "published_at": "2026-08-03T04:00:00+00:00"
+          "title": "把光子“切一半”会发生什么？挪威物理学家说：会炸出一道彩虹",
+          "url": "https://optics.ofweek.com/2026-07/ART-250001-11000-30695924.html",
+          "source": "OFweek 光电频道",
+          "score": 85.0,
+          "published_at": "2026-07"
         },
         {
-          "title": "Universal Phase Contrast in Micro-CT Systems",
-          "url": "https://arxiv.org/abs/2607.29478",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 74.4,
-          "published_at": "2026-08-03T04:00:00+00:00"
+          "title": "拥有400多家光子学企业，加拿大如何“做大做强”生态圈？",
+          "url": "https://laser.ofweek.com/2024-03/ART-8500-2400-30628190.html",
+          "source": "OFweek 激光频道",
+          "score": 85.0,
+          "published_at": "2024-03"
         },
         {
-          "title": "Comparative analysis of wavenumber response in phase contrast and spiral phase imaging systems for plasma diagnostics",
-          "url": "https://arxiv.org/abs/2607.29307",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 74.4,
-          "published_at": "2026-08-03T04:00:00+00:00"
-        },
-        {
-          "title": "Electronic Damage Suppression in X-ray Diffraction with Attosecond X-ray Pulses",
-          "url": "https://arxiv.org/abs/2607.29351",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 71.9,
-          "published_at": "2026-08-03T04:00:00+00:00"
+          "title": "光芯片收入高涨78%，仕佳光子上半年营收15亿",
+          "url": "https://www.ledinside.cn/fsa/20260803-62247.html",
+          "source": "LEDinside 中文",
+          "score": 79.2,
+          "published_at": "2026-08-03"
         }
       ],
       "rank": 8,
-      "heat": 56.0,
-      "status": "关注中"
+      "heat": 56.5,
+      "status": "发酵中"
     },
     {
       "terms": [
@@ -490,7 +489,7 @@
         "Phys.org 物理新闻"
       ],
       "score": 55.5,
-      "latest_at": "2026-08-03T21:54:15.230839+00:00",
+      "latest_at": "2026-08-04T00:00:48.459072+00:00",
       "title": "大彩光电西南基地投产，加码LED显示及Mini LED制造",
       "id": "8bb07e1537d0",
       "links": [
@@ -505,7 +504,7 @@
           "title": "富满微：LED显示控制及驱动类芯片营收大增145%",
           "url": "https://www.ledinside.cn/fsa/20260730-62227.html",
           "source": "LEDinside 中文",
-          "score": 83.4,
+          "score": 80.8,
           "published_at": "2026-07-30"
         },
         {
@@ -519,14 +518,14 @@
           "title": "雷曼发布216英寸、243英寸MicroLED巨幕墙，家庭显示迈入“整面墙”时代",
           "url": "https://www.ledinside.cn/products/20260729-62208.html",
           "source": "LEDinside 中文",
-          "score": 77.6,
+          "score": 77.5,
           "published_at": "2026-07-29"
         },
         {
           "title": "光电前沿 | 从OCS到Micro LED CPO：光学与CIS的新机遇",
           "url": "https://cioe.cn/news/2918_info.html",
           "source": "CIOE 中国光博会",
-          "score": 77.6,
+          "score": 77.5,
           "published_at": "2026-07-14"
         }
       ],
@@ -536,45 +535,57 @@
     },
     {
       "terms": [
-        "光纤"
+        "waic"
       ],
-      "source_count": 3,
-      "signal_count": 3,
+      "source_count": 1,
+      "signal_count": 7,
       "sources": [
-        "C114中国通信网_要闻精选",
-        "OFweek 光电频道",
-        "OFweek 激光频道"
+        "C114中国通信网_设备商"
       ],
-      "score": 53.0,
-      "latest_at": "2026-08-03T21:54:15.230839+00:00",
-      "title": "创新突破｜光纤可插拔式1470nm光源：重塑精准激光除草新范式",
-      "id": "94db313d3f7e",
+      "score": 52.0,
+      "latest_at": "2026-08-04T00:00:48.459072+00:00",
+      "title": "昇腾超节点闪耀WAIC 2026：架构、商用、生态的三重跨越",
+      "id": "f0647f1ce407",
       "links": [
         {
-          "title": "创新突破｜光纤可插拔式1470nm光源：重塑精准激光除草新范式",
-          "url": "https://laser.ofweek.com/2026-06/ART-8200-2400-30689724.html",
-          "source": "OFweek 激光频道",
-          "score": 100.0,
-          "published_at": "2026-06"
+          "title": "昇腾超节点闪耀WAIC 2026：架构、商用、生态的三重跨越",
+          "url": "https://www.c114.com.cn/news/126/a1314417.html",
+          "source": "C114中国通信网_设备商",
+          "score": 87.5,
+          "published_at": null
         },
         {
-          "title": "【洞察】微型光纤光谱仪应用领域广泛 晶飞科技为领先企业",
-          "url": "https://optics.ofweek.com/2026-07/ART-250003-8420-30695950.html",
-          "source": "OFweek 光电频道",
-          "score": 82.5,
-          "published_at": "2026-07"
+          "title": "WAIC 2026 | 中兴通讯全栈智算生态论坛，重磅发布OEX超节点新品",
+          "url": "https://www.c114.com.cn/news/127/a1314380.html",
+          "source": "C114中国通信网_设备商",
+          "score": 87.5,
+          "published_at": null
         },
         {
-          "title": "推进光纤入户 工信部联合住建部解决”最后一公里”问题",
-          "url": "http://www.c114.net/news/549/a997513.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
+          "title": "华为携手中国电信亮相2026 WAIC，共筑电信级Agentic运维运营新范式",
+          "url": "https://www.c114.com.cn/news/126/a1314371.html",
+          "source": "C114中国通信网_设备商",
+          "score": 87.5,
+          "published_at": null
+        },
+        {
+          "title": "WAIC 2026观察｜从镇馆之宝到全球首款，中兴通讯全栈AI再进阶",
+          "url": "https://www.c114.com.cn/news/127/a1314339.html",
+          "source": "C114中国通信网_设备商",
+          "score": 87.5,
+          "published_at": null
+        },
+        {
+          "title": "中兴通讯星系列人形机器人及具身智能解决方案亮相 WAIC 2026",
+          "url": "https://www.c114.com.cn/news/127/a1314330.html",
+          "source": "C114中国通信网_设备商",
+          "score": 87.5,
           "published_at": null
         }
       ],
       "rank": 10,
-      "heat": 53.0,
-      "status": "发酵中"
+      "heat": 52.0,
+      "status": "关注中"
     }
   ]
 }
