@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T12:34:47.494292+00:00",
+  "generatedAt": "2026-08-04T22:37:56.757824+00:00",
   "count": 10,
   "items": [
     {
@@ -20,23 +20,28 @@
         "cavity",
         "cesium",
         "characterization",
+        "chip",
         "chiral",
         "classical",
         "code",
+        "colors",
         "compact",
         "completes",
         "component",
         "computer",
+        "controlled",
         "conversion",
         "correction",
         "coupled",
         "creation",
         "cross-polarization",
         "crowe",
+        "cryogenic",
         "crystal",
         "crystal-ion-sliced",
         "crystals",
         "deep",
+        "dial",
         "direct",
         "dots",
         "double-blind",
@@ -46,21 +51,24 @@
         "electrically",
         "encoding",
         "error",
-        "evolution",
         "exchange",
         "extinction",
         "extreme",
         "fiber",
+        "field",
         "films",
+        "fluid",
         "form",
+        "four",
         "four-lane",
+        "frequencies",
         "g-tcmt",
         "gallium",
         "generalized",
         "generate",
         "green",
-        "hand",
         "heterogeneous",
+        "hidden",
         "high-speed",
         "highly",
         "highway",
@@ -69,17 +77,17 @@
         "imaging",
         "in-line",
         "indistinguishable",
-        "information",
         "infrared",
         "insulator",
         "interface",
         "inverse",
         "inverse-designed",
+        "led",
         "less-explored",
         "link",
         "lithium",
+        "magnetic",
         "magnets",
-        "memory",
         "micro-transfer",
         "microscopy",
         "mode",
@@ -89,6 +97,7 @@
         "nanophotonics",
         "neural",
         "neurosymbolic",
+        "next-gen",
         "niobate",
         "nitride",
         "nonlinear",
@@ -96,7 +105,6 @@
         "one-way",
         "opportunities",
         "optical",
-        "palm",
         "pcells",
         "phase-drift",
         "phosphide",
@@ -111,37 +119,39 @@
         "printing",
         "processors",
         "produces",
+        "promise",
         "pulses",
         "quadrature",
         "quantification",
         "quantum",
-        "qubits",
         "range",
         "reach",
-        "reaches",
         "readout",
+        "realistic",
         "reconfigurable",
         "repeated",
         "residual",
         "resonator",
+        "reveals",
         "riemann",
         "sase",
         "scarab",
         "silicon",
         "simulations",
-        "single-electron",
         "single-shot",
         "slabs",
         "spin",
         "stable",
-        "storage",
+        "states",
         "stripes",
         "structural",
         "subsurface",
-        "superconducting",
+        "switched",
+        "switching",
         "symmetry",
         "taper",
         "task",
+        "temperature",
         "temporal",
         "terahertz",
         "than",
@@ -153,58 +163,60 @@
         "transport",
         "ultrafast",
         "unlock",
+        "unlocking",
+        "valleytronics",
         "verified",
         "visible-to-near-infrared",
         "voltage",
         "wafer",
-        "waveguides",
-        "your"
+        "waveguides"
       ],
-      "source_count": 3,
-      "signal_count": 25,
+      "source_count": 4,
+      "signal_count": 29,
       "sources": [
+        "LEDinside 英文",
         "Nature Photonics",
         "Phys.org 物理新闻",
         "arXiv 光学与光子学 (physics.optics)"
       ],
-      "score": 75.9,
-      "latest_at": "2026-08-04T12:34:47.494292+00:00",
+      "score": 82.9,
+      "latest_at": "2026-08-04T22:37:56.757824+00:00",
       "title": "Methods, trade-offs and opportunities in high-speed optical microscopy for neural voltage imaging",
-      "id": "da19140a4c51",
+      "id": "78844a960ffb",
       "links": [
         {
           "title": "Methods, trade-offs and opportunities in high-speed optical microscopy for neural voltage imaging",
           "url": "https://www.nature.com/articles/s41566-026-01965-5",
           "source": "Nature Photonics",
-          "score": 93.7,
+          "score": 93.4,
           "published_at": "2026-08-03T00:00:00+00:00"
         },
         {
           "title": "Breaking the power wall in programmable photonics",
           "url": "https://www.nature.com/articles/s41566-026-01960-w",
           "source": "Nature Photonics",
-          "score": 91.2,
+          "score": 90.9,
+          "published_at": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "Valleytronics on a single chip",
+          "url": "https://www.nature.com/articles/s41566-026-01975-3",
+          "source": "Nature Photonics",
+          "score": 90.9,
           "published_at": "2026-07-31T00:00:00+00:00"
         },
         {
           "title": "Silencing pain with infrared light",
           "url": "https://www.nature.com/articles/s41566-026-01970-8",
           "source": "Nature Photonics",
-          "score": 91.2,
+          "score": 90.9,
           "published_at": "2026-07-31T00:00:00+00:00"
         },
         {
           "title": "All-Optical Single-Shot Temporal Characterization of SASE FEL Pulses Using Double-Blind Holography",
           "url": "https://arxiv.org/abs/2608.00153",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.7,
-          "published_at": "2026-08-04T04:00:00+00:00"
-        },
-        {
-          "title": "Electrically Reconfigurable Silicon Carbide Nanophotonic Cavities on Thin-Film Lithium Niobate",
-          "url": "https://arxiv.org/abs/2608.00372",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.7,
+          "score": 89.4,
           "published_at": "2026-08-04T04:00:00+00:00"
         }
       ],
@@ -216,64 +228,7 @@
         "thin"
       ],
       "rank": 1,
-      "heat": 75.9,
-      "status": "发酵中"
-    },
-    {
-      "terms": [
-        "光模块"
-      ],
-      "source_count": 4,
-      "signal_count": 4,
-      "sources": [
-        "搜狗微信·光电行业 · 机机如律令",
-        "搜狗微信·光电行业 · 海风财智",
-        "搜狗微信·光电行业 · 盘间随笔",
-        "搜狗微信·光电行业 · 读懂新农金"
-      ],
-      "score": 64.0,
-      "latest_at": "2026-08-04T12:34:47.494292+00:00",
-      "title": "光模块又被禁了?",
-      "id": "91a70be38d1b",
-      "links": [
-        {
-          "title": "光模块又被禁了?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32orlyhEEHrAsmVOQdBO8bUlqXa8Fplpd9EaKdcdGwUBFZICKNUWEyblLsoKsqE27Qc1ua5ezXVvffOJuMipDowitcCIj0WcfZ5HVcKw-2eV031yzYRn9nxFkBg_sTqbfKs_AUqJW4jlTp7efgOlMahjh_E24zeWrvjXHOiJ1mWYfp4t2Ha0WCNmpFg7VlX3o34JaFCI6sdR4Y-UZGbO56rA..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=F5D08FA245A36DD1C6C39EF2191B6EA5C6C20A296A71DC5E",
-          "source": "搜狗微信·光电行业 · 机机如律令",
-          "score": 75.0,
-          "published_at": "2026-08-04T11:52:19+00:00"
-        },
-        {
-          "title": "光模块刚反弹就遭美国禁令?A股AI链谁真受伤谁躺枪",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32orlyhEEHrAsmVOQdBO8bUlqXa8Fplpd9kAq70BnKOh7s_tOfZlFdISCBYSpQH6coivrzgKcanH12G6Atg4KRwHSR90QdvjywzrxVIXMY7PW1ozIixqOInaJzK7leW803zcU3AJH0AgVgCIu6hHqmbT790IRa-5jJp8T5YjzJu2nz0rTP5N7096JslIuvKiYbEO37dRWYc0vy08OLTBhW0A..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=F5D08FA245A36DD1C6C39EF2191B6EA5C6C20A296A71DC5E",
-          "source": "搜狗微信·光电行业 · 海风财智",
-          "score": 75.0,
-          "published_at": "2026-08-04T11:56:49+00:00"
-        },
-        {
-          "title": "“光模块”,要消失了?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32orlyhEEHrAsmVOQdBO8bUlqXa8Fplpd9FfJWEdd0JM3eq2FgFakjT6msGly6tMZJNAwt1lX02EPdsG1MmyNpmme3OCsiaH5JPgxAYY8HmD3K3H7_OXni6Ao8Gra8CHvehdFPpYLphCh-Gn2d0Nq_YdF2VmXrhm5kU-FiKSTmTZQwrimREJcSj6SZ0wdlyOcWi_UAhb4FAw5FH6In5Ei3zg..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=F5D08FA245A36DD1C6C39EF2191B6EA5C6C20A296A71DC5E",
-          "source": "搜狗微信·光电行业 · 读懂新农金",
-          "score": 74.9,
-          "published_at": "2026-08-04T09:36:43+00:00"
-        },
-        {
-          "title": "光模块全面拉红!",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32orlyhEEHrAsmVOQdBO8bUlqXa8Fplpd9jh8fDGiclPJ4fWo48_7KcgZcbcoazQBsL4WkNBCvhCyrBF8i_3JmYvrT835oap62mWtgvHjraVUZS8cSpDQQryqaoGFWtjB1gguTXpSHzDxPBDjx7rvvrbgKfmbEZubm1n4ma-w4KIn-SqO599eG6iI86bBhWOcjfzaDhoSWXEW54z_tGSZTqA..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=F5D08FA245A36DD1C6C39EF2191B6EA5C6C20A296A71DC5E",
-          "source": "搜狗微信·光电行业 · 盘间随笔",
-          "score": 74.9,
-          "published_at": "2026-08-04T09:43:22+00:00"
-        }
-      ],
-      "top_terms": [
-        "光模",
-        "模块",
-        "光模块",
-        "要消失了",
-        "要消"
-      ],
-      "rank": 2,
-      "heat": 64.0,
+      "heat": 82.9,
       "status": "发酵中"
     },
     {
@@ -291,7 +246,7 @@
         "C114中国通信网_设备商"
       ],
       "score": 62.5,
-      "latest_at": "2026-08-04T12:34:47.494292+00:00",
+      "latest_at": "2026-08-04T22:37:56.757824+00:00",
       "title": "昇腾超节点闪耀WAIC 2026：架构、商用、生态的三重跨越",
       "id": "02289ea34542",
       "links": [
@@ -338,7 +293,7 @@
         "通讯",
         "智能"
       ],
-      "rank": 3,
+      "rank": 2,
       "heat": 62.5,
       "status": "关注中"
     },
@@ -353,7 +308,7 @@
         "工信部要闻"
       ],
       "score": 56.0,
-      "latest_at": "2026-08-04T12:34:47.494292+00:00",
+      "latest_at": "2026-08-04T22:37:56.757824+00:00",
       "title": "2026年亚太经合组织（APEC）数字和人工智能部长会议新闻发布会在成都召开",
       "id": "4c639f8a50b1",
       "links": [
@@ -400,71 +355,58 @@
         "息通",
         "信业"
       ],
-      "rank": 4,
+      "rank": 3,
       "heat": 56.0,
       "status": "关注中"
     },
     {
       "terms": [
-        "算力"
+        "光模块"
       ],
-      "source_count": 2,
-      "signal_count": 5,
+      "source_count": 3,
+      "signal_count": 3,
       "sources": [
-        "C114中国通信网_监管",
-        "C114中国通信网_要闻精选"
+        "搜狗微信·光电行业 · 中产经济与财富观察",
+        "搜狗微信·光电行业 · 中国基金报",
+        "搜狗微信·光电行业 · 彦景实盘"
       ],
-      "score": 52.5,
-      "latest_at": "2026-08-04T12:34:47.494292+00:00",
-      "title": "工信部对我国网络强国建设提出四点建议",
-      "id": "d7b47cd923b8",
+      "score": 53.0,
+      "latest_at": "2026-08-04T22:37:56.757824+00:00",
+      "title": "光模块突发利空,深度聊几句.....",
+      "id": "ac50e4c4b783",
       "links": [
         {
-          "title": "工信部对我国网络强国建设提出四点建议",
-          "url": "http://www.c114.net/news/16/a997101.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 82.5,
-          "published_at": null
+          "title": "光模块突发利空,深度聊几句.....",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32sDFBkU021xL8pqs6ydegaVqXa8Fplpd90kwnL0w3D4F3JUlGrwXDK_RQfK_Nue6Hc4ZpyNq87O4TI7sEoqbf0IUOiZ9cH2T3lymAIMYKcMJqU3oMYeUA-BgTlj3hpque6FPu6O5LJD9QHEkNabqdALAuf79Vx_QZMkJDiAhX98SYnCslHmcwuecxhS6mDvYa54vN87kBD8js46dn8Efgxg..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=F946FB45982DD4AD020459414E540EF902ED2C016A7269B3",
+          "source": "搜狗微信·光电行业 · 中产经济与财富观察",
+          "score": 72.3,
+          "published_at": "2026-08-04T15:53:29+00:00"
         },
         {
-          "title": "工信部等四部门：到2035年，全面建成新型互联网基础设施",
-          "url": "https://www.c114.com.cn/news/550/a1313800.html",
-          "source": "C114中国通信网_监管",
-          "score": 72.5,
-          "published_at": null
+          "title": "光模块利空怎么办.",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32sDFBkU021xL8pqs6ydegaVqXa8Fplpd9S-4GjR_Jcko4XZjA6DvKFc9OYWU2tKaTK_eG1cpJaNkDHU52mU5CqbCAIo8ZuQ46fOEBvJxDNN8LZt2jaV2y4HOq726GaqtioXbuT13J3pR7C57I0r3-_-8dwbEnlFxJPtr-Tak1hKR2_Surbc_L-sWFfSVK88JTUfejGHp72S5hlgeRt7bSzA..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=F946FB45982DD4AD020459414E540EF902ED2C016A7269B3",
+          "source": "搜狗微信·光电行业 · 彦景实盘",
+          "score": 72.2,
+          "published_at": "2026-08-04T14:34:14+00:00"
         },
         {
-          "title": "工信部全面开展算力态势感知自动化监测工作",
-          "url": "https://www.c114.com.cn/news/550/a1304689.html",
-          "source": "C114中国通信网_监管",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "工信部：2027年基本建成全域覆盖、高效畅通的城域毫秒级算力网络体系",
-          "url": "https://www.c114.com.cn/news/550/a1298868.html",
-          "source": "C114中国通信网_监管",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "工信部等七部门：按需布局算力基础设施 加速算力与行业融合应用",
-          "url": "https://www.c114.com.cn/news/550/a1298426.html",
-          "source": "C114中国通信网_监管",
-          "score": 72.5,
-          "published_at": null
+          "title": "光模块,利空突袭!最新解读来了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32sDFBkU021xL8pqs6ydegaVqXa8Fplpd9TD9lBMYkAFPZCWhl3O1R2Gyyik5oko_sEAekthpO9t3nWkc7VPEBTIEDPU0JsqP7MiXd8UQ8qOyNAUTtnS9gs5V5r-SYInRgMnVEhDcsxnmlSrgi4HtgNV4tdn3EsbGl8ONwrmqXhQ_Ec5c3IDHm4rLHxc14odJdDlUQ73yG_kH1AfaFW2DefQ..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=F946FB45982DD4AD020459414E540EF902ED2C016A7269B3",
+          "source": "搜狗微信·光电行业 · 中国基金报",
+          "score": 72.2,
+          "published_at": "2026-08-04T14:12:55+00:00"
         }
       ],
       "top_terms": [
-        "工信",
-        "信部",
-        "算力",
-        "网络",
-        "部等"
+        "光模",
+        "模块",
+        "利空",
+        "光模块利空怎么办",
+        "块利"
       ],
-      "rank": 5,
-      "heat": 52.5,
-      "status": "关注中"
+      "rank": 4,
+      "heat": 53.0,
+      "status": "发酵中"
     },
     {
       "terms": [
@@ -503,7 +445,7 @@
         "arXiv 光学与光子学 (physics.optics)"
       ],
       "score": 45.0,
-      "latest_at": "2026-08-04T12:34:47.494292+00:00",
+      "latest_at": "2026-08-04T22:37:56.757824+00:00",
       "title": "Controlled generation of high-harmonic spatiotemporal optical vortices",
       "id": "7d6c3de50779",
       "links": [
@@ -511,35 +453,35 @@
           "title": "Controlled generation of high-harmonic spatiotemporal optical vortices",
           "url": "https://arxiv.org/abs/2608.00233",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 77.2,
+          "score": 76.9,
           "published_at": "2026-08-04T04:00:00+00:00"
         },
         {
           "title": "Hybrid BaTiO3/TiO2 Metasurface for Efficient Gigahertz-Speed Free-Space Electro-Optic Modulation",
           "url": "https://arxiv.org/abs/2608.00286",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 77.2,
+          "score": 76.9,
           "published_at": "2026-08-04T04:00:00+00:00"
         },
         {
           "title": "Spatiotemporal Metasurface for Ultrafast All-Optical Wavefront Shaping",
           "url": "https://arxiv.org/abs/2608.00308",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 77.2,
+          "score": 76.9,
           "published_at": "2026-08-04T04:00:00+00:00"
         },
         {
           "title": "Electro-Optic Active Metasurfaces for High-Speed Photonic Applications",
           "url": "https://arxiv.org/abs/2608.00606",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 77.2,
+          "score": 76.9,
           "published_at": "2026-08-04T04:00:00+00:00"
         },
         {
           "title": "Metaphotonic Catalysis: Amorphous silicon metasurfaces encode photochemical activity",
           "url": "https://arxiv.org/abs/2608.02354",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 77.2,
+          "score": 76.9,
           "published_at": "2026-08-04T04:00:00+00:00"
         }
       ],
@@ -550,146 +492,8 @@
         "speed",
         "electro"
       ],
-      "rank": 6,
+      "rank": 5,
       "heat": 45.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [
-        "amplification",
-        "challenge",
-        "decades-long",
-        "diode",
-        "electrically",
-        "laser",
-        "perovskite",
-        "plasma",
-        "polariton",
-        "pulse",
-        "pumped",
-        "solves",
-        "ultrabroadband"
-      ],
-      "source_count": 2,
-      "signal_count": 2,
-      "sources": [
-        "Nature Photonics",
-        "Phys.org 物理新闻"
-      ],
-      "score": 42.0,
-      "latest_at": "2026-08-04T12:34:47.494292+00:00",
-      "title": "Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW",
-      "id": "6a767e3b0a01",
-      "links": [
-        {
-          "title": "Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW",
-          "url": "https://www.nature.com/articles/s41566-026-01977-1",
-          "source": "Nature Photonics",
-          "score": 73.7,
-          "published_at": "2026-08-03T00:00:00+00:00"
-        },
-        {
-          "title": "First electrically pumped perovskite polariton laser diode solves a decades-long challenge",
-          "url": "https://phys.org/news/2026-07-electrically-perovskite-polariton-laser-diode.html",
-          "source": "Phys.org 物理新闻",
-          "score": 60.0,
-          "published_at": null
-        }
-      ],
-      "top_terms": [
-        "laser",
-        "plasma",
-        "amplification",
-        "ultrabroadband",
-        "pulse"
-      ],
-      "rank": 7,
-      "heat": 42.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [
-        "colors",
-        "four",
-        "led",
-        "produces",
-        "stable",
-        "temperature"
-      ],
-      "source_count": 2,
-      "signal_count": 2,
-      "sources": [
-        "LEDinside 英文",
-        "Phys.org 物理新闻"
-      ],
-      "score": 42.0,
-      "latest_at": "2026-08-04T12:34:47.494292+00:00",
-      "title": "[News] One LED Produces Four Stable Colors at Room Temperature",
-      "id": "64fa78f1f745",
-      "links": [
-        {
-          "title": "[News] One LED Produces Four Stable Colors at Room Temperature",
-          "url": "//www.ledinside.com/news/2026/8/2026_08_03_04",
-          "source": "LEDinside 英文",
-          "score": 68.7,
-          "published_at": "2026-08-02T23:40:34+00:00"
-        },
-        {
-          "title": "One LED produces four stable colors at room temperature",
-          "url": "https://phys.org/news/2026-07-stable-room-temperature.html",
-          "source": "Phys.org 物理新闻",
-          "score": 60.0,
-          "published_at": null
-        }
-      ],
-      "top_terms": [
-        "led",
-        "produces",
-        "four",
-        "stable",
-        "colors"
-      ],
-      "rank": 8,
-      "heat": 42.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [],
-      "source_count": 2,
-      "signal_count": 2,
-      "sources": [
-        "C114中国通信网_要闻精选",
-        "C114中国通信网_通信财经"
-      ],
-      "score": 42.0,
-      "latest_at": "2026-08-04T12:34:47.494292+00:00",
-      "title": "联想业绩下滑7成 16亿再卖楼：确能提亮财报",
-      "id": "f757af94ba9d",
-      "links": [
-        {
-          "title": "联想业绩下滑7成 16亿再卖楼：确能提亮财报",
-          "url": "http://www.c114.net/news/209/a996971.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 75.0,
-          "published_at": null
-        },
-        {
-          "title": "联想单季营收近1500亿元：AI营收占比提升至38%",
-          "url": "https://www.c114.com.cn/news/123/a1310854.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 75.0,
-          "published_at": null
-        }
-      ],
-      "top_terms": [
-        "联想",
-        "营收",
-        "亿元",
-        "联想业绩下滑",
-        "想业"
-      ],
-      "rank": 9,
-      "heat": 42.0,
       "status": "关注中"
     },
     {
@@ -701,7 +505,7 @@
         "工信部要闻"
       ],
       "score": 42.0,
-      "latest_at": "2026-08-04T12:34:47.494292+00:00",
+      "latest_at": "2026-08-04T22:37:56.757824+00:00",
       "title": "工业和信息化部量子信息标准化技术委员会成立",
       "id": "dd6167943760",
       "links": [
@@ -727,8 +531,206 @@
         "息标",
         "标准"
       ],
-      "rank": 10,
+      "rank": 6,
       "heat": 42.0,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "光模块"
+      ],
+      "source_count": 2,
+      "signal_count": 2,
+      "sources": [
+        "搜狗微信·光电行业 · 宏策股",
+        "搜狗微信·光电行业 · 对投"
+      ],
+      "score": 42.0,
+      "latest_at": "2026-08-04T22:37:56.757824+00:00",
+      "title": "光模块终究还是没逃过鬼故事?",
+      "id": "a34a0dad0645",
+      "links": [
+        {
+          "title": "光模块终究还是没逃过鬼故事?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32sDFBkU021xL8pqs6ydegaVqXa8Fplpd9kjquWI1tPdltYYUTV2jabE-RYGHfW85MShJOfF1ZV5XELz4nwfr0ks01a8TYJ1xBLGZQoZbfBSMELcZCv2CJId0rbP-Ts1VQS59OZHsKRkHklxfKTxYKr0Mg2A0o99XYJ220S5s8DwvLdCyACK7HkczGJ92M71tkbFHtfX4ayn1S6t2rFt2rnA..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=F946FB45982DD4AD020459414E540EF902ED2C016A7269B3",
+          "source": "搜狗微信·光电行业 · 宏策股",
+          "score": 69.8,
+          "published_at": "2026-08-04T16:04:04+00:00"
+        },
+        {
+          "title": "光模块鬼故事,重点",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32sDFBkU021xL8pqs6ydegaVqXa8Fplpd9eKTIxgNQqqd087_ecaLYYvatyBnE18b07D2yYTJ26Xjnf29WcWABCYxAkaVNBWP5RmQVP0hy5IGhB7Uf39lIAnWdhl40xC2YWs5MYXLLl0CebWCjRo15tWZsqqGZ6wsz3agKf3PNXhgo1MKLIyOUJ39Us_ps7J3Jd_1TDCfne6D6zvkPgoArRQ..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=F946FB45982DD4AD020459414E540EF902ED2C016A7269B3",
+          "source": "搜狗微信·光电行业 · 对投",
+          "score": 69.7,
+          "published_at": "2026-08-04T14:39:58+00:00"
+        }
+      ],
+      "top_terms": [
+        "光模",
+        "模块",
+        "鬼故",
+        "故事",
+        "重点"
+      ],
+      "rank": 7,
+      "heat": 42.0,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "算力"
+      ],
+      "source_count": 1,
+      "signal_count": 4,
+      "sources": [
+        "C114中国通信网_监管"
+      ],
+      "score": 41.5,
+      "latest_at": "2026-08-04T22:37:56.757824+00:00",
+      "title": "工信部等四部门：到2035年，全面建成新型互联网基础设施",
+      "id": "8f1b81c0ad90",
+      "links": [
+        {
+          "title": "工信部等四部门：到2035年，全面建成新型互联网基础设施",
+          "url": "https://www.c114.com.cn/news/550/a1313800.html",
+          "source": "C114中国通信网_监管",
+          "score": 70.0,
+          "published_at": null
+        },
+        {
+          "title": "工信部全面开展算力态势感知自动化监测工作",
+          "url": "https://www.c114.com.cn/news/550/a1304689.html",
+          "source": "C114中国通信网_监管",
+          "score": 70.0,
+          "published_at": null
+        },
+        {
+          "title": "工信部：2027年基本建成全域覆盖、高效畅通的城域毫秒级算力网络体系",
+          "url": "https://www.c114.com.cn/news/550/a1298868.html",
+          "source": "C114中国通信网_监管",
+          "score": 70.0,
+          "published_at": null
+        },
+        {
+          "title": "工信部等七部门：按需布局算力基础设施 加速算力与行业融合应用",
+          "url": "https://www.c114.com.cn/news/550/a1298426.html",
+          "source": "C114中国通信网_监管",
+          "score": 70.0,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "算力",
+        "工信",
+        "信部",
+        "部等",
+        "部门"
+      ],
+      "rank": 8,
+      "heat": 41.5,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "光学",
+        "光电",
+        "激光"
+      ],
+      "source_count": 1,
+      "signal_count": 4,
+      "sources": [
+        "OFweek 激光频道"
+      ],
+      "score": 41.5,
+      "latest_at": "2026-08-04T22:37:56.757824+00:00",
+      "title": "最新议程出炉！2026中国激光产业高质量发展峰会即将开启",
+      "id": "97a28f9f09d6",
+      "links": [
+        {
+          "title": "最新议程出炉！2026中国激光产业高质量发展峰会即将开启",
+          "url": "https://laser.ofweek.com/2026-07/ART-8100-2400-30694578.html",
+          "source": "OFweek 激光频道",
+          "score": 85.0,
+          "published_at": "2026-07"
+        },
+        {
+          "title": "【集成电路论坛】大族数控研发总监陈国栋确认出席并做主题演讲",
+          "url": "https://laser.ofweek.com/2026-07/ART-8100-2400-30695240.html",
+          "source": "OFweek 激光频道",
+          "score": 85.0,
+          "published_at": "2026-07"
+        },
+        {
+          "title": "【激光峰会】南京波长光电研究中心激光技术应用产品总监朱成刚确认出席并做主题演讲",
+          "url": "https://laser.ofweek.com/2026-07/ART-8100-2400-30694595.html",
+          "source": "OFweek 激光频道",
+          "score": 85.0,
+          "published_at": "2026-07"
+        },
+        {
+          "title": "【激光峰会】中国光学学会激光加工专业委员会主任张庆茂教授确认出席并做主题演讲",
+          "url": "https://laser.ofweek.com/2026-07/ART-8100-2400-30694596.html",
+          "source": "OFweek 激光频道",
+          "score": 85.0,
+          "published_at": "2026-07"
+        }
+      ],
+      "top_terms": [
+        "激光",
+        "峰会",
+        "确认",
+        "认出",
+        "出席"
+      ],
+      "rank": 9,
+      "heat": 41.5,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "store"
+      ],
+      "source_count": 1,
+      "signal_count": 3,
+      "sources": [
+        "C114中国通信网_IT资讯"
+      ],
+      "score": 38.0,
+      "latest_at": "2026-08-04T22:37:56.757824+00:00",
+      "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
+      "id": "79ca1f2a334a",
+      "links": [
+        {
+          "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
+          "url": "https://www.c114.com.cn/news/213/a1282089.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
+          "published_at": null
+        },
+        {
+          "title": "苹果税惹麻烦：苹果在英国面临15亿英镑集体诉讼",
+          "url": "https://www.c114.com.cn/news/213/a1281942.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
+          "published_at": null
+        },
+        {
+          "title": "苹果公司在英面临15亿英镑司法索赔，被指在App Store收费“过高且不公平”",
+          "url": "https://www.c114.com.cn/news/213/a1281915.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "苹果",
+        "在英",
+        "亿英",
+        "英镑",
+        "英国"
+      ],
+      "rank": 10,
+      "heat": 38.0,
       "status": "关注中"
     }
   ]
