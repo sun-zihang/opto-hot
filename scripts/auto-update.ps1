@@ -1,4 +1,4 @@
-# opto-hot 本地每 6 小时自动更新脚本（配合 install-schedule.ps1 的计划任务使用）
+﻿# opto-hot 本地每 6 小时自动更新脚本（配合 install-schedule.ps1 的计划任务使用）
 # 手动运行：powershell -ExecutionPolicy Bypass -File scripts\auto-update.ps1
 $ErrorActionPreference = "Stop"
 $Root = Split-Path -Parent $PSScriptRoot

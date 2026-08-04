@@ -1,4 +1,4 @@
-# 注册 Windows 计划任务：每 6 小时自动运行 scripts\auto-update.ps1
+﻿# 注册 Windows 计划任务：每 6 小时自动运行 scripts\auto-update.ps1
 param(
   [string]$TaskName = "opto-hot-update",
   [int]$IntervalHours = 6
