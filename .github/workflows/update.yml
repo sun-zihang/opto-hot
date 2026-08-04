@@ -31,6 +31,7 @@ jobs:
       - name: 运行采集器
         run: python collector/collect.py --limit 25
       - name: 部署 CloudBase（免登录，每 6 小时）
+        continue-on-error: true
         if: env.TCB_API_KEY != ''
 
 
