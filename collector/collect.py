@@ -21,6 +21,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -380,7 +381,88 @@ def fetch_rss(cfg, limit):
     return items
 
 
+SOGOU_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+
+
+def fetch_sogou(cfg, limit):
+    """搜狗微信：多查询 + 会话 Cookie + 反爬检测 + 公众号/时间/摘要提取"""
+    import http.cookiejar
+    import urllib.parse as up
+    queries = cfg.get("queries") or []
+    if not queries:
+        m = re.search(r"[?&]query=([^&]+)", cfg["url"])
+        queries = [up.unquote(m.group(1))] if m else ["光电行业"]
+    cj = http.cookiejar.CookieJar()
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+    tk = [k.lower() for k in cfg.get("title_keywords", [])]
+    seen = set()
+    items = []
+    for q in queries:
+        url = "https://weixin.sogou.com/weixin?type=2&query=" + up.quote(q)
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": SOGOU_UA, "Referer": "https://weixin.sogou.com/"})
+            data = opener.open(req, timeout=20).read().decode("utf-8", "replace")
+        except Exception as e:
+            log("[FAIL] 搜狗微信 query=%s: %s" % (q, e))
+            time.sleep(2)
+            continue
+        if "antispider" in data or "请输入验证码" in data or "news-list" not in data:
+            log("[!] 搜狗微信 query=%s 触发反爬或页面异常，跳过" % q)
+            time.sleep(2)
+            continue
+        for m2 in re.finditer(r'id="sogou_vr_\d+_box_\d+"[\s\S]*?</li>', data):
+            blk = m2.group(0)
+            tm = re.search(r'uigs="article_title_\d+"[^>]*>([\s\S]*?)</a>', blk)
+            if not tm:
+                continue
+            title = re.sub(r"<[^>]+>", "", tm.group(1))
+            title = re.sub(r"<!--red_beg-->|<!--red_end-->", "", title)
+            title = re.sub(r"\s+", " ", htmlmod.unescape(title)).strip()
+            if len(title) < 8:
+                continue
+            hm = re.search(r'href="(/link\?url=[^"]+)"', blk)
+            if not hm:
+                continue
+            am = re.search(r'class="all-time-y2"[^>]*>([^<]+)<', blk)
+            account = htmlmod.unescape(am.group(1)).strip() if am else ""
+            tmm = re.search(r"timeConvert\('(\d+)'\)", blk)
+            pub = None
+            if tmm:
+                try:
+                    pub = datetime.fromtimestamp(int(tmm.group(1)), timezone.utc).isoformat()
+                except Exception:
+                    pass
+            sm = re.search(r'class="txt-info"[^>]*>([\s\S]*?)</p>', blk)
+            summary = re.sub(r"<[^>]+>", "", sm.group(1)) if sm else ""
+            summary = re.sub(r"<!--red_beg-->|<!--red_end-->", "", summary)
+            summary = re.sub(r"\s+", " ", htmlmod.unescape(summary)).strip()[:300]
+            if pub:
+                try:
+                    if age_days(datetime.fromisoformat(pub)) > 90:
+                        continue
+                except Exception:
+                    pass
+            if tk and not any(k in title.lower() for k in tk):
+                continue
+            key = norm_title(title)
+            if key in seen:
+                continue
+            seen.add(key)
+            src = cfg["name"] + (" · " + account if account else "")
+            items.append({"title": title,
+                          "url": urllib.parse.urljoin("https://weixin.sogou.com", hm.group(1)),
+                          "published_at": pub, "summary": summary or None, "source": src})
+            if len(items) >= limit:
+                break
+        time.sleep(1.2)
+        if len(items) >= limit:
+            break
+    return items
+
+
 def fetch_html(cfg, limit):
+    if cfg.get("sogou_wechat"):
+        return fetch_sogou(cfg, limit)
     data, ctype = http_get(cfg["url"])
     charset = cfg.get("charset") or detect_charset(data, ctype)
     links = parse_html_links(data, charset, cfg["url"], cfg)
@@ -412,7 +494,7 @@ def collect(sources, limit, skip_rss=False, skip_html=False):
                 got = fetch_rss(cfg, limit) if stype == "rss" else fetch_html(cfg, limit)
                 log("[OK] %-4s %s: %d 条" % (stype, cfg["name"], len(got)))
                 for g in got:
-                    g["source"] = cfg["name"]
+                    g["source"] = g.get("source") or cfg["name"]
                     g["source_type"] = stype
                     g["source_weight"] = cfg.get("weight", 0.8)
                 raw.extend(got)
@@ -467,31 +549,13 @@ def cosine_sim(a, b):
 
 
 def cluster_semantic(items, threshold=0.14):
-    """向量语义聚类：TF-IDF 向量 + 余弦相似度贪心聚合（替代关键词聚类，减少噪声主题）。
-
-    可选真实嵌入：设置环境变量 OPTOHOT_EMBED=1 且已安装 sentence-transformers 时，
-    会改用 bge-small-zh 模型向量计算相似度。
-    """
-    use_nn = os.environ.get("OPTOHOT_EMBED") == "1"
-    nn_vecs = None
-    if use_nn:
-        try:
-            from sentence_transformers import SentenceTransformer
-            _m = SentenceTransformer("BAAI/bge-small-zh-v1.5")
-            nn_vecs = _m.encode([it["title"] for it in items], normalize_embeddings=True)
-            log("[*] 使用 sentence-transformers 嵌入向量聚类")
-        except Exception as e:
-            log("[!] sentence-transformers 不可用，回退 TF-IDF 向量: %s" % e)
-    vecs = nn_vecs if nn_vecs is not None else tfidf_vectors(items)
+    """语义聚类：TF-IDF 向量贪心聚合为主；可选神经嵌入做近重复合并（OPTOHOT_EMBED=1）"""
     n = len(items)
+    tfidf = tfidf_vectors(items)
     sim = [[0.0] * n for _ in range(n)]
     for i in range(n):
         for j in range(i + 1, n):
-            if nn_vecs is not None:
-                s = float(sum(nn_vecs[i][k] * nn_vecs[j][k] for k in range(len(nn_vecs[i]))))
-                s = max(0.0, s)
-            else:
-                s = cosine_sim(vecs[i], vecs[j])
+            s = cosine_sim(tfidf[i], tfidf[j])
             sim[i][j] = sim[j][i] = s
     groups = list(range(n))
     while True:
@@ -512,6 +576,62 @@ def cluster_semantic(items, threshold=0.14):
         for k in range(n):
             if groups[k] == gb:
                 groups[k] = ga
+
+    # 神经近重复合并（真实嵌入；相似度>=0.70 视为同一事件的重复/改写报道）
+    if os.environ.get("OPTOHOT_EMBED") == "1":
+        try:
+            os.environ.setdefault("HF_HUB_DOWNLOAD_TIMEOUT", "20")
+            os.environ.setdefault("HF_HUB_ETAG_TIMEOUT", "10")
+            try:
+                urllib.request.urlopen(urllib.request.Request(
+                    "https://huggingface.co/BAAI/bge-small-zh-v1.5/resolve/main/config.json",
+                    headers={"User-Agent": UA}), timeout=8)
+            except Exception:
+                log("[!] HuggingFace 不可达，跳过神经近重复合并")
+                use_nn = False
+            else:
+                use_nn = True
+            if use_nn:
+                from sentence_transformers import SentenceTransformer
+                _m = SentenceTransformer("BAAI/bge-small-zh-v1.5")
+                vecs = _m.encode([it["title"] for it in items], normalize_embeddings=True)
+
+                def find(x):
+                    while parent[x] != x:
+                        parent[x] = parent[parent[x]]
+                        x = parent[x]
+                    return x
+
+                def union(a, b):
+                    ra, rb = find(a), find(b)
+                    if ra != rb:
+                        parent[rb] = ra
+
+                parent = list(range(n))
+                for i in range(n):
+                    vi = vecs[i]
+                    for j in range(i + 1, n):
+                        s = float(sum(vi[k] * vecs[j][k] for k in range(len(vi))))
+                        if s >= 0.70:
+                            union(i, j)
+                gset = {}
+                for idx, g in enumerate(groups):
+                    gset.setdefault(g, []).append(idx)
+                for members in gset.values():
+                    for k in range(1, len(members)):
+                        union(members[0], members[k])
+                rootmap = {}
+                ng = [0] * n
+                for x in range(n):
+                    r = find(x)
+                    if r not in rootmap:
+                        rootmap[r] = len(rootmap)
+                    ng[x] = rootmap[r]
+                groups = ng
+                log("[*] 神经近重复合并完成（sentence-transformers / bge-small-zh）")
+        except Exception as e:
+            log("[!] 神经嵌入不可用，仅 TF-IDF 聚类: %s" % e)
+
     from collections import defaultdict
     gmap = defaultdict(list)
     for idx, g in enumerate(groups):
@@ -544,6 +664,13 @@ def compute_scores(items, topics, source_weight):
         it["score"] = round(50 * sw + 25 * min(1.0, sig / 10.0) + 25 * rec, 1)
     for t in topics:
         finalize_topic(t, items)
+    topic_map = {}
+    for t in topics:
+        for iid in t["ids"]:
+            topic_map[iid] = (t["id"], t["title"])
+    for it in items:
+        if it["id"] in topic_map:
+            it["topic_id"], it["topic_title"] = topic_map[it["id"]]
 
 
 def merge_duplicate_topics(topics, items):
@@ -609,6 +736,16 @@ def finalize_topic(t, items):
         "title": i["title"], "url": i["url"], "source": i["source"],
         "score": i["score"], "published_at": i["published_at"],
     } for i in sorted(its, key=lambda x: x["score"], reverse=True)[:5]]
+    try:
+        tvec = tfidf_vectors(its)
+        centroid = {}
+        for v in tvec:
+            for kk, w in v.items():
+                centroid[kk] = centroid.get(kk, 0) + w
+        ranked = sorted(centroid.items(), key=lambda x: -x[1])
+        t["top_terms"] = [k2 for k2, _ in ranked if not k2.startswith("DT:")][:5] or [k2 for k2, _ in ranked][:5]
+    except Exception:
+        t["top_terms"] = []
 
 
 def dedupe_topic_titles(topics, items):
@@ -680,6 +817,60 @@ def build_daily(items, topics, generated):
         "byDay": days,
         "bySource": sorted(src_map.values(), key=lambda s: -s["count"]),
     }
+
+
+def fetch_text(url, timeout=15):
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        data = r.read()
+    cs = detect_charset(data)
+    txt = data.decode(cs, "replace")
+    txt = re.sub(r"<script[\s\S]*?</script>|<style[\s\S]*?</style>", " ", txt, flags=re.I)
+    txt = re.sub(r"<[^>]+>", " ", txt)
+    txt = htmlmod.unescape(txt)
+    return re.sub(r"\s+", " ", txt)
+
+
+def extract_biz_text(text, title=""):
+    """从详情页文本提取 项目号/预算/截止时间（比标题级更可靠）"""
+    biz = {}
+    m = re.search(r"(?:项目|招标|采购)(?:编号|项目号|标段号)\s*[:：]\s*([^\s，。；,;]{3,40})", text)
+    if not m:
+        m = re.search(r"(?:招标编号|项目编号|采购编号|标段(?:编)?号)\s*[:：]?\s*([A-Za-z0-9][A-Za-z0-9\-_（）()]{3,})", text)
+    if m:
+        biz["project_no"] = m.group(1).strip()
+    m = re.search(r"预算(?:金额|资金)?\s*[:：]\s*([0-9,，.]+)\s*(万|亿)?\s*元", text)
+    if m:
+        biz["budget"] = m.group(1).replace(",", "").replace("，", "") + (m.group(2) or "") + "元"
+    m = re.search(r"(?:投标|递交|报名|获取采购文件|响应文件)(?:截止|递交截止)(?:时间)?\s*[:：]?\s*(\d{4}年\d{1,2}月\d{1,2}日(?:\s*\d{1,2}[:：]\d{2})?)", text)
+    if not m:
+        m = re.search(r"截止时间\s*[:：]?\s*(\d{4}[-年/.]\d{1,2}[-月/.]\d{1,2}日?(?:\s*\d{1,2}[:：]\d{2})?)", text)
+    if m:
+        biz["deadline"] = m.group(1).replace("年", "-").replace("月", "-").replace("日", "").replace("：", ":")
+    if "project_no" not in biz:
+        m = re.search(r"(?:发文字号|文号|文件编号)\s*[:：]?\s*([^\s，。；]{3,30})", text)
+        if m:
+            biz["project_no"] = m.group(1).strip()
+    return biz
+
+
+BIZ_SOURCES = {"中国政府采购网", "中国招标投标公共服务平台", "工信部要闻"}
+
+
+def extract_biz(title):
+    """从标题提取招标/政策结构化字段（项目号/预算/截止时间）——v1 标题级解析"""
+    biz = {}
+    m = re.search(r"(?:项目|招标|采购)?(?:编号|标段号|文号)\s*[:：]?\s*([A-Za-z0-9][A-Za-z0-9\-—－_（）()]{3,})", title)
+    if m:
+        biz["project_no"] = m.group(1).strip("（）()")
+    m = re.search(r"预算(?:金额|资金)?\s*[:：]?\s*([0-9,，.]+)\s*(万|亿)?\s*元", title)
+    if m:
+        num = m.group(1).replace(",", "").replace("，", "")
+        biz["budget"] = (num + (m.group(2) or "") + "元")
+    m = re.search(r"(?:截止|开标|投标截止|递交(?:截止)?)(?:时间)?\s*[:：]?\s*(\d{4}[-年/.]\d{1,2}[-月/.]\d{1,2}日?(?:\s*\d{1,2}[:：]\d{2})?)", title)
+    if m:
+        biz["deadline"] = m.group(1).replace("年", "-").replace("月", "-").replace("日", "").replace("：", ":")
+    return biz
 
 
 # ---------------- 日报归档 ----------------
@@ -908,6 +1099,7 @@ pre { background:#0f172a; color:#dbeafe; border-radius:10px; padding:12px 14px; 
 .hot-sort { display:inline-flex; gap:6px; margin-left:auto; }
 .hot-sort button { border:1px solid var(--border); background:var(--card); color:var(--muted); border-radius:8px; padding:2px 9px; font-size:12px; cursor:pointer; }
 .hot-sort button.on { color:var(--accent); border-color:var(--accent); }
+.chip-term { background:var(--accent-soft); color:var(--accent); }
 .gh-link { display:inline-flex; align-items:center; gap:5px; border:1px solid var(--accent); color:var(--accent); background:var(--accent-soft); border-radius:9px; padding:5px 12px; font-size:12.5px; font-weight:600; white-space:nowrap; }
 .gh-link:hover { background:var(--accent); color:#fff; opacity:1; }
 .gh-foot { color:var(--accent); font-weight:600; }
@@ -996,14 +1188,14 @@ const renderers = {};
 function router(){ const h=(location.hash||"#/").replace("#",""); const name=h.split("?")[0]||"/"; const map={"/":"feed","/all":"all","/hot":"hot","/daily":"daily","/topics":"topics","/data":"data","/agent":"agent"}; const v=map[name]||"feed"; $$(".side-link").forEach(a=>a.classList.toggle("side-link-active", a.getAttribute("href")===("#"+name))); $$(".view").forEach(x=>x.classList.remove("view-active")); $("#view-"+v).classList.add("view-active"); (renderers[v]||renderers.feed)(); }
 function renderFeed(){ const root=$("#view-feed"); root.innerHTML=""; const top=S.topics.slice(0,6); let hot='<div class="card hotcard"><div class="hotcard-head"><span class="t">'+T.hotCard+'</span><a class="more" href="#/hot">'+T.hotMore+'</a></div><ol class="hot-topics-list">'+top.map((t,i)=>'<li class="hot-topics-row"><span class="hot-topics-rank hot-topics-rank-'+(i+1)+'">'+(i+1)+'</span><a class="hot-topics-link" href="'+(t.links&&t.links[0]?esc(t.links[0].url):"#/hot")+'" target="_blank" rel="noopener">'+esc(t.title)+'</a><span class="hot-topics-meta">'+t.source_count+' '+T.src+' · <b>'+Math.round(t.heat||t.score)+'</b> '+T.heat+'</span></li>').join("")+'</ol></div>'; const groups={}; for(const it of S.items){ const d=effDate(it); (groups[d]=groups[d]||[]).push(it); } const days=Object.keys(groups).sort().reverse().slice(0,7); let tl=""; for(const d of days){ const its=groups[d].slice().sort((a,b)=>b.score-a.score).slice(0,20); tl+='<div class="timeline-day"><div class="timeline-day-head"><h2>'+(isToday(d)?"今天 "+fmtDay(d):fmtDay(d))+'</h2><span class="week">'+wdCN(d)+'</span><span class="cnt">'+its.length+' '+T.daySel+'</span></div><div class="timeline">'+its.map(itemCard).join("")+'</div></div>'; } root.innerHTML=hot+tl; }
 function renderAll(){ const root=$("#view-all"); let its=S.items.slice(); if(state.q){ const q=state.q.toLowerCase(); its=its.filter(i=>(i.title+" "+(i.summary||"")+" "+i.source).toLowerCase().includes(q)); } if(state.cat!=="全部") its=its.filter(i=>i.category===state.cat); if(state.sort==="score") its.sort((a,b)=>b.score-a.score); else if(state.sort==="time") its.sort((a,b)=>b.discovered_at.localeCompare(a.discovered_at)); root.querySelector(".count").textContent=its.length; $("#all-list").innerHTML=its.length?its.map(itemCard).join(""):'<div class="empty">'+T.noMatch+'</div>'; }
-function renderHot(){ const root=$("#view-hot"); let ts=S.topics.slice(); if(state.hotSort==="sources") ts.sort((a,b)=>b.source_count-a.source_count); const head='<div class="card page-head"><h1>'+T.hotPage+'</h1><span class="sub">'+T.hotSub+'</span><span class="hot-sort"><button data-hs="heat" class="'+(state.hotSort==="heat"?"on":"")+'">'+T.heat+'</button><button data-hs="sources" class="'+(state.hotSort==="sources"?"on":"")+'">'+T.src+'</button></span></div>'; root.innerHTML=head+'<div class="card"><ol class="hot-rank-list">'+ts.map((t,i)=>{ const s=t.status; const flag=s==="爆"?'<span class="flag flag-hot">'+statusName(s)+'</span>':(s==="发酵中"?'<span class="flag flag-warm">'+statusName(s)+'</span>':'<span class="flag flag-watch">'+statusName(s)+'</span>'); const chips=(t.sources||[]).map(x=>'<span class="chip">'+esc(x)+'</span>').join(""); const l0=t.links&&t.links[0]?t.links[0].url:""; return '<li class="hot-rank-row"><span class="hot-rank-no">'+String(i+1).padStart(2,"0")+'</span><div class="hot-rank-main"><div class="hot-rank-title"><a href="'+esc(l0)+'" target="_blank" rel="noopener">'+esc(t.title)+'</a> '+flag+'</div><div class="hot-rank-meta"><span>'+(t.sources[0]||"")+'</span><span>'+fmtRel(t.latest_at)+'</span><span>'+t.source_count+' '+T.sources+' · '+t.signal_count+' '+T.signals+'</span></div><div class="src-chips">'+chips+'</div></div><div class="hot-rank-heat">'+Math.round(t.heat||t.score)+'<div style="font-size:11px;color:var(--muted);font-weight:400">'+T.heatVal+'</div></div></li>'; }).join("")+'</ol></div>'; }
+function renderHot(){ const root=$("#view-hot"); let ts=S.topics.slice(); if(state.hotSort==="sources") ts.sort((a,b)=>b.source_count-a.source_count); const head='<div class="card page-head"><h1>'+T.hotPage+'</h1><span class="sub">'+T.hotSub+'</span><span class="hot-sort"><button data-hs="heat" class="'+(state.hotSort==="heat"?"on":"")+'">'+T.heat+'</button><button data-hs="sources" class="'+(state.hotSort==="sources"?"on":"")+'">'+T.src+'</button></span></div>'; root.innerHTML=head+'<div class="card"><ol class="hot-rank-list">'+ts.map((t,i)=>{ const s=t.status; const flag=s==="爆"?'<span class="flag flag-hot">'+statusName(s)+'</span>':(s==="发酵中"?'<span class="flag flag-warm">'+statusName(s)+'</span>':'<span class="flag flag-watch">'+statusName(s)+'</span>'); const chips=(t.sources||[]).map(x=>'<span class="chip">'+esc(x)+'</span>').join(""); const terms=(t.top_terms||[]).map(x=>'<span class="chip chip-term">'+esc(x)+'</span>').join(""); const l0=t.links&&t.links[0]?t.links[0].url:""; return '<li class="hot-rank-row"><span class="hot-rank-no">'+String(i+1).padStart(2,"0")+'</span><div class="hot-rank-main"><div class="hot-rank-title"><a href="'+esc(l0)+'" target="_blank" rel="noopener">'+esc(t.title)+'</a> '+flag+'</div><div class="hot-rank-meta"><span>'+(t.sources[0]||"")+'</span><span>'+fmtRel(t.latest_at)+'</span><span>'+t.source_count+' '+T.sources+' · '+t.signal_count+' '+T.signals+'</span></div><div class="src-chips">'+terms+chips+'</div></div><div class="hot-rank-heat">'+Math.round(t.heat||t.score)+'<div style="font-size:11px;color:var(--muted);font-weight:400">'+T.heatVal+'</div></div></li>'; }).join("")+'</ol></div>'; }
 function renderDaily(){ const root=$("#view-daily"); const dates=Object.keys(S.dailies||{}).sort().reverse(); const d=state.dailyDate&&S.dailies[state.dailyDate]?state.dailyDate:(dates[0]||todayCN()); state.dailyDate=d; const rep=S.dailies[d]; let side='<aside class="daily-side"><div class="daily-side-card"><h3>'+T.archive+'（'+dates.length+'）</h3>'; let cm=""; for(const x of dates){ const m=x.slice(0,7); if(m!==cm){ cm=m; side+='<div class="dm">'+m+'</div>'; } side+='<div class="daily-day'+(x===d?" daily-day-active":"")+'" data-d="'+x+'">'+fmtDay(x).slice(5)+'<span class="week">'+wdCN(x)+'</span></div>'; } side+='</div></aside>'; let body='<div class="m-daily-body">'; if(rep){ const toc=rep.sections.map((s,i)=>'<li><a class="reader-toc-row" href="#sec-'+i+'"><span class="reader-toc-no">'+String(i+1).padStart(2,"0")+'</span><span class="reader-toc-label">'+esc(catName(s.category))+'</span><span>'+esc(s.articles[0].title)+'</span></a></li>').join(""); body+='<div class="m-daily-eyebrow">OPTOHOT DAILY</div><div class="m-daily-issue-date">'+esc(rep.label)+' · '+esc(rep.weekday)+'</div><nav class="reader-toc"><div class="reader-toc-head"><span class="reader-toc-heading">'+T.toc+'</span><span class="reader-toc-meta">'+rep.tocCount+' '+T.reports+' · '+T.minutes+' '+rep.readMinutes+' '+T.minutes2+'</span></div><ol class="reader-toc-list">'+toc+'</ol></nav>'; rep.sections.forEach((s,i)=>{ body+='<section class="daily-sec" id="sec-'+i+'"><h3>'+esc(catName(s.category))+'</h3>'+s.articles.map(a=>'<article class="daily-article"><div class="daily-article-title"><a href="'+esc(a.url)+'" target="_blank" rel="noopener">'+esc(a.title)+'</a></div><div class="daily-article-source"><span class="role-tag">'+esc(a.role)+'</span><span>'+esc(a.source)+'</span><span>'+esc(pubLabel(a))+'</span></div>'+(a.summary?'<p class="daily-article-summary">'+esc(a.summary)+'</p>':"")+'</article>').join(""); body+='</section>'; }); } else { body+='<div class="empty">-</div>'; } body+='</div>'; root.innerHTML='<div class="daily-shell">'+side+body+'</div>'; $$(".daily-day", root).forEach(el=>el.onclick=()=>{ state.dailyDate=el.dataset.d; renderDaily(); }); }
 function renderTopics(){ const root=$("#view-topics"); const rows=S.daily.byCategory||[]; root.innerHTML='<div class="topic-grid">'+rows.map(r=>'<div class="topic-card" data-cat="'+esc(r.category)+'"><div class="t-name">'+esc(catName(r.category))+'<span class="badge b-cat">'+r.total+'</span></div><div class="t-nums"><span>24h <b>'+r.last24h+'</b></span><span>7d <b>'+r.last7d+'</b></span><span>'+T.total+' <b>'+r.total+'</b></span></div></div>').join("")+'</div>'; $$(".topic-card", root).forEach(el=>el.onclick=()=>{ state.cat=el.dataset.cat; $("#all-cat").value=state.cat; location.hash="#/all"; }); }
 function renderData(){ const root=$("#view-data"); const dl=S.daily; const maxDay=Math.max(...dl.byDay.map(x=>x.count),1); const chart='<div class="day-chart">'+dl.byDay.map(x=>'<div class="day-col"><div class="dbar" title="'+x.date+': '+x.count+'" style="height:'+Math.max(2,x.count/maxDay*100).toFixed(1)+'%"></div><span class="dl">'+x.date.slice(5)+'</span></div>').join("")+'</div>'; const rows=dl.bySource.map(s=>'<tr><td>'+esc(s.source)+'</td><td>'+s.count+'</td><td>'+fmtRel(s.latestAt)+'</td></tr>').join(""); root.innerHTML='<div class="stats"><div class="stat"><div class="num">'+dl.total+'</div><div class="lbl">'+T.total+'</div></div><div class="stat"><div class="num">'+dl.last24h+'</div><div class="lbl">'+T.h24+'</div></div><div class="stat"><div class="num">'+dl.last7d+'</div><div class="lbl">'+T.h7+'</div></div><div class="stat"><div class="num">'+dl.topicCount+'</div><div class="lbl">'+T.hotTopic+'</div></div></div><div class="card pad"><h3 style="font-size:14px;margin-bottom:6px">'+T.trend+'</h3>'+chart+'</div><div class="card pad" style="margin-top:14px"><h3 style="font-size:14px;margin-bottom:6px">'+T.srcTable+'</h3><table><thead><tr><th>'+T.srcTable+'</th><th>'+T.total+'</th><th>'+T.latest+'</th></tr></thead><tbody>'+rows+'</tbody></table></div><div class="dl-row"><a class="dl-btn" href="data/report.csv" download>'+T.dlCSV+'</a><a class="dl-btn" href="data/items.json" target="_blank">'+T.dlItems+'</a><a class="dl-btn" href="data/hot-topics.json" target="_blank">'+T.dlHot+'</a><a class="dl-btn" href="data/dailies.json" target="_blank">'+T.dlDaily+'</a></div>'; }
 function renderAgent(){
   const root=$("#view-agent");
   const base=location.href.split("?")[0].split("#")[0].replace(/index\.html$/,"");
-  const eps=[["items",T.dlItems],["hot-topics",T.dlHot],["dailies",T.dlDaily],["daily","daily.json"],["stories","stories.json"]];
+  const eps=[["items",T.dlItems],["hot-topics",T.dlHot],["dailies",T.dlDaily],["daily","daily.json"],["stories","stories.json"],["biz","政策/招投标库"]];
   const rows=eps.map(([k,d])=>'<tr class="ep-table"><td class="mono">api/v1/'+k+'.json</td><td>'+d+'</td><td><a href="'+base+'api/v1/'+k+'.json" target="_blank" rel="noopener">'+T.open+' ↗</a></td></tr>').join("");
   const curl=eps.map(([k])=>'curl '+base+'api/v1/'+k+'.json').join("\n");
   const feeds=["feed.xml","category/laser.xml","category/fiber.xml","category/display.xml","category/chip.xml","category/optics.xml","category/sensing.xml","category/pv.xml","category/research.xml","category/capital.xml","category/telecom.xml","category/other.xml"];
@@ -1250,6 +1442,34 @@ def write_outputs(items, topics, daily, dailies, generated):
     with open(os.path.join(api_dir, "openapi.json"), "w", encoding="utf-8") as f:
         json.dump(build_openapi(generated), f, ensure_ascii=False, indent=2)
 
+    # ---- 政策/招投标结构化库 ----
+    biz_items = [it for it in items if it["source"] in BIZ_SOURCES]
+    biz_rows = [{
+        "source": it["source"], "title": it["title"], "url": it["url"],
+        "category": it["category"], "published_at": it.get("published_at"),
+        "discovered_at": it["discovered_at"],
+        "project_no": (it.get("biz") or {}).get("project_no"),
+        "budget": (it.get("biz") or {}).get("budget"),
+        "deadline": (it.get("biz") or {}).get("deadline"),
+    } for it in biz_items]
+    biz_doc = {"schemaVersion": 1, "generatedAt": generated.isoformat(),
+               "count": len(biz_rows),
+               "fields": ["project_no", "budget", "deadline"], "items": biz_rows}
+    dump(biz_doc, os.path.join(DATA_DIR, "biz.json"))
+    shutil.copyfile(os.path.join(DATA_DIR, "biz.json"), os.path.join(dist_data, "biz.json"))
+    dump(biz_doc, os.path.join(api_dir, "biz.json"))
+    bbuf = io.StringIO()
+    bw = csv.writer(bbuf)
+    bw.writerow(["source", "title", "category", "url", "published_at", "discovered_at",
+                 "project_no", "budget", "deadline"])
+    for r in biz_rows:
+        bw.writerow([r["source"], r["title"], r["category"], r["url"],
+                     r.get("published_at") or "", r["discovered_at"],
+                     r.get("project_no") or "", r.get("budget") or "", r.get("deadline") or ""])
+    with open(os.path.join(DATA_DIR, "biz.csv"), "w", encoding="utf-8-sig", newline="") as f:
+        f.write(bbuf.getvalue())
+    shutil.copyfile(os.path.join(DATA_DIR, "biz.csv"), os.path.join(dist_data, "biz.csv"))
+
     # ---- llms.txt（LLM / Agent 友好入口） ----
     llms = """# Opto-Hot · 光电行业热点统计
 
@@ -1266,6 +1486,7 @@ def write_outputs(items, topics, daily, dailies, generated):
 - 光电日报（按日期归档）: ./api/v1/dailies.json
 - 统计聚合: ./api/v1/daily.json
 - 事件故事（多源聚合）: ./api/v1/stories.json
+- 政策/招投标结构化库（项目号/预算/截止时间）: ./api/v1/biz.json
 
 ## RSS 订阅（阅读器 / Agent）
 - 全部: ./feed.xml
@@ -1330,9 +1551,30 @@ def main():
             "discovered_at": generated.isoformat(),
             "summary": r.get("summary"),
             "keywords": extract_keywords(r["title"]),
+            "biz": extract_biz(r["title"]) if r["source"] in BIZ_SOURCES else None,
             "score": 0.0,
         })
     log("[*] 去重后 %d 条" % len(items))
+
+    # 政策/招投标：有界抓取详情页，提取 项目号/预算/截止时间（失败不影响整体）
+    fetched = {src: 0 for src in BIZ_SOURCES}
+    for it in items:
+        if it["source"] not in BIZ_SOURCES:
+            continue
+        if fetched[it["source"]] >= 8:
+            continue
+        if not re.search(r"招标|采购|公告|通知|办法|条例|规定|意见|细则|询价|磋商|谈判|中标|更正|征集|遴选", it["title"]):
+            continue
+        try:
+            text = fetch_text(it["url"])
+        except Exception:
+            continue
+        b = extract_biz_text(text, it["title"])
+        if b:
+            it["biz"] = b
+        fetched[it["source"]] += 1
+        time.sleep(0.8)
+    log("[*] 政策/招投标详情解析完成（命中 %d 条）" % sum(1 for it in items if it.get("biz")))
 
     topics = cluster_topics(items)
     topics = merge_duplicate_topics(topics, items)

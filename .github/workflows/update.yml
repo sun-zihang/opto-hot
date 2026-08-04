@@ -28,7 +28,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: 运行采集器
+      - name: 安装轻量嵌入模型（真嵌入聚类；失败自动回退 TF-IDF）
+        run: pip install -q sentence-transformers
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-bge-small-zh-${{ runner.os }}-${{ hashFiles('collector/collect.py') }}
+      - name: 运行采集器（真嵌入聚类）
+        env:
+          OPTOHOT_EMBED: "1"
         run: python collector/collect.py --limit 25
       - name: 部署 CloudBase（免登录，每 6 小时）
         continue-on-error: true

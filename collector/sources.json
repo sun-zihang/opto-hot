@@ -1,25 +1,258 @@
 {
   "rss": [
-    {"name": "arXiv 光学与光子学 (physics.optics)", "url": "http://export.arxiv.org/rss/physics.optics", "weight": 0.8, "limit": 20, "filter_keywords": []},
-    {"name": "Nature Photonics", "url": "https://www.nature.com/nphoton.rss", "weight": 0.9, "limit": 15, "filter_keywords": []},
-    {"name": "Phys.org 物理新闻", "url": "https://phys.org/rss-feed/physics-news/", "weight": 0.6, "limit": 25, "filter_keywords": ["laser","photonics","optical","optics","fiber","fibre","lidar","led","oled","display","infrared","imaging","sensor","semiconductor","euv","quantum","camera","photonic","optoelectronic","holographic","光","激光","光电","光学","显示","光纤","红外"]},
-    {"name": "LEDinside 英文", "url": "https://www.ledinside.com/rss", "weight": 0.8, "limit": 15, "filter_keywords": []},
-    {"name": "EDN 电子工程专辑", "url": "https://www.edn.com/feed/", "weight": 0.6, "limit": 20, "filter_keywords": ["laser","photonics","optical","optics","led","oled","display","lidar","infrared","sensor","camera","semiconductor","euv","fiber","imaging","microled","miniled","photonics"]},
-    {"name": "C114中国通信网_要闻精选", "url": "http://www.c114.com.cn/rss/rss_news_489.xml", "weight": 0.9, "limit": 15, "filter_keywords": []},
-    {"name": "C114中国通信网_通信财经", "url": "http://www.c114.com.cn/rss/rss_news_24.xml", "weight": 0.9, "limit": 15, "filter_keywords": []},
-    {"name": "C114中国通信网_IT资讯", "url": "http://www.c114.com.cn/rss/rss_news_27.xml", "weight": 0.8, "limit": 15, "filter_keywords": []},
-    {"name": "C114中国通信网_设备商", "url": "http://www.c114.com.cn/rss/rss_news_18.xml", "weight": 0.9, "limit": 15, "filter_keywords": []},
-    {"name": "C114中国通信网_监管", "url": "http://www.c114.com.cn/rss/rss_news_550.xml", "weight": 0.7, "limit": 15, "filter_keywords": []}
+    {
+      "name": "arXiv 光学与光子学 (physics.optics)",
+      "url": "http://export.arxiv.org/rss/physics.optics",
+      "weight": 0.8,
+      "limit": 20,
+      "filter_keywords": []
+    },
+    {
+      "name": "Nature Photonics",
+      "url": "https://www.nature.com/nphoton.rss",
+      "weight": 0.9,
+      "limit": 15,
+      "filter_keywords": []
+    },
+    {
+      "name": "Phys.org 物理新闻",
+      "url": "https://phys.org/rss-feed/physics-news/",
+      "weight": 0.6,
+      "limit": 25,
+      "filter_keywords": [
+        "laser",
+        "photonics",
+        "optical",
+        "optics",
+        "fiber",
+        "fibre",
+        "lidar",
+        "led",
+        "oled",
+        "display",
+        "infrared",
+        "imaging",
+        "sensor",
+        "semiconductor",
+        "euv",
+        "quantum",
+        "camera",
+        "photonic",
+        "optoelectronic",
+        "holographic",
+        "光",
+        "激光",
+        "光电",
+        "光学",
+        "显示",
+        "光纤",
+        "红外"
+      ]
+    },
+    {
+      "name": "LEDinside 英文",
+      "url": "https://www.ledinside.com/rss",
+      "weight": 0.8,
+      "limit": 15,
+      "filter_keywords": []
+    },
+    {
+      "name": "EDN 电子工程专辑",
+      "url": "https://www.edn.com/feed/",
+      "weight": 0.6,
+      "limit": 20,
+      "filter_keywords": [
+        "laser",
+        "photonics",
+        "optical",
+        "optics",
+        "led",
+        "oled",
+        "display",
+        "lidar",
+        "infrared",
+        "sensor",
+        "camera",
+        "semiconductor",
+        "euv",
+        "fiber",
+        "imaging",
+        "microled",
+        "miniled",
+        "photonics"
+      ]
+    },
+    {
+      "name": "C114中国通信网_要闻精选",
+      "url": "http://www.c114.com.cn/rss/rss_news_489.xml",
+      "weight": 0.9,
+      "limit": 15,
+      "filter_keywords": []
+    },
+    {
+      "name": "C114中国通信网_通信财经",
+      "url": "http://www.c114.com.cn/rss/rss_news_24.xml",
+      "weight": 0.9,
+      "limit": 15,
+      "filter_keywords": []
+    },
+    {
+      "name": "C114中国通信网_IT资讯",
+      "url": "http://www.c114.com.cn/rss/rss_news_27.xml",
+      "weight": 0.8,
+      "limit": 15,
+      "filter_keywords": []
+    },
+    {
+      "name": "C114中国通信网_设备商",
+      "url": "http://www.c114.com.cn/rss/rss_news_18.xml",
+      "weight": 0.9,
+      "limit": 15,
+      "filter_keywords": []
+    },
+    {
+      "name": "C114中国通信网_监管",
+      "url": "http://www.c114.com.cn/rss/rss_news_550.xml",
+      "weight": 0.7,
+      "limit": 15,
+      "filter_keywords": []
+    }
   ],
   "html": [
-    {"name": "OFweek 光电频道", "url": "https://optics.ofweek.com/", "charset": "gbk", "weight": 1.0, "limit": 20, "anchor_pattern": "ART-", "url_date": "y-m"},
-    {"name": "OFweek 激光频道", "url": "https://laser.ofweek.com/", "charset": "gbk", "weight": 1.0, "limit": 20, "anchor_pattern": "ART-", "url_date": "y-m"},
-    {"name": "LEDinside 中文", "url": "https://www.ledinside.cn/", "charset": "utf-8", "weight": 0.9, "limit": 20, "anchor_pattern": "20\\d{6}-", "url_date": "y-m-d"},
-    {"name": "CIOE 中国光博会", "url": "https://cioe.cn/", "charset": "utf-8", "weight": 0.9, "limit": 20, "anchor_pattern": "news/\\d+_info", "title_date": "prefix"},
-    {"name": "COEMA 中国光电子行业协会", "url": "https://www.coema.org.cn/", "charset": "gbk", "weight": 0.8, "limit": 20, "anchor_pattern": "industry/", "url_date": "y-m"},
-    {"name": "搜狗微信·光电行业", "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A", "charset": "utf-8", "weight": 0.7, "limit": 12, "anchor_pattern": "^/link\\?url=", "title_keywords": ["光电","激光","光学","半导体","芯片","显示","LED","OLED","光子","光纤","成像","传感器","激光雷达","光伏","光通信","光模块","光刻"]},
-    {"name": "中国政府采购网", "url": "https://www.ccgp.gov.cn/", "charset": "utf-8", "weight": 0.8, "limit": 15, "anchor_pattern": "news/\\d{6}/t\\d{8}", "url_date": "y-m-d-t"},
-    {"name": "中国招标投标公共服务平台", "url": "http://www.cebpubservice.com/", "charset": "utf-8", "weight": 0.8, "limit": 12, "anchor_pattern": "monitorplat/\\d{4}/\\d{2}/", "url_date": "y-m"},
-    {"name": "工信部要闻", "url": "https://www.miit.gov.cn/", "charset": "utf-8", "weight": 0.8, "limit": 15, "anchor_pattern": "art/2026/", "title_keywords": ["光电","激光","半导体","芯片","集成电路","显示","面板","光纤","光通信","5G","6G","算力","数据中心","电子信息","通信","卫星","规划","政策","通知","标准","工业","人工智能","光子","光模块"]}
+    {
+      "name": "OFweek 光电频道",
+      "url": "https://optics.ofweek.com/",
+      "charset": "gbk",
+      "weight": 1.0,
+      "limit": 20,
+      "anchor_pattern": "ART-",
+      "url_date": "y-m"
+    },
+    {
+      "name": "OFweek 激光频道",
+      "url": "https://laser.ofweek.com/",
+      "charset": "gbk",
+      "weight": 1.0,
+      "limit": 20,
+      "anchor_pattern": "ART-",
+      "url_date": "y-m"
+    },
+    {
+      "name": "LEDinside 中文",
+      "url": "https://www.ledinside.cn/",
+      "charset": "utf-8",
+      "weight": 0.9,
+      "limit": 20,
+      "anchor_pattern": "20\\d{6}-",
+      "url_date": "y-m-d"
+    },
+    {
+      "name": "CIOE 中国光博会",
+      "url": "https://cioe.cn/",
+      "charset": "utf-8",
+      "weight": 0.9,
+      "limit": 20,
+      "anchor_pattern": "news/\\d+_info",
+      "title_date": "prefix"
+    },
+    {
+      "name": "COEMA 中国光电子行业协会",
+      "url": "https://www.coema.org.cn/",
+      "charset": "gbk",
+      "weight": 0.8,
+      "limit": 20,
+      "anchor_pattern": "industry/",
+      "url_date": "y-m"
+    },
+    {
+      "name": "搜狗微信·光电行业",
+      "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A",
+      "charset": "utf-8",
+      "weight": 0.7,
+      "limit": 12,
+      "anchor_pattern": "^/link\\?url=",
+      "title_keywords": [
+        "光电",
+        "激光",
+        "光学",
+        "半导体",
+        "芯片",
+        "显示",
+        "LED",
+        "OLED",
+        "光子",
+        "光纤",
+        "成像",
+        "传感器",
+        "激光雷达",
+        "光伏",
+        "光通信",
+        "光模块",
+        "光刻"
+      ],
+      "sogou_wechat": true,
+      "queries": [
+        "光电行业",
+        "激光行业",
+        "光通信",
+        "LED显示",
+        "半导体显示",
+        "光学镜头",
+        "光模块",
+        "激光雷达"
+      ]
+    },
+    {
+      "name": "中国政府采购网",
+      "url": "https://www.ccgp.gov.cn/",
+      "charset": "utf-8",
+      "weight": 0.8,
+      "limit": 15,
+      "anchor_pattern": "news/\\d{6}/t\\d{8}",
+      "url_date": "y-m-d-t"
+    },
+    {
+      "name": "中国招标投标公共服务平台",
+      "url": "http://www.cebpubservice.com/",
+      "charset": "utf-8",
+      "weight": 0.8,
+      "limit": 12,
+      "anchor_pattern": "monitorplat/\\d{4}/\\d{2}/",
+      "url_date": "y-m"
+    },
+    {
+      "name": "工信部要闻",
+      "url": "https://www.miit.gov.cn/",
+      "charset": "utf-8",
+      "weight": 0.8,
+      "limit": 15,
+      "anchor_pattern": "art/2026/",
+      "title_keywords": [
+        "光电",
+        "激光",
+        "半导体",
+        "芯片",
+        "集成电路",
+        "显示",
+        "面板",
+        "光纤",
+        "光通信",
+        "5G",
+        "6G",
+        "算力",
+        "数据中心",
+        "电子信息",
+        "通信",
+        "卫星",
+        "规划",
+        "政策",
+        "通知",
+        "标准",
+        "工业",
+        "人工智能",
+        "光子",
+        "光模块"
+      ]
+    }
   ]
 }
