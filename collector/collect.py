@@ -908,6 +908,33 @@ pre { background:#0f172a; color:#dbeafe; border-radius:10px; padding:12px 14px; 
 .hot-sort { display:inline-flex; gap:6px; margin-left:auto; }
 .hot-sort button { border:1px solid var(--border); background:var(--card); color:var(--muted); border-radius:8px; padding:2px 9px; font-size:12px; cursor:pointer; }
 .hot-sort button.on { color:var(--accent); border-color:var(--accent); }
+@media (max-width: 640px) {
+  .topbar-inner { flex-wrap: wrap; gap: 8px; padding: 8px 12px; }
+  .brand { font-size: 15px; }
+  .searchbox { order: 3; flex-basis: 100%; max-width: none; }
+  .topbar-meta { display: none; }
+  .app-layout { padding: 10px; gap: 10px; }
+  .side-nav { position: sticky; top: 0; z-index: 40; background: #fff; border-bottom: 1px solid var(--border); padding: 6px 8px; flex-wrap: nowrap; }
+  .side-link { padding: 6px 10px; font-size: 13px; white-space: nowrap; }
+  .page-head { flex-wrap: wrap; padding: 10px 12px; }
+  .page-head .sub { flex-basis: 100%; }
+  .hot-rank-row { flex-wrap: wrap; gap: 6px; }
+  .hot-rank-heat { margin-left: 44px; }
+  .timeline-card-head { flex-wrap: wrap; }
+  .timeline-head-left { flex-wrap: wrap; }
+  .topic-grid { grid-template-columns: repeat(auto-fill, minmax(148px, 1fr)); }
+  .daily-side { position: static; }
+  .daily-side-card { max-height: 220px; overflow-y: auto; }
+  .m-daily-body { padding: 14px; }
+  .hot-sort { margin-left: 0; }
+  .hotcard-head { flex-wrap: wrap; }
+  .cards { grid-template-columns: 1fr 1fr; }
+  .dl-row { gap: 6px; }
+  .dl-btn { padding: 5px 9px; font-size: 12px; }
+  .cat-row { grid-template-columns: 76px 1fr; }
+  .cat-row .n { display: none; }
+}
+
 """
 
 APP_JS = r"""const S = __SNAPSHOT__;
@@ -969,7 +996,20 @@ function renderHot(){ const root=$("#view-hot"); let ts=S.topics.slice(); if(sta
 function renderDaily(){ const root=$("#view-daily"); const dates=Object.keys(S.dailies||{}).sort().reverse(); const d=state.dailyDate&&S.dailies[state.dailyDate]?state.dailyDate:(dates[0]||todayCN()); state.dailyDate=d; const rep=S.dailies[d]; let side='<aside class="daily-side"><div class="daily-side-card"><h3>'+T.archive+'（'+dates.length+'）</h3>'; let cm=""; for(const x of dates){ const m=x.slice(0,7); if(m!==cm){ cm=m; side+='<div class="dm">'+m+'</div>'; } side+='<div class="daily-day'+(x===d?" daily-day-active":"")+'" data-d="'+x+'">'+fmtDay(x).slice(5)+'<span class="week">'+wdCN(x)+'</span></div>'; } side+='</div></aside>'; let body='<div class="m-daily-body">'; if(rep){ const toc=rep.sections.map((s,i)=>'<li><a class="reader-toc-row" href="#sec-'+i+'"><span class="reader-toc-no">'+String(i+1).padStart(2,"0")+'</span><span class="reader-toc-label">'+esc(catName(s.category))+'</span><span>'+esc(s.articles[0].title)+'</span></a></li>').join(""); body+='<div class="m-daily-eyebrow">OPTOHOT DAILY</div><div class="m-daily-issue-date">'+esc(rep.label)+' · '+esc(rep.weekday)+'</div><nav class="reader-toc"><div class="reader-toc-head"><span class="reader-toc-heading">'+T.toc+'</span><span class="reader-toc-meta">'+rep.tocCount+' '+T.reports+' · '+T.minutes+' '+rep.readMinutes+' '+T.minutes2+'</span></div><ol class="reader-toc-list">'+toc+'</ol></nav>'; rep.sections.forEach((s,i)=>{ body+='<section class="daily-sec" id="sec-'+i+'"><h3>'+esc(catName(s.category))+'</h3>'+s.articles.map(a=>'<article class="daily-article"><div class="daily-article-title"><a href="'+esc(a.url)+'" target="_blank" rel="noopener">'+esc(a.title)+'</a></div><div class="daily-article-source"><span class="role-tag">'+esc(a.role)+'</span><span>'+esc(a.source)+'</span><span>'+esc(pubLabel(a))+'</span></div>'+(a.summary?'<p class="daily-article-summary">'+esc(a.summary)+'</p>':"")+'</article>').join(""); body+='</section>'; }); } else { body+='<div class="empty">-</div>'; } body+='</div>'; root.innerHTML='<div class="daily-shell">'+side+body+'</div>'; $$(".daily-day", root).forEach(el=>el.onclick=()=>{ state.dailyDate=el.dataset.d; renderDaily(); }); }
 function renderTopics(){ const root=$("#view-topics"); const rows=S.daily.byCategory||[]; root.innerHTML='<div class="topic-grid">'+rows.map(r=>'<div class="topic-card" data-cat="'+esc(r.category)+'"><div class="t-name">'+esc(catName(r.category))+'<span class="badge b-cat">'+r.total+'</span></div><div class="t-nums"><span>24h <b>'+r.last24h+'</b></span><span>7d <b>'+r.last7d+'</b></span><span>'+T.total+' <b>'+r.total+'</b></span></div></div>').join("")+'</div>'; $$(".topic-card", root).forEach(el=>el.onclick=()=>{ state.cat=el.dataset.cat; $("#all-cat").value=state.cat; location.hash="#/all"; }); }
 function renderData(){ const root=$("#view-data"); const dl=S.daily; const maxDay=Math.max(...dl.byDay.map(x=>x.count),1); const chart='<div class="day-chart">'+dl.byDay.map(x=>'<div class="day-col"><div class="dbar" title="'+x.date+': '+x.count+'" style="height:'+Math.max(2,x.count/maxDay*100).toFixed(1)+'%"></div><span class="dl">'+x.date.slice(5)+'</span></div>').join("")+'</div>'; const rows=dl.bySource.map(s=>'<tr><td>'+esc(s.source)+'</td><td>'+s.count+'</td><td>'+fmtRel(s.latestAt)+'</td></tr>').join(""); root.innerHTML='<div class="stats"><div class="stat"><div class="num">'+dl.total+'</div><div class="lbl">'+T.total+'</div></div><div class="stat"><div class="num">'+dl.last24h+'</div><div class="lbl">'+T.h24+'</div></div><div class="stat"><div class="num">'+dl.last7d+'</div><div class="lbl">'+T.h7+'</div></div><div class="stat"><div class="num">'+dl.topicCount+'</div><div class="lbl">'+T.hotTopic+'</div></div></div><div class="card pad"><h3 style="font-size:14px;margin-bottom:6px">'+T.trend+'</h3>'+chart+'</div><div class="card pad" style="margin-top:14px"><h3 style="font-size:14px;margin-bottom:6px">'+T.srcTable+'</h3><table><thead><tr><th>'+T.srcTable+'</th><th>'+T.total+'</th><th>'+T.latest+'</th></tr></thead><tbody>'+rows+'</tbody></table></div><div class="dl-row"><a class="dl-btn" href="data/report.csv" download>'+T.dlCSV+'</a><a class="dl-btn" href="data/items.json" target="_blank">'+T.dlItems+'</a><a class="dl-btn" href="data/hot-topics.json" target="_blank">'+T.dlHot+'</a><a class="dl-btn" href="data/dailies.json" target="_blank">'+T.dlDaily+'</a></div>'; }
-function renderAgent(){ const root=$("#view-agent"); const base=location.href.split("?")[0].split("#")[0].replace(/index\.html$/,""); const eps=[["items",T.dlItems],["hot-topics",T.dlHot],["dailies",T.dlDaily],["daily","daily.json"],["stories","stories.json"]]; const rows=eps.map(([k,d])=>'<tr class="ep-table"><td class="mono">api/v1/'+k+'.json</td><td>'+d+'</td><td><a href="'+base+'api/v1/'+k+'.json" target="_blank" rel="noopener">'+T.open+' ↗</a></td></tr>').join(""); const curl=eps.map(([k])=>'curl '+base+'api/v1/'+k+'.json').join("\n"); root.innerHTML='<div class="card pad"><h3 style="font-size:15px;margin-bottom:4px">🤖 '+T.apiTitle+'</h3><p class="agent-note">'+T.apiDesc+'</p><p class="agent-note">'+T.base+'：<span class="mono">'+esc(base)+'</span></p><table style="margin-top:10px"><thead><tr><th>'+T.endpoint+'</th><th>'+T.desc+'</th><th></th></tr></thead><tbody>'+rows+'</tbody></table></div><div class="card pad" style="margin-top:14px"><h3 style="font-size:15px;margin-bottom:4px">'+T.curl+'</h3><pre>'+esc(curl)+'</pre><p class="agent-note">'+T.llmsNote+'</p></div>'; }
+function renderAgent(){
+  const root=$("#view-agent");
+  const base=location.href.split("?")[0].split("#")[0].replace(/index\.html$/,"");
+  const eps=[["items",T.dlItems],["hot-topics",T.dlHot],["dailies",T.dlDaily],["daily","daily.json"],["stories","stories.json"]];
+  const rows=eps.map(([k,d])=>'<tr class="ep-table"><td class="mono">api/v1/'+k+'.json</td><td>'+d+'</td><td><a href="'+base+'api/v1/'+k+'.json" target="_blank" rel="noopener">'+T.open+' ↗</a></td></tr>').join("");
+  const curl=eps.map(([k])=>'curl '+base+'api/v1/'+k+'.json').join("\n");
+  const feeds=["feed.xml","category/laser.xml","category/fiber.xml","category/display.xml","category/chip.xml","category/optics.xml","category/sensing.xml","category/pv.xml","category/research.xml","category/capital.xml","category/telecom.xml","category/other.xml"];
+  const feedRows=feeds.map((f,idx)=>'<tr class="ep-table"><td class="mono">feed/'+f+'</td><td>'+(idx===0?'RSS 全部':'分类 RSS')+'</td><td><a href="'+base+'feed/'+f+'" target="_blank" rel="noopener">'+T.open+' ↗</a></td></tr>').join("");
+  const moreRows='<tr class="ep-table"><td class="mono">api/v1/openapi.json</td><td>OpenAPI 3.1</td><td><a href="'+base+'api/v1/openapi.json" target="_blank" rel="noopener">'+T.open+' ↗</a></td></tr><tr class="ep-table"><td class="mono">llms.txt</td><td>LLM 友好入口</td><td><a href="'+base+'llms.txt" target="_blank" rel="noopener">'+T.open+' ↗</a></td></tr>';
+  let h='<div class="card pad"><h3 style="font-size:15px;margin-bottom:4px">🤖 '+T.apiTitle+'</h3><p class="agent-note">'+T.apiDesc+'</p><p class="agent-note">'+T.base+'：<span class="mono">'+esc(base)+'</span></p><table style="margin-top:10px"><thead><tr><th>'+T.endpoint+'</th><th>'+T.desc+'</th><th></th></tr></thead><tbody>'+rows+moreRows+'</tbody></table></div>';
+  h+='<div class="card pad" style="margin-top:14px"><h3 style="font-size:15px;margin-bottom:4px">RSS</h3><table style="margin-top:8px"><tbody>'+feedRows+'</tbody></table></div>';
+  h+='<div class="card pad" style="margin-top:14px"><h3 style="font-size:15px;margin-bottom:4px">'+T.curl+'</h3><pre>'+esc(curl)+'</pre><p class="agent-note">'+T.llmsNote+'</p><p class="agent-note">Agent Skill：仓库 <span class="mono">agent/skills/opto-hot</span>（可安装到 ~/.agents/skills 或 ~/.codex/skills）</p></div>';
+  root.innerHTML=h;
+}
 renderers.feed=renderFeed; renderers.all=renderAll; renderers.hot=renderHot; renderers.daily=renderDaily; renderers.topics=renderTopics; renderers.data=renderData; renderers.agent=renderAgent;
 function bind(){ const cats=new Set(S.items.map(i=>i.category)); const sel=$("#all-cat"); for(const c of cats){ const o=document.createElement("option"); o.value=c; o.textContent=catName(c); sel.appendChild(o); } $("#q").addEventListener("input",e=>{ state.q=e.target.value; if(location.hash==="#/all") renderAll(); }); $("#all-cat").addEventListener("change",e=>{ state.cat=e.target.value; renderAll(); }); $("#all-sort").addEventListener("change",e=>{ state.sort=e.target.value; renderAll(); }); document.addEventListener("click", e=>{ const b=e.target.closest&&e.target.closest("[data-hs]"); if(b){ state.hotSort=b.dataset.hs; renderHot(); } }); $("#lang").onclick=()=>{ LANG = LANG==="zh"?"en":"zh"; localStorage.setItem("opto-lang", LANG); location.reload(); }; window.addEventListener("hashchange",router); tr(); router(); }
 document.addEventListener("DOMContentLoaded", bind);"""
@@ -1062,6 +1102,45 @@ def render_app_html(items, topics, daily, dailies, generated):
     return html
 
 # ---------------- 输出 ----------------
+def build_rss(items, title, link, description, limit=50):
+    import xml.sax.saxutils as su
+    its = sorted(items, key=lambda it: it["discovered_at"], reverse=True)[:limit]
+    pub = max(it["discovered_at"] for it in its) if its else now_utc().isoformat()
+    out = []
+    for it in its:
+        out.append(
+            "<item><title>%s</title><link>%s</link><description>%s</description>"
+            "<guid isPermaLink=\"false\">%s</guid><pubDate>%s</pubDate>"
+            "<source>%s</source><category>%s</category></item>"
+            % (su.escape(it["title"]), su.escape(it["url"]), su.escape((it.get("summary") or "")[:500]),
+               it["id"], it["discovered_at"], su.escape(it["source"]), su.escape(it["category"])))
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>'
+            "<title>%s</title><link>%s</link><description>%s</description>"
+            "<lastBuildDate>%s</lastBuildDate>%s</channel></rss>"
+            % (su.escape(title), su.escape(link), su.escape(description), pub, "".join(out)))
+
+
+def build_openapi(generated):
+    def ep(summary):
+        return {"get": {"summary": summary, "responses": {"200": {"description": "OK"}}}}
+    return {
+        "openapi": "3.1.0",
+        "info": {"title": "Opto-Hot API v1", "version": "1.0.0",
+                 "description": "光电行业热点统计静态 JSON 接口（免鉴权，每 6 小时更新，AI/Agent 可直接消费）。"},
+        "servers": [{"url": ""}],
+        "paths": {
+            "/api/v1/index.json": ep("接口索引"),
+            "/api/v1/items.json": ep("全部条目"),
+            "/api/v1/hot-topics.json": ep("热点榜"),
+            "/api/v1/dailies.json": ep("光电日报（按日期归档）"),
+            "/api/v1/daily.json": ep("统计聚合"),
+            "/api/v1/stories.json": ep("事件故事（多源聚合）"),
+            "/feed.xml": ep("RSS（最新 50 条）"),
+            "/feed/category/{slug}.xml": ep("分类 RSS（slug: laser/fiber/display/chip/optics/sensing/pv/research/capital/telecom/other）"),
+        },
+    }
+
+
 def write_outputs(items, topics, daily, dailies, generated):
     os.makedirs(DATA_DIR, exist_ok=True)
     os.makedirs(DIST_DIR, exist_ok=True)
@@ -1149,6 +1228,22 @@ def write_outputs(items, topics, daily, dailies, generated):
         },
     }, os.path.join(api_dir, "index.json"))
 
+    # ---- RSS 分类 feed + OpenAPI ----
+    feed_dir = os.path.join(DIST_DIR, "feed", "category")
+    os.makedirs(feed_dir, exist_ok=True)
+    site_link = "https://opto-hot-a455-d3g2s3dt865d86640.webapps.tcloudbase.com"
+    with open(os.path.join(DIST_DIR, "feed.xml"), "w", encoding="utf-8") as f:
+        f.write(build_rss(items, "Opto-Hot 光电热点", site_link + "/", "光电行业热点统计（AIHOT 模式）", 50))
+    by_cat = {}
+    for it in items:
+        by_cat.setdefault(it["category"], []).append(it)
+    for cat, its in by_cat.items():
+        slug = CAT_CLS.get(cat, "other")
+        with open(os.path.join(feed_dir, slug + ".xml"), "w", encoding="utf-8") as f:
+            f.write(build_rss(its, "Opto-Hot · %s" % cat, site_link + "/#/all", cat, 30))
+    with open(os.path.join(api_dir, "openapi.json"), "w", encoding="utf-8") as f:
+        json.dump(build_openapi(generated), f, ensure_ascii=False, indent=2)
+
     # ---- llms.txt（LLM / Agent 友好入口） ----
     llms = """# Opto-Hot · 光电行业热点统计
 
@@ -1159,17 +1254,27 @@ def write_outputs(items, topics, daily, dailies, generated):
 - GitHub 仓库: https://github.com/sun-zihang/opto-hot
 
 ## 数据 API（静态 JSON，免鉴权）
+- 接口索引 / OpenAPI: ./api/v1/index.json , ./api/v1/openapi.json
 - 全部条目: ./api/v1/items.json
 - 热点榜: ./api/v1/hot-topics.json
 - 光电日报（按日期归档）: ./api/v1/dailies.json
 - 统计聚合: ./api/v1/daily.json
 - 事件故事（多源聚合）: ./api/v1/stories.json
-- 接口索引: ./api/v1/index.json
 
-## 用法示例
+## RSS 订阅（阅读器 / Agent）
+- 全部: ./feed.xml
+- 分类: ./feed/category/{{slug}}.xml  （slug: laser/fiber/display/chip/optics/sensing/pv/research/capital/telecom/other）
+
+## 用法示例（匿名 GET）
 curl {base}/api/v1/hot-topics.json
 curl {base}/api/v1/items.json
 curl {base}/api/v1/dailies.json
+curl {base}/feed.xml
+
+## 约定
+- 数据每 6 小时更新；可对完整 URL 使用 ETag / If-None-Match 减少拉取。
+- items.json 为全量快照，可本地按 publishedAt / discoveredAt / keywords 筛选。
+- 公开使用请注明一次数据来源：Opto-Hot（AIHOT 模式，数据源自各公开站点）。
 
 ## 说明
 数据来自公开网络（RSS / 网站首页），自动采集统计，仅供参考，不构成投资建议。

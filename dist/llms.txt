@@ -7,17 +7,27 @@
 - GitHub 仓库: https://github.com/sun-zihang/opto-hot
 
 ## 数据 API（静态 JSON，免鉴权）
+- 接口索引 / OpenAPI: ./api/v1/index.json , ./api/v1/openapi.json
 - 全部条目: ./api/v1/items.json
 - 热点榜: ./api/v1/hot-topics.json
 - 光电日报（按日期归档）: ./api/v1/dailies.json
 - 统计聚合: ./api/v1/daily.json
 - 事件故事（多源聚合）: ./api/v1/stories.json
-- 接口索引: ./api/v1/index.json
 
-## 用法示例
+## RSS 订阅（阅读器 / Agent）
+- 全部: ./feed.xml
+- 分类: ./feed/category/{slug}.xml  （slug: laser/fiber/display/chip/optics/sensing/pv/research/capital/telecom/other）
+
+## 用法示例（匿名 GET）
 curl /api/v1/hot-topics.json
 curl /api/v1/items.json
 curl /api/v1/dailies.json
+curl /feed.xml
+
+## 约定
+- 数据每 6 小时更新；可对完整 URL 使用 ETag / If-None-Match 减少拉取。
+- items.json 为全量快照，可本地按 publishedAt / discoveredAt / keywords 筛选。
+- 公开使用请注明一次数据来源：Opto-Hot（AIHOT 模式，数据源自各公开站点）。
 
 ## 说明
 数据来自公开网络（RSS / 网站首页），自动采集统计，仅供参考，不构成投资建议。

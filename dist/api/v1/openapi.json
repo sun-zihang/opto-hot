@@ -1,0 +1,95 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Opto-Hot API v1",
+    "version": "1.0.0",
+    "description": "光电行业热点统计静态 JSON 接口（免鉴权，每 6 小时更新，AI/Agent 可直接消费）。"
+  },
+  "servers": [
+    {
+      "url": ""
+    }
+  ],
+  "paths": {
+    "/api/v1/index.json": {
+      "get": {
+        "summary": "接口索引",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/items.json": {
+      "get": {
+        "summary": "全部条目",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/hot-topics.json": {
+      "get": {
+        "summary": "热点榜",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/dailies.json": {
+      "get": {
+        "summary": "光电日报（按日期归档）",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/daily.json": {
+      "get": {
+        "summary": "统计聚合",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/stories.json": {
+      "get": {
+        "summary": "事件故事（多源聚合）",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/feed.xml": {
+      "get": {
+        "summary": "RSS（最新 50 条）",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/feed/category/{slug}.xml": {
+      "get": {
+        "summary": "分类 RSS（slug: laser/fiber/display/chip/optics/sensing/pv/research/capital/telecom/other）",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  }
+}

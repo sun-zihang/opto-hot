@@ -10,13 +10,16 @@
 
 ## 特性
 
-- **多源采集**：13 个公开数据源（RSS + 行业网站），中文为主、兼顾国际（arXiv / Nature Photonics / Phys.org / C114 / OFweek / LEDinside / CIOE / COEMA）
+- **多源采集**：19 个公开数据源（RSS + 行业网站 + 微信公众号精选 + 政策/招投标），中文为主、兼顾国际
 - **时间窗口**：24 小时 / 7 天精选，优先采用原文发布时间，缺失时回退为收录时间（AIHOT 时间轴语义）
 - **领域分类**：激光、光通信、显示与面板、光电芯片与半导体、光学元件与成像、光传感与激光雷达、光伏与新能源、科研进展、产业与资本、通信与算力
-- **热点榜**：按「来源数 / 信号数 / 时效」加权打分，自动聚类并合并同一事件的多角度报道
+- **热点榜**：按「来源数 / 信号数 / 时效」加权打分；**语义向量聚类**（TF-IDF 字符/词/领域特征 + 余弦，可选真嵌入）合并同一事件，减少噪声主题
 - **零依赖**：仅用 Python 标准库；HTML 报告为自包含单文件（无 CDN / 无外部资源）
 - **AIHOT 风格 UI**：六个视图（精选时间线 / 全部动态 / 热点榜 / 光电日报 / 主题 / 数据），浅色卡片风、侧边导航、评分与热度徽章，移动端自适应
-- **日报归档机制**：自动按天生成光电日报（今日看点 TOC + 分类文章 + 日历归档），支持回看历史
+- **日报归档机制**：自动按天生成光电日报（今日看点 TOC + 分类文章 + 日历归档），历史归档按日期/月份回看
+- **多语言与交互**：中 / English 一键切换；图表 tooltip；热点榜按热度/信源排序；搜索 + 分类 + 排序
+- **Agent 接入**：免鉴权静态 JSON API（`api/v1/*`）+ OpenAPI 3.1 + 分类 RSS feed + `llms.txt` + 可安装 Skill（`agent/skills/opto-hot`）
+- **手机适配**：响应式布局（窄屏单列、顶部搜索、横向导航），移动端可正常浏览
 - **自动化**：内置 GitHub Actions，每 6 小时自动刷新数据并提交
 
 
@@ -25,7 +28,7 @@
 | 项 | 值 |
 |---|---|
 | 环境 | `a455-d3g2s3dt865d86640`（ap-shanghai） |
-| 应用服务名 | opto-hot（版本 opto-hot-001） |
+| 应用服务名 | opto-hot（最新版本 opto-hot-005） |
 | 访问域名 | https://opto-hot-a455-d3g2s3dt865d86640.webapps.tcloudbase.com/ |
 | 控制台 | https://tcb.cloud.tencent.com/dev?envId=a455-d3g2s3dt865d86640 |
 
@@ -43,11 +46,13 @@
 | 光电日报 #/daily | /daily | 报头 + 今日看点 TOC + 分类文章 + 日历归档 |
 | 主题 #/topics | /topics | 分类卡片（24h/7d/总数），点击进入筛选 |
 | 数据 #/data | - | 统计卡片、14 天趋势、来源表、CSV/JSON 下载 |
+| Agent 接入 #/agent | /agent | API 端点 + RSS + OpenAPI + curl 示例 + Skill 说明 |
 
 **数据机制**（静态 JSON API，兼容 AIHOT 字段风格）：
 - data/items.json：{id, title, url, links.original, source, category, publishedAt, discoveredAt, score, selected, summary, role, keywords}
 - data/hot-topics.json：{rank, title, status, heat, sourceCount, signalCount, latestAt, sources, links, terms}
-- data/dailies.json：按日期归档的日报；data/daily.json：统计聚合
+- data/dailies.json：按日期归档的日报（历史合并保留）；data/daily.json：统计聚合
+- **Agent 接口**：`api/v1/{items,hot-topics,dailies,daily,stories,index,openapi}.json`（静态 JSON / OpenAPI 3.1，免鉴权）+ 分类 RSS（`feed.xml` / `feed/category/{slug}.xml`）+ 站点根 `llms.txt`
 - 时间窗口语义：优先原文发布时间，缺失回退收录时间；24h / 7d / 日报按北京时间
 
 **相比 AIHOT 的改进**：
@@ -99,6 +104,12 @@ python collector/collect.py --skip-html  # 跳过行业网站（只跑 RSS）
 | HTML | LEDinside 中文 | `https://www.ledinside.cn/` | 0.9 |
 | HTML | CIOE 中国光博会 | `https://cioe.cn/` | 0.9 |
 | HTML | COEMA 中国光电子行业协会 | `https://www.coema.org.cn/` | 0.8 |
+| RSS | LEDinside 英文 | `https://www.ledinside.com/rss` | 0.8 |
+| RSS | EDN 电子工程专辑（关键词过滤） | `https://www.edn.com/feed/` | 0.6 |
+| HTML | 搜狗微信·光电行业 | `https://weixin.sogou.com/weixin?type=2&query=光电行业` | 0.7 |
+| HTML | 中国政府采购网 | `https://www.ccgp.gov.cn/` | 0.8 |
+| HTML | 中国招标投标公共服务平台 | `http://www.cebpubservice.com/` | 0.8 |
+| HTML | 工信部要闻（关键词过滤） | `https://www.miit.gov.cn/` | 0.8 |
 
 > 抓取说明：COEMA 页面实际为 GBK 编码（meta 声明为 utf-8）；OFweek 为 GB2312；C114 RSS 为 GBK 编码的 RSS 2.0；Nature Photonics 为 RSS 1.0 (RDF)。采集器已做对应处理。源配置在 `collector/sources.json`，可自由增删。
 
