@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T04:45:25.817126+00:00",
-  "count": 306,
+  "generatedAt": "2026-08-04T04:50:38.525216+00:00",
+  "count": 304,
   "items": [
     {
       "id": "8286a6ede520",
@@ -11,7 +11,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 82.5,
@@ -29,7 +29,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光电",
@@ -50,7 +50,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光学",
@@ -71,7 +71,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "日前，启明星辰发布2026年半年度业绩预告。公司预计上半年实现营业收入12.1亿元至12.6亿元，同比增长6.84%至11.25%；归属于上市公司股东的净利润为2600万元至3800万元，上年同期为亏损9335万元，实现扭亏为盈；",
       "keywords": [],
       "score": 75.0,
@@ -89,7 +89,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "紫光股份预计2026年上半年归母净利润同比增长83.50%-122.89%，主要受益于AI算力需求拉动ICT增长、新华三股权收购增厚利润及金融负债利息终止计提。",
       "keywords": [],
       "score": 75.0,
@@ -107,7 +107,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "永鼎股份预计2026年上半年净利润同比增长57%-120%，主要受益于光通信板块在AI算力需求推动下量价齐升。",
       "keywords": [],
       "score": 75.0,
@@ -125,7 +125,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "星网锐捷发布2026年半年度业绩预告，预计上半年归属于上市公司股东的净利润为3.1亿元至4.3亿元，同比增长46.27%-102.9%；扣非后净利润2.1亿元至3.1亿元，同比增长11.76%-64.98%。",
       "keywords": [],
       "score": 75.0,
@@ -143,7 +143,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光学"
@@ -163,7 +163,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 75.0,
@@ -181,7 +181,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2026-08",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光学"
@@ -201,7 +201,7 @@
       "source_type": "html",
       "category": "光电芯片与半导体",
       "published_at": "2026-08",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光学",
@@ -222,7 +222,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": "2026-08",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 75.0,
@@ -240,7 +240,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "智驾"
@@ -260,7 +260,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "相机"
@@ -280,7 +280,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "vr"
@@ -300,7 +300,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "相机"
@@ -320,7 +320,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 75.0,
@@ -338,7 +338,7 @@
       "source_type": "html",
       "category": "光电芯片与半导体",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "euv",
@@ -359,7 +359,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "ar",
@@ -380,7 +380,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光学",
@@ -401,7 +401,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光学"
@@ -421,7 +421,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光纤"
@@ -441,7 +441,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光子"
@@ -461,7 +461,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 75.0,
@@ -479,7 +479,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "elsfp",
@@ -502,7 +502,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光学",
@@ -523,7 +523,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "相机"
@@ -543,7 +543,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "ads6311",
@@ -566,7 +566,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 75.0,
@@ -584,7 +584,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2026-06",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光学",
@@ -605,7 +605,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-05",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 75.0,
@@ -623,7 +623,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-05",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光模块"
@@ -643,7 +643,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "激光"
@@ -663,7 +663,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-06",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "激光"
@@ -683,7 +683,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "激光"
@@ -703,7 +703,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "激光"
@@ -723,7 +723,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 75.0,
@@ -741,7 +741,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2022-05",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "激光",
@@ -762,7 +762,7 @@
       "source_type": "html",
       "category": "光传感与激光雷达",
       "published_at": "2026-06",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 75.0,
@@ -780,7 +780,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-06",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光纤",
@@ -801,7 +801,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-06",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "激光",
@@ -823,7 +823,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-06",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "cwup-05ths"
@@ -843,7 +843,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-05",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "ofweek",
@@ -864,7 +864,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-04",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "激光",
@@ -886,7 +886,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2024-03",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光子"
@@ -906,7 +906,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2024-01",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "激光"
@@ -926,7 +926,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2023-11",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "激光"
@@ -946,7 +946,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2023-11",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "激光",
@@ -967,7 +967,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光刻",
@@ -988,7 +988,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "激光"
@@ -1008,7 +1008,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "投影",
@@ -1029,7 +1029,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-06",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "激光",
@@ -1050,7 +1050,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-06",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "激光"
@@ -1070,7 +1070,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": "2026-06",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "mled"
@@ -1083,98 +1083,6 @@
       "role": "行业媒体"
     },
     {
-      "id": "938f91a09cc5",
-      "title": "Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW",
-      "url": "https://www.nature.com/articles/s41566-026-01977-1",
-      "source": "Nature Photonics",
-      "source_type": "rss",
-      "category": "激光",
-      "published_at": "2026-08-03T00:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
-      "summary": "Nature Photonics, Published online: 03 August 2026; doi:10.1038/s41566-026-01977-1 The researchers demonstrate amplification of an ultrabroadband pulse in a laser–plasma Raman amplifier, achieving efficiencies of up to 8.7%, final powers of up to 0.3 TW, and final pulse durations of 64 fs.",
-      "keywords": [
-        "amplification",
-        "laser",
-        "plasma",
-        "pulse",
-        "ultrabroadband"
-      ],
-      "score": 74.0,
-      "links": {
-        "original": "https://www.nature.com/articles/s41566-026-01977-1"
-      },
-      "selected": true,
-      "role": "科研"
-    },
-    {
-      "id": "b37b4dd9a083",
-      "title": "Breaking the power wall in programmable photonics",
-      "url": "https://www.nature.com/articles/s41566-026-01960-w",
-      "source": "Nature Photonics",
-      "source_type": "rss",
-      "category": "光通信",
-      "published_at": "2026-07-31T00:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
-      "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01960-w A non-volatile photonic gate array based on ferroelectric domain switching eliminates static power consumption, pointing towards scalable and energy-efficient photonic integrated circuits.",
-      "keywords": [
-        "photonics"
-      ],
-      "score": 74.0,
-      "links": {
-        "original": "https://www.nature.com/articles/s41566-026-01960-w"
-      },
-      "selected": true,
-      "role": "科研"
-    },
-    {
-      "id": "b758120b1c26",
-      "title": "Silencing pain with infrared light",
-      "url": "https://www.nature.com/articles/s41566-026-01970-8",
-      "source": "Nature Photonics",
-      "source_type": "rss",
-      "category": "光学元件与成像",
-      "published_at": "2026-07-31T00:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
-      "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01970-8 Lanthanide upconversion nanoparticles convert near-infrared illumination into local visible emission, enabling wireless optogenetic modulation of deep pain pathways.",
-      "keywords": [
-        "infrared"
-      ],
-      "score": 74.0,
-      "links": {
-        "original": "https://www.nature.com/articles/s41566-026-01970-8"
-      },
-      "selected": true,
-      "role": "科研"
-    },
-    {
-      "id": "95d0f9a7093c",
-      "title": "A Heterogeneous 200 mm Silicon Nitride Photonics Platform for Visible-to-Near-Infrared Applications via Micro-Transfer Printing",
-      "url": "https://arxiv.org/abs/2608.02037",
-      "source": "arXiv 光学与光子学 (physics.optics)",
-      "source_type": "rss",
-      "category": "光通信",
-      "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
-      "summary": "arXiv:2608.02037v1 Announce Type: new Abstract: The commercialization of next-generation technologies, including optical interconnects, quantum computing, AR/VR, and medical diagnostics, requires a low-loss photonic platform offering compact, multifunctional systems in the visible and near-infrared range. Although silicon nitride (SiN) is an excellent material due to its ultra-low loss and broad transparency window, integrating active components such as light sources, modulators and photodetecto",
-      "keywords": [
-        "heterogeneous",
-        "infrared",
-        "micro-transfer",
-        "nitride",
-        "photonics",
-        "platform",
-        "printing",
-        "silicon",
-        "visible-to-near-infrared"
-      ],
-      "score": 72.5,
-      "links": {
-        "original": "https://arxiv.org/abs/2608.02037"
-      },
-      "selected": true,
-      "role": "科研"
-    },
-    {
       "id": "fb6d25bb428a",
       "title": "Controlled generation of high-harmonic spatiotemporal optical vortices",
       "url": "https://arxiv.org/abs/2608.00233",
@@ -1182,7 +1090,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.00233v1 Announce Type: new Abstract: Spatiotemporal optical vortex (STOV) pulses are puzzling states of light, which see their transverse orbital angular momentum being debated in spite of possessing a topological charge. Thus far studied at conventional optical wavelengths, we herein demonstrate their upconversion to extreme ultraviolet (XUV) frequencies via high-harmonic generation (HHG). Circularly-symmetric infrared STOV pulses of topological charges $\\ell=\\pm1$ and $\\pm2$ from a ",
       "keywords": [
         "controlled",
@@ -1206,7 +1114,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.00286v1 Announce Type: new Abstract: Free-space electro-optic modulators are key to emerging photonic systems, yet their performance remains limited by trade-offs between modulation efficiency, bandwidth, and device aperture. Here we report a hybrid BaTiO3 (BTO)/TiO2 metasurface for large-aperture, efficient, gigahertz-speed free-space electro-optic modulation. Combining scalable BTO film growth by radio-frequency magnetron sputtering with mature TiO2 nanofabrication, we pattern the m",
       "keywords": [
         "batio3",
@@ -1233,7 +1141,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.00308v1 Announce Type: new Abstract: Optical metasurfaces have established themselves as exceptional nanophotonic platforms to control the properties of light at subwavelength scales. By properly designing the geometry and spatial arrangement of their constituent meta-atoms, engineered phase gradients can be imparted to an incoming field, thereby tailoring its wavefront with a virtually unlimited number of control knobs. However, once fabricated, a metasurface has a permanently fixed ",
       "keywords": [
         "all-optical",
@@ -1259,7 +1167,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.00372v1 Announce Type: new Abstract: Interfacing integrated photonics with solid-state spin defects holds great promise for future quantum networks, but the scaling of spin-photon architectures is hindered by frequency mismatches arising from fabrication-induced variations in photonic cavity resonances and the inhomogeneous optical transition frequencies of individual spins. These challenges call for a photonic platform with deterministic and wide-range tunability. Here, we demonstrat",
       "keywords": [
         "carbide",
@@ -1287,7 +1195,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.00606v1 Announce Type: new Abstract: Metasurfaces are artificially engineered ultrathin nanostructured surfaces, capable of flexibly manipulating light-matter interactions on compact platforms, and thereby of great significance for a wide range of applications within modern optics and photonics, including communications, computing, sensing, and quantum technologies. However, the inherently static nature of conventional metasurfaces severely limits their functionalities and thus range ",
       "keywords": [
         "active",
@@ -1311,7 +1219,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.00833v1 Announce Type: new Abstract: Efficient fiber-to-chip coupling remains challenging for thin-film lithium niobate (TFLN) devices operating at 1064 nm. Here, we fabricate and characterize an on-chip optical mode converter based on a bilayer inverse taper. The proposed structure demonstrated a coupling loss of 1.9 dB per facet for the TE mode, with a 1 dB bandwidth spanning 1055--1085 nm. The polarization-dependent alignment tolerance was measured along the lateral and vertical di",
       "keywords": [
         "bilayer",
@@ -1339,7 +1247,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "此次发布的A3还是有些许不同，相比之前的公板方案和终端入库，自主品牌手机搭载绝对属于深度合作：一是首次选择非Adroid操作系统，是基于YunOS的手机；二是YunOS生态首次迎来运营商自主品牌的手机；三是对中移动和阿里巴巴在产业示范和引领都都具有双赢价值。",
       "keywords": [
         "yunos"
@@ -1359,7 +1267,7 @@
       "source_type": "rss",
       "category": "光通信",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光纤"
@@ -1379,7 +1287,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "年两会总理提出了2017年“网络提速降费要迈出更大步伐”，并明确了三个方向：年内全部取消手机国内长途和漫游费；大幅降低中小企业互联网专线接入资费；降低国际长途电话费。为了响应政府号召，三大运营商都公布了2017年提速降费的新政，通过一些列组合拳持续推进提速降费。",
       "keywords": [],
       "score": 70.0,
@@ -1397,7 +1305,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "运营商是实现5G连接及应用和业务创新的重要基石，也是网络转型的主角。作为中国三大运营商之一的中国电信，正在努力推进网络转型，为5G的到来做好准备。中国电信选择与英特尔合作，采用英特尔RSD实施方案，联手击破运营商在网络转型中的各个难题，真正做到在网络转型之路所向披靡。",
       "keywords": [],
       "score": 70.0,
@@ -1415,7 +1323,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "日前，Juniper Networks (瞻博网络) 举办了主题为飞跃的合作伙伴大会。在会上，瞻博网络大中国区总裁林小平表示，今年Juniper将重点发力运营商、OTT、企业市场及BTI、Contrail业务。其中，运营商市场是Juniper第一要发展的市场。",
       "keywords": [
         "juniper"
@@ -1435,7 +1343,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "今天上午，国务院新闻办公室举办国务院政策吹风会。根据会议的内容显示，2017年10月1日起，三大运营商将全部取消手机国内长途和漫游费。此外，运营商还需要进一步提速降费。作为三大运营商之一的中国电信响应国家号召，2017年中国电信推出六大新举措，持续推进提速降费。",
       "keywords": [],
       "score": 70.0,
@@ -1453,7 +1361,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "作为产业界云化领域的创新中坚力量之一，以及对IT和通信皆有深刻洞察的解决方案提供者，华为IT产品线过去一年中持续在全球运营商数字化转型中发挥重要战略伙伴的作用，在市场上的表现亦是“超乎想象”，据披露已经与运营商合作展开了超过260个有关云的项目。",
       "keywords": [],
       "score": 70.0,
@@ -1471,7 +1379,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "杜洋介绍，2017年，司马大数据的目标是进一步扩大服务能力和市场规模，为更多的客户提供精准的大数据服务；同时向合作伙伴提供能力开放，促进行业内同仁发挥自身特长，百花齐放，开发和拓展大数据行业市场。具体规划主要体现在以下三方面：标准产品规模化；行业深耕，开发行业解决方案；能力开放。在营收方面，北京移动2017年大数据收入目标是1亿元。",
       "keywords": [],
       "score": 70.0,
@@ -1489,7 +1397,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "备受关注的中国移动2017年智能家庭网关设备集中采购（公开部分模型二）已于日前结束。此次集采共有三家企业中标，上海贝尔获得50%份额，烽火获得30%，华为获得20%。",
       "keywords": [],
       "score": 70.0,
@@ -1507,7 +1415,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "在日前召开的2017世界移动大会上，物联网虽然被5G抢了风头，实际上依然成为参展企业重点展示的一大环节，更智能化的汽车、更智能的家居产品展示着实吸引了无数用户眼球。在千亿联接和万亿市场的巨大吸引之下，运营商、通信设备商、IT厂商、软件公司和互联网企业等各方势力，纷纷摩拳擦掌，竞逐这个潜力无穷的“风口”市场。",
       "keywords": [],
       "score": 70.0,
@@ -1525,7 +1433,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "5G不仅仅是为了手机而设计的，更多的是用于未来的智慧城市、智能家居以及VR等场景。在这个过程中，英特尔和产业合作伙伴也需要不断地学习，从测试当中不断地学习和调整技术和解决方案。英特尔扮演着独特的贡献的角色，通过前期测试当中不断吸取经验和教训，来反馈到标准化的制定当中，让更多的产业合作伙伴受益。",
       "keywords": [],
       "score": 70.0,
@@ -1543,7 +1451,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 70.0,
@@ -1561,7 +1469,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "在本届MWC中兴通讯展台，有线产品家族集体亮相，占据了展厅的重要位置。中兴通讯高级副总裁许明在展台上接受C114等媒体采访，解读了有线产品本次展出的五大亮点。",
       "keywords": [],
       "score": 70.0,
@@ -1579,7 +1487,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "徐直军在2017世界移动大会期间的Keynote上发表了“让视频成为运营商增长的新动力”的主题演讲。他指出，内容、视频正在重新定义电信产业，对运营商来说视频业务已成必须，华为将自己定位为运营商视频业务成功的使能者，帮助运营商发展视频业务并获得增长。",
       "keywords": [
         "驱动"
@@ -1599,7 +1507,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "京东发布2016年全年业绩核心数据。数据显示，2016年京东全年净收入为2602亿元人民币，同比增长44%，并实现年度扭亏为盈，非美国通用会计准则下（Non-GAAP）年度净利润达10亿元人民币。",
       "keywords": [],
       "score": 70.0,
@@ -1617,7 +1525,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "今天上午百度旗下网站hao123针对前两天火绒安全实验室发布报告《百度旗下网站暗藏恶意代码 劫持用户电脑疯狂“收割”流量》，向用户进行道歉，并且声称已经清除恶意代码。",
       "keywords": [
         "hao123"
@@ -1637,7 +1545,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "3月2日，联想集团公告称，旗下全资附属公司联想（北京）有限公司已与北京融创融科地产有限公司订立了一份股权转让协议，将以约人民币16.17亿元的价格向后者出售成都联创融锦投资有限责任公司49%股权。公告透露，成都联创融锦及其子公司主要从事住宅和商业地产开发业务。",
       "keywords": [],
       "score": 70.0,
@@ -1655,7 +1563,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "在近日于西班牙巴塞罗那举行2017世界移动大会(Mobile World Congress，MWC 2017)上，5G无疑是本次展会的最大亮点之一。在此期间，各5G研发组织、运营商、设备商、学术界以及合作伙伴等产业链各方在5G研发方面的最新进展备受业界关注。其中，移动通信设备商纷纷选择在大会期间发布重磅新品和解决方案，以期在5G竞赛中占得先机。",
       "keywords": [],
       "score": 70.0,
@@ -1673,7 +1581,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "实现5G愿景，可并不仅仅是从基站到手机终端那点事。对无线技术进行革新，只是5G万里长征中的一段路。虽然对于普通消费者而言，这是他们未来能够从手机端看到的变革，但更多他们看不到的变化——电信运营商网络的转型。",
       "keywords": [],
       "score": 70.0,
@@ -1691,7 +1599,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "双方将共同致力于提高物联网连接能力，促进现有技术和窄带物联网等新技术发展以及物联网平台扩展，为共同抓住在欧洲和中国的商机、实现两家公司的持续增长奠定坚实基础。中国联通总经理陆益民和德国电信管理委员会成员克劳迪娅出席了签约仪式，双方就开展广泛深入的合作进行了交流。",
       "keywords": [],
       "score": 70.0,
@@ -1709,7 +1617,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "天孚通信预计2026年上半年净利润同比增长25%-45%，主要受益于AI驱动的数据中心建设带动高速光器件需求增长。",
       "keywords": [],
       "score": 70.0,
@@ -1727,7 +1635,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "新易盛7月19日晚间发布2026年半年度业绩预告。公司预计，2026年上半年归属于上市公司股东的净利润为70亿元至80亿元，较上年同期的39.42亿元增长77.56%至102.93%",
       "keywords": [
         "算力"
@@ -1747,7 +1655,7 @@
       "source_type": "rss",
       "category": "光通信",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "剑桥科技2026年上半年净利润大幅增长，主要受益于高速光模块业务订单与毛利率提升，虽受汇兑损失拖累，整体仍保持强劲预增态势。",
       "keywords": [
         "光模块"
@@ -1767,7 +1675,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "铭普光磁发布2026年半年度业绩预告。公告显示，公司预计2026年上半年实现归属于上市公司股东的净利润为亏损1400万元至1800万元，较上年同期亏损7303.87万元实现大幅减亏",
       "keywords": [],
       "score": 70.0,
@@ -1785,7 +1693,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "昨日，长鑫科技集团股份有限公司（以下简称“长鑫科技”）披露首次公开发行股票并在科创板上市发行公告。根据初步询价结果，公司与联席主承销商协商确定本次发行价格为8.66元/股。",
       "keywords": [],
       "score": 70.0,
@@ -1803,7 +1711,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "昨日，特发信息发布了2026年上半年业绩预告，数据显示，特发信息上半年实现归属于上市公司股东的净利润5500万元至7100万元，较上年同期的560.41万元大幅增长881.42%至1166.93%。",
       "keywords": [],
       "score": 70.0,
@@ -1821,7 +1729,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "光库科技预计2026年上半年净利润同比增长170%-190%，受益于AI算力基建加速、光模块需求增长及降本增效成效。",
       "keywords": [],
       "score": 70.0,
@@ -1839,7 +1747,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "日前，中国广电广州网络股份有限公司（证券简称：广州广电，证券代码：871828）发布公告称，公司拟向全国中小企业股份转让系统申请股票终止挂牌。为保障信息披露公平性、维护投资者权益并避免股价异常波动，经向全国股转公司申请，公司股票自2026年7月6日起停牌。",
       "keywords": [],
       "score": 70.0,
@@ -1857,7 +1765,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "昨日，中微公司发布公告称，公司发行股份及支付现金购买资产并募集配套资金之向特定对象发行股票募集配套资金的新增股份，已在中国证券登记结算有限责任公司上海分公司办理完成登记手续。",
       "keywords": [],
       "score": 70.0,
@@ -1875,7 +1783,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "日前，日海智能发布公告称，公司收到控股股东珠海九发控股有限公司通知，珠海市国资委同意将九发控股持有的公司6240万股股份（占总股本16.67%）无偿划转至珠海科创海科投资有限公司。",
       "keywords": [],
       "score": 70.0,
@@ -1893,7 +1801,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "天音控股昨晚发布公告，拟通过深圳联合产权交易所以公开挂牌方式转让其持有的参股公司武汉星纪魅族科技有限公司（以下简称“星纪魅族”）1.65%股权。",
       "keywords": [],
       "score": 70.0,
@@ -1911,7 +1819,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "C114讯 5月22日消息（颜翊）昨晚，中芯国际发布公告称，收到中国证券监督管理委员会出具的批复，允许其发行股份购买资产。同时，其宣布拟向国家集成电路产业投资基金股份有限公司等五名股东发行A股股份，收购其合计持有的控股子公司中芯北方集成电路制造（北京）有限公司49.00%股权。",
       "keywords": [],
       "score": 70.0,
@@ -1929,7 +1837,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "摩托罗拉智能手机出货量达到同季度历史新高",
       "keywords": [],
       "score": 70.0,
@@ -1947,7 +1855,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "日前，有方科技发布《2025年度业绩快报更正公告》。经会计师事务所审计确认，公司对部分云基础设施业务的收入确认方法由“总额法”调整为“净额法”，导致主要财务数据发生显著变化。",
       "keywords": [],
       "score": 70.0,
@@ -1965,7 +1873,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "新华三2026年Q1营收221.89亿元，同比增45.08%，受益于AI建设机遇及‘算力×联接’战略，智算、国产化与生态协同加速落地。",
       "keywords": [],
       "score": 70.0,
@@ -1983,7 +1891,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "中航光电发布2026年第一季度报告。报告期内，公司实现营业收入48.72亿元，同比增长0.69%；归属于上市公司股东的净利润为3.98亿元，同比下降37.75%；扣除非经常性损益后的净利润为3.84亿元，同比下降38.95%。经营活动产生的现金流量净额为-20.61亿元，净流出幅度同比扩大83.08%。",
       "keywords": [
         "光电"
@@ -2003,7 +1911,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "援引《金融时报》报道，欧盟正重新评估对苹果、Meta 和谷歌等科技巨头的调查，对此欧盟委员会发言人否认了这一说法，并表示目前尚未确定后续行动。",
       "keywords": [],
       "score": 70.0,
@@ -2021,7 +1929,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "《金融时报》今日报道称，欧盟委员会正在重新评估其针对苹果、Meta 和 Alphabet 旗下谷歌在内的多家科技巨头的调查。苹果、Meta、谷歌和欧盟委员会均未立即回应置评请求。",
       "keywords": [
         "meta"
@@ -2041,7 +1949,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "中国移动2026年IT云区域中心资源池一阶段高性能分布式文件（融合对象）存储产品框架采购项目公示了中标候选人。结果显示，华为中标",
       "keywords": [],
       "score": 70.0,
@@ -2059,7 +1967,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "在这场国产超节点的“集团冲锋”中，昇腾950超节点（Atlas 950 SuperPoD）凭借真机首秀与卓越人工智能引领者奖（SAIL大奖）的双重曝光，无疑站在了舞台的最中央位置。",
       "keywords": [
         "waic"
@@ -2079,7 +1987,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "7月17日，世界人工智能大会（WAIC2026）开幕，在当天举行的2026人工智能赋能无线电创新论坛上，中信科移动6G标准技术专家缪德山博士参加了“AI赋能6G NTN标准演进”的圆桌对话，与业界专家共同探讨了AI与6G NTN融合的关键挑战和新的发展机会。",
       "keywords": [
         "waic2026"
@@ -2099,7 +2007,7 @@
       "source_type": "rss",
       "category": "光通信",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "7月18日，以“极致协同 沪筑生态”为主题，2026世界人工智能大会中兴通讯全栈智算生态论坛，在上海成功举办。论坛汇聚了上海市经济和信息化委员会领导、专家学者、运营商代表、AI龙头企业，围绕国产化算力底座搭建、大模型行业落地实践、上下游生态协同发展等关键方向，共寻AI技术创新与规模化产业落地的可行方案。",
       "keywords": [
         "waic"
@@ -2119,7 +2027,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "7月17日，2026世界人工智能大会（WAIC）在上海世博中心启幕。华为全球技术服务（GTS）AI解决方案首席魏巍岚受邀出席中国电信主办的AI原生云网运营开发者大会，发表《人智协同，构筑电信级安全可靠的Agentic运维运营新范式》主题演讲。",
       "keywords": [
         "agentic",
@@ -2140,7 +2048,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "2026世界人工智能大会在上海隆重举行，昇腾以“与时代 共昇腾”为主题亮相世博展览馆，围绕超节点架构创新、规模商用实践、开源生态建设三大核心维度，呈现Agentic AI时代算力基础设施的完整解决方案。从旗舰级的Atlas 950 SuperPoD到普惠型Atlas 850E风冷超节点，从CANN开源到千行百业的规模化落地，昇腾以根技术能力与开放兼容的生态策略，为智能时代的算力基础设施建设提供全新路径。",
       "keywords": [
         "算力",
@@ -2161,7 +2069,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "在数字技术深度融入生活的今天，如何让数亿飞行旅客在万米高空也能享受稳定、高速的网络服务，已成为智慧航空建设的重要课题。近日，中国移动、中国东航、中国商飞、中兴通讯签署了5G-ATG（5G地空通信）四方合作协议，携手推进5G-ATG加速落地。未来，5G-ATG将彻底打破空中与地面的互联壁垒，开创空中“高速在线”的畅享时代，从“飞行模式”到“空中冲浪”，从“客舱上网”到“智慧飞行”，从“一段航程”到“一程生活”，5G-ATG的到来不仅是技术的革新，更是生活的重塑。",
       "keywords": [
         "g-atg"
@@ -2181,7 +2089,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "从AI基建到AI终端，从镇馆之宝到全球首款，中兴通讯正在践行自己的新愿景：成为网络连接和智能算力的领导者，让沟通与信任无处不在。",
       "keywords": [
         "waic"
@@ -2201,7 +2109,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "面向AI时代，中国信科将在“新底座、新网络、新场景应用、新型芯片”四个维度持续发力，成为数智基础设施建设和行业应用的核心“赋能者”。",
       "keywords": [
         "aict"
@@ -2221,7 +2129,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议期间，中兴通讯隆重发布星系列人形机器人及具身智能解决方案。依托多元化人形机器人产品矩阵，中兴通讯持续推动具身智能技术在商业服务、工业制造两大核心赛道应用落地，并稳步向家庭服务等多元场景延伸，赋能全行业智能化升级。",
       "keywords": [
         "waic"
@@ -2241,7 +2149,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "在2026世界人工智能大会期间，华为无线网络业务副总裁、首席营销官赵东发表主题演讲“无界智能，无尽创新——面向Agentverse的无线技术创新与实践”。他表示移动AI时代的终端、网络和业务正在协同变革，通信网络需要以用户体验为核心，基于超大带宽、超大上行、超精波束、体验升级、全域智能五大创新方向构建多维能力网络基座，持续创新满足Agent多样化业务需求，加速Agentverse智能体互联世界的到来。",
       "keywords": [
         "agentverse"
@@ -2261,7 +2169,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "当AI应用从你问我答迈向你说我做，智能化的竞争焦点正发生深刻转变：企业需要的不再仅仅是单点AI能力，而是能够理解意图、调用工具、协同业务、持续进化的智能体操作系统。",
       "keywords": [
         "aios",
@@ -2282,7 +2190,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "近日，全球瞩目的“2026日内瓦数字周”在瑞士日内瓦隆重举行，汇聚了来自177个国家的超万名代表。期间，第七届人工智能向善（AI for Good）全球峰会、2026年世界信息社会峰会（WSIS）论坛，以及由联合国大会召集的首届人工智能治理全球对话三大核心活动同期举办，共同搭建起全球数字治理与 AI 普惠发展的顶级对话平台。",
       "keywords": [
         "good"
@@ -2302,7 +2210,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "waic"
@@ -2322,7 +2230,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "纵观移动通信发展历程，驱动网络演进的，从来都是与业务、终端的同频共振。",
       "keywords": [
         "agentverse"
@@ -2342,7 +2250,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "—— 落地“0 Bit 0 Watt”创新技术 践行中国移动“C三能”双碳行动",
       "keywords": [
         "isdu"
@@ -2362,7 +2270,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "2026年7月17日，由中国移动承办的“智赋新质 全域焕新”企业人工智能高质量发展论坛在上海世博中心成功举办。论坛紧跟国资委对人工智能发展的统筹布局，汇聚政府、产业、学术界及研究机构等各界代表，集中展示人工智能领域的前沿成果与创新实践，深入探讨技术赋能产业转型升级路径。现场重磅发布“焕新社区”2.0版，标志着央企协同创新迈入新阶段。中兴通讯高级副总裁石铨受邀出席，中兴通讯副总裁吴昊作为企业代表受邀参与发布仪式。",
       "keywords": [],
       "score": 70.0,
@@ -2380,7 +2288,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "近日，上海 在2026世界人工智能大会期间举办的“中兴通讯全栈智算生态论坛”上，中兴通讯高级副总裁张万春发表了题为《“Token经济”时代，全栈协同引领TCO最优解》的主题发言。张万春指出，AI已全面步入以推理为主导的“Token经济”时代，中兴通讯通过全栈协同，围绕多芯协同、架构创新、连接增强、持续演进四个方面，构建系统级能力，让成本更优、效率更高、体验更好。",
       "keywords": [
         "token"
@@ -2400,7 +2308,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "近日，在2026世界人工智能大会期间举办的“中兴通讯全栈智算生态论坛”上，中兴通讯正式发布OEX超节点新品。中兴通讯股份有限公司执行副总裁、首席运营官谢峻石，上海仪电（集团）有限公司副总裁刘山泉，沐曦集成电路（上海）股份有限公司联合创始人、CTO兼首席软件架构师杨建，上海壁仞科技股份有限公司战略规划高级副总裁魏明，上海曦智科技股份有限公司联合创始人、CTO孟怀宇，上海燧原科技股份有限公司产品与系统研发高级副总裁陈松涛，上海天数智芯半导体股份有限公司副总裁宋煜，共同莅临见证。",
       "keywords": [],
       "score": 70.0,
@@ -2418,7 +2326,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "中兴通讯携手中国电信亮相WAIC原生云网开发者大会，展示AI与云网融合成果，聚焦网优大模型、超级数字员工及AI原生网络演进。",
       "keywords": [
         "waic"
@@ -2431,6 +2339,42 @@
       "role": "行业媒体"
     },
     {
+      "id": "ec8ad4f42acb",
+      "title": "【8月 昆明 呼和浩特】关于举办“十五五”规划基建领域高质量发展：人工智能+工程建设项目全流程精益管控与风险防范高级研修班",
+      "url": "http://www.cebpubservice.com/monitorindustry/monitorplat/2026/01/12897.shtml",
+      "source": "中国招标投标公共服务平台",
+      "source_type": "html",
+      "category": "通信与算力",
+      "published_at": null,
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
+      "summary": null,
+      "keywords": [],
+      "score": 70.0,
+      "links": {
+        "original": "http://www.cebpubservice.com/monitorindustry/monitorplat/2026/01/12897.shtml"
+      },
+      "selected": true,
+      "role": "媒体"
+    },
+    {
+      "id": "db582a5dfcc4",
+      "title": "【8月 昆明 呼和浩特】关于举办“‘十五五’新基建格局下工程项目（DB & EPC）造价管控、招采优化、结算审计与争议破局”高级研修班的通知",
+      "url": "http://www.cebpubservice.com/monitorindustry/monitorplat/2026/01/12893.shtml",
+      "source": "中国招标投标公共服务平台",
+      "source_type": "html",
+      "category": "其他",
+      "published_at": null,
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
+      "summary": null,
+      "keywords": [],
+      "score": 70.0,
+      "links": {
+        "original": "http://www.cebpubservice.com/monitorindustry/monitorplat/2026/01/12893.shtml"
+      },
+      "selected": true,
+      "role": "媒体"
+    },
+    {
       "id": "9bd695cbf660",
       "title": "工业和信息化部量子信息标准化技术委员会成立",
       "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_79e6b8bde1974fc9b120b0e18cb0b262.html",
@@ -2438,7 +2382,7 @@
       "source_type": "html",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 70.0,
@@ -2456,7 +2400,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 70.0,
@@ -2474,7 +2418,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "apec"
@@ -2494,7 +2438,7 @@
       "source_type": "html",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "apec"
@@ -2514,7 +2458,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 70.0,
@@ -2532,7 +2476,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": "2026-08-04",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 69.8,
@@ -2550,7 +2494,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-08-04",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光互联",
@@ -2572,7 +2516,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-08-04",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "fabric.ai",
@@ -2597,7 +2541,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": "2026-08-04",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 69.8,
@@ -2615,7 +2559,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-08-04",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "micro",
@@ -2638,7 +2582,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-08-04",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "microled",
@@ -2652,33 +2596,6 @@
       "role": "行业媒体"
     },
     {
-      "id": "0225c3ea7d1f",
-      "title": "Methods, trade-offs and opportunities in high-speed optical microscopy for neural voltage imaging",
-      "url": "https://www.nature.com/articles/s41566-026-01965-5",
-      "source": "Nature Photonics",
-      "source_type": "rss",
-      "category": "光学元件与成像",
-      "published_at": "2026-08-03T00:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
-      "summary": "Nature Photonics, Published online: 03 August 2026; doi:10.1038/s41566-026-01965-5 The Review discusses recent advances in neural voltage imaging, with an emphasis on relevant microscopy techniques and outstanding challenges in the field.",
-      "keywords": [
-        "high-speed",
-        "imaging",
-        "microscopy",
-        "neural",
-        "opportunities",
-        "optical",
-        "trade-offs",
-        "voltage"
-      ],
-      "score": 69.0,
-      "links": {
-        "original": "https://www.nature.com/articles/s41566-026-01965-5"
-      },
-      "selected": true,
-      "role": "科研"
-    },
-    {
       "id": "312b1b479e1e",
       "title": "[News] One LED Produces Four Stable Colors at Room Temperature",
       "url": "//www.ledinside.com/news/2026/8/2026_08_03_04",
@@ -2686,7 +2603,7 @@
       "source_type": "rss",
       "category": "显示与面板",
       "published_at": "2026-08-02T23:40:34+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Full-color displays normally require separate red, green and blue light emitters. A team from the University of Osaka and Ritsumeikan University has demonstrated another approach: a single light-emitting layer that produces several colors when electrically powered at room temperature. The study was published in Applied Physics Letters. Micro-LED displays promise high brightness, energy efficiency and resolution. However, conventional green and red nitride LEDs can show changes in color as the cu",
       "keywords": [
         "colors",
@@ -2711,7 +2628,7 @@
       "source_type": "html",
       "category": "光电芯片与半导体",
       "published_at": "2026-08-03",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "基板",
@@ -2732,7 +2649,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-08-03",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "miniled",
@@ -2753,7 +2670,7 @@
       "source_type": "html",
       "category": "光电芯片与半导体",
       "published_at": "2026-08-03",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "半导体",
@@ -2774,7 +2691,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-08-03",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 69.0,
@@ -2792,7 +2709,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-08-03",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光子",
@@ -2813,7 +2730,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-08-03",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "ar",
@@ -2827,94 +2744,6 @@
       "role": "行业媒体"
     },
     {
-      "id": "5220d7bb2cd5",
-      "title": "Optical–electrical skin sensing",
-      "url": "https://www.nature.com/articles/s41566-026-01967-3",
-      "source": "Nature Photonics",
-      "source_type": "rss",
-      "category": "科研进展",
-      "published_at": "2026-07-31T00:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
-      "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01967-3 Optical–electrical skin sensing",
-      "keywords": [
-        "electrical",
-        "optical",
-        "sensing",
-        "skin"
-      ],
-      "score": 66.5,
-      "links": {
-        "original": "https://www.nature.com/articles/s41566-026-01967-3"
-      },
-      "selected": true,
-      "role": "科研"
-    },
-    {
-      "id": "faa01015c2f6",
-      "title": "Valleytronics on a single chip",
-      "url": "https://www.nature.com/articles/s41566-026-01975-3",
-      "source": "Nature Photonics",
-      "source_type": "rss",
-      "category": "光电芯片与半导体",
-      "published_at": "2026-07-31T00:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
-      "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01975-3 The integration of light-programmable valley optoelectronic nanocircuits based on two-dimensional semiconductors has been limited by complex optical readout using bulk optics. Now, a chip integrates a metasurface with a waveguide and on-chip photodetectors to generate, sort, and read out optical valley signals in the near field, all at room temperature.",
-      "keywords": [
-        "chip",
-        "valleytronics"
-      ],
-      "score": 66.5,
-      "links": {
-        "original": "https://www.nature.com/articles/s41566-026-01975-3"
-      },
-      "selected": true,
-      "role": "科研"
-    },
-    {
-      "id": "e39e140da3c9",
-      "title": "The path ahead for organic photovoltaics",
-      "url": "https://www.nature.com/articles/s41566-026-01963-7",
-      "source": "Nature Photonics",
-      "source_type": "rss",
-      "category": "科研进展",
-      "published_at": "2026-07-31T00:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
-      "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01963-7 Nature Photonics spoke with Yongsheng Chen from Nankai University, who was recently elected an Academician of the Chinese Academy of Sciences, about milestones in organic photovoltaic research, key outstanding challenges and the breakthroughs needed to further develop the technology.",
-      "keywords": [
-        "ahead",
-        "organic",
-        "path",
-        "photovoltaics"
-      ],
-      "score": 66.5,
-      "links": {
-        "original": "https://www.nature.com/articles/s41566-026-01963-7"
-      },
-      "selected": true,
-      "role": "科研"
-    },
-    {
-      "id": "acea95bd40ce",
-      "title": "A hot-electron-based plasmonic artificial leaf",
-      "url": "https://www.nature.com/articles/s41566-026-01969-1",
-      "source": "Nature Photonics",
-      "source_type": "rss",
-      "category": "科研进展",
-      "published_at": "2026-07-31T00:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
-      "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01969-1 Non-radiative plasmonic decay generates energetic charge carriers that rapidly thermalize; however, if captured quickly, these hot electrons can be harnessed for a range of applications. Now, a hot-carrier artificial leaf, made by gold-titanium dioxide plasmonic interfaces, demonstrates excellent performance for both in vivo bioelectronics and pixel-free artificial vision systems.",
-      "keywords": [
-        "hot-electron-based",
-        "plasmonic"
-      ],
-      "score": 66.5,
-      "links": {
-        "original": "https://www.nature.com/articles/s41566-026-01969-1"
-      },
-      "selected": true,
-      "role": "科研"
-    },
-    {
       "id": "caff5d30b117",
       "title": "AI光互连需求爆发，爱思强二季度新增订单同比增长81%",
       "url": "https://www.ledinside.cn/fsa/20260731-62241.html",
@@ -2922,7 +2751,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": "2026-07-31",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 66.5,
@@ -2940,7 +2769,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-07-31",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "ocs"
@@ -2960,7 +2789,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-07-31",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "ocs",
@@ -2983,7 +2812,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-07-30",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "led",
@@ -3005,7 +2834,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-07-30",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "microled"
@@ -3025,7 +2854,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-07-30",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光互联"
@@ -3045,7 +2874,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.00153v1 Announce Type: new Abstract: X-ray Free-electron lasers (XFELs) deliver ultrashort and ultrabright radiation in a photon-energy range spanning from extreme ultraviolet to hard X-rays. Supporting pulse durations down to hundreds of attoseconds, these sources are unique in enabling imaging of matter with unprecedented temporal and spatial resolution. However, schemes that produce such ultrashort pulses typically rely on Self-Amplified Spontaneous Emission (SASE), a stochastic pr",
       "keywords": [
         "all-optical",
@@ -3073,7 +2902,7 @@
       "source_type": "rss",
       "category": "光学元件与成像",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.00456v1 Announce Type: new Abstract: The development of deep-tissue super-resolution imaging serves as an essential bridge toward non-invasive in vivo optical observation. However, there remain challenges to balance spatial resolution, imaging depth and phototoxicity. Here, we present a nanoscopy namely Image Scanning Emission Saturation (ISES) nanoscopy, achieving a lateral resolution of 37 nm, 1/25th of the excitation wavelength, at an imaging depth of 200 {\\mu}m. Using a 976-nm dou",
       "keywords": [
         "deep",
@@ -3102,7 +2931,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.00618v1 Announce Type: new Abstract: An event is usually regarded as a zero-dimensional coordinate label in spacetime, rather than as an object with spatial extent, internal structure or topology. Here we show that in nonlinear photonic spacetime crystals, a complete energy-momentum gap ($\\omega k$-gap) suppresses extended radiation channels, while Kerr self-trapping localizes an optical occurrence in the physical $(x,t)$ plane. Imposing and relaxing symmetry constraints then yields m",
       "keywords": [
         "dimensional",
@@ -3127,7 +2956,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.00696v1 Announce Type: new Abstract: This minireview provides a brief summary and a discussion of directions for further development of theoretical and, chiefly, experimental studies of bright solitons in optical couplers, i.e., dual-core waveguides which combine the linear inter-core coupling (tunneling of light between the parallel cores with the intra-core group-velocity dispersion and self-focusing Kerr (cubic) nonlinearity. Following a short introduction to the field, the article",
       "keywords": [
         "couplers",
@@ -3151,7 +2980,7 @@
       "source_type": "rss",
       "category": "光通信",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.01084v1 Announce Type: new Abstract: Compact and efficient frequency conversion within optical fibers is highly desirable for nonlinear and quantum photonic technologies, yet it remains challenging due to weak nonlinear interactions and limited coupling efficiencies onto optical fibers. Here, we demonstrate resonantly enhanced second-harmonic generation (SHG) through the all-fiber integration of a gallium nitride (GaN) hole-type circular Bragg grating (h-CBG) cavity, directly transfer",
       "keywords": [
         "cavity",
@@ -3179,7 +3008,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.01698v1 Announce Type: new Abstract: Achieving high-lying vibrational states is essential for actively controlling molecular reactions. We demonstrate vibrational ladder climbing of CO adsorbed on Pt(111) within the plasmonic tip-substrate nanogap formed in a scanning tunneling microscope, detected via tip-enhanced sum-frequency generation (TE-SFG). As the infrared pulse energy increases, hot-band peaks appear sequentially up to the 3-4 transition, indicating the stepwise population o",
       "keywords": [
         "climbing",
@@ -3204,7 +3033,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.01787v1 Announce Type: new Abstract: The high-extinction cross-polarization measurement of a paraxial laser beam results in a Hermite-Gaussian ($\\text{HG}_{11}$)-like four-lobes with a dark-centered cross pattern. The azimuthally spin-separated mode pattern is understood to result from the spin-orbit interaction of light. The perfect dark region at the beam center, due to extreme cross-polarization extinction (EXE), is used here to accurately determine the on-axis residual polarizatio",
       "keywords": [
         "anisotropy",
@@ -3223,6 +3052,34 @@
       "role": "科研"
     },
     {
+      "id": "95d0f9a7093c",
+      "title": "A Heterogeneous 200 mm Silicon Nitride Photonics Platform for Visible-to-Near-Infrared Applications via Micro-Transfer Printing",
+      "url": "https://arxiv.org/abs/2608.02037",
+      "source": "arXiv 光学与光子学 (physics.optics)",
+      "source_type": "rss",
+      "category": "光通信",
+      "published_at": "2026-08-04T04:00:00+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
+      "summary": "arXiv:2608.02037v1 Announce Type: new Abstract: The commercialization of next-generation technologies, including optical interconnects, quantum computing, AR/VR, and medical diagnostics, requires a low-loss photonic platform offering compact, multifunctional systems in the visible and near-infrared range. Although silicon nitride (SiN) is an excellent material due to its ultra-low loss and broad transparency window, integrating active components such as light sources, modulators and photodetecto",
+      "keywords": [
+        "heterogeneous",
+        "infrared",
+        "micro-transfer",
+        "nitride",
+        "photonics",
+        "platform",
+        "printing",
+        "silicon",
+        "visible-to-near-infrared"
+      ],
+      "score": 65.0,
+      "links": {
+        "original": "https://arxiv.org/abs/2608.02037"
+      },
+      "selected": true,
+      "role": "科研"
+    },
+    {
       "id": "e17e9b3aa5f3",
       "title": "Deep Inverse-Designed Nanophotonic Processors with Structural Nonlinearity from Repeated Phase Encoding",
       "url": "https://arxiv.org/abs/2608.02094",
@@ -3230,7 +3087,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.02094v1 Announce Type: new Abstract: Passive nanophotonic scattering regions implement linear optical transformations, and cascading input-independent regions alone does not create functional depth because the resulting transformations collapse into a single linear operator. Here, we introduce repeated phase encoding between inverse-designed passive transformations to generate an input-conditioned multilayer optical map without interlayer photodetection. Each re-encoding introduces ad",
       "keywords": [
         "deep",
@@ -3257,7 +3114,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.02166v1 Announce Type: new Abstract: In this paper, we extend our generalized Temporal Coupled Mode Theory (g-TCMT) model, developed earlier [1], from a simple, dual-coupled micro-ring resonator (MRR) system to higher-order, n-serially coupled MRRs. By treating each pair of adjacent MRRs as a single `equivalent resonator', we demonstrate excellent agreement in spectral resonance position, between the g-TCMT and numerical results obtained using the transfer matrix method (TMM), for sys",
       "keywords": [
         "applied",
@@ -3289,7 +3146,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.02224v1 Announce Type: new Abstract: Vivid colours in nature often arise from photonic nanostructures that have inspired diverse technologies. Yet most known examples fall within a limited set of structural themes. Here, we describe a biologically and optically novel structure in the bright green, violin-shaped stripes of the fiddler beetle Eupoecila australasiae. The green colour is produced by a composite, hierarchical structure comprising dense arrays of microscopic, fin-like eleme",
       "keywords": [
         "array",
@@ -3318,7 +3175,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.02249v1 Announce Type: new Abstract: Phase fluctuations between optical inputs limit programmable photonic processors because their output powers depend on coherent interference. We study the phase-drift penalty that arises when sine and cosine quadratures are measured sequentially rather than simultaneously. The analysis is motivated by measurements from an eight-mode programmable photonic processor, including 35 free-running recordings of 300 s acquired at approximately 125 samples ",
       "keywords": [
         "adaptive",
@@ -3343,7 +3200,7 @@
       "source_type": "rss",
       "category": "光电芯片与半导体",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.02251v1 Announce Type: new Abstract: Gallium phosphide (GaP) is a promising material platform for integrated photonics because of its high refractive index, broad optical transparency, and strong second-order nonlinear response. Here, we demonstrate GaP-on-insulator thin films fabricated by crystal ion slicing and direct wafer bonding, using fused silica and SiO$_2$/Si/Si thermally oxidized silicon substrates as representative platforms. Unlike GaP thin-film platforms that rely on het",
       "keywords": [
         "bonding",
@@ -3369,7 +3226,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.02328v1 Announce Type: new Abstract: Gallium phosphide is a promising material platform for visible and near-infrared photonics and quantum technologies owing to its high refractive index, low optical absorption, and strong second-order nonlinearity. Here, we demonstrate the fabrication of GaP-on-insulator substrates by ion slicing. The splitting depth and exfoliation behavior of bulk GaP are tailored by controlling the He$^{+}$ ion implantation energy and fluence, enabling thin-film ",
       "keywords": [
         "gallium",
@@ -3393,7 +3250,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.02354v1 Announce Type: new Abstract: Solar-to-fuel conversion can benefit from photoelectrodes with engineered light-matter interactions, yet most nanostructured designs provide limited control over the spatial and spectral distribution of photochemical activity. Here, we present an all-dielectric amorphous-silicon metasurface photoelectrode that confines resonant light-matter interactions within a 220-nm-thick active layer. Tunable Mie-type and guided-mode resonances spectrally encod",
       "keywords": [
         "activity",
@@ -3420,7 +3277,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.02388v1 Announce Type: new Abstract: Cavity-mediated strong coupling is an essential tool for quantum photonics. However, the inherent inhomogeneity in ensembles of matter-based qubits necessitates independent tuning to bring more than one qubit into resonance with a single cavity mode. We present the design, fabrication, and characterization of a GaAs-based photonic crystal split cavity that consists of two electrically-distinct portions, which preserves the ability to apply independ",
       "keywords": [
         "cavity",
@@ -3447,7 +3304,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.02488v1 Announce Type: new Abstract: We investigate optomechanical effects in cavities consisting of a plane-plane arrangement of a broadband reflectivity mirror and an ultrathin, suspended resonant mirror possessing a high-Q internal optical resonance. We first investigate dispersive optomechanics in such cavities on the basis of a generic analytical model as well as finite element method simulations of realistic structures. We then report on experimental optical spring measurements ",
       "keywords": [
         "cavity",
@@ -3471,7 +3328,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.00084v1 Announce Type: cross Abstract: We present PixCell, a neurosymbolic system in which multimodal agents convert a visually presented photonic component into a parametric program over a small domain-specific language (DSL) of geometric primitives. A system enabling deterministic visual verification renders evaluation asymmetrically cheaper than the generation attempt. While models using multi-seed sampling and iterative revision reach a mean best-turn IoU of only 0.416, multimodal",
       "keywords": [
         "component",
@@ -3496,7 +3353,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": "2026-08-04T04:00:00+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "arXiv:2608.00411v1 Announce Type: cross Abstract: Bound states in the continuum (BICs) are localized eigenmodes with their frequencies in the radiation continuum of scattering states. The existence of a BIC implies the loss of uniqueness for scattering problems with given incident waves. Perturbed wave systems close to the ideal ones with a BIC exhibit strong resonance effects that are essential to numerous practical applications. A question of fundamental importance is whether a BIC is robust, ",
       "keywords": [
         "bound",
@@ -3520,7 +3377,7 @@
       "source_type": "rss",
       "category": "显示与面板",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "3月26日，合肥国显科技有限公司（以下简称合肥国显）第8.6代AMOLED生产线项目在主厂房举行洁净室清扫仪式，标志着全球首条搭载无FMM技术（ViP）的高世代AMOLED生产线已顺利完成厂房建设交付，全面转入工艺设备搬入及调试阶段，为产线后续顺利量产与运营奠定坚实基础。",
       "keywords": [
         "amoled"
@@ -3540,7 +3397,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "低功耗无线解决方案创新性领导厂商Silicon Labs（亦称“芯科科技”，NASDAQ：SLAB）今日在深圳盛大举办享誉业界的Works With开发者大会，同时宣布推出Simplicity Ecosystem软件开发套件，它不仅是下一代模块化的软件开发套件，而且还计划增添人工智能（AI）增强功能，旨在全面变革嵌入式物联网（IoT）开发流程。该生态系统以Simplicity Studio 6为核心，并辅以最新发布的Simplicity AI SDK框架，从而将安装、配置、调试和分析功能整合到一个智能的、且以开发人员优先的环境中，可在产品开发的每个阶段提供自动化和洞察力。",
       "keywords": [
         "ecosystem",
@@ -3561,7 +3418,7 @@
       "source_type": "rss",
       "category": "光电芯片与半导体",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "据报道，英特尔已获得微软的一笔重要订单。微软或将采用英特尔代工的18A或18A-P工艺为其制造下一代AI处理器。这是英特尔代工在18A节点上首次确认的重大外部客户订单。",
       "keywords": [],
       "score": 65.0,
@@ -3579,7 +3436,7 @@
       "source_type": "rss",
       "category": "光学元件与成像",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "新思科技（Synopsys）宣布已获得所有相关监管机构的最终批准，将正式推进此前已公布的业务剥离计划：将旗下光学解决方案部门（Optical Solutions Group）及 PowerArtist 业务出售给是德科技（Keysight）。",
       "keywords": [
         "光学"
@@ -3599,7 +3456,7 @@
       "source_type": "rss",
       "category": "光通信",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "引言：AI浪潮下的能源挑战",
       "keywords": [
         "数据中心",
@@ -3620,7 +3477,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "据多家媒体引述宇树科技投资方消息，宇树科技计划在科创板IPO，以推动公司发展。",
       "keywords": [],
       "score": 65.0,
@@ -3638,7 +3495,7 @@
       "source_type": "rss",
       "category": "光传感与激光雷达",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "全球领先的运动控制、节能系统电源及传感解决方案供应商 Allegro MicroSystems, Inc.（Allegro）于 4 月 15 日亮相 2025 年慕尼黑上海电子展，以创新赋能，使命驱动，携手Allegro共创未来为主题，展示了最新推出的XtremeSenseTMR 电流传感器芯片 CT4022 和 CT4032，这两款产品能够为高压、功率密集型清洁能源应用提供卓越的噪声免疫性能和高精度电流测量能力。",
       "keywords": [
         "allegro",
@@ -3661,7 +3518,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "全球领先的运动控制、节能系统电源及传感解决方案供应商Allegro MicroSystems, Inc.（Allegro），今天宣布推出三款全新解决方案，致力于为电动汽车与工业自动化领域提升性能并优化能源效率。此次发布的解决方案包括 ACS37035 和 ACS37630 电流传感器，以及 A89347 汽车级风扇驱动器芯片，为多元应用场景注入先进功能。",
       "keywords": [
         "allegro"
@@ -3681,7 +3538,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "据彭博社报道，微软公司正在接受法国反垄断机构的调查，原因是担心该公司可能在其他较小的竞争对手支付费用使用必应技术时，故意降低搜索结果的质量。",
       "keywords": [],
       "score": 65.0,
@@ -3699,7 +3556,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "据彭博社报道，Meta 当地时间周一启动了裁员，主要针对表现不佳的员工，同时公司也在积极寻找人才，以便在 AI 领域占据主导地位。",
       "keywords": [
         "meta"
@@ -3719,7 +3576,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "据路透社援引三名知情人士消息称，为避免可能遭遇欧盟反垄断罚款，微软计划进一步拉大Office 捆绑 Teams 版与非捆绑版之间的价格差距。",
       "keywords": [
         "office",
@@ -3740,7 +3597,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "在近日出版的《中国网信》杂志2025年第1期中，联想集团董事长兼CEO杨元庆发表署名文章《发展人本智能，让人工智能为爱而生》。在文中，他首次系统和完整地阐述了联想践行并倡导的人本智能科技发展观。",
       "keywords": [],
       "score": 65.0,
@@ -3758,7 +3615,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "1 月 22 日消息，据北京国家地方共建具身智能机器人创新中心官方微信号 1 月 20 日消息，英伟达机器人技术业务副总裁 Deepu Talla 一行到访。Deepu Talla 表示，将在 2025 年推动双方进一步深化合作。",
       "keywords": [],
       "score": 65.0,
@@ -3776,7 +3633,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "1月21日，由上海市经济和信息化委员会、浦东新区人民政府共同指导，国家地方共建人形机器人创新中心（以下简称“国地中心”）与张江集团共同主办的国地中心具身智能训练场启用仪式在张江模力社区圆满举行。",
       "keywords": [],
       "score": 65.0,
@@ -3794,7 +3651,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "2025年1月15日，由政企市场专业媒体企业网D1net、信众智(CIO智力输出及社交平台)和中国企业数字化联盟共同举办的2024 CEIA中国企业IT大奖重磅揭晓。CEIA中国企业IT大奖至今已成功举办十届，赢得了业界的广泛赞誉，一直是政企CIO及IT负责人选型和决策的权威参考之一。",
       "keywords": [
         "ceia"
@@ -3814,7 +3671,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "英国法庭周二裁决，苹果和亚马逊成功驳回了一场大规模诉讼（指控这两家科技巨头合谋将其网站上的新苹果产品经销商下架）。",
       "keywords": [],
       "score": 65.0,
@@ -3832,7 +3689,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "据媒体报道，苹果将于周一在伦敦出庭，为一项集体诉讼进行辩护。",
       "keywords": [],
       "score": 65.0,
@@ -3850,7 +3707,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "据英国《金融时报》昨日报道，英国针对大型科技公司的一系列集体反垄断诉讼中的首场审判将于当地时间周一展开，苹果公司面临着一项 15 亿英镑（IT之家备注：当前约 134.8 亿元人民币）的诉讼，其被指控在 App Store 上收取过高且不公平的费用。",
       "keywords": [
         "store"
@@ -3870,7 +3727,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "工信部官网发布消息，根据产业发展和行业管理需要，有关单位提出工业和信息化部量子信息标准化技术委员会的筹建方案。为进一步听取各方意见，现将筹建方案予以公示。",
       "keywords": [],
       "score": 65.0,
@@ -3888,7 +3745,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光电"
@@ -3908,7 +3765,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -3926,7 +3783,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -3944,7 +3801,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "oled",
@@ -3965,7 +3822,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -3983,7 +3840,7 @@
       "source_type": "html",
       "category": "激光",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光通信",
@@ -4004,7 +3861,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2026-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "lynred",
@@ -4019,6 +3876,78 @@
       "role": "行业媒体"
     },
     {
+      "id": "a538f7b3c96e",
+      "title": "《招标投标领域信用管理暂行办法》2026年第44号令",
+      "url": "http://www.cebpubservice.com/monitorindustry/monitorplat/2026/07/12948.shtml",
+      "source": "中国招标投标公共服务平台",
+      "source_type": "html",
+      "category": "其他",
+      "published_at": null,
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
+      "summary": null,
+      "keywords": [],
+      "score": 65.0,
+      "links": {
+        "original": "http://www.cebpubservice.com/monitorindustry/monitorplat/2026/07/12948.shtml"
+      },
+      "selected": true,
+      "role": "媒体"
+    },
+    {
+      "id": "9c2609da3432",
+      "title": "【8月 西安 桂林】关于举办“立法前瞻、实务落地、风险防范”暨政府采购业务能力提升培训班的通知",
+      "url": "http://www.cebpubservice.com/monitorindustry/monitorplat/2026/01/12908.shtml",
+      "source": "中国招标投标公共服务平台",
+      "source_type": "html",
+      "category": "其他",
+      "published_at": null,
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
+      "summary": null,
+      "keywords": [],
+      "score": 65.0,
+      "links": {
+        "original": "http://www.cebpubservice.com/monitorindustry/monitorplat/2026/01/12908.shtml"
+      },
+      "selected": true,
+      "role": "媒体"
+    },
+    {
+      "id": "b55524e5c35f",
+      "title": "【8月 西安 桂林】关于举办“规范操作、排查风险、筑牢防线、落实整改”暨落实《招标人主体责任履行指引》与系统提升招标采购实战能力培训班通知",
+      "url": "http://www.cebpubservice.com/monitorindustry/monitorplat/2026/01/12907.shtml",
+      "source": "中国招标投标公共服务平台",
+      "source_type": "html",
+      "category": "其他",
+      "published_at": null,
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
+      "summary": null,
+      "keywords": [],
+      "score": 65.0,
+      "links": {
+        "original": "http://www.cebpubservice.com/monitorindustry/monitorplat/2026/01/12907.shtml"
+      },
+      "selected": true,
+      "role": "媒体"
+    },
+    {
+      "id": "47581a5fe732",
+      "title": "中国招标投标协会任树本会长一行莅临中国招标投标公共服务平台视察指导",
+      "url": "http://www.cebpubservice.com/monitorindustry/monitorplat/2023/03/12428.shtml",
+      "source": "中国招标投标公共服务平台",
+      "source_type": "html",
+      "category": "其他",
+      "published_at": null,
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
+      "summary": null,
+      "keywords": [],
+      "score": 65.0,
+      "links": {
+        "original": "http://www.cebpubservice.com/monitorindustry/monitorplat/2023/03/12428.shtml"
+      },
+      "selected": true,
+      "role": "媒体"
+    },
+    {
       "id": "28567e7047a1",
       "title": "李乐成到四川省通信管理局调研 强调深入学习贯彻习近平党建思想 推动信息通信业高质量发展",
       "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_097e130e9a094e0580c6516bd837a6b9.html",
@@ -4026,7 +3955,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4044,7 +3973,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4062,7 +3991,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4080,7 +4009,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4098,7 +4027,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4116,7 +4045,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4134,7 +4063,7 @@
       "source_type": "html",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4152,7 +4081,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4170,7 +4099,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4188,7 +4117,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4206,7 +4135,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4224,7 +4153,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4242,7 +4171,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4260,7 +4189,7 @@
       "source_type": "html",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4278,7 +4207,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4296,7 +4225,7 @@
       "source_type": "html",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "apec"
@@ -4316,7 +4245,7 @@
       "source_type": "html",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4334,7 +4263,7 @@
       "source_type": "html",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4352,7 +4281,7 @@
       "source_type": "html",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4370,7 +4299,7 @@
       "source_type": "html",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 65.0,
@@ -4388,7 +4317,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-07-29",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光通信"
@@ -4408,7 +4337,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-07-29",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "microled",
@@ -4429,7 +4358,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-07-29",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "ocs"
@@ -4449,7 +4378,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": "2026-08-02T23:33:23+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "International automotive supplier FORVIA HELLA has put its new-generation Rain Light Sensors into series production. With high sensitivity and fully automatic adjustment, it delivers precise, real-time environmental sensing that enhances safety and supports a more comfortable in-cabin experience for consumers. The sensors are developed and produced locally in China for a well-known local new energy vehicle manufacturer, underscoring FORVIA HELLA’s commitment to localized innovation and customer-",
       "keywords": [
         "china",
@@ -4474,7 +4403,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": "2026-08-02T23:30:34+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Zhongji Innolight, a global leader in optical transceivers, officially listed on the Main Board of the Hong Kong Stock Exchange (HKEX) on July 30, 2026. The company priced its H-share offering at HKD 980 per share, securing base gross proceeds of HKD 53.410 billion (with net proceeds reaching approximately HKD 54.513 billion). If the 15% over-allotment option is exercised in full, total fundraising will expand to HKD 61.422 billion. This marks the largest IPO on the HKEX in 2026 to date, as well",
       "keywords": [
         "bottleneck",
@@ -4500,7 +4429,7 @@
       "source_type": "html",
       "category": "产业与资本",
       "published_at": "2026-07-28",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "基板",
@@ -4521,7 +4450,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-07-28",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "cpo",
@@ -4543,7 +4472,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": "2026-08-02T15:35:46+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "AIXTRON SE (FSE: AIXA, ISIN DE000A0WMPJ6) benefitted from a strong order intake of EUR 214.5 million (+81% yoy) in the second quarter 2026. This underlines the continued strong market momentum, driven by very strong demand for optoelectronic systems. Major laser system shipments are expected to begin in Q3/2026 and continue well beyond the current fiscal year. The volume ramp at AIXTRON and its suppliers is well on track. Hence, the company confirms the raised guidance released on April 14, 2026",
       "keywords": [
         "continues",
@@ -4566,7 +4495,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-07-21",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "trendforce",
@@ -4587,7 +4516,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": "2026-07-30T21:53:01+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Innoviz Technologies Ltd., a leading supplier of high-performance automotive-grade LiDAR sensor platforms for the automotive, security, defense and industrial markets, today announced that it has received multimillion-dollar orders of several hundred LiDAR units from a defense customer, with potential for additional units upon the successful completion of the first deployment. The orders come at a period of growing momentum for Innoviz in the defense and homeland security markets. In recent week",
       "keywords": [
         "customer",
@@ -4612,7 +4541,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": "2026-07-30T21:51:32+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Samsung Electronics today reported financial results for the second quarter ended June 30, 2026. The Company posted KRW 171.5 trillion in consolidated revenue, another all-time quarterly high, representing a quarter-on-quarter (QoQ) increase of 28%. Operating profit also reached another all-time high, increasing to KRW 89.5 trillion. Earnings per share for both common and preferred shares increased by 52% to KRW 10,849, among the highest levels for global tech companies. The Device Solutions (DS",
       "keywords": [
         "announces",
@@ -4635,7 +4564,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": "2026-07-30T21:46:20+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Across seven generations, Samsung has helped define the foldable category through advances in display technology, hinge engineering, and materials innovation — all driven by a deep understanding of how people use their devices. To hear how those insights guided the engineering behind Samsung’s latest foldables, Samsung Newsroom sat down with Sunghoon Moon, Executive Vice President and Senior Executive of Mobile R&D Office — Hardware, Mobile eXperience (MX) Business at Samsung Electronics. Q. How",
       "keywords": [
         "engineering",
@@ -4658,7 +4587,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": "2026-07-30T21:36:31+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Marvell Technology, Inc., a leader in data infrastructure semiconductor solutions, today announced plans to invest $250 million in India over the next three years to expand its capabilities across technology, talent and infrastructure. The announcement coincides with a milestone event celebrating 20 years of innovation in India, highlighting the company’s contributions to global technology development, its continued investment in the region and its commitment to advancing India’s semiconductor e",
       "keywords": [
         "bangalore",
@@ -4686,7 +4615,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": "2026-07-30T13:54:54+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "HELLA GmbH & Co. KGaA today presented its financial results for the first six months of the fiscal year 2026 (1 January to 30 June 2026). Currency-adjusted sales in the first half of the year rose by 1.6 percent to €4,040 million. Taking into account negative exchange rate effects, reported consolidated sales maintained the level of the prior year at €3,972 million (previous year: €3,979 million). During the same period, the global automotive market developed weakly, with global light vehicle pr",
       "keywords": [
         "accelerated",
@@ -4699,7 +4628,7 @@
         "line",
         "transformation"
       ],
-      "score": 61.2,
+      "score": 61.1,
       "links": {
         "original": "//www.ledinside.com/news/2026/7/2026_07_31_05"
       },
@@ -4714,7 +4643,7 @@
       "source_type": "rss",
       "category": "显示与面板",
       "published_at": "2026-07-29T22:01:35+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Qd0Ju4iE5oU?si=ITI8_mKAoEtcskVE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> InfoComm Asia 2026 successfully concluded at the Queen Sirikit National Convention Center in Bangkok. Ledman presented its comprehensive LED display solutions...",
       "keywords": [
         "asia",
@@ -4741,7 +4670,7 @@
       "source_type": "rss",
       "category": "显示与面板",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Full-color displays normally require separate red, green and blue light emitters. A team from the University of Osaka and Ritsumeikan University has demonstrated another approach: a single light-emitting layer that produces several colors when electrically powered at room temperature. The study was published in Applied Physics Letters.",
       "keywords": [
         "colors",
@@ -4759,34 +4688,6 @@
       "role": "科研"
     },
     {
-      "id": "97e6f31c26ba",
-      "title": "First electrically pumped perovskite polariton laser diode solves a decades-long challenge",
-      "url": "https://phys.org/news/2026-07-electrically-perovskite-polariton-laser-diode.html",
-      "source": "Phys.org 物理新闻",
-      "source_type": "rss",
-      "category": "激光",
-      "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
-      "summary": "Resolving a long-standing problem in semiconductor physics and optoelectronics, a team of researchers from Skoltech—a VEB.RF group institution—and their colleagues from ITMO University and HSE University have for the first time demonstrated direct electrical pumping of a polariton laser based on a solution-processed halide perovskite microcrystal. Published in Nature, this solution to a decades-long technological challenge ushers in inexpensive nonepitaxial laser diodes operating under continuou",
-      "keywords": [
-        "challenge",
-        "decades-long",
-        "diode",
-        "electrically",
-        "laser",
-        "perovskite",
-        "polariton",
-        "pumped",
-        "solves"
-      ],
-      "score": 60.0,
-      "links": {
-        "original": "https://phys.org/news/2026-07-electrically-perovskite-polariton-laser-diode.html"
-      },
-      "selected": true,
-      "role": "科研"
-    },
-    {
       "id": "4005ae721c7e",
       "title": "国际海缆韧性咨询机构召开全体会议",
       "url": "https://www.c114.com.cn/news/550/a1313802.html",
@@ -4794,7 +4695,7 @@
       "source_type": "rss",
       "category": "光通信",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "2026年7月10日，国际电信联盟国际海缆韧性咨询机构首届任期收官会议在瑞士日内瓦召开。该机构是国际电信联盟推动全球海缆治理体系建设的重要机制，下设海缆快速部署与维修风险监测与缓解地理路由多样性三个工作组，旨在凝聚各界力量，研究海缆建设与保护中的重大问题，推动形成国际共识和政策建议。",
       "keywords": [
         "海缆"
@@ -4814,7 +4715,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "贯彻落实党中央、国务院决策部署，为推动我国互联网基础资源高质量发展，塑造互联网发展新动能新优势，工业和信息化部、中央网信办、国家发展改革委、国家数据局等四部门近日联合印发《关于推动互联网基础资源高质量发展的指导意见》。",
       "keywords": [],
       "score": 60.0,
@@ -4832,7 +4733,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "近日，工业和信息化部、国务院国资委联合印发通知，正式启动2026年度人形机器人与具身智能实景实训专项行动，聚焦工业、服务、特种等领域重点场景，部署打造实景实训空间、组建创新应用联合体、攻关实用化作业技能、加强实景应用验证与常态部署、强化关键要素保障、凝练成熟经验等六项重点任务，加速构建“实景实训—数据沉淀—产品迭代—规模部署”闭环，支撑人形机器人与具身智能产业高质量发展。",
       "keywords": [],
       "score": 60.0,
@@ -4850,7 +4751,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "昨日，工业和信息化部办公厅发布关于组织开展6G创新发展部省协同试点专项行动的通知。",
       "keywords": [],
       "score": 60.0,
@@ -4868,7 +4769,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "为贯彻落实党中央、国务院关于推动电信领域高水平对外开放的决策部署，工业和信息化部坚持以高水平开放促进电信业高质量发展，积极稳妥有序推进电信业务扩大开放，在WTO承诺、自由贸易试验区、服务业扩大开放等政策基础上，主动对接国际高标准经贸规则，在北京、上海、海南、深圳等四地试点取消互联网数据中心等增值电信业务的外资股比限制。",
       "keywords": [],
       "score": 60.0,
@@ -4886,7 +4787,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "2026年3月16日，工业和信息化部办公厅印发《关于做好2026年信息通信业安全生产和网络运行安全工作的通知》，面向各省通信管理局、三大基础电信企业、中国广电、中国铁塔、中国卫星网络集团及相关互联网企业，就全年安全防范工作作出系统部署。",
       "keywords": [],
       "score": 60.0,
@@ -4904,7 +4805,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "C114讯 3月11日消息 据中华人民共和国工业和信息化部公告2026年第3号显示，工业和信息化部批准《5G消息 不同运营商业务互通设备技术要求》等453项行业标准。",
       "keywords": [],
       "score": 60.0,
@@ -4922,7 +4823,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "3月11日，工业和信息化部召开全国电视电话会议，总结2025年信息通信业行风建设和纠风工作情况，部署2026年重点工作。部党组成员、副部长张云明出席会议并讲话，部总工程师钟志红主持会议。",
       "keywords": [],
       "score": 60.0,
@@ -4940,7 +4841,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "昨日，科技部、金融监管总局、工业和信息化部、国家知识产权局联合印发《关于加快推动科技保险高质量发展 有力支撑高水平科技自立自强的若干意见》（以下简称《意见》），旨在健全重大技术攻关风险分散机制，构建覆盖科技创新全链条、全周期的科技保险政策体系。",
       "keywords": [],
       "score": 60.0,
@@ -4958,7 +4859,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "为深入贯彻落实党中央、国务院决策部署，加快形成全国算力资源一本账，全面提升我国算力资源管理效能，工业和信息化部办公厅近日印发《关于全面开展算力态势感知自动化监测工作的通知》（以下简称《通知》）。",
       "keywords": [
         "算力"
@@ -4978,7 +4879,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "近日，工业和信息化部在第401批《道路机动车辆生产企业及产品公告》中，附条件许可两款搭载L3级有条件自动驾驶功能的智能网联汽车产品，分别来自重庆长安汽车股份有限公司和北汽蓝谷麦格纳汽车有限公司。",
       "keywords": [
         "自动驾驶"
@@ -4998,7 +4899,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "2025年12月7日，工业和信息化部党组书记、部长李乐成主持召开务虚会，深入学习贯彻党的二十届四中全会精神，研究谋划“十五五”及开局之年工作思路和举措。部领导辛国斌、叶民、张云明、熊继军、柯吉欣、单忠德、谢远生、张建民、高东升、谢少锋、钟志红出席会议，结合分管领域工作逐一发言，交流学习体会，分析研判当前形势，提出意见建议。",
       "keywords": [],
       "score": 60.0,
@@ -5016,7 +4917,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "今日，工信部发布《关于进一步加快制造业中试平台体系化布局和高水平建设的通知》，旨在落实《制造业中试创新发展实施意见》，进一步推进制造业中试平台体系化布局，加强高水平中试平台建设。",
       "keywords": [],
       "score": 60.0,
@@ -5034,7 +4935,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "颜翊）为落实《算力基础设施高质量发展行动计划》要求，提升算力高效运载能力，切实推动算网融合发展，现组织开展城域“毫秒用算”专项行动，工业和信息化部办公厅近日正式印发《关于开展城域“毫秒用算”专项行动的通知》，在全国范围内梯次推进毫秒用算网络建设，明确到2027年基本形成全域覆盖、高效畅通的城域毫秒用算网络能力体系。",
       "keywords": [
         "算力"
@@ -5054,7 +4955,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "方案还强调夯实服务型制造发展底座，要求深化“5G+工业互联网”融合创新和规模化应用，按需布局算力基础设施，加速算力与行业融合应用。提升工业数据要素供给，推动数据资源化、资产化和要素化，建设一批高质量行业数据集。",
       "keywords": [
         "算力"
@@ -5074,7 +4975,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "该通知旨在贯彻落实党中央、国务院决策部署，支持商业航天、低空经济等新兴产业安全健康发展，推动卫星物联网业务规范有序发展。",
       "keywords": [],
       "score": 60.0,
@@ -5092,7 +4993,7 @@
       "source_type": "rss",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "昨日，工业和信息化部办公厅发布《关于全面推广增值电信业务经营许可电子证照应用的通知》（工信厅信管〔2025〕50号），决定全面推广增值电信业务经营许可电子证照应用。",
       "keywords": [],
       "score": 60.0,
@@ -5110,7 +5011,7 @@
       "source_type": "rss",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "为贯彻落实《新产业标准化领航工程实施方案（2023—2035年）》，切实发挥标准对推动云计算产业创新发展的支撑和引领作用，近日工业和信息化部与国家标准委联合印发《云计算综合标准化体系建设指南（2025版）》（下称《指南》）。",
       "keywords": [],
       "score": 60.0,
@@ -5128,7 +5029,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "C114讯 9月30日消息（颜翊）2025年9月30日，深圳市交通运输局发布《〈深圳市支持低空经济高质量发展的若干措施〉实施细则》，自2025年10月9日起施行，有效期至2026年12月31日。该细则旨在贯彻落实《深圳市支持低空经济高质量发展的若干措施》，进一步加快推进低空经济高质量发展。",
       "keywords": [],
       "score": 60.0,
@@ -5139,54 +5040,54 @@
       "role": "行业媒体"
     },
     {
-      "id": "0783f4871a9c",
+      "id": "502a938ca3f3",
       "title": "2023年光电行业研究分析报告",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9FkFejmPneXE5XbFbbT99lhZy7X8hTyLmIGDV4fy0fk7Klg_KW3DG62qBXlzNj2_ChLcnjhvu7V3TGIVRvilNrLA9LuGywgP6wqfvv9t069vaOTRCF5wvUnPKEg4taGajtPH11Y5Sg96AE04OrMR0F6LzTA_Wx7thgIkkv1PzR-fy08OLTBhW0A..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9FkFejmPneXE5XbFbbT99lhZy7X8hTyLmIGDV4fy0fk7Klg_KW3DG62qBXlzNj2_ChLcnjhvu7V3TGIVRvilNrKZ2LcEo0NnU-8wAFQkVhj0Xwh63AwvyI3NdbIahT3qYmhgT-9-Z-_BpfuCXNdda0KPsfP-dB70bDTEyxnHY21SjotuuiAmOIg..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F",
       "source": "搜狗微信·光电行业",
       "source_type": "html",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光电"
       ],
       "score": 60.0,
       "links": {
-        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9FkFejmPneXE5XbFbbT99lhZy7X8hTyLmIGDV4fy0fk7Klg_KW3DG62qBXlzNj2_ChLcnjhvu7V3TGIVRvilNrLA9LuGywgP6wqfvv9t069vaOTRCF5wvUnPKEg4taGajtPH11Y5Sg96AE04OrMR0F6LzTA_Wx7thgIkkv1PzR-fy08OLTBhW0A..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60"
+        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9FkFejmPneXE5XbFbbT99lhZy7X8hTyLmIGDV4fy0fk7Klg_KW3DG62qBXlzNj2_ChLcnjhvu7V3TGIVRvilNrKZ2LcEo0NnU-8wAFQkVhj0Xwh63AwvyI3NdbIahT3qYmhgT-9-Z-_BpfuCXNdda0KPsfP-dB70bDTEyxnHY21SjotuuiAmOIg..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F"
       },
       "selected": true,
       "role": "媒体"
     },
     {
-      "id": "295bd97618c6",
+      "id": "b23baffbc8fb",
       "title": "新手入门光电行业,这5个核心岗位详解,薪资待遇大揭秘",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9hkI6wHsIuUfJdsXhAUYVPqNl6wtTMIw3F-pzuGc0FBaGHGFPvlfkcPunCnCDtNpavwprTqE-5qchsQJ2nJwhhlS-q-9oEIdwSfRtE1yFvCCj_qS-0t1nQf8jUAoggHLA6VGGxw8NUc7PYl5_dFaWDGTYgZ7MGg77gpNA02G2vDp5LU3lqtPw9g..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9hkI6wHsIuUfJdsXhAUYVPqNl6wtTMIw3F-pzuGc0FBaGHGFPvlfkcPunCnCDtNpavwprTqE-5qchsQJ2nJwhhqruYOdV1xwirDC5quUwxuy5jMqNygCB2RUhjq93K1WljOpij5FvA9is9Tm70DIjuGGO_14rWJTNdFICpvp3n1Rj3x9Nw6p-Fg..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F",
       "source": "搜狗微信·光电行业",
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光电"
       ],
       "score": 60.0,
       "links": {
-        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9hkI6wHsIuUfJdsXhAUYVPqNl6wtTMIw3F-pzuGc0FBaGHGFPvlfkcPunCnCDtNpavwprTqE-5qchsQJ2nJwhhlS-q-9oEIdwSfRtE1yFvCCj_qS-0t1nQf8jUAoggHLA6VGGxw8NUc7PYl5_dFaWDGTYgZ7MGg77gpNA02G2vDp5LU3lqtPw9g..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60"
+        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9hkI6wHsIuUfJdsXhAUYVPqNl6wtTMIw3F-pzuGc0FBaGHGFPvlfkcPunCnCDtNpavwprTqE-5qchsQJ2nJwhhqruYOdV1xwirDC5quUwxuy5jMqNygCB2RUhjq93K1WljOpij5FvA9is9Tm70DIjuGGO_14rWJTNdFICpvp3n1Rj3x9Nw6p-Fg..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F"
       },
       "selected": true,
       "role": "媒体"
     },
     {
-      "id": "464e81b80d22",
+      "id": "c80f06777aa0",
       "title": "年俗丨正月十三:点灶灯(光学光电行业专版)",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9sFo7_5vDJ39iPDfUfyee5Cd96-AjM-jcFdK3omNmWyBUwLclj3v14hi-a5toLivQZAoEXoPoe-q5QUN9HBTbzD01epyzNwgAKUvNASVksOHY83hEW4bvk53qB6YZK2D3buQrlEj0-phJg-CMPkCrd2Slc3VC3aC2qVh2tqktGylhlgeRt7bSzA..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9sFo7_5vDJ39iPDfUfyee5Cd96-AjM-jcFdK3omNmWyBUwLclj3v14hi-a5toLivQZAoEXoPoe-q5QUN9HBTbzE_YRInfve6SaBKvVGLn9WNI5k5USWcv2s8a7Rb0OCbO9F2IFwSM5p8zCz3SyHNggFyLQeiK1jIJsjbeLPO-4RxOJBjQH7pCxQ..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F",
       "source": "搜狗微信·光电行业",
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光学",
@@ -5194,147 +5095,147 @@
       ],
       "score": 60.0,
       "links": {
-        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9sFo7_5vDJ39iPDfUfyee5Cd96-AjM-jcFdK3omNmWyBUwLclj3v14hi-a5toLivQZAoEXoPoe-q5QUN9HBTbzD01epyzNwgAKUvNASVksOHY83hEW4bvk53qB6YZK2D3buQrlEj0-phJg-CMPkCrd2Slc3VC3aC2qVh2tqktGylhlgeRt7bSzA..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60"
+        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9sFo7_5vDJ39iPDfUfyee5Cd96-AjM-jcFdK3omNmWyBUwLclj3v14hi-a5toLivQZAoEXoPoe-q5QUN9HBTbzE_YRInfve6SaBKvVGLn9WNI5k5USWcv2s8a7Rb0OCbO9F2IFwSM5p8zCz3SyHNggFyLQeiK1jIJsjbeLPO-4RxOJBjQH7pCxQ..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F"
       },
       "selected": true,
       "role": "媒体"
     },
     {
-      "id": "b21ed7919131",
+      "id": "65224ed8d674",
       "title": "2026年光电项目行业值得推荐的GEO服务商",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9Kf6YWPiEwd5HLxummj-CHH8mHJM6zVHK-APUm-a12BVAJ8KG6LQbQXpL1AEy-igB-BCZdtzALaFdlAxEyI1_4MR81_OBtiuK55zjAuB8RplqUSdsCbeTx7O-SthVMaKh-fzIzEcYm58BExGTqeM6kuw4FGHDlaU3wmpELPye56NCy6umSSPEsg..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9Kf6YWPiEwd5HLxummj-CHH8mHJM6zVHK-APUm-a12BVAJ8KG6LQbQXpL1AEy-igB-BCZdtzALaFdlAxEyI1_4HATRUou2RBfG61yEtHvqbjXmc9UVXlEFruZBm3XJ7Bi_MwmQ33NIS-i4QQuswIF0LSGZDxmgVgVtzFbEqe0OtHI3OTRHYU2og..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F",
       "source": "搜狗微信·光电行业",
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光电"
       ],
       "score": 60.0,
       "links": {
-        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9Kf6YWPiEwd5HLxummj-CHH8mHJM6zVHK-APUm-a12BVAJ8KG6LQbQXpL1AEy-igB-BCZdtzALaFdlAxEyI1_4MR81_OBtiuK55zjAuB8RplqUSdsCbeTx7O-SthVMaKh-fzIzEcYm58BExGTqeM6kuw4FGHDlaU3wmpELPye56NCy6umSSPEsg..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60"
+        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9Kf6YWPiEwd5HLxummj-CHH8mHJM6zVHK-APUm-a12BVAJ8KG6LQbQXpL1AEy-igB-BCZdtzALaFdlAxEyI1_4HATRUou2RBfG61yEtHvqbjXmc9UVXlEFruZBm3XJ7Bi_MwmQ33NIS-i4QQuswIF0LSGZDxmgVgVtzFbEqe0OtHI3OTRHYU2og..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F"
       },
       "selected": true,
       "role": "媒体"
     },
     {
-      "id": "8ccc3f0ef354",
+      "id": "9139bf5f0354",
       "title": "聚焦全国两会丨从2026年政府工作报告看光电行业发展方向",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9rsSu7t4O-SKhYCsNVe8XxiI4n4qvu_dfL1qh8DGGHmDioJBIrwPATFFobGDvVtebEgR5YVO8SGqJ4k9IIqG95zc5_VoSh6G-A_pW58tuO73Mga0i53RSo2LiYfpF8UcX1c-47hG-0hsgVs1wsytirdi_gT79sCOG7Ky5wpXWePgHpHkoPMgL3A..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9rsSu7t4O-SKhYCsNVe8XxiI4n4qvu_dfL1qh8DGGHmDioJBIrwPATFFobGDvVtebEgR5YVO8SGqJ4k9IIqG952I7DmZhRaxuyvUlFzwHY7Hk7TkGdGhCiZSHTiseMv-pJUNMO0Th-cU18hyDpfbJztlhRH8DROmtsIQ7_MqNpq_0OK9DLfgmPA..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F",
       "source": "搜狗微信·光电行业",
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光电"
       ],
       "score": 60.0,
       "links": {
-        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9rsSu7t4O-SKhYCsNVe8XxiI4n4qvu_dfL1qh8DGGHmDioJBIrwPATFFobGDvVtebEgR5YVO8SGqJ4k9IIqG95zc5_VoSh6G-A_pW58tuO73Mga0i53RSo2LiYfpF8UcX1c-47hG-0hsgVs1wsytirdi_gT79sCOG7Ky5wpXWePgHpHkoPMgL3A..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60"
+        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9rsSu7t4O-SKhYCsNVe8XxiI4n4qvu_dfL1qh8DGGHmDioJBIrwPATFFobGDvVtebEgR5YVO8SGqJ4k9IIqG952I7DmZhRaxuyvUlFzwHY7Hk7TkGdGhCiZSHTiseMv-pJUNMO0Th-cU18hyDpfbJztlhRH8DROmtsIQ7_MqNpq_0OK9DLfgmPA..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F"
       },
       "selected": true,
       "role": "媒体"
     },
     {
-      "id": "0d4ab40fe587",
+      "id": "660465b11999",
       "title": "政策利好!2026光电行业扶持政策解读,企业机遇来了",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9hkI6wHsIuUfJdsXhAUYVPqNl6wtTMIw3F-pzuGc0FBaGHGFPvlfkcMW8rM2yU8SFrhx3tBcTYNNsNJHhbI58Oe5aOHXjJf8Pt0Hsx-I-Ulnpz021FUaEGziHhkcMdEfPG8CfTy-5feDQeKqpDLAOIFKh-bNZl9mVXdJflfDw7mrm0CtGSSkZQQ..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9hkI6wHsIuUfJdsXhAUYVPqNl6wtTMIw3F-pzuGc0FBaGHGFPvlfkcMW8rM2yU8SFrhx3tBcTYNNsNJHhbI58OXXgdRt9nGPJcnAshmpCKsyePrmChCQTN32W7M18xAx5guUd3IMj7Hy6bsoggBB3lqDOx_nw5n_QE6ByjudG8v7s46dn8Efgxg..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F",
       "source": "搜狗微信·光电行业",
       "source_type": "html",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光电"
       ],
       "score": 60.0,
       "links": {
-        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9hkI6wHsIuUfJdsXhAUYVPqNl6wtTMIw3F-pzuGc0FBaGHGFPvlfkcMW8rM2yU8SFrhx3tBcTYNNsNJHhbI58Oe5aOHXjJf8Pt0Hsx-I-Ulnpz021FUaEGziHhkcMdEfPG8CfTy-5feDQeKqpDLAOIFKh-bNZl9mVXdJflfDw7mrm0CtGSSkZQQ..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60"
+        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9hkI6wHsIuUfJdsXhAUYVPqNl6wtTMIw3F-pzuGc0FBaGHGFPvlfkcMW8rM2yU8SFrhx3tBcTYNNsNJHhbI58OXXgdRt9nGPJcnAshmpCKsyePrmChCQTN32W7M18xAx5guUd3IMj7Hy6bsoggBB3lqDOx_nw5n_QE6ByjudG8v7s46dn8Efgxg..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F"
       },
       "selected": true,
       "role": "媒体"
     },
     {
-      "id": "e08979a26e8b",
+      "id": "56eedc44a41b",
       "title": "福州市光电行业协会在高新区成立",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9ghTbeA0Ky9YvZbuZEIs_ZTxSJ9CwNYCRlu6MvpJbtWrqSHPx-lEqL6MY2lLGLRCWBQNyl7IaDyBuOQiNvZOBWKtB9sVDS2jyeDQ-n1F98Ln3Oq3vQsJR1MACB2IjFy_tq4xWQ5p3ZBPHpm1siJKmHhyAmGZlQu9znhEhqVDnwbANGbbB75bUeA..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9ghTbeA0Ky9YvZbuZEIs_ZTxSJ9CwNYCRlu6MvpJbtWrqSHPx-lEqL6MY2lLGLRCWBQNyl7IaDyBuOQiNvZOBWLiSbsyqcMgdOb1b8WqWeqTr-rYN-QoiO_4uSIvht_wrlmDGD16hRUN9y5idX1fkaVJq379Wg87RRCBxXAwJupgO8fIRwtipOg..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F",
       "source": "搜狗微信·光电行业",
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光电"
       ],
       "score": 60.0,
       "links": {
-        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9ghTbeA0Ky9YvZbuZEIs_ZTxSJ9CwNYCRlu6MvpJbtWrqSHPx-lEqL6MY2lLGLRCWBQNyl7IaDyBuOQiNvZOBWKtB9sVDS2jyeDQ-n1F98Ln3Oq3vQsJR1MACB2IjFy_tq4xWQ5p3ZBPHpm1siJKmHhyAmGZlQu9znhEhqVDnwbANGbbB75bUeA..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60"
+        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9ghTbeA0Ky9YvZbuZEIs_ZTxSJ9CwNYCRlu6MvpJbtWrqSHPx-lEqL6MY2lLGLRCWBQNyl7IaDyBuOQiNvZOBWLiSbsyqcMgdOb1b8WqWeqTr-rYN-QoiO_4uSIvht_wrlmDGD16hRUN9y5idX1fkaVJq379Wg87RRCBxXAwJupgO8fIRwtipOg..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F"
       },
       "selected": true,
       "role": "媒体"
     },
     {
-      "id": "506617fe7831",
+      "id": "5e038559da92",
       "title": "实控人被留置:800亿龙头震荡 光电行业合规大考启幕",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9zt32oALMhhtadXFhtMvdFqAdjl2EoEzBbPYSl4j1NhaJDVw5VXgvqM3cA-Yoh5crKr1nNG5pzL-McZPfXNInARQgUlCvXX48y6m75DuFIRkN0da0n7bp8bKWvaPFeAhw6MZaq6v38r9hX5Yosyx5Vu6zn91Tho8iUfmQgG7bung5eBgmN3LoYQ..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9zt32oALMhhtadXFhtMvdFqAdjl2EoEzBbPYSl4j1NhaJDVw5VXgvqM3cA-Yoh5crKr1nNG5pzL-McZPfXNInAV-8tEl_klMZxFgM_IRbk6Ub6ttQRt7Es7n9SJi_NyLmny_Xq8rejOMWK4SwtISnZLeAnEQzomqtYFYyAryTe_lQL0Hr9Gyd3Q..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F",
       "source": "搜狗微信·光电行业",
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光电"
       ],
       "score": 60.0,
       "links": {
-        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9zt32oALMhhtadXFhtMvdFqAdjl2EoEzBbPYSl4j1NhaJDVw5VXgvqM3cA-Yoh5crKr1nNG5pzL-McZPfXNInARQgUlCvXX48y6m75DuFIRkN0da0n7bp8bKWvaPFeAhw6MZaq6v38r9hX5Yosyx5Vu6zn91Tho8iUfmQgG7bung5eBgmN3LoYQ..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60"
+        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9zt32oALMhhtadXFhtMvdFqAdjl2EoEzBbPYSl4j1NhaJDVw5VXgvqM3cA-Yoh5crKr1nNG5pzL-McZPfXNInAV-8tEl_klMZxFgM_IRbk6Ub6ttQRt7Es7n9SJi_NyLmny_Xq8rejOMWK4SwtISnZLeAnEQzomqtYFYyAryTe_lQL0Hr9Gyd3Q..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F"
       },
       "selected": true,
       "role": "媒体"
     },
     {
-      "id": "1280477d6d0c",
+      "id": "07b19c2a27fe",
       "title": "光电行业进入洗牌期,如何才能成为国产龙头?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9vD077APsL-fRSf9De4W4Ilgc47qcShqz__d9d3ZpClWDBRnthZovS1mC1rF87MJE6dJ1E1c_IJg2U_xdO51rFbySQR8Y3NWYLQ6cfoPnhThDCjwzM4E2Inaq3BtpZVwwOI2EJe_SyeUeQCvUFhXtl1Hs7_I9TgrMFMKbL0pdWx-00NVofL2iDw..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9vD077APsL-fRSf9De4W4Ilgc47qcShqz__d9d3ZpClWDBRnthZovS1mC1rF87MJE6dJ1E1c_IJg2U_xdO51rFZe7zbABhkEOvKYQOa9kOfdfByyrBwkzQRYqo6ZYQOHFZWK32_RZFUS_1TsmAPrUyNVwnqHnqkQLPL2zysh6T1bm0CtGSSkZQQ..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F",
       "source": "搜狗微信·光电行业",
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光电"
       ],
       "score": 60.0,
       "links": {
-        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd9vD077APsL-fRSf9De4W4Ilgc47qcShqz__d9d3ZpClWDBRnthZovS1mC1rF87MJE6dJ1E1c_IJg2U_xdO51rFbySQR8Y3NWYLQ6cfoPnhThDCjwzM4E2Inaq3BtpZVwwOI2EJe_SyeUeQCvUFhXtl1Hs7_I9TgrMFMKbL0pdWx-00NVofL2iDw..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60"
+        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd9vD077APsL-fRSf9De4W4Ilgc47qcShqz__d9d3ZpClWDBRnthZovS1mC1rF87MJE6dJ1E1c_IJg2U_xdO51rFZe7zbABhkEOvKYQOa9kOfdfByyrBwkzQRYqo6ZYQOHFZWK32_RZFUS_1TsmAPrUyNVwnqHnqkQLPL2zysh6T1bm0CtGSSkZQQ..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F"
       },
       "selected": true,
       "role": "媒体"
     },
     {
-      "id": "10d3e287b623",
+      "id": "69a8254f52d0",
       "title": "年度光电行业盛会,即将开幕!",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd95XQgdR2FSJyHdZAq8YKbw8udz9K_9CXsQmr5sxn0kaWNr7Uf0L9-S-_c4rfaC-oWbamPXhd-7a7MecL4CfLGrHPupx8MTfRotM3bvZbcYs-5ys6Yg2aUnw4116oAfRQb9TH6EjE21t31nqGVhZYrpnz2y1vXO8TzlatMKbYNMRhQL0Hr9Gyd3Q..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd95XQgdR2FSJyHdZAq8YKbw8udz9K_9CXsQmr5sxn0kaWNr7Uf0L9-S-_c4rfaC-oWbamPXhd-7a7MecL4CfLGrDG6cClY2I-hcKkqIAS7R4-SivU6xe8Xc1A62rXVfq1kGzoJutPqJsy7lbAfBkyqUz1LhKiqCb2paYw0kE7Lma-q3X8EKMKOIA..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F",
       "source": "搜狗微信·光电行业",
       "source_type": "html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光电"
       ],
       "score": 60.0,
       "links": {
-        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32cSfcDe5BOntdiI9dh0VosVqXa8Fplpd95XQgdR2FSJyHdZAq8YKbw8udz9K_9CXsQmr5sxn0kaWNr7Uf0L9-S-_c4rfaC-oWbamPXhd-7a7MecL4CfLGrHPupx8MTfRotM3bvZbcYs-5ys6Yg2aUnw4116oAfRQb9TH6EjE21t31nqGVhZYrpnz2y1vXO8TzlatMKbYNMRhQL0Hr9Gyd3Q..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F37BA6C1A73018D6E2E4BAD0B397C582E219FEE56A716E60"
+        "original": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Iueh__Ak32YAvtMlFnj8ddiI9dh0VosVqXa8Fplpd95XQgdR2FSJyHdZAq8YKbw8udz9K_9CXsQmr5sxn0kaWNr7Uf0L9-S-_c4rfaC-oWbamPXhd-7a7MecL4CfLGrDG6cClY2I-hcKkqIAS7R4-SivU6xe8Xc1A62rXVfq1kGzoJutPqJsy7lbAfBkyqUz1LhKiqCb2paYw0kE7Lma-q3X8EKMKOIA..&type=2&query=%E5%85%89%E7%94%B5%E8%A1%8C%E4%B8%9A&token=F3823AD078701B9AA5A3FD94C0DD288DA600F0496A716F9F"
       },
       "selected": true,
       "role": "媒体"
@@ -5347,7 +5248,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2026-07-23",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "成像",
@@ -5369,7 +5270,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Digital security currently relies on difficult equations to protect data. For example, when you use a credit card online, the information is locked inside a math problem that would take a modern computer thousands of years to solve. However, if someone builds a powerful enough computer, that security breaks.",
       "keywords": [
         "being",
@@ -5394,7 +5295,7 @@
       "source_type": "rss",
       "category": "光学元件与成像",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "The interaction between X-rays and matter can be actively controlled, according to an international research team led by the University of Hamburg and SLAC National Accelerator Laboratory that has succeeded in producing bright X-ray images with significantly less damage. In an article published in Nature Communications, the researchers report using ultrafast pulses that partially reverse the damage they generate.",
       "keywords": [
         "accurate",
@@ -5425,7 +5326,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "A research team led by Taeyeon Kim, a professor in the Department of Chemistry at Sungkyunkwan University, in collaboration with a team from Yonsei University, has identified a new principle that controls charge separation, a phenomenon that plays a central role in both plants' generation of electrical energy (photosynthesis) and next-generation molecular semiconductor devices.",
       "keywords": [
         "boost",
@@ -5450,7 +5351,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "IBM and researchers from the University of Chicago announced a demonstration in quantum computing that meets the fundamental criteria for \"quantum advantage\"—the point where quantum computers can be confirmed to have outperformed classical computers on trusted computations.",
       "keywords": [
         "classical",
@@ -5478,7 +5379,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Researchers in the Department of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign have discovered a new type of quantum light emitter in diamonds that could help overcome a number of challenges facing quantum technologies.",
       "keywords": [
         "defect",
@@ -5505,7 +5406,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Topological photonics can force propagating light to travel in a single direction—allowing researchers to route optical signals around corners and past defects without any of it scattering backward. So far, however, this one-way flow has only been found at the boundary between two specially engineered \"topological insulator\" regions, leaving most of the material unavailable for light transport.",
       "keywords": [
         "four-lane",
@@ -5528,7 +5429,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "In mathematics and getting dressed, some processes are commutative, while others are noncommutative. Commutative means the order doesn't matter (3 + 2 is the same as 2 + 3, and it doesn't matter which sock goes on first). Noncommutative means the order does matter.",
       "keywords": [
         "alternative",
@@ -5558,7 +5459,7 @@
       "source_type": "rss",
       "category": "光电芯片与半导体",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Semiconductor spin qubits are one of the most promising building blocks for future quantum computers, but turning them into a working, large-scale quantum computer has so far proven difficult. For now, two big questions remain open: how to connect qubits that aren't sitting right next to each other, and how to control huge numbers of them without an unmanageable tangle of wiring.",
       "keywords": [
         "independent",
@@ -5583,7 +5484,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "An international team of researchers from École Polytechnique, Collège de France and Helmholtz-Zentrum Dresden-Rossendorf (HZDR) has achieved a world first: the experimental realization of an all-optical photonic time crystal (PTC), a material whose optical properties can be strongly and periodically modulated over ultrafast timescales.",
       "keywords": [
         "crystals",
@@ -5608,7 +5509,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Quantum fluctuations influence direction-dependent electrical transport in chiral magnets, researchers from Science Tokyo report. In chiral magnetic systems, electric current flows differently depending on its direction, but the role of quantum effects in this behavior has remained unclear. Through theoretical analysis, the researchers showed that chiral magnetic systems exhibit logarithmic temperature dependence at low temperatures, offering new insights into electron transport in magnetic mate",
       "keywords": [
         "chiral",
@@ -5635,7 +5536,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Large-scale quantum communication networks require both reliable quantum memories and coherent single-photon sources that can exchange quantum information efficiently. A coherent source of single photons with narrow linewidth, high brightness, spectral uniformity and compatibility with quantum memories is necessary. While a variety of single-photon sources, such as quantum dots (QDs) and atoms in warm vapor cells, have been developed in recent years, each has inherent limitations, making a scala",
       "keywords": [
         "atoms",
@@ -5662,7 +5563,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Researchers at the Indian Institute of Science (IISc) have demonstrated a new way of switching a material between two fundamentally different magnetic states using an electric current. The discovery could pave the way for compact, energy-efficient electronic devices that store information, perform logic operations and even interface with future quantum computers.",
       "keywords": [
         "controlled",
@@ -5688,7 +5589,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "For years, researchers have tried to harness the \"twist\" of light to transmit data. This property describes how light spirals as it travels forward, and because it can be molded into a virtually infinite number of different twists, it provides a massive, promising alphabet for high-capacity communication.",
       "keywords": [
         "chaos",
@@ -5713,7 +5614,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "A new study in Nature Communications has established a link between the Riemann Hypothesis and dynamical phase transitions in engineered quantum systems, demonstrating the effect on a quantum processor.",
       "keywords": [
         "hypothesis",
@@ -5738,7 +5639,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Electrons zipping through transistors, powering the screens on our smartphones. Light zooming from distant stars to Earth, moving faster than anything else in the universe. Protons enabling MRI machines to analyze people's injuries.",
       "keywords": [
         "evolution",
@@ -5757,6 +5658,34 @@
       "role": "科研"
     },
     {
+      "id": "97e6f31c26ba",
+      "title": "First electrically pumped perovskite polariton laser diode solves a decades-long challenge",
+      "url": "https://phys.org/news/2026-07-electrically-perovskite-polariton-laser-diode.html",
+      "source": "Phys.org 物理新闻",
+      "source_type": "rss",
+      "category": "激光",
+      "published_at": null,
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
+      "summary": "Resolving a long-standing problem in semiconductor physics and optoelectronics, a team of researchers from Skoltech—a VEB.RF group institution—and their colleagues from ITMO University and HSE University have for the first time demonstrated direct electrical pumping of a polariton laser based on a solution-processed halide perovskite microcrystal. Published in Nature, this solution to a decades-long technological challenge ushers in inexpensive nonepitaxial laser diodes operating under continuou",
+      "keywords": [
+        "challenge",
+        "decades-long",
+        "diode",
+        "electrically",
+        "laser",
+        "perovskite",
+        "polariton",
+        "pumped",
+        "solves"
+      ],
+      "score": 55.0,
+      "links": {
+        "original": "https://phys.org/news/2026-07-electrically-perovskite-polariton-laser-diode.html"
+      },
+      "selected": false,
+      "role": "科研"
+    },
+    {
       "id": "a10dc1d35fb7",
       "title": "2D quantum memory device reaches single-electron limit of information storage",
       "url": "https://phys.org/news/2026-07-2d-quantum-memory-device-electron.html",
@@ -5764,7 +5693,7 @@
       "source_type": "rss",
       "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Most electronic memory storage devices require the ability to trap large numbers of electrons for each bit of memory. In an ideal world, however, it would take only one electron. This would reduce space requirements and power consumption for devices. Now, a team in China has realized this goal with an ultrathin device capable of minimizing the stray capacitance that plagued earlier attempts. The new study, published in Science, describes how this novel device has overcome challenges in implement",
       "keywords": [
         "information",
@@ -5789,7 +5718,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-07-17",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "metaoda"
@@ -5809,7 +5738,7 @@
       "source_type": "rss",
       "category": "光学元件与成像",
       "published_at": "2026-08-03T12:00:54+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "The premise that a supposed-clone rechargeable battery is more economical than its “branded” counterpart is all well and good…unless you’re unable to actually recharge it. The post Dissecting third-party camera batteries, part 1: Functional misbehavior appeared first on EDN .",
       "keywords": [
         "batteries",
@@ -5835,7 +5764,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-07-14",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "cpo",
@@ -5861,7 +5790,7 @@
       "source_type": "rss",
       "category": "光传感与激光雷达",
       "published_at": "2026-07-31T18:00:20+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Innovations in radar, LiDAR, and camera technologies, powered by sensor fusion, improve automotive perception for safer ADASes. The post Designer’s guide: Radar, LiDAR, and cameras advance ADAS appeared first on EDN .",
       "keywords": [
         "adas",
@@ -5887,7 +5816,7 @@
       "source_type": "rss",
       "category": "其他",
       "published_at": "2026-07-31T14:00:44+00:00",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": "Automotive LEDs and drivers advance with smaller footprints, better thermal handling, and flexible color control for exterior and interior lighting. The post Automotive LEDs and drivers: Balancing performance with style appeared first on EDN .",
       "keywords": [
         "automotive",
@@ -5911,7 +5840,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-07-07",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "trendforce",
@@ -5933,7 +5862,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-07-13",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光芯片"
@@ -5953,7 +5882,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-07-15",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 48.2,
@@ -5971,7 +5900,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-06-17",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 47.5,
@@ -5989,7 +5918,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-06-08",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 47.5,
@@ -6007,7 +5936,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-05-12",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 47.5,
@@ -6025,7 +5954,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-07-02",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "trendforce"
@@ -6045,7 +5974,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-06-17",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "microled",
@@ -6067,7 +5996,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-05-09",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "microled",
@@ -6089,7 +6018,7 @@
       "source_type": "html",
       "category": "显示与面板",
       "published_at": "2026-04-20",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "oled"
@@ -6109,7 +6038,7 @@
       "source_type": "html",
       "category": "光通信",
       "published_at": "2026-03-26",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光模块",
@@ -6132,7 +6061,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2025-09-19",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光学"
@@ -6152,7 +6081,7 @@
       "source_type": "html",
       "category": "光学元件与成像",
       "published_at": "2025-09-18",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [
         "光学"
@@ -6172,7 +6101,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2025-04-17",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 45.0,
@@ -6190,7 +6119,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-06-12",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 45.0,
@@ -6208,7 +6137,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-06-01",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 45.0,
@@ -6226,7 +6155,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-06-26",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 40.0,
@@ -6244,7 +6173,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-06-24",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 40.0,
@@ -6262,7 +6191,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-06-22",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 40.0,
@@ -6280,7 +6209,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-06-01",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 40.0,
@@ -6298,7 +6227,7 @@
       "source_type": "html",
       "category": "科研进展",
       "published_at": "2026-05-22",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 40.0,
@@ -6316,7 +6245,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-04-24",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 40.0,
@@ -6334,7 +6263,7 @@
       "source_type": "html",
       "category": "其他",
       "published_at": "2026-04-13",
-      "discovered_at": "2026-08-04T04:45:25.817126+00:00",
+      "discovered_at": "2026-08-04T04:50:38.525216+00:00",
       "summary": null,
       "keywords": [],
       "score": 40.0,

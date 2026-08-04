@@ -1,37 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T04:45:25.817126+00:00",
-  "count": 6,
+  "generatedAt": "2026-08-04T04:50:38.525216+00:00",
+  "count": 4,
   "items": [
-    {
-      "id": "6a767e3b0a01",
-      "title": "Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW",
-      "status": "关注中",
-      "heat": 42.0,
-      "sourceCount": 2,
-      "signalCount": 2,
-      "latestAt": "2026-08-04T04:45:25.817126+00:00",
-      "sources": [
-        "Nature Photonics",
-        "Phys.org 物理新闻"
-      ],
-      "links": [
-        {
-          "title": "Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW",
-          "url": "https://www.nature.com/articles/s41566-026-01977-1",
-          "source": "Nature Photonics",
-          "score": 74.0,
-          "published_at": "2026-08-03T00:00:00+00:00"
-        },
-        {
-          "title": "First electrically pumped perovskite polariton laser diode solves a decades-long challenge",
-          "url": "https://phys.org/news/2026-07-electrically-perovskite-polariton-laser-diode.html",
-          "source": "Phys.org 物理新闻",
-          "score": 60.0,
-          "published_at": null
-        }
-      ]
-    },
     {
       "id": "64fa78f1f745",
       "title": "[News] One LED Produces Four Stable Colors at Room Temperature",
@@ -39,7 +10,7 @@
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-08-04T04:45:25.817126+00:00",
+      "latestAt": "2026-08-04T04:50:38.525216+00:00",
       "sources": [
         "LEDinside 英文",
         "Phys.org 物理新闻"
@@ -68,7 +39,7 @@
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-08-04T04:45:25.817126+00:00",
+      "latestAt": "2026-08-04T04:50:38.525216+00:00",
       "sources": [
         "C114中国通信网_监管",
         "工信部要闻"
@@ -97,7 +68,7 @@
       "heat": 38.0,
       "sourceCount": 1,
       "signalCount": 3,
-      "latestAt": "2026-08-04T04:45:25.817126+00:00",
+      "latestAt": "2026-08-04T04:50:38.525216+00:00",
       "sources": [
         "OFweek 激光频道"
       ],
@@ -126,49 +97,13 @@
       ]
     },
     {
-      "id": "ebc5768ecff4",
-      "title": "Breaking the power wall in programmable photonics",
-      "status": "关注中",
-      "heat": 32.2,
-      "sourceCount": 2,
-      "signalCount": 3,
-      "latestAt": "2026-08-04T04:45:25.817126+00:00",
-      "sources": [
-        "Nature Photonics",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "links": [
-        {
-          "title": "Breaking the power wall in programmable photonics",
-          "url": "https://www.nature.com/articles/s41566-026-01960-w",
-          "source": "Nature Photonics",
-          "score": 74.0,
-          "published_at": "2026-07-31T00:00:00+00:00"
-        },
-        {
-          "title": "Silencing pain with infrared light",
-          "url": "https://www.nature.com/articles/s41566-026-01970-8",
-          "source": "Nature Photonics",
-          "score": 74.0,
-          "published_at": "2026-07-31T00:00:00+00:00"
-        },
-        {
-          "title": "A Heterogeneous 200 mm Silicon Nitride Photonics Platform for Visible-to-Near-Infrared Applications via Micro-Transfer Printing",
-          "url": "https://arxiv.org/abs/2608.02037",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 72.5,
-          "published_at": "2026-08-04T04:00:00+00:00"
-        }
-      ]
-    },
-    {
       "id": "50233d9c196a",
       "title": "赵乐际主持召开十四届全国人大常委会...",
       "status": "关注中",
       "heat": 18.0,
       "sourceCount": 1,
       "signalCount": 3,
-      "latestAt": "2026-08-04T04:45:25.817126+00:00",
+      "latestAt": "2026-08-04T04:50:38.525216+00:00",
       "sources": [
         "中国政府采购网"
       ],

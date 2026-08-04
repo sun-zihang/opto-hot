@@ -908,6 +908,10 @@ pre { background:#0f172a; color:#dbeafe; border-radius:10px; padding:12px 14px; 
 .hot-sort { display:inline-flex; gap:6px; margin-left:auto; }
 .hot-sort button { border:1px solid var(--border); background:var(--card); color:var(--muted); border-radius:8px; padding:2px 9px; font-size:12px; cursor:pointer; }
 .hot-sort button.on { color:var(--accent); border-color:var(--accent); }
+.gh-link { display:inline-flex; align-items:center; gap:5px; border:1px solid var(--accent); color:var(--accent); background:var(--accent-soft); border-radius:9px; padding:5px 12px; font-size:12.5px; font-weight:600; white-space:nowrap; }
+.gh-link:hover { background:var(--accent); color:#fff; opacity:1; }
+.gh-foot { color:var(--accent); font-weight:600; }
+
 @media (max-width: 640px) {
   .topbar-inner { flex-wrap: wrap; gap: 8px; padding: 8px 12px; }
   .brand { font-size: 15px; }
@@ -1026,6 +1030,7 @@ APP_HTML = """<!DOCTYPE html>
 <header class="m-topbar"><div class="topbar-inner">
   <a class="brand" href="#/"><span class="logo">OH</span>Opto-Hot</a>
   <label class="searchbox"><input id="q" type="search" placeholder="搜索光电资讯 / 公司 / 关键词…" autocomplete="off"><span class="kbd">⌘K</span></label>
+  <a class="gh-link" href="https://github.com/sun-zihang/opto-hot" target="_blank" rel="noopener" title="GitHub 开源仓库">⭐ GitHub 开源</a>
   <button id="lang" class="lang-btn" title="切换语言 / Language">EN</button>
   <span class="topbar-meta">生成于 __GEN__ · 北京时间</span>
 </div></header>
@@ -1054,7 +1059,8 @@ APP_HTML = """<!DOCTYPE html>
   </main>
 </div>
 <footer>
-  <span data-i18n="footer">Opto-Hot · 光电行业热点统计（AIHOT 模式）· 数据来自公开网络，仅供参考，不构成投资建议 · GitHub 开源</span>
+  <span data-i18n="footer">Opto-Hot · 光电行业热点统计（AIHOT 模式）· 数据来自公开网络，仅供参考，不构成投资建议</span> ·
+  <a class="gh-foot" href="https://github.com/sun-zihang/opto-hot" target="_blank" rel="noopener">github.com/sun-zihang/opto-hot</a>
 </footer>
 <script>
 /*__JS__*/

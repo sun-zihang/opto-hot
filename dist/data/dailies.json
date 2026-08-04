@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T04:45:25.817126+00:00",
+  "generatedAt": "2026-08-04T04:50:38.525216+00:00",
   "count": 34,
   "dailies": {
     "2025-09-18": {
@@ -481,7 +481,7 @@
               "url": "//www.ledinside.com/news/2026/7/2026_07_31_05",
               "source": "LEDinside 英文",
               "summary": "HELLA GmbH & Co. KGaA today presented its financial results for the first six months of the fiscal year 2026 (1 January to 30 June 2026). Currency-adjusted sales in the first half of the year rose by 1.6 percent to €4,040 million. Taking in",
-              "score": 61.2,
+              "score": 61.1,
               "role": "行业媒体",
               "published_at": "2026-07-30T13:54:54+00:00"
             }
@@ -500,15 +500,6 @@
           "category": "光通信",
           "articles": [
             {
-              "title": "Breaking the power wall in programmable photonics",
-              "url": "https://www.nature.com/articles/s41566-026-01960-w",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01960-w A non-volatile photonic gate array based on ferroelectric domain switching eliminates static power consumption, pointing towards scalable and energy-efficient ",
-              "score": 74.0,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            },
-            {
               "title": "嘉宾观点 | 三石园科技梁嘉伦：OCS系统“从0到1”面临哪些挑战？",
               "url": "https://cioe.cn/news/2931_info.html",
               "source": "CIOE 中国光博会",
@@ -525,66 +516,6 @@
               "score": 66.5,
               "role": "行业媒体",
               "published_at": "2026-07-31"
-            }
-          ]
-        },
-        {
-          "category": "光电芯片与半导体",
-          "articles": [
-            {
-              "title": "Valleytronics on a single chip",
-              "url": "https://www.nature.com/articles/s41566-026-01975-3",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01975-3 The integration of light-programmable valley optoelectronic nanocircuits based on two-dimensional semiconductors has been limited by complex optical readout us",
-              "score": 66.5,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            }
-          ]
-        },
-        {
-          "category": "光学元件与成像",
-          "articles": [
-            {
-              "title": "Silencing pain with infrared light",
-              "url": "https://www.nature.com/articles/s41566-026-01970-8",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01970-8 Lanthanide upconversion nanoparticles convert near-infrared illumination into local visible emission, enabling wireless optogenetic modulation of deep pain pat",
-              "score": 74.0,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            }
-          ]
-        },
-        {
-          "category": "科研进展",
-          "articles": [
-            {
-              "title": "Optical–electrical skin sensing",
-              "url": "https://www.nature.com/articles/s41566-026-01967-3",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01967-3 Optical–electrical skin sensing",
-              "score": 66.5,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            },
-            {
-              "title": "The path ahead for organic photovoltaics",
-              "url": "https://www.nature.com/articles/s41566-026-01963-7",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01963-7 Nature Photonics spoke with Yongsheng Chen from Nankai University, who was recently elected an Academician of the Chinese Academy of Sciences, about milestones",
-              "score": 66.5,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
-            },
-            {
-              "title": "A hot-electron-based plasmonic artificial leaf",
-              "url": "https://www.nature.com/articles/s41566-026-01969-1",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 31 July 2026; doi:10.1038/s41566-026-01969-1 Non-radiative plasmonic decay generates energetic charge carriers that rapidly thermalize; however, if captured quickly, these hot electrons can be harnessed f",
-              "score": 66.5,
-              "role": "科研",
-              "published_at": "2026-07-31T00:00:00+00:00"
             }
           ]
         },
@@ -658,28 +589,14 @@
           ]
         }
       ],
-      "tocCount": 14,
-      "readMinutes": 4
+      "tocCount": 8,
+      "readMinutes": 2
     },
     "2026-08-03": {
       "date": "2026-08-03",
       "weekday": "周一",
       "label": "2026年8月3日",
       "sections": [
-        {
-          "category": "激光",
-          "articles": [
-            {
-              "title": "Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW",
-              "url": "https://www.nature.com/articles/s41566-026-01977-1",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 03 August 2026; doi:10.1038/s41566-026-01977-1 The researchers demonstrate amplification of an ultrabroadband pulse in a laser–plasma Raman amplifier, achieving efficiencies of up to 8.7%, final powers of",
-              "score": 74.0,
-              "role": "科研",
-              "published_at": "2026-08-03T00:00:00+00:00"
-            }
-          ]
-        },
         {
           "category": "光通信",
           "articles": [
@@ -753,15 +670,6 @@
           "category": "光学元件与成像",
           "articles": [
             {
-              "title": "Methods, trade-offs and opportunities in high-speed optical microscopy for neural voltage imaging",
-              "url": "https://www.nature.com/articles/s41566-026-01965-5",
-              "source": "Nature Photonics",
-              "summary": "Nature Photonics, Published online: 03 August 2026; doi:10.1038/s41566-026-01965-5 The Review discusses recent advances in neural voltage imaging, with an emphasis on relevant microscopy techniques and outstanding challenges in the field.",
-              "score": 69.0,
-              "role": "科研",
-              "published_at": "2026-08-03T00:00:00+00:00"
-            },
-            {
               "title": "Dissecting third-party camera batteries, part 1: Functional misbehavior",
               "url": "https://www.edn.com/dissecting-third-party-camera-batteries-part-1-functional-misbehavior/",
               "source": "EDN 电子工程专辑",
@@ -810,8 +718,8 @@
           ]
         }
       ],
-      "tocCount": 12,
-      "readMinutes": 3
+      "tocCount": 10,
+      "readMinutes": 2
     },
     "2026-08-04": {
       "date": "2026-08-04",
@@ -917,15 +825,6 @@
               "published_at": "2026-05"
             },
             {
-              "title": "A Heterogeneous 200 mm Silicon Nitride Photonics Platform for Visible-to-Near-Infrared Applications via Micro-Transfer Printing",
-              "url": "https://arxiv.org/abs/2608.02037",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2608.02037v1 Announce Type: new Abstract: The commercialization of next-generation technologies, including optical interconnects, quantum computing, AR/VR, and medical diagnostics, requires a low-loss photonic platform offering compac",
-              "score": 72.5,
-              "role": "科研",
-              "published_at": "2026-08-04T04:00:00+00:00"
-            },
-            {
               "title": "推进光纤入户 工信部联合住建部解决”最后一公里”问题",
               "url": "http://www.c114.net/news/549/a997513.html",
               "source": "C114中国通信网_要闻精选",
@@ -969,6 +868,15 @@
               "score": 69.8,
               "role": "行业媒体",
               "published_at": "2026-08-04"
+            },
+            {
+              "title": "Toward Compact Fiber In-line Nonlinear Devices via Highly Efficient Nanophotonic Cavity Interface",
+              "url": "https://arxiv.org/abs/2608.01084",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2608.01084v1 Announce Type: new Abstract: Compact and efficient frequency conversion within optical fibers is highly desirable for nonlinear and quantum photonic technologies, yet it remains challenging due to weak nonlinear interacti",
+              "score": 65.0,
+              "role": "科研",
+              "published_at": "2026-08-04T04:00:00+00:00"
             }
           ]
         },
