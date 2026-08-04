@@ -20,6 +20,9 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      TCB_API_KEY: ${{ secrets.TCB_API_KEY }}
+      TCB_ENV_ID: ${{ secrets.TCB_ENV_ID }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -28,10 +31,10 @@ jobs:
       - name: 运行采集器
         run: python collector/collect.py --limit 25
       - name: 部署 CloudBase（免登录，每 6 小时）
-        if: ${{ secrets.TCB_API_KEY != '' }}
-        env:
-          TCB_API_KEY: ${{ secrets.TCB_API_KEY }}
-          TCB_ENV_ID: ${{ secrets.TCB_ENV_ID }}
+        if: env.TCB_API_KEY != ''
+
+
+
         run: |
           npx -y mcporter call cloudbase.auth action=login_by_api_key apiKey="$TCB_API_KEY" apiKeyEnvId="$TCB_ENV_ID" --output json
           npx -y mcporter call cloudbase.manageApps action=deployApp serviceName=opto-hot filePath="$GITHUB_WORKSPACE" buildPath=dist framework=static installCmd= buildCmd= --output json
