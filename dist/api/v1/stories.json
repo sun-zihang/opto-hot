@@ -4,24 +4,17 @@
   "count": 4,
   "items": [
     {
-      "terms": [
-        "colors",
-        "four",
-        "led",
-        "produces",
-        "stable",
-        "temperature"
-      ],
-      "source_count": 2,
-      "signal_count": 2,
+      "id": "64fa78f1f745",
+      "title": "[News] One LED Produces Four Stable Colors at Room Temperature",
+      "status": "关注中",
+      "heat": 42.0,
+      "sourceCount": 2,
+      "signalCount": 2,
+      "latestAt": "2026-08-04T03:58:34.515148+00:00",
       "sources": [
         "LEDinside 英文",
         "Phys.org 物理新闻"
       ],
-      "score": 42.0,
-      "latest_at": "2026-08-04T03:58:34.515148+00:00",
-      "title": "[News] One LED Produces Four Stable Colors at Room Temperature",
-      "id": "64fa78f1f745",
       "links": [
         {
           "title": "[News] One LED Produces Four Stable Colors at Room Temperature",
@@ -37,23 +30,20 @@
           "score": 60.0,
           "published_at": null
         }
-      ],
-      "rank": 1,
-      "heat": 42.0,
-      "status": "关注中"
+      ]
     },
     {
-      "terms": [],
-      "source_count": 2,
-      "signal_count": 2,
+      "id": "dd6167943760",
+      "title": "工业和信息化部量子信息标准化技术委员会成立",
+      "status": "关注中",
+      "heat": 42.0,
+      "sourceCount": 2,
+      "signalCount": 2,
+      "latestAt": "2026-08-04T03:58:34.515148+00:00",
       "sources": [
         "C114中国通信网_监管",
         "工信部要闻"
       ],
-      "score": 42.0,
-      "latest_at": "2026-08-04T03:58:34.515148+00:00",
-      "title": "工业和信息化部量子信息标准化技术委员会成立",
-      "id": "dd6167943760",
       "links": [
         {
           "title": "工业和信息化部量子信息标准化技术委员会成立",
@@ -69,26 +59,19 @@
           "score": 65.0,
           "published_at": null
         }
-      ],
-      "rank": 2,
-      "heat": 42.0,
-      "status": "关注中"
+      ]
     },
     {
-      "terms": [
-        "光学",
-        "光电",
-        "激光"
-      ],
-      "source_count": 1,
-      "signal_count": 3,
+      "id": "de25f505a637",
+      "title": "【集成电路论坛】大族数控研发总监陈国栋确认出席并做主题演讲",
+      "status": "关注中",
+      "heat": 38.0,
+      "sourceCount": 1,
+      "signalCount": 3,
+      "latestAt": "2026-08-04T03:58:34.515148+00:00",
       "sources": [
         "OFweek 激光频道"
       ],
-      "score": 38.0,
-      "latest_at": "2026-08-04T03:58:34.515148+00:00",
-      "title": "【集成电路论坛】大族数控研发总监陈国栋确认出席并做主题演讲",
-      "id": "de25f505a637",
       "links": [
         {
           "title": "【集成电路论坛】大族数控研发总监陈国栋确认出席并做主题演讲",
@@ -111,22 +94,19 @@
           "score": 82.5,
           "published_at": "2026-07"
         }
-      ],
-      "rank": 3,
-      "heat": 38.0,
-      "status": "关注中"
+      ]
     },
     {
-      "terms": [],
-      "source_count": 1,
-      "signal_count": 3,
+      "id": "50233d9c196a",
+      "title": "赵乐际主持召开十四届全国人大常委会...",
+      "status": "关注中",
+      "heat": 18.0,
+      "sourceCount": 1,
+      "signalCount": 3,
+      "latestAt": "2026-08-04T03:58:34.515148+00:00",
       "sources": [
         "中国政府采购网"
       ],
-      "score": 18.0,
-      "latest_at": "2026-08-04T03:58:34.515148+00:00",
-      "title": "赵乐际主持召开十四届全国人大常委会...",
-      "id": "50233d9c196a",
       "links": [
         {
           "title": "赵乐际主持召开十四届全国人大常委会...",
@@ -149,10 +129,7 @@
           "score": 47.5,
           "published_at": "2026-05-12"
         }
-      ],
-      "rank": 4,
-      "heat": 18.0,
-      "status": "关注中"
+      ]
     }
   ]
 }

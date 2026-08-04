@@ -1,0 +1,11 @@
+{
+  "name": "Opto-Hot API v1",
+  "description": "光电行业热点统计静态 JSON 接口（免鉴权，每 6 小时更新）",
+  "endpoints": {
+    "items": "api/v1/items.json",
+    "hot-topics": "api/v1/hot-topics.json",
+    "dailies": "api/v1/dailies.json",
+    "daily": "api/v1/daily.json",
+    "stories": "api/v1/stories.json"
+  }
+}

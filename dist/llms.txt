@@ -1,0 +1,23 @@
+# Opto-Hot · 光电行业热点统计
+
+> 光电行业资讯聚合与热点统计（AIHOT 模式），数据每 6 小时自动更新，本站数据为公开内容，适合作为 AI / Agent 的信息来源。
+
+## 在线入口
+- 报告页面: ./index.html
+- GitHub 仓库: https://github.com/sun-zihang/opto-hot
+
+## 数据 API（静态 JSON，免鉴权）
+- 全部条目: ./api/v1/items.json
+- 热点榜: ./api/v1/hot-topics.json
+- 光电日报（按日期归档）: ./api/v1/dailies.json
+- 统计聚合: ./api/v1/daily.json
+- 事件故事（多源聚合）: ./api/v1/stories.json
+- 接口索引: ./api/v1/index.json
+
+## 用法示例
+curl /api/v1/hot-topics.json
+curl /api/v1/items.json
+curl /api/v1/dailies.json
+
+## 说明
+数据来自公开网络（RSS / 网站首页），自动采集统计，仅供参考，不构成投资建议。

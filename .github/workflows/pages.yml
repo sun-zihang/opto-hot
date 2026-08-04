@@ -24,9 +24,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: 准备站点文件
         run: |
-          mkdir -p _site/data
-          cp dist/index.html _site/index.html
-          cp data/items.json data/hot-topics.json data/daily.json data/report.csv _site/data/
+          mkdir -p _site
+          cp -r dist/. _site/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
