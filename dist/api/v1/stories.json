@@ -1,52 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T09:00:03.824320+00:00",
-  "count": 6,
+  "generatedAt": "2026-08-05T14:08:52.532681+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "84a00a2176f0",
-      "title": "Optical–electrical skin sensing",
-      "status": "发酵中",
-      "heat": 51.5,
-      "sourceCount": 3,
-      "signalCount": 4,
-      "latestAt": "2026-08-05T09:00:03.824320+00:00",
-      "sources": [
-        "Nature Photonics",
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "links": [
-        {
-          "title": "Optical–electrical skin sensing",
-          "url": "https://www.nature.com/articles/s41566-026-01967-3",
-          "source": "Nature Photonics",
-          "score": 75.5,
-          "published_at": "2026-07-31T00:00:00+00:00"
-        },
-        {
-          "title": "Chiral optics without chiral matter",
-          "url": "https://arxiv.org/abs/2608.02994",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 74.8,
-          "published_at": "2026-08-05T04:00:00+00:00"
-        },
-        {
-          "title": "High resolution meta-stereomicroscope based on birefringent meta-optics",
-          "url": "https://arxiv.org/abs/2608.03300",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 74.8,
-          "published_at": "2026-08-05T04:00:00+00:00"
-        },
-        {
-          "title": "Quantum spin effects may enhance one-way electrical transport in chiral magnets",
-          "url": "https://phys.org/news/2026-07-quantum-effects-electrical-chiral-magnets.html",
-          "source": "Phys.org 物理新闻",
-          "score": 65.0,
-          "published_at": null
-        }
-      ]
-    },
     {
       "id": "dd6167943760",
       "title": "工业和信息化部量子信息标准化技术委员会成立",
@@ -54,7 +10,7 @@
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-08-05T09:00:03.824320+00:00",
+      "latestAt": "2026-08-05T14:08:52.532681+00:00",
       "sources": [
         "C114中国通信网_监管",
         "工信部要闻"
@@ -77,107 +33,13 @@
       ]
     },
     {
-      "id": "f759f6b26bcb",
-      "title": "Breaking the power wall in programmable photonics",
-      "status": "关注中",
-      "heat": 38.8,
-      "sourceCount": 2,
-      "signalCount": 3,
-      "latestAt": "2026-08-05T09:00:03.824320+00:00",
-      "sources": [
-        "Nature Photonics",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "links": [
-        {
-          "title": "Breaking the power wall in programmable photonics",
-          "url": "https://www.nature.com/articles/s41566-026-01960-w",
-          "source": "Nature Photonics",
-          "score": 73.0,
-          "published_at": "2026-07-31T00:00:00+00:00"
-        },
-        {
-          "title": "Zero-change foundry compatible silicon photonics MEMS optical switch",
-          "url": "https://arxiv.org/abs/2608.03146",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 72.3,
-          "published_at": "2026-08-05T04:00:00+00:00"
-        },
-        {
-          "title": "Can crystal symmetry reshape ENZ photonics?: Opinion",
-          "url": "https://arxiv.org/abs/2608.03985",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 72.3,
-          "published_at": "2026-08-05T04:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "906287ffff77",
-      "title": "Silencing pain with infrared light",
-      "status": "关注中",
-      "heat": 32.0,
-      "sourceCount": 2,
-      "signalCount": 2,
-      "latestAt": "2026-08-05T09:00:03.824320+00:00",
-      "sources": [
-        "Nature Photonics",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "links": [
-        {
-          "title": "Silencing pain with infrared light",
-          "url": "https://www.nature.com/articles/s41566-026-01970-8",
-          "source": "Nature Photonics",
-          "score": 70.5,
-          "published_at": "2026-07-31T00:00:00+00:00"
-        },
-        {
-          "title": "Mid-infrared spontaneous and stimulated emission dynamics in black phosphorus",
-          "url": "https://arxiv.org/abs/2608.03346",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 69.8,
-          "published_at": "2026-08-05T04:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "817eceec77c2",
-      "title": "A hot-electron-based plasmonic artificial leaf",
-      "status": "关注中",
-      "heat": 32.0,
-      "sourceCount": 2,
-      "signalCount": 2,
-      "latestAt": "2026-08-05T09:00:03.824320+00:00",
-      "sources": [
-        "Nature Photonics",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "links": [
-        {
-          "title": "A hot-electron-based plasmonic artificial leaf",
-          "url": "https://www.nature.com/articles/s41566-026-01969-1",
-          "source": "Nature Photonics",
-          "score": 70.5,
-          "published_at": "2026-07-31T00:00:00+00:00"
-        },
-        {
-          "title": "Single-molecule strong optomechanical regimes in SERS via hybrid plasmonic cavities",
-          "url": "https://arxiv.org/abs/2608.03307",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 69.8,
-          "published_at": "2026-08-05T04:00:00+00:00"
-        }
-      ]
-    },
-    {
       "id": "50233d9c196a",
       "title": "赵乐际主持召开十四届全国人大常委会...",
       "status": "关注中",
       "heat": 18.0,
       "sourceCount": 1,
       "signalCount": 3,
-      "latestAt": "2026-08-05T09:00:03.824320+00:00",
+      "latestAt": "2026-08-05T14:08:52.532681+00:00",
       "sources": [
         "中国政府采购网"
       ],
