@@ -133,28 +133,27 @@ opto-hot/
 └── LICENSE               # MIT
 ```
 
-## 每 6 小时自动更新
+## 每天 12:00 自动更新（北京时间）
 
 **GitHub Actions（默认启用，推荐）**
 
 ![workflow](https://github.com/sun-zihang/opto-hot/actions/workflows/update.yml/badge.svg)
 
-`.github/workflows/update.yml` 每 6 小时运行一次（UTC 每 6 小时的第 17 分，即北京时间 04:17 / 10:17 / 16:17 / 22:17）：
-1. 运行 `python collector/collect.py --limit 25` 重新采集
+`.github/workflows/update.yml` 每天 12:00（北京时间，即 UTC 04:00）运行一次：
+1. 运行 `python collector/collect.py --limit 25` 重新采集（真嵌入聚类）
 2. 有变化则提交并推送数据（`chore: 刷新光电热点数据 …`）
-3. **直接部署 GitHub Pages**（`actions/deploy-pages`），因此定时刷新后线上站点立即更新
+3. **直接部署 GitHub Pages**（`actions/deploy-pages`），线上站点立即更新
 
 也可在 Actions 页面手动 `workflow_dispatch` 触发。注意：GitHub 服务器位于海外，个别国内站点可能超时，采集器对每个源单独容错，单源失败不影响整体输出。
 
-**本地计划任务（可选，适合离线运行 / 联动 CloudBase）**
+**本地计划任务（可选）**
 
-- `scripts/install-schedule.ps1`：注册 Windows 计划任务，每 6 小时运行一次 `scripts/auto-update.ps1`（采集 → git 提交 → push，从而触发 GitHub Pages 重新部署）
-- 若要同时刷新 CloudBase：
-  - **云端（推荐，免登录）**：在 GitHub 仓库 Settings → Secrets and variables → Actions 添加两个 Secret：
-    - `TCB_ENV_ID` = `a455-d3g2s3dt865d86640`
-    - `TCB_API_KEY` = 腾讯云 CloudBase 控制台创建的 API Key（环境 → 访问密钥 / API Key）
-    - 配置后，`update.yml` 每 6 小时采集完成会自动 `manageApps deployApp` 重新部署 CloudBase（服务名 `opto-hot` 复用，**域名不变**）；未配置时该步骤自动跳过
-  - **本地**：`scripts/cloudbase-deploy.ps1` 封装同样的部署调用，`auto-update.ps1` 每次更新后会自动调用它（需 mcporter 已登录，或设置环境变量 `TCB_API_KEY`）
+- `scripts/install-schedule.ps1`：注册 Windows 计划任务，每天 12:00 运行一次 `scripts/auto-update.ps1`（采集 → git 提交 → push，触发 GitHub Pages 重新部署）
+
+**CloudBase 说明（已停止自动同步，2026-08-05）**
+
+- 按用户要求，站点数据**仅在 GitHub Pages 更新**；CloudBase（`a455` 环境）不再自动部署，保持为静态快照。
+- 如需手动部署 CloudBase，可运行 `scripts/cloudbase-deploy.ps1`（需 mcporter 已登录，或设置环境变量 `TCB_API_KEY`）。
 
 ## 路线图
 

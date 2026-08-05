@@ -16,11 +16,6 @@ if (-not (git diff --cached --quiet)) {
   Write-Host "[auto-update] 数据无变化，跳过提交"
 }
 
-# 可选：如果存在 scripts\cloudbase-deploy.ps1，则执行 CloudBase 重新部署（失败不阻断本地更新，对齐 CI 的 continue-on-error）
-$cb = Join-Path $PSScriptRoot "cloudbase-deploy.ps1"
-if (Test-Path $cb) {
-  Write-Host "[auto-update] 调用 CloudBase 部署脚本"
-  try { & $cb } catch { Write-Host "[auto-update] CloudBase 部署失败（不影响本地更新）：$($_.Exception.Message)" }
-}
+# 已停止向 CloudBase 同步（2026-08-05）；如需手动部署可运行 scripts\cloudbase-deploy.ps1
 
 Write-Host "[auto-update] 完成 $(Get-Date -Format 'yyyy-MM-dd HH:mm')"

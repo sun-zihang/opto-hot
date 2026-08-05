@@ -2,7 +2,7 @@ name: 定时更新光电热点数据
 
 on:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "0 4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -20,9 +20,6 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    env:
-      TCB_API_KEY: ${{ secrets.TCB_API_KEY }}
-      TCB_ENV_ID: ${{ secrets.TCB_ENV_ID }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -38,20 +35,6 @@ jobs:
         env:
           OPTOHOT_EMBED: "1"
         run: python collector/collect.py --limit 25
-      - name: 部署 CloudBase（免登录，每 6 小时）
-        continue-on-error: true
-        if: env.TCB_API_KEY != ''
-
-
-
-        run: |
-          set -e
-          LOGIN=$(npx -y mcporter call cloudbase.auth action=login_by_api_key apiKey="$TCB_API_KEY" apiKeyEnvId="$TCB_ENV_ID" --output json)
-          echo "$LOGIN"
-          echo "$LOGIN" | grep -q '"ok": true' || { echo "CloudBase API Key 登录失败"; exit 1; }
-          OUT=$(npx -y mcporter call cloudbase.manageApps action=deployApp serviceName=opto-hot filePath="$GITHUB_WORKSPACE" buildPath=dist framework=static installCmd= buildCmd= --output json)
-          echo "$OUT"
-          echo "$OUT" | grep -q '"success": true' || { echo "CloudBase 部署失败"; exit 1; }
       - name: 提交数据更新
         run: |
           git config user.name "github-actions[bot]"

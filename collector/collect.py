@@ -1473,7 +1473,7 @@ def write_outputs(items, topics, daily, dailies, generated):
     # ---- llms.txt（LLM / Agent 友好入口） ----
     llms = """# Opto-Hot · 光电行业热点统计
 
-> 光电行业资讯聚合与热点统计（AIHOT 模式），数据每 6 小时自动更新，本站数据为公开内容，适合作为 AI / Agent 的信息来源。
+> 光电行业资讯聚合与热点统计（AIHOT 模式），数据每天 12:00（北京时间）自动更新，本站数据为公开内容，适合作为 AI / Agent 的信息来源。
 
 ## 在线入口
 - 报告页面: ./index.html
@@ -1499,7 +1499,7 @@ curl {base}/api/v1/dailies.json
 curl {base}/feed.xml
 
 ## 约定
-- 数据每 6 小时更新；可对完整 URL 使用 ETag / If-None-Match 减少拉取。
+- 数据每天 12:00（北京时间）更新；可对完整 URL 使用 ETag / If-None-Match 减少拉取。
 - items.json 为全量快照，可本地按 publishedAt / discoveredAt / keywords 筛选。
 - 公开使用请注明一次数据来源：Opto-Hot（AIHOT 模式，数据源自各公开站点）。
 
