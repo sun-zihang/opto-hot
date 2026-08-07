@@ -1,298 +1,252 @@
 ﻿id,title,category,source,published_at,discovered_at,score,url,role,selected
-efff43da2c0f,昇腾超节点闪耀WAIC 2026：架构、商用、生态的三重跨越,产业与资本,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,95.0,https://www.c114.com.cn/news/126/a1314417.html,行业媒体,True
-b4e9dcfb1f24,WAIC 2026 | 中兴通讯全栈智算生态论坛，重磅发布OEX超节点新品,光通信,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,95.0,https://www.c114.com.cn/news/127/a1314380.html,行业媒体,True
-f59871847f2b,华为携手中国电信亮相2026 WAIC，共筑电信级Agentic运维运营新范式,产业与资本,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,95.0,https://www.c114.com.cn/news/126/a1314371.html,行业媒体,True
-d0ed81cd2eb9,“与时代 共昇腾” 昇腾深入千行万业 以算力驱动智能未来,通信与算力,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,95.0,https://www.c114.com.cn/news/126/a1314367.html,行业媒体,True
-ab211c826bb4,WAIC 2026观察｜从镇馆之宝到全球首款，中兴通讯全栈AI再进阶,产业与资本,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,95.0,https://www.c114.com.cn/news/127/a1314339.html,行业媒体,True
-d061b0f524e6,中兴通讯星系列人形机器人及具身智能解决方案亮相 WAIC 2026,产业与资本,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,95.0,https://www.c114.com.cn/news/127/a1314330.html,行业媒体,True
-76ca3c2763c6,中兴通讯发布新支点AIOS：构筑智能体时代操作系统，驱动产业智能化新引擎,产业与资本,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,95.0,https://www.c114.com.cn/news/127/a1314305.html,行业媒体,True
-3d9dfb3bcf28,中兴通讯亮相 2026 AI for Good 全球峰会 以坚实基础设施筑基，以开放生态致远,产业与资本,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,95.0,https://www.c114.com.cn/news/127/a1314302.html,行业媒体,True
-92f4adcf2b14,华为计算模组首次亮相WAIC 2026世界人工智能大会,产业与资本,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,95.0,https://www.c114.com.cn/news/126/a1314293.html,行业媒体,True
-9efeb70d9e5f,中兴通讯携手中国移动及央企伙伴共筑“焕新社区”2.0版，赋能AI新质生产力发展,通信与算力,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,95.0,https://www.c114.com.cn/news/127/a1314225.html,行业媒体,True
-b82c1bf88c90,中兴OEX超节点发布：超节点先锋，打造TCO最优的AI工厂,产业与资本,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,95.0,https://www.c114.com.cn/news/127/a1314208.html,行业媒体,True
-4b461628c591,中兴通讯深度参与中国电信2026 WAIC原生云网运营开发者大会，共绘智能时代新蓝图,产业与资本,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,95.0,https://www.c114.com.cn/news/127/a1314200.html,行业媒体,True
-7eb46030b45b,Structured light under turbulence,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,89.7,https://arxiv.org/abs/2608.04090,科研,True
-f0f9fd11fe89,Design of a thermal loading resilient optical enhancement cavity for operation at 515 nm for X-ray production through inverse Compton scattering in an energy recovery linac,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,89.7,https://arxiv.org/abs/2608.04580,科研,True
-24236acfbc1f,"Universal Function Approximation via Diffractive Optical Processors: Physical Limits, Error Bounds, and Learnability",科研进展,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,89.7,https://arxiv.org/abs/2608.04582,科研,True
-cb822f174a8f,Freeform super-oscillatory optics for CMOS-integrated THz super-resolution imaging,光学元件与成像,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,89.7,https://arxiv.org/abs/2608.04711,科研,True
-8d1c92c9bb88,Mask-free fast patterning of organic light-emitting diode pixels using laser-assisted close-space sublimation,激光,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,89.7,https://arxiv.org/abs/2608.05073,科研,True
-5feb32922fa4,AI-based single-shot structured-light depth reconstruction for real-time laparoscopic surgical guidance,通信与算力,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,89.7,https://arxiv.org/abs/2608.05109,科研,True
-b758120b1c26,Silencing pain with infrared light,光学元件与成像,Nature Photonics,2026-07-31T00:00:00+00:00,2026-08-06T11:56:02.182919+00:00,89.6,https://www.nature.com/articles/s41566-026-01970-8,科研,True
-3b55c4c9f798,工信部对我国网络强国建设提出四点建议,通信与算力,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,82.5,http://www.c114.net/news/16/a997101.html,行业媒体,True
-ea37e76ab382,Quantum fluid reveals hidden states that can be switched with a magnetic field,科研进展,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,80.0,https://phys.org/news/2026-08-quantum-fluid-reveals-hidden-states.html,科研,True
-938ac02500d9,A temperature dial for more realistic quantum simulations,科研进展,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,80.0,https://phys.org/news/2026-08-temperature-dial-realistic-quantum-simulations.html,科研,True
-3607460bf7c6,Quantum computer completes verified task beyond practical reach of classical simulations,科研进展,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,80.0,https://phys.org/news/2026-07-quantum-task-classical-simulations.html,科研,True
-572a0e760034,Less-explored form of quantum code could be more powerful—and more stable—than its alternative in error correction,科研进展,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,80.0,https://phys.org/news/2026-07-explored-quantum-code-powerful-stable.html,科研,True
-ca23a042ad78,【深度】超窄线宽激光器应用领域广泛 我国市场国产化进程持续提速,激光,OFweek 激光频道,2026-08,2026-08-06T11:56:02.182919+00:00,80.0,https://laser.ofweek.com/2026-08/ART-240002-8420-30696872.html,行业媒体,True
-8e7b421c3720,净利骤降79.40%！首份激光企业半年报出炉,激光,OFweek 激光频道,2026-07,2026-08-06T11:56:02.182919+00:00,80.0,https://laser.ofweek.com/2026-07/ART-8100-2400-30696923.html,行业媒体,True
-d3a80e23edb0,【洞察】企业研发实力持续增强 我国红外皮秒激光器市场朝着高端化方向发展,激光,OFweek 激光频道,2026-04,2026-08-06T11:56:02.182919+00:00,80.0,https://laser.ofweek.com/2026-04/ART-240015-8330-30685985.html,行业媒体,True
-f99e352fcd48,主业净利暴增455%！大族激光半年预报“炸裂”,激光,OFweek 激光频道,2026-07,2026-08-06T11:56:02.182919+00:00,80.0,https://laser.ofweek.com/2026-07/ART-12000-2400-30694426.html,行业媒体,True
-67a73d2b6380,Photogalvanic second harmonic generation in Si3N4 for 1 Hz level on-chip metrology and spectroscopy,光电芯片与半导体,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,79.7,https://arxiv.org/abs/2608.04555,科研,True
-c316a9f00eb1,Photonic-chip-based generation of sub-100-femtosecond optical frequency combs,光电芯片与半导体,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,79.7,https://arxiv.org/abs/2608.04931,科研,True
-b37b4dd9a083,Breaking the power wall in programmable photonics,光通信,Nature Photonics,2026-07-31T00:00:00+00:00,2026-08-06T11:56:02.182919+00:00,79.6,https://www.nature.com/articles/s41566-026-01960-w,科研,True
-9bd21e8c07b0,大招齐发，英特尔直击网络转型,通信与算力,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,77.5,http://www.c114.com.cn/topic/5096/a996852.html?utm_medium=C114&dclid=CLmNp8bEwdICFRwhKgodT4YHqQ,行业媒体,True
-bd6510b7d1b3,对话英特尔：产业协作与标准化助推5G成功,产业与资本,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,77.5,http://www.c114.net/news/138/a996926.html,行业媒体,True
-fec6dba9c1c2,英特尔助力电信网络转型 让5G不再是“看上去很美”,通信与算力,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,77.5,http://www.c114.net/topic/5096/a996887.html,行业媒体,True
-28567e7047a1,李乐成到四川省通信管理局调研 强调深入学习贯彻习近平党建思想 推动信息通信业高质量发展,产业与资本,工信部要闻,,2026-08-06T11:56:02.182919+00:00,77.5,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_097e130e9a094e0580c6516bd837a6b9.html,媒体,True
-7ce65561eeeb,四川通信管理局传达学习贯彻全国工业和信息化主管部门负责同志座谈会精神,通信与算力,工信部要闻,,2026-08-06T11:56:02.182919+00:00,77.5,https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_7130f2fe57034837b218500073caf39f.html,媒体,True
-dd8185e951fb,广西通信管理局传达学习2026年全国工业和信息化主管部门负责同志座谈会精神,通信与算力,工信部要闻,,2026-08-06T11:56:02.182919+00:00,77.5,https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0af43c7739e84b339646da20d1587835.html,媒体,True
-e8fae3e45a75,TrendForce：需求回温，8月电视面板价格跌幅预计收窄,显示与面板,LEDinside 中文,2026-08-06,2026-08-06T11:56:02.182919+00:00,77.1,https://www.ledinside.cn/research/20260806-62282.html,行业媒体,True
-6064992b0bf1,两会关注：提速降费步伐加快，三大运营商打出全新组合拳,通信与算力,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,75.0,http://www.c114.net/news/16/a997421.html,行业媒体,True
-2f7b633b5247,中国电信六大新举措持续推进提速降费,通信与算力,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,75.0,http://www.c114.net/news/117/a997412.html,行业媒体,True
-9ae13c8b2c7e,MWC 2017大连接雏形显现：产业链各方合作更紧密,产业与资本,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,75.0,http://www.c114.net/news/16/a996936.html,行业媒体,True
-b248826237ae,联想业绩下滑7成 16亿再卖楼：确能提亮财报,产业与资本,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,75.0,http://www.c114.net/news/209/a996971.html,行业媒体,True
-746747bf8a04,MWC 2017之无线篇：设备商5G竞赛正式打响,通信与算力,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,75.0,http://www.c114.net/news/16/a996704.html,行业媒体,True
-200fa3040fb9,启明星辰上半年扭亏为盈 预计净利2600万至3800万元,其他,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,75.0,https://www.c114.com.cn/news/123/a1313768.html,行业媒体,True
-56890c516fce,紫光股份：预计上半年净利润同比增长83.50%-122.89%,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,75.0,https://www.c114.com.cn/news/123/a1313747.html,行业媒体,True
-5275d8865bff,永鼎股份：预计上半年净利润同比增长57%-120%,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,75.0,https://www.c114.com.cn/news/123/a1313347.html,行业媒体,True
-bcc5d3b2af6f,星网锐捷2026年上半年扭亏为盈，净利预增46%-103%,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,75.0,https://www.c114.com.cn/news/123/a1313280.html,行业媒体,True
-c3a09e0374df,联想单季营收近1500亿元：AI营收占比提升至38%,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,75.0,https://www.c114.com.cn/news/123/a1310854.html,行业媒体,True
-2d1ee523b064,华为发布五大无线技术创新方向与实践，构建Agentverse基座,产业与资本,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,75.0,https://www.c114.com.cn/news/126/a1314319.html,行业媒体,True
-a6e05e78a8de,华为提无线技术五大创新方向：筑牢Agentverse底座，将智能分发至世界每个角落,其他,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,75.0,https://www.c114.com.cn/news/126/a1314291.html,行业媒体,True
-833aa81bc5e4,挂牌即辅导！富兰光学借力资本加速精密光学国产替代,光学元件与成像,OFweek 光电频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-07/ART-8100-2500-30696680.html,行业媒体,True
-e1ad889b0877,被截胡后反手收购！索尼将腾龙纳为全资子公司,产业与资本,OFweek 光电频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-07/ART-8100-2500-30696681.html,行业媒体,True
-bab724aedd9d,加速半导体光学精密加工布局！东田微落子无锡,光电芯片与半导体,OFweek 光电频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30697371.html,行业媒体,True
-895e540f16e6,2亿押注全彩光波导，广纳四维卡位2027！,光学元件与成像,OFweek 光电频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30697372.html,行业媒体,True
-8b27e161a0fb,立景创新再闯港股IPO，高增长下的“果链依赖症”与独立性质疑,产业与资本,OFweek 光电频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-08/ART-250003-12003-30697342.html,行业媒体,True
-4a2b3162ac34,“车灯一哥”星宇股份再闯港股，前常州女首富左手分红，右手拟募资,其他,OFweek 光电频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-08/ART-250003-12003-30697269.html,行业媒体,True
-79ae363a2739,瑞德智能与谷东智能战略合作稳步推进，智能光学生产基地计划下半年试产！,光学元件与成像,OFweek 光电频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30697224.html,行业媒体,True
-137745440ed1,不靠家族接班，这家光学龙头给民企打了个样,光学元件与成像,OFweek 光电频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30697223.html,行业媒体,True
-e7afb9a61ea4,女首富又要上市！估值 225 亿，带弟弟干出“光学帝国”,光学元件与成像,OFweek 光电频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-08/ART-250003-12008-30697160.html,行业媒体,True
-39c344b3ce74,NASA能找到外星生命？英国押注300万英镑，却先要遮住恒星,其他,OFweek 光电频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-08/ART-250003-8110-30697144.html,行业媒体,True
-8e66706d0023,一个月连落两子！这家光学巨头正在悄悄换赛道,光学元件与成像,OFweek 光电频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30697063.html,行业媒体,True
-3b592c80e914,强强联合！库博光学与爱博医疗达成战略合作,光学元件与成像,OFweek 光电频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30697059.html,行业媒体,True
-95187835f2f5,三年营收翻倍！这家光学企业再冲港股,光学元件与成像,OFweek 光电频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30696921.html,行业媒体,True
-db7a5956618a,江苏先导微电子首台12寸晶圆级光学磁控溅射设备正式交付！,光电芯片与半导体,OFweek 光电频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30696920.html,行业媒体,True
-a3fb28a2a47c,【洞察】产业链上下游持续利好 全光谱椭偏仪（TFE）行业发展空间有望扩展,产业与资本,OFweek 光电频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-08/ART-250002-8420-30696873.html,行业媒体,True
-ad6baf3c84f3,智驾“小蓝灯”将被禁用 夜间眩光刺眼还招加塞：官方出手,其他,OFweek 光电频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-07/ART-250003-8110-30696444.html,行业媒体,True
-ddbf3fc96446,拐点已至，云台相机的下半场拼什么？,光学元件与成像,OFweek 光电频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-07/ART-250003-8420-30696435.html,行业媒体,True
-590044289ee3,高通内部消息！VR设备的“低价梦”悬了,显示与面板,OFweek 光电频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-07/ART-250006-8110-30696276.html,行业媒体,True
-bb1b776d3ce1,"增长失速, 强敌入场, 影石的云台相机新战事",光学元件与成像,OFweek 光电频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-07/ART-250003-12003-30696172.html,行业媒体,True
-a2722c624c95,139家机构刚调研，罗博特科就抛出1.29亿大单！,产业与资本,OFweek 光电频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-07/ART-8100-2500-30696164.html,行业媒体,True
-b0a4eb0e61b4,蔡司斥资扩建2.5万平光学工厂，独家EUV光学产能再升级！,光电芯片与半导体,OFweek 光电频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-07/ART-8100-2500-30696165.html,行业媒体,True
-347c51d79eb1,重磅光学突破！AR眼镜终于不再像劣质墨镜,显示与面板,OFweek 光电频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-07/ART-250003-8110-30696139.html,行业媒体,True
-882ada6606ee,获2.5亿元战略投资！艾舜光电为什么能打动光学龙头？,光学元件与成像,OFweek 光电频道,2026-06,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-06/ART-8100-2500-30689534.html,行业媒体,True
-c9e3c4ab56ff,15亿被套6年？欧菲光重组生死局,其他,OFweek 光电频道,2026-05,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-05/ART-8100-2500-30688151.html,行业媒体,True
-5c69abff182b,打响产能战！英伟达32亿美元锁定康宁,产业与资本,OFweek 光电频道,2026-05,2026-08-06T11:56:02.182919+00:00,75.0,https://optics.ofweek.com/2026-05/ART-8100-2500-30687199.html,行业媒体,True
-76b6cb50406a,最新议程出炉！2026中国激光产业高质量发展峰会即将开启,激光,OFweek 激光频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-07/ART-8100-2400-30694578.html,行业媒体,True
-eefe86ae5e7a,家电龙头，进军工业激光,激光,OFweek 激光频道,2026-06,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-06/ART-8100-2400-30692859.html,行业媒体,True
-82a7c8844597,频准激光大额理财仍募资补流，毛利率两倍于同行，近千万买专利,激光,OFweek 激光频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-08/ART-240002-12003-30696992.html,行业媒体,True
-f3e9b4d245f8,把激光做成了赚钱生意，禾塞科技被低估了吗？,激光,OFweek 激光频道,2026-08,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-08/ART-240001-12003-30696853.html,行业媒体,True
-14f0bb884649,一年卖出162万台后，禾赛开始挑战激光雷达的下一阶段,激光,OFweek 激光频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-07/ART-240001-12003-30696472.html,行业媒体,True
-e2e702449228,1.2亿元天价官司背后：高端制造企业扩张与治理失衡的行业警示,其他,OFweek 激光频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-07/ART-240001-12003-30695841.html,行业媒体,True
-e5b31a1c24f2,天狼星激光器问世 解决锂电加工难题,激光,OFweek 激光频道,2022-05,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2022-05/ART-8110-2400-30560775.html,行业媒体,True
-3dc0b685ed35,英飞凌卫星雷达ART架构，能去掉MCU核吗？,光传感与激光雷达,OFweek 激光频道,2026-06,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-06/ART-240001-8330-30692048.html,行业媒体,True
-3dac2b6e7340,创新突破｜光纤可插拔式1470nm光源：重塑精准激光除草新范式,激光,OFweek 激光频道,2026-06,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-06/ART-8200-2400-30689724.html,行业媒体,True
-8c2f50ef6fe4,打造“冷静”的 AI 算力中心：激光焊接检测助力液冷散热高质量制造,激光,OFweek 激光频道,2026-06,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-06/ART-240015-8230-30689718.html,行业媒体,True
-b4272abe7e7a,特域CWUP-05THS高精度小型冷水机：这么小，那么稳！,其他,OFweek 激光频道,2026-06,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-06/ART-8200-2400-30689326.html,行业媒体,True
-e486dd22bc68,迅镭激光正式参评“维科杯·OFweek 2026年度激光行业最佳激光加工装备技术创新奖”,激光,OFweek 激光频道,2026-05,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-05/ART-8200-2400-30687063.html,行业媒体,True
-d705c27df698,拥有400多家光子学企业，加拿大如何“做大做强”生态圈？,其他,OFweek 激光频道,2024-03,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2024-03/ART-8500-2400-30628190.html,行业媒体,True
-84671bd90137,乘风破“卷”！2023年激光国货出海按下“加速键”,激光,OFweek 激光频道,2024-01,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2024-01/ART-8500-2400-30621831.html,行业媒体,True
-82720c0f04d3,深度观察：超快激光在材料科学中的应用,激光,OFweek 激光频道,2023-11,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2023-11/ART-8500-2400-30617123.html,行业媒体,True
-14dbf17507ed,2023年有哪些值得关注的激光打标趋势与创新？,激光,OFweek 激光频道,2023-11,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2023-11/ART-8500-2400-30616901.html,行业媒体,True
-1badb6fdaeb6,【聚焦】激光刻痕机在取向硅钢处理领域应用潜力大 广州翔声智能科技为国内领先企业,激光,OFweek 激光频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-07/ART-240001-8420-30694352.html,行业媒体,True
-ab263165d1dc,帝尔激光同时搞三件事，你看懂了吗？,激光,OFweek 激光频道,2026-07,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-07/ART-240001-8420-30693409.html,行业媒体,True
-5adb6cde5335,频准激光科创板IPO获注册：年入4.18亿的量子激光“小巨人”,激光,OFweek 激光频道,2026-06,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-06/ART-240002-12003-30691931.html,行业媒体,True
-92293ea8ffe6,自动驾驶激光雷达应如何进行标定？,激光,OFweek 激光频道,2026-04,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-04/ART-240002-8140-30685436.html,行业媒体,True
-cb1caad6b2bb,自动驾驶中激光雷达搭载越多融合越困难吗？,激光,OFweek 激光频道,2026-04,2026-08-06T11:56:02.182919+00:00,75.0,https://laser.ofweek.com/2026-04/ART-240002-8140-30685550.html,行业媒体,True
-a439870e4b0e,跨界光通信，消费电子供应商智动力布局光通信材料,光通信,LEDinside 中文,2026-08-06,2026-08-06T11:56:02.182919+00:00,74.6,https://www.ledinside.cn/news/20260806-62278.html,行业媒体,True
-8d1a52b9790e,玻璃基板赛道升温，LG Innotek、赛德半导体、巽霖科技加速布局,光电芯片与半导体,LEDinside 中文,2026-08-06,2026-08-06T11:56:02.182919+00:00,74.6,https://www.ledinside.cn/news/20260806-62276.html,行业媒体,True
-dec6ca26022f,消费电子器件上市公司官宣跨界光通信材料,光通信,LEDinside 中文,2026-08-06,2026-08-06T11:56:02.182919+00:00,74.6,https://www.ledinside.cn/news/20260806-62275.html,行业媒体,True
-b4f8a55dbdad,苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼,其他,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,72.5,https://www.c114.com.cn/news/213/a1282089.html,行业媒体,True
-0c70cafd7ddb,苹果税惹麻烦：苹果在英国面临15亿英镑集体诉讼,其他,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,72.5,https://www.c114.com.cn/news/213/a1281942.html,行业媒体,True
-fe989b874cf9,苹果公司在英面临15亿英镑司法索赔，被指在App Store收费“过高且不公平”,其他,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,72.5,https://www.c114.com.cn/news/213/a1281915.html,行业媒体,True
-0bedbb08d1d5,工信部等四部门：到2035年，全面建成新型互联网基础设施,其他,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,72.5,https://www.c114.com.cn/news/550/a1313800.html,行业媒体,True
-6ad3f26ed0d6,工信部部署2026年信息通信业安全生产与网络运行安全工作,通信与算力,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,72.5,https://www.c114.com.cn/news/550/a1307461.html,行业媒体,True
-6876e7b26133,工信部召开2026年信息通信业行风建设暨纠风工作会议,通信与算力,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,72.5,https://www.c114.com.cn/news/550/a1306739.html,行业媒体,True
-e1545edd4bb7,工信部全面开展算力态势感知自动化监测工作,通信与算力,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,72.5,https://www.c114.com.cn/news/550/a1304689.html,行业媒体,True
-4aa35ec0cf87,工信部：2027年基本建成全域覆盖、高效畅通的城域毫秒级算力网络体系,通信与算力,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,72.5,https://www.c114.com.cn/news/550/a1298868.html,行业媒体,True
-8537937955ce,工信部等七部门：按需布局算力基础设施 加速算力与行业融合应用,通信与算力,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,72.5,https://www.c114.com.cn/news/550/a1298426.html,行业媒体,True
-bc0bcfeb1884,工业和信息化部系统坚持求真务实、真抓实干 推动学习教育走深走实,其他,工信部要闻,,2026-08-06T11:56:02.182919+00:00,72.5,https://www.miit.gov.cn/xwfb/gxdt/art/2026/art_ffc6ad2dcd314f349d65188dcd28369a.html,媒体,True
-8bfa8bf5e7eb,工业和信息化部介绍推动软件和信息技术服务业、科技服务业发展等情况,其他,工信部要闻,,2026-08-06T11:56:02.182919+00:00,72.5,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_4905fd794aa54b29b9bd050a746b29f0.html,媒体,True
-3a5dd6d4cf09,工业和信息化部：一季度工业和信息化发展总体实现良好开局,其他,工信部要闻,,2026-08-06T11:56:02.182919+00:00,72.5,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_9e461fb26c75403f822cef394e0ad2d1.html,媒体,True
-de135478df52,All-Optical Field-Resolved Spectroscopy With Interferometric Nonlinear Cross-Correlations,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,72.2,https://arxiv.org/abs/2608.04493,科研,True
-444715149aeb,Time-resolved THz Stark spectroscopy of molecules in water,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,72.2,https://arxiv.org/abs/2608.04662,科研,True
-eb1ce0cee3b4,Counterdirectional Exciton and Trion Motion in Applied Electric Field,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,72.2,https://arxiv.org/abs/2607.22250,科研,True
-3c61abc8e818,光芯片收入高涨78%，仕佳光子上半年营收15亿,光通信,LEDinside 中文,2026-08-03,2026-08-06T11:56:02.182919+00:00,72.1,https://www.ledinside.cn/fsa/20260803-62247.html,行业媒体,True
-81bd0ad38293,"Two materials, one photonic chip: Unlocking a new way to generate light frequencies",光电芯片与半导体,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,70.0,https://phys.org/news/2026-08-materials-photonic-chip-generate-frequencies.html,科研,True
-400e596dcd4e,New photonic platform offers a four-lane highway for light,科研进展,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,70.0,https://phys.org/news/2026-07-photonic-platform-lane-highway.html,科研,True
-eb2660a5d3d9,Photonic time crystals unlock ultrafast control of light in the terahertz range,科研进展,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,70.0,https://phys.org/news/2026-07-photonic-crystals-ultrafast-terahertz-range.html,科研,True
-961618dd236c,起底中国移动自主品牌手机联姻YunOS：必然性、想象空间与数字化领先战略,产业与资本,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.c114.net/news/51/a997658.html,行业媒体,True
-70fe2a5669f5,推进光纤入户 工信部联合住建部解决”最后一公里”问题,光通信,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.c114.net/news/549/a997513.html,行业媒体,True
-bdd68db052d5,Juniper今年发力电信市场：重振国内运营商业务,通信与算力,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.c114.net/news/16/a997327.html,行业媒体,True
-5fad4653f5a5,超260个云项目背后：华为助力运营商建好云、用好云、管好云,通信与算力,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.c114.net/news/126/a997279.html,行业媒体,True
-9b51ac7dc097,北京移动创新产品服务体系：“司马大数据”今年营收有望过亿,产业与资本,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.c114.net/news/80/a997274.html,行业媒体,True
-64b10895e055,中国移动智能家庭网关设备集采：上海贝尔获得50%份额,通信与算力,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.c114.net/news/118/a997270.html,行业媒体,True
-ee47b53cd69f,中兴许明解读有线五大亮点：大带宽有大机遇,其他,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.c114.net/news/127/a996901.html,行业媒体,True
-b76f4fc8ef8c,徐直军详解视频驱动力与挑战：华为助力运营商淘金万亿级新市场,通信与算力,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.c114.net/news/126/a996989.html,行业媒体,True
-5125bef748c8,京东发布2016年财报:营收达2602亿元 同比增44%,产业与资本,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.c114.net/news/123/a996930.html,行业媒体,True
-6a6754079fb1,百度承认旗下hao123暗藏恶意代码：向用户道歉 已清除,其他,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.c114.net/news/52/a997070.html,行业媒体,True
-e72a5dd0fcce,中国联通与德国电信携手发展物联网 建立战略合作伙伴关系,产业与资本,C114中国通信网_要闻精选,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.c114.net/news/119/a996667.html,行业媒体,True
-7be7dc114d8a,天孚通信：预计2026年上半年净利润11.24亿元-13.04亿元,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/123/a1314323.html,行业媒体,True
-80163114991f,新易盛上半年净利预增77%-103%，AI算力需求持续释放,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/123/a1314264.html,行业媒体,True
-d9103d2f406c,高速光模块订单大增，剑桥科技上半年净利润同比增长156.65%至197.18%,光通信,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/123/a1313968.html,行业媒体,True
-6afcb335f169,铭普光磁预计上半年大幅减亏,其他,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/123/a1313963.html,行业媒体,True
-9732dac30492,长鑫科技科创板IPO定价8.66元/股 预计募资超579亿元,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/125/a1313913.html,行业媒体,True
-96e1459f558d,特发信息2026年上半年净利润预增超8倍，智慧服务板块贡献显著,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/123/a1313628.html,行业媒体,True
-520770804ded,光库科技：预计2026年上半年净利润同比增长170%-190%,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/123/a1313596.html,行业媒体,True
-4c120da348a2,广州广电申请终止挂牌，股票自7月6日起停牌,其他,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/125/a1313585.html,行业媒体,True
-ad4abed3f437,中微公司完成收购杭州众硅64.69%股权 并募集约15亿元配套资金,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/125/a1313438.html,行业媒体,True
-c4f22dd52426,日海智能控股股东拟变更为科创海科 实控人仍为珠海国资委,其他,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/125/a1313255.html,行业媒体,True
-a2bd18db43bd,天音控股拟7700万元挂牌转让星纪魅族1.65%股权 溢价27.63%,其他,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/125/a1312013.html,行业媒体,True
-6cb36ef6a993,价值406亿元并购！中芯国际拟发行股份收购中芯北方剩余49%股权,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/125/a1310883.html,行业媒体,True
-171919947c67,云业务收入核算方式变更 有方科技2025年营收调降21.63%,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/123/a1309675.html,行业媒体,True
-69ac52ff0103,新华三2026年Q1营收221.89亿元，同比增长45.08%,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/123/a1309448.html,行业媒体,True
-66d1914e1e14,中航光电Q1实现净利润3.98亿元 同比下降37.75%,产业与资本,C114中国通信网_通信财经,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/123/a1309385.html,行业媒体,True
-f7ede13e59ff,欧盟否认重新评估对美国科技巨头调查，但未来走向不明,其他,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/213/a1281998.html,行业媒体,True
-8bdd52947a4b,欧盟将重新评估针对苹果、Meta和谷歌等科技巨头的调查,其他,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/213/a1281972.html,行业媒体,True
-d7753619e776,华为100%份额：中国移动存储集采公示中标候选人,产业与资本,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/126/a1314421.html,行业媒体,True
-504b6c04f963,中信科移动技术专家参加WAIC2026，聚焦AI与6G NTN技术融合创新,通信与算力,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/654/a1314395.html,行业媒体,True
-890944933b2c,云端连万物，飞行即生活——5G-ATG 重塑万米高空新体验,通信与算力,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/127/a1314364.html,行业媒体,True
-8f8e58b9bbdb,对话中国信科罗昆初：从ICT到AICT，锚定智能时代战略跃迁,产业与资本,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/5455/a1314332.html,行业媒体,True
-c211321333c9,千站级iSDU落地云南：云南移动携手华为打造可唤醒极致休眠绿色网络标杆,通信与算力,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/126/a1314282.html,行业媒体,True
-6944af4885e6,中兴通讯张万春：全栈协同，引领Token经济时代的TCO最优解,其他,C114中国通信网_设备商,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.c114.com.cn/news/127/a1314209.html,行业媒体,True
-f9dc38314428,"打脸小米SU7,半价就能拿下激光雷达轿跑?",激光,搜狗微信·光电行业 · 小厨柒柒,2026-08-06T10:44:12+00:00,2026-08-06T11:56:02.182919+00:00,70.0,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bYDovzTq92ztX8rmP5DIQclqXa8Fplpd9l4YzPkfqIcsrJvaDNQisQw0dFn_l3HfFsMqOGL8x8wIjxR34aeNhUNy2Lqv6ldUj3b8PoL_hGnJuGehwA9-az5G-I4lQVO1J45yfSynk60K0n7jTm_QRh_nJ84B-WSo3zuIGExspIY5GMEldKvOGS-R10WR8s1IXKuvjy7ekSqZe0WC6Sbi7DA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0573A38F0B3C823D2A2C7175B9D315EA2A1ECD7C6A74764C,媒体,True
-23576b248c33,25万内双电机+激光雷达!零跑D99掀翻MPV溢价?,激光,搜狗微信·光电行业 · 城一事,2026-08-06T11:10:19+00:00,2026-08-06T11:56:02.182919+00:00,70.0,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bYDovzTq92ztX8rmP5DIQclqXa8Fplpd96xaaU8Jv0b4ISCzUOfbiPvatGSJnxL3s70IaPBQZG4ospWTGdIaYAXjyYp2xiF0bkmquU7tyteGQKX8I80zC05I3UVkET7y2Bf3SHHrdu4nKGiWAD8VQSxRQPoLBK6NSyihtkq-YbLOCPXXMdUMC-7asivEjxUCKGzHrvh3Fa3Ps46dn8Efgxg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0573A38F0B3C823D2A2C7175B9D315EA2A1ECD7C6A74764C,媒体,True
-acafde68810f,一图读懂强制性国家标准GB 44721—2026《智能网联汽车 自动驾驶系统安全要求》,产业与资本,工信部要闻,,2026-08-06T11:56:02.182919+00:00,70.0,https://www.miit.gov.cn/zwgk/zcjd/art/2026/art_ef24128ee7304a63b6777d7023631e94.html,媒体,True
-0c282d46aa70,《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布,产业与资本,工信部要闻,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_16d1319a933d4ffd8501e60dc4d88491.html,媒体,True
-9bd695cbf660,工业和信息化部量子信息标准化技术委员会成立,科研进展,工信部要闻,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_79e6b8bde1974fc9b120b0e18cb0b262.html,媒体,True
-dd9879b8c862,2026年亚太经合组织（APEC）数字和人工智能部长会议新闻发布会在成都召开,产业与资本,工信部要闻,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d109e2b6dc4844cc902a1f6f49712f67.html,媒体,True
-59d5a61e2a99,工业和信息化部举行“亚太经合组织（APEC）2026年数字和人工智能部长会议及数字周相关活动新闻通气会”,通信与算力,工信部要闻,,2026-08-06T11:56:02.182919+00:00,70.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a1dcaacc0394430fa13197ef3946dece.html,媒体,True
-346d901ea599,"激光雷达真正的敌⼈,不是⿊暗,是阳光",激光,搜狗微信·光电行业 · 新注册公众号,2026-08-06T08:08:14+00:00,2026-08-06T11:56:02.182919+00:00,69.9,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bYDovzTq92ztX8rmP5DIQclqXa8Fplpd9CpVHjeEZGlZ1mR8iq0nVtkJYkOSse-I1Pr9A9CC_SHAKePTFDPtO4Vy3NS4EmIvxk8hz0sd51cTaPydOVIAILwCg8K3dm-ZGeIquS_TP4Fd4ncu7SeARugjp8tD0SzqGKqhhOOG0dUIX_2meNJLPQXZaloZipirkcv_Rh6SG1rICn9lOoZLP2Q..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0573A38F0B3C823D2A2C7175B9D315EA2A1ECD7C6A74764C,媒体,True
-f8c85d92ba8f,"「激光雷达」四个字,到底是什么意思?",激光,搜狗微信·光电行业 · 新注册公众号,2026-08-06T07:08:48+00:00,2026-08-06T11:56:02.182919+00:00,69.8,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bYDovzTq92ztX8rmP5DIQclqXa8Fplpd960ObUv1MkmUiv7wX2d8J4G7TOmpZwyMxLGoT8J-YZPm03l9IAMfI18tAL_Ry4lUGApO365aUVz-Wqpr5dLTuyRRsgMp7vg-KTMqy3SV_LVfb2dBnY5fDe0LIGWgSrJbREi_0mDOdWiU9xOOhKyfCSmM_6LbGJH-odbNrOagNltUtPujwwRB2Pw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0573A38F0B3C823D2A2C7175B9D315EA2A1ECD7C6A74764C,媒体,True
-5a4dd64108e0,[News] First Continuous-Wave UV VCSEL Operation at Room Temperature,光电芯片与半导体,LEDinside 英文,2026-08-05T23:08:40+00:00,2026-08-06T11:56:02.182919+00:00,69.6,//www.ledinside.com/news/2026/8/2026_08_06_03,行业媒体,True
-7b7511104581,华为连发三款鸿蒙电脑新品,其他,LEDinside 中文,2026-08-06,2026-08-06T11:56:02.182919+00:00,69.6,https://www.ledinside.cn/products/20260806-62284.html,行业媒体,True
-df1eae86a7ae,1700亿OLED投资引爆显示设备市场，谁吃下了这波红利？,显示与面板,LEDinside 中文,2026-08-06,2026-08-06T11:56:02.182919+00:00,69.6,https://www.ledinside.cn/news/20260806-62281.html,行业媒体,True
-3bff5516642f,中微半导体华中总部落户武汉，预计明年初投入运营,光电芯片与半导体,LEDinside 中文,2026-08-06,2026-08-06T11:56:02.182919+00:00,69.6,https://www.ledinside.cn/news/20260806-62280.html,行业媒体,True
-d9b29d76b618,富采蓝光MicroLED调制带宽达2.1GHz，逼近光通信用规格,光通信,LEDinside 中文,2026-08-06,2026-08-06T11:56:02.182919+00:00,69.6,https://www.ledinside.cn/news/20260806-62279.html,行业媒体,True
-036d27925fab,"全新激光雷达,上汽大众ID.ERA 5X谍照曝光,中型SUV看看这辆!",激光,搜狗微信·光电行业 · 汽车之家,2026-08-06T00:01:20+00:00,2026-08-06T11:56:02.182919+00:00,69.6,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bYDovzTq92ztX8rmP5DIQclqXa8Fplpd9QTgj7tvJamFloGF9hxSX7lyb_T5ZexzPwUh7pM2gAjw7Oxf7oZS4IxiL7V8MQvcqXTxM0aLI9oqv4usDPsUafY0G94dU1Wn14I5jaet1SDBtJy5GPuCTLtNRXi5OJZgafaN2_Z7aDfA6S_yPQadu7y94bhG0bfxl1O-y2Nw-HmPs46dn8Efgxg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0573A38F0B3C823D2A2C7175B9D315EA2A1ECD7C6A74764C,媒体,True
-96d7e22a9e7d,"东风日产预告NX7车型即将发布,搭载激光雷达",激光,搜狗微信·光电行业 · 小橘说车,2026-08-05T22:00:48+00:00,2026-08-06T11:56:02.182919+00:00,69.5,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bYDovzTq92ztX8rmP5DIQclqXa8Fplpd9OfMsueL_KSVAJEMRU7YoGB3b0iN2AR-QS4g18mytJDhbzTkvGA8uEW4XRe5zjQEVv8BOd40D4Z7wNgrMmF3tSEm45J6S28k7D9QX6O8Dpzle0mfC8rmixdlS5q415oXWM6P5KTirh19FvKH7EXtR61e0tFnuYgleypoY6ONSy0F5LU3lqtPw9g..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0573A38F0B3C823D2A2C7175B9D315EA2A1ECD7C6A74764C,媒体,True
-40ac84743b60,面板价格最新预测（2026年8月）,显示与面板,LEDinside 中文,2026-08-05,2026-08-06T11:56:02.182919+00:00,68.8,https://www.ledinside.cn/pricequotes/20260805-62271.html,行业媒体,True
-b2d27cb9c0f1,一加手机正式退出北美市场,其他,LEDinside 中文,2026-08-05,2026-08-06T11:56:02.182919+00:00,68.8,https://www.ledinside.cn/news/20260805-62270.html,行业媒体,True
-1a4d96cb744c,艾迈斯欧司朗：上半年营收124亿元；全面押注数字光子学,产业与资本,LEDinside 中文,2026-08-05,2026-08-06T11:56:02.182919+00:00,68.8,https://www.ledinside.cn/fsa/20260805-62268.html,行业媒体,True
-3d5254e273d6,[News] Beyond the TV Wall: How Micro LED Is Redefining the Modern Luxury Living Space,显示与面板,LEDinside 英文,2026-08-04T00:06:08+00:00,2026-08-06T11:56:02.182919+00:00,67.9,//www.ledinside.com/products/2026/8/2026_08_04_02,行业媒体,True
-2625bd3c962a,华为余承东：首款RGB-MiniLED电视8月5日开售,显示与面板,LEDinside 中文,2026-08-04,2026-08-06T11:56:02.182919+00:00,67.9,https://www.ledinside.cn/products/20260804-62263.html,行业媒体,True
-f79d9a195144,93g、搭载Micro OLED，XR眼镜URXR One开启众筹,显示与面板,LEDinside 中文,2026-08-04,2026-08-06T11:56:02.182919+00:00,67.9,https://www.ledinside.cn/products/20260804-62255.html,行业媒体,True
-938f91a09cc5,Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW,激光,Nature Photonics,2026-08-03T00:00:00+00:00,2026-08-06T11:56:02.182919+00:00,67.1,https://www.nature.com/articles/s41566-026-01977-1,科研,True
-0225c3ea7d1f,"Methods, trade-offs and opportunities in high-speed optical microscopy for neural voltage imaging",光学元件与成像,Nature Photonics,2026-08-03T00:00:00+00:00,2026-08-06T11:56:02.182919+00:00,67.1,https://www.nature.com/articles/s41566-026-01965-5,科研,True
-cc6b025931cd,18家玻璃基板相关上市企业，谁将率先兑现订单？,产业与资本,LEDinside 中文,2026-07-28,2026-08-06T11:56:02.182919+00:00,67.1,https://www.ledinside.cn/news/20260728-62207.html,行业媒体,True
-80bf6c3e2060,定价近1.5万元，Snap AR眼镜即将正式亮相,显示与面板,LEDinside 中文,2026-08-03,2026-08-06T11:56:02.182919+00:00,67.1,https://www.ledinside.cn/products/20260803-62244.html,行业媒体,True
-f84716670e3c,关键节点！维信诺合肥8.6代AMOLED产线转入设备调试阶段,显示与面板,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/211/a1307762.html,行业媒体,True
-3a78f7d71dfb,芯科科技推出智能开发工具Simplicity Ecosystem软件开发套件开启物联网开发的新高度,产业与资本,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/211/a1299264.html,行业媒体,True
-abf98af3d171,英特尔代工获微软下一代AI芯片订单，将采用18A工艺,光电芯片与半导体,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/211/a1298974.html,行业媒体,True
-5db61d7aaa75,新思科技获准向是德科技出售光学解决方案部门,光学元件与成像,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/212/a1298390.html,行业媒体,True
-55a1cf2e027d,零碳算力：AI时代数据中心行业的绿色转型与系统性能源革命,光通信,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/212/a1298294.html,行业媒体,True
-1b011e896156,宇树科技计划登陆科创板 中国移动已投资,产业与资本,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/212/a1292374.html,行业媒体,True
-00975cdf99df,Allegro MicroSystems 携新型 XtremeSense TMR 电流传感器亮相慕尼黑上海电子展,光传感与激光雷达,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/212/a1287354.html,行业媒体,True
-045f3c0a18ad,Allegro 扩展其电机控制和热管理解决方案，满足日益增长的电动汽车和自动化市场,其他,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/212/a1287353.html,行业媒体,True
-e42248a59ec7,微软遭法国反垄断调查：向小型搜索引擎提供必应技术时故意降低搜索结果质量,其他,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/213/a1283012.html,行业媒体,True
-dbe7910cfd25,Meta启动千人裁员计划，腾出空间招揽“最顶尖”人才,其他,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/213/a1283011.html,行业媒体,True
-88c8fb6764b6,为避免欧盟反垄断罚款，消息称微软“捆绑 Team 版 Office”将进一步涨价,其他,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/213/a1283006.html,行业媒体,True
-32dcc3513430,杨元庆：科技企业应打造人人可用、人人受益的“人本智能”,其他,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/211/a1282514.html,行业媒体,True
-fdbc74b49bcb,英伟达机器人业务团队到访北京国地中心，双方规划合作事宜,产业与资本,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/212/a1282451.html,行业媒体,True
-0b5d527bf4f6,能容纳超100个人形机器人同时训练！全国首个异构人形机器人训练场正式启用,其他,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/211/a1282418.html,行业媒体,True
-ddd67d92f7cc,2024 CEIA中国企业IT大奖重磅揭晓 CIO选型权威指南,其他,C114中国通信网_IT资讯,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/212/a1282341.html,行业媒体,True
-21e9f84045b7,工信部向166家外资企业发放经营试点批复 覆盖全部增值电信业务,通信与算力,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/550/a1311651.html,行业媒体,True
-d968f50fa074,工信部筹建量子信息标准化技术委员会,科研进展,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/550/a1301809.html,行业媒体,True
-bc4c89498c2f,工信部全面推广增值电信业务电子证照,通信与算力,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.c114.com.cn/news/550/a1298355.html,行业媒体,True
-53124c0a7ec5,光电测量仪器企业中电科思仪创业板IPO注册生效,产业与资本,COEMA 中国光电子行业协会,2026-07,2026-08-06T11:56:02.182919+00:00,65.0,https://www.coema.org.cn/industry/202607/5754.html,行业媒体,True
-108f60f8afad,聚灿、海康、慧谷新材等发布2026年半年报,产业与资本,COEMA 中国光电子行业协会,2026-07,2026-08-06T11:56:02.182919+00:00,65.0,https://www.coema.org.cn/industry/202607/5774.html,行业媒体,True
-0c94cdd0aab7,磷化铟龙头，签订大单！,产业与资本,COEMA 中国光电子行业协会,2026-07,2026-08-06T11:56:02.182919+00:00,65.0,https://www.coema.org.cn/industry/202607/5772.html,行业媒体,True
-3bfac4c42627,2026年大尺寸OLED面板达到3880万片！笔记本面板增长66%,显示与面板,COEMA 中国光电子行业协会,2026-07,2026-08-06T11:56:02.182919+00:00,65.0,https://www.coema.org.cn/industry/202607/5763.html,行业媒体,True
-41904635cbc2,三安、TCL科技等6企披露半年度业绩预告,其他,COEMA 中国光电子行业协会,2026-07,2026-08-06T11:56:02.182919+00:00,65.0,https://www.coema.org.cn/industry/202607/5758.html,行业媒体,True
-11ea5d943086,高端激光通信研发中心项目落户武汉光谷！,激光,COEMA 中国光电子行业协会,2026-07,2026-08-06T11:56:02.182919+00:00,65.0,https://www.coema.org.cn/industry/202607/5757.html,行业媒体,True
-187d3d307b39,LYNRED发布新一代制冷型中波红外探测器，面向国防与监视系统应用,光学元件与成像,COEMA 中国光电子行业协会,2026-07,2026-08-06T11:56:02.182919+00:00,65.0,https://www.coema.org.cn/industry/202607/5755.html,行业媒体,True
-7c41f2ea6351,"进阶第26篇|激光雷达没点云,先别重装驱动:按这 4 层找断点",激光,搜狗微信·光电行业 · 机甲优护,2026-08-06T11:42:28+00:00,2026-08-06T11:56:02.182919+00:00,65.0,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bYDovzTq92ztX8rmP5DIQclqXa8Fplpd9-syX_AlWx9-m3SYo-maDOmIlGUyrIHCbXTP_0VI5-Ivfh2jc3cyACDhU0iv0rH3PxwzZYhW4YsXfXGqilAvKWgth33n5ajDpPDauyJNwHf9yUjpKjbBBHSIeqbmvqxXLc8SopsaJUD_T6oli-GXWLiJaL8f64wyCVxiATASCXPJFkDr8IT4KYw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0573A38F0B3C823D2A2C7175B9D315EA2A1ECD7C6A74764C,媒体,True
-233b02578691,"6激光雷达 47.98万起,新款问界M9值得买吗?",激光,搜狗微信·光电行业 · 信息狗,2026-08-06T11:11:03+00:00,2026-08-06T11:56:02.182919+00:00,65.0,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bYDovzTq92ztX8rmP5DIQclqXa8Fplpd9RhA4tz0x8WNebR8BRHHNH2yZINiI344wV63cYgTWkLeWHw5BECAoc7jRvDdfRctMAEkER5tDFzTGF0vg2KJt_jc9iZGFZ1SCw-qjixcnVB6QzzRLj4hGhK7WEExtDMo1Jan6FOoZCkmvsb8gipxWo6YU6xCfaFljMUV7Jd6zS-ZflztgI7RZ1g..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0573A38F0B3C823D2A2C7175B9D315EA2A1ECD7C6A74764C,媒体,True
-82088f5f77d0,"5米3巨无霸配激光雷达,长城H10要抢坦克500饭碗?",激光,搜狗微信·光电行业 · 影视频,2026-08-06T11:10:55+00:00,2026-08-06T11:56:02.182919+00:00,65.0,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bYDovzTq92ztX8rmP5DIQclqXa8Fplpd925R-RBEG51WBhCELjH8BIhJdaCDWkJSK2POT_xBtWvSOoszUYTvC-fkuc-o5n1jU5ztaraOtbDXbykYuZlOwXAF_zr1SwncKBfpOtYWmT1314wDs5nT4UW1UDEi2diJiGIoiKecvwu2LLR81iCmFgRUo0hwQ4p3ET80_6gJSWv-FW6cwuUnkdA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0573A38F0B3C823D2A2C7175B9D315EA2A1ECD7C6A74764C,媒体,True
-2bdb986cd96a,工业和信息化部举办“十五五”工业和信息化规划专题培训班,其他,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_19597459de0745afaed9778c61422ebb.html,媒体,True
-a65dfa044185,三部门关于组织开展2026年度重点行业能效、碳效领跑者企业推荐工作的通知,其他,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_277a824ef0ae478faf7dc2d4f14b5db6.html,媒体,True
-be9c593a7175,工业和信息化部等七部门办公厅（办公室）关于开展2026年工业和信息化领域创新任务揭榜挂帅工作的通知,其他,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_286751ceaf944364b5c282cacd71cb09.html,媒体,True
-a70fe6fc9620,国家税务总局 工业和信息化部关于发布《免征车辆购置税的设有固定装置的非运输专用作业车辆目录》（第二十二批）的公告,产业与资本,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_e4d9035769cb4b6b8e6f7fb81d2a7205.html,媒体,True
-1f5099b93ebb,两部门关于公布第二批次网络安全保险服务试点工作方案名单的通知,通信与算力,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_4d2b61bae848421eacdfd64262199d0e.html,媒体,True
-e5b7ec3343f6,工业和信息化部等六部门办公厅（综合司）关于开展2026年度智能工厂梯度培育行动的通知,其他,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_bbccc17a650749c2a76569679350fa5d.html,媒体,True
-40ce7d23a7ba,两部委关于开展农业领域机器人典型应用场景遴选工作的通知,其他,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_750f6bdfb49e49188136c7bcb3b65dc7.html,媒体,True
-24735461ed64,持续向新向优发展！国新办就2026年上半年工业和信息化发展情况举行新闻发布会,产业与资本,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_bc4cf76777cb4fd2896082ca2ff7039d.html,媒体,True
-a60ec55e0e79,国新办就“勇担时代重任，做新型工业化事业的建设者和追梦人”举行中外记者见面会,其他,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.miit.gov.cn/xwfb/xwfbh/qtxwfbh/art/2026/art_70fdbc6312e648e29fc7801c763e37d0.html,媒体,True
-1b15573dc263,我国成功发射卫星互联网低轨23组卫星,其他,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_20bf245cb87549e28519078d857c6eb0.html,媒体,True
-9118b23d968f,工业和信息化部装备工业一司组织道路机动车辆检验检测机构开展座谈 部署提升检验检测工作质量相关工作,其他,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_4b5ab63f32c84d318ad7a6ba4893a89d.html,媒体,True
-1f19a547dd17,工业和信息化部召开光伏行业座谈会 进一步解读宣贯光伏组件强制性国家标准,光伏与新能源,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_e9d492b5b42642fdbfee562118de42c1.html,媒体,True
-de0a96e4ec6e,天津信息通信业2026年第三次总经理座谈会顺利召开,通信与算力,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_5632aaac98594fa8b7a4a3c6fe4e6a02.html,媒体,True
-f1a7ec3bf71d,贵州通信管理局召开2026年全省电信市场与服务半年工作会议,通信与算力,工信部要闻,,2026-08-06T11:56:02.182919+00:00,65.0,https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0fb7bd58e1044838950952bbf4f373ba.html,媒体,True
-570dfb6ce3be,光模块:FCC拟议禁令研判,光通信,搜狗微信·光电行业 · 赛道投研,2026-08-06T08:31:51+00:00,2026-08-06T11:56:02.182919+00:00,64.9,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bNtHveNvX8-tX8rmP5DIQclqXa8Fplpd9H2XQ9PZMk_5nbMsgONJqeSXgLOKfUfx8W48otlnWjvyS8Rc7kxROGlEMpQYKtj7VeDidpxoTbOU_KnLx7HKl4T5QPJJAtE2Q3agZb4IirPYXsGiKUUckfXu0UV4GrzilFsrfx5E-NoM5OjCzDtpFVZecv8VbhPgMcXDQBpkH44lj32-j2KiwUw..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=0573970B0B3C823D2A2C7175B9D315EA2A1ECD7C6A747649,媒体,True
-3c9e2edfe789,光模块会不会重演CXO剧本?,光通信,搜狗微信·光电行业 · 国金证券股份有限公司,2026-08-06T09:59:16+00:00,2026-08-06T11:56:02.182919+00:00,64.9,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bNtHveNvX8-tX8rmP5DIQclqXa8Fplpd9USnNuINy7sp5jcvWSxckHxzHTkk7L7ZKeRM55rse9CWtEu5h4dVvQTHKtXuqvvFEVATsR28cn7DCFSAjfgkqsE_a5hlRs0PGHBNFhy1SZp_fv1ac31AdDUX5cJna3LI33iZG2ivXDto4PUeFEq5R8TUtfDFd9GVzDGgJ08yNH8tS6t2rFt2rnA..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=0573970B0B3C823D2A2C7175B9D315EA2A1ECD7C6A747649,媒体,True
-d888a7f44caf,Analysis of Nonlinear Phase Noise in Coherent Fiber-Optic Systems Based on Phase Shift Keying,光通信,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,64.7,https://arxiv.org/abs/2608.04221,科研,True
-35744e69da53,Quantum optoelectronics in semiconductor solar cell materials and devices,光电芯片与半导体,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,64.7,https://arxiv.org/abs/2608.04328,科研,True
-006bc3ec6787,An optical-fibre-integrated buffer for packet-switched quantum networks,光通信,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,64.7,https://arxiv.org/abs/2608.04093,科研,True
-d76c11bc5949,Anisotropic propagation of GHz surface and bulk acoustic waves in gallium arsenide studied by random scattering,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,64.7,https://arxiv.org/abs/2603.19860,科研,True
-46520d2cad3c,Wigner polarons reveal Wigner crystal dynamics in a monolayer semiconductor,光电芯片与半导体,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,64.7,https://arxiv.org/abs/2512.16631,科研,True
-a2a5cacd0aff,"High-efficiency loading of 2,400 Ytterbium atoms in optical tweezer arrays",科研进展,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,64.7,https://arxiv.org/abs/2512.19795,科研,True
-9c95d706ba47,Lunar Silicon Cavity,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-06T04:00:00+00:00,2026-08-06T11:56:02.182919+00:00,64.7,https://arxiv.org/abs/2602.06352,科研,True
-5220d7bb2cd5,Optical–electrical skin sensing,科研进展,Nature Photonics,2026-07-31T00:00:00+00:00,2026-08-06T11:56:02.182919+00:00,64.6,https://www.nature.com/articles/s41566-026-01967-3,科研,True
-faa01015c2f6,Valleytronics on a single chip,光电芯片与半导体,Nature Photonics,2026-07-31T00:00:00+00:00,2026-08-06T11:56:02.182919+00:00,64.6,https://www.nature.com/articles/s41566-026-01975-3,科研,True
-e39e140da3c9,The path ahead for organic photovoltaics,科研进展,Nature Photonics,2026-07-31T00:00:00+00:00,2026-08-06T11:56:02.182919+00:00,64.6,https://www.nature.com/articles/s41566-026-01963-7,科研,True
-acea95bd40ce,A hot-electron-based plasmonic artificial leaf,科研进展,Nature Photonics,2026-07-31T00:00:00+00:00,2026-08-06T11:56:02.182919+00:00,64.6,https://www.nature.com/articles/s41566-026-01969-1,科研,True
-477caddc0e39,[News] ams OSRAM Delivers Q2 at Guidance High End and Readies MicroLED Arrays for Next-Generation AR Smart Glasses,显示与面板,LEDinside 英文,2026-08-05T23:05:14+00:00,2026-08-06T11:56:02.182919+00:00,64.6,//www.ledinside.com/news/2026/8/2026_08_06_02,行业媒体,True
-fe8e53cbfe47,[News] InP Shortage Emerges as AI Optical Interconnect Bottleneck,通信与算力,LEDinside 英文,2026-08-05T23:02:25+00:00,2026-08-06T11:56:02.182919+00:00,64.6,//www.ledinside.com/news/2026/8/2026_08_06_01,行业媒体,True
-caff5d30b117,AI光互连需求爆发，爱思强二季度新增订单同比增长81%,产业与资本,LEDinside 中文,2026-07-31,2026-08-06T11:56:02.182919+00:00,64.6,https://www.ledinside.cn/fsa/20260731-62241.html,行业媒体,True
-be5343c9ee4d,嘉宾观点 | 三石园科技梁嘉伦：OCS系统“从0到1”面临哪些挑战？,光通信,CIOE 中国光博会,2026-07-31,2026-08-06T11:56:02.182919+00:00,64.6,https://cioe.cn/news/2931_info.html,行业媒体,True
-f00c7c254716,嘉宾观点 | 中国电信刘宇旸：AI推理驱动算力下沉，OCS迈向城域算力光互联,光通信,CIOE 中国光博会,2026-07-31,2026-08-06T11:56:02.182919+00:00,64.6,https://cioe.cn/news/2930_info.html,行业媒体,True
-98ba27077d37,"累计融资近亿美元!前大疆激光雷达负责人洪小平创业若创科技,首款个人出行机器人量产交付、退货率为零",激光,搜狗微信·光电行业 · PEVC研究,2026-08-05T23:25:18+00:00,2026-08-06T11:56:02.182919+00:00,64.6,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bYDovzTq92ztX8rmP5DIQclqXa8Fplpd9foNWJvqGYRwajKvWDxp-43h15cmH1ipzXWkkWp1zOWamfM3s-NA8nvKWcHj4UWlHL3i3C2lrKpDkRw9yu5FwLcoha5d36g3_V9zPPRGX26cznGxQUmTy893J2BYDptewgM6KKvY47VYXeRgIpSvuNQlahhpe9-TiKyzDLzPEkGHYl_Q5RRZQjg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0573A38F0B3C823D2A2C7175B9D315EA2A1ECD7C6A74764C,媒体,True
-7b723fe69657,富满微：LED显示控制及驱动类芯片营收大增145%,显示与面板,LEDinside 中文,2026-07-30,2026-08-06T11:56:02.182919+00:00,63.8,https://www.ledinside.cn/fsa/20260730-62227.html,行业媒体,True
-8dcf1494e51b,TrendForce：电视面板需求8、9月回温，面板厂7月让步降价,显示与面板,LEDinside 中文,2026-07-21,2026-08-06T11:56:02.182919+00:00,63.8,https://www.ledinside.cn/research/20260721-62162.html,行业媒体,True
-270e866f3391,嘉宾观点 | 中国联通胡雅坤解析智算中心光互联技术以及实践应用,光通信,CIOE 中国光博会,2026-07-30,2026-08-06T11:56:02.182919+00:00,63.8,https://cioe.cn/news/2929_info.html,行业媒体,True
-bfa010775e3f,[News] Access Fixtures Delivers Dark Sky Friendly Tennis Court Lighting at Corinthian Yacht Club,其他,LEDinside 英文,2026-08-04T23:11:59+00:00,2026-08-06T11:56:02.182919+00:00,63.7,//www.ledinside.com/news/2026/8/2026_08_05_02,行业媒体,True
-a9b310b949d5,[News] Innoviz Technologies to Develop LiDAR-Based Perception Stack for Highway Driving with Top 10 Global Automotive OEM,光传感与激光雷达,LEDinside 英文,2026-08-04T23:08:36+00:00,2026-08-06T11:56:02.182919+00:00,63.7,//www.ledinside.com/news/2026/8/2026_08_05_01,行业媒体,True
-a968f46f4b75,"半导体显示面板赛道冲出一家IPO,依赖大客户京东方,来自重庆",显示与面板,搜狗微信·光电行业 · 格隆汇新股,2026-08-04T10:24:03+00:00,2026-08-06T11:56:02.182919+00:00,63.3,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6b4nEldGT8G6RX8rmP5DIQclqXa8Fplpd9NFqS7ixY2PFZiWxo0xceklg0ITaOOugch3BQH73SASPiE0ny8pCS44ogKP2O_NXAir3NwTIG_XA7ZuTFUbBqZWe4_p11sYKMdP2yto6tAd_AZTja-_1GIY0LcCytn9iDHsVRDn9gNjPOV1HVTIffGa9JrxG1tbHHZ2vjir6tZAFFH6In5Ei3zg..&amp;type=2&amp;query=%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%98%BE%E7%A4%BA&amp;token=05737F070B3C823D2A2C7175B9D315EA2A1ECD7C6A747644,媒体,True
-cdd6ad4d20fc,[News] Rokid Glasses Launches in Canada in Partnership with Ming's Optical,其他,LEDinside 英文,2026-08-04T00:13:55+00:00,2026-08-06T11:56:02.182919+00:00,62.9,//www.ledinside.com/news/2026/8/2026_08_04_04,行业媒体,True
-055ad965480b,[News] LG Launches New Award-Winning UltraGear™ evo 5K2K Gaming Monitor Line-up,其他,LEDinside 英文,2026-08-04T00:10:15+00:00,2026-08-06T11:56:02.182919+00:00,62.9,//www.ledinside.com/news/2026/8/2026_08_04_03,行业媒体,True
-a1836a73373e,[News] Absen Launches PL Plus V2X Series for Indoor Rental Applications,其他,LEDinside 英文,2026-08-04T00:00:58+00:00,2026-08-06T11:56:02.182919+00:00,62.9,//www.ledinside.com/products/2026/8/2026_08_04_01,行业媒体,True
-722b58185bf9,会议观点 | 产业链协同破局，助力OCS从“可用”迈向“规模部署”新阶段,光通信,CIOE 中国光博会,2026-07-29,2026-08-06T11:56:02.182919+00:00,62.9,https://cioe.cn/news/2928_info.html,行业媒体,True
-312b1b479e1e,[News] One LED Produces Four Stable Colors at Room Temperature,显示与面板,LEDinside 英文,2026-08-02T23:40:34+00:00,2026-08-06T11:56:02.182919+00:00,62.1,//www.ledinside.com/news/2026/8/2026_08_03_04,行业媒体,True
-61f135cf1830,英伟达、博通CPO交换机小量出货，光引擎良率、先进封装产能成关键,光通信,LEDinside 中文,2026-07-28,2026-08-06T11:56:02.182919+00:00,62.1,https://www.ledinside.cn/research/20260728-62203.html,行业媒体,True
-6b78a24e4cf3,"Air-stable, ultrathin superconductors developed for more scalable quantum devices",科研进展,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,60.0,https://phys.org/news/2026-08-air-stable-ultrathin-superconductors-scalable.html,科研,True
-1c85024b3a52,New semiconductor maser operates continuously above room temperature,光电芯片与半导体,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,60.0,https://phys.org/news/2026-08-semiconductor-maser-room-temperature.html,科研,True
-c62872fd20be,"Ultrafast X-ray flashes partially reverse the damage they cause, enabling brighter, more accurate imaging",光学元件与成像,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,60.0,https://phys.org/news/2026-08-ultrafast-ray-partially-reverse-enabling.html,科研,True
-4005ae721c7e,国际海缆韧性咨询机构召开全体会议,光通信,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,60.0,https://www.c114.com.cn/news/550/a1313802.html,行业媒体,True
-1d38c77d1d80,工信部、国资委启动2026年度人形机器人与具身智能实景实训专项行动,其他,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,60.0,https://www.c114.com.cn/news/550/a1311872.html,行业媒体,True
-3254a8921095,工信部：开展6G创新发展部省协同试点专项行动,通信与算力,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,60.0,https://www.c114.com.cn/news/550/a1311673.html,行业媒体,True
-e01b3a192ae9,工信部批准5G消息互通标准,产业与资本,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,60.0,https://www.c114.com.cn/news/550/a1306799.html,行业媒体,True
-e29613412022,四部门：推动科技保险高质量发展 在人工智能、集成电路、量子科技等领域开发专属产品,科研进展,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,60.0,https://www.c114.com.cn/news/550/a1306716.html,行业媒体,True
-f063fbb430d5,工信部许可两款L3级自动驾驶车型产品,其他,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,60.0,https://www.c114.com.cn/news/550/a1302301.html,行业媒体,True
-270f5213ae90,工信部召开务虚会 研究谋划“十五五”及开局之年工作：以综合整治“内卷式”竞争为重点,科研进展,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,60.0,https://www.c114.com.cn/news/550/a1301811.html,行业媒体,True
-a9c88baa97ba,工信部：加快制造业中试建设 布局AI、量子科技等关键领域,科研进展,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,60.0,https://www.c114.com.cn/news/550/a1300198.html,行业媒体,True
-0dace465f295,工信部：将组织开展为期两年的卫星物联网业务商用试验,其他,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,60.0,https://www.c114.com.cn/news/550/a1298358.html,行业媒体,True
-95b98bb55c52,两部门发布云计算新规：到2027年新制定相关标准30项以上,产业与资本,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,60.0,https://www.c114.com.cn/news/550/a1298271.html,行业媒体,True
-74628b26cbbe,深圳市出台实施细则 扶持低空经济发展,其他,C114中国通信网_监管,,2026-08-06T11:56:02.182919+00:00,60.0,https://www.c114.com.cn/news/550/a1298153.html,行业媒体,True
-5137764e92d9,前沿｜全波硫系模压红外镜头：重塑红外成像成本与性能核心力量,光学元件与成像,CIOE 中国光博会,2026-07-23,2026-08-06T11:56:02.182919+00:00,57.9,https://cioe.cn/news/2921_info.html,行业媒体,False
-0f4dc2038cfc,光电前沿 | 从OCS到Micro LED CPO：光学与CIS的新机遇,光通信,CIOE 中国光博会,2026-07-14,2026-08-06T11:56:02.182919+00:00,55.4,https://cioe.cn/news/2918_info.html,行业媒体,False
-baca47208e6f,Miniaturized laser technology paves the way for fundamental physics experiments in space,激光,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,55.0,https://phys.org/news/2026-08-miniaturized-laser-technology-paves-fundamental.html,科研,False
-bfa7ba3de6fa,"'Spooky' particles transit DC suburbs, a step toward a quantum network",科研进展,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,55.0,https://phys.org/news/2026-08-spooky-particles-transit-dc-suburbs.html,科研,False
-45faaaf9b45e,New quantum encryption method prevents ciphertext from being cloned,科研进展,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,55.0,https://phys.org/news/2026-08-quantum-encryption-method-ciphertext-cloned.html,科研,False
-5ea56ea1ee8a,Key principle to boost efficiency of artificial photosynthesis and next-generation semiconductors,科研进展,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,55.0,https://phys.org/news/2026-08-key-principle-boost-efficiency-artificial.html,科研,False
-ba7dd63ce9e0,Diamond's newfound defect may tame vibrations that hinder quantum light sources,科研进展,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,55.0,https://phys.org/news/2026-07-diamond-newfound-defect-vibrations-hinder.html,科研,False
-5c6d65cb452b,Two independent studies push semiconductor qubits towards practical scales,光电芯片与半导体,Phys.org 物理新闻,,2026-08-06T11:56:02.182919+00:00,55.0,https://phys.org/news/2026-07-independent-semiconductor-qubits-scales.html,科研,False
-7fa3401c33fe,行业资讯 | 光芯片，集体扩产,光通信,CIOE 中国光博会,2026-07-13,2026-08-06T11:56:02.182919+00:00,54.6,https://cioe.cn/news/2917_info.html,行业媒体,False
-1bcc8a21142c,前沿 | 利用AI打通超构表面全研发链路，纳境科技推出MetaODA超构表面AI一体化智算平台,光通信,CIOE 中国光博会,2026-07-17,2026-08-06T11:56:02.182919+00:00,52.9,https://cioe.cn/news/2919_info.html,行业媒体,False
-59238b0367ca,TrendForce：预估7月电视面板价格承压，显示器与笔电面板需求或减弱,显示与面板,LEDinside 中文,2026-07-07,2026-08-06T11:56:02.182919+00:00,52.5,https://www.ledinside.cn/research/20260707-62053.html,行业媒体,False
-97138dbe3744,展商回顾 | 同济大学精密光学工程技术研究所精彩亮相，前沿光学科技成果备受瞩目,光学元件与成像,CIOE 中国光博会,2025-09-19,2026-08-06T11:56:02.182919+00:00,50.0,https://cioe.cn/news/2665_info.html,行业媒体,False
-a38de14953cd,展商回顾 | 复享光学携新品膜厚测量仪亮相，引领光谱技术发展,光学元件与成像,CIOE 中国光博会,2025-09-18,2026-08-06T11:56:02.182919+00:00,50.0,https://cioe.cn/news/2663_info.html,行业媒体,False
-99770082ca9b,赵乐际主持召开十四届全国人大常委会...,其他,中国政府采购网,2026-06-17,2026-08-06T11:56:02.182919+00:00,47.5,https://www.ccgp.gov.cn/news/202606/t20260617_26763914.htm,媒体,False
-149cdc01cc0f,财政部2026年度立法工作安排,其他,中国政府采购网,2026-06-08,2026-08-06T11:56:02.182919+00:00,47.5,https://www.ccgp.gov.cn/news/202606/t20260608_26702139.htm,媒体,False
-b54b6f2c26bb,全国人大常委会2026年度立法工作计划,其他,中国政府采购网,2026-05-12,2026-08-06T11:56:02.182919+00:00,47.5,https://www.ccgp.gov.cn/news/202605/t20260512_26549039.htm,媒体,False
-595b91e23ba3,财政部公布2026年政府采购代理机构检查名单,其他,中国政府采购网,2026-07-15,2026-08-06T11:56:02.182919+00:00,46.3,https://www.ccgp.gov.cn/news/202607/t20260715_26935390.htm,媒体,False
-4f714797a13e,晶湛半导体MicroLED光通信技术取得新突破,光通信,LEDinside 中文,2026-06-17,2026-08-06T11:56:02.182919+00:00,45.0,https://www.ledinside.cn/knowledge/20260617-61902.html,行业媒体,False
-2021123e58a5,山东大学实现单片集成全GaN有源驱动MicroLED显示模块突破,显示与面板,LEDinside 中文,2026-05-09,2026-08-06T11:56:02.182919+00:00,45.0,https://www.ledinside.cn/knowledge/20260509-61624.html,行业媒体,False
-b1db9ff36370,韩国团队研发出下一代纯绿色OLED材料,显示与面板,LEDinside 中文,2026-04-20,2026-08-06T11:56:02.182919+00:00,45.0,https://www.ledinside.cn/knowledge/20260420-61494.html,行业媒体,False
-2e37d127b1c1,联发科联合微软研究院等研发主动式MicroLED光缆,光通信,LEDinside 中文,2026-03-18,2026-08-06T11:56:02.182919+00:00,45.0,https://www.ledinside.cn/knowledge/20260318-61283.html,行业媒体,False
-0017e7f08fbd,应用案例 | 800G光模块订单激增，硅光芯片/FA耦合如何实现纳米级品质管控,光通信,CIOE 中国光博会,2026-03-26,2026-08-06T11:56:02.182919+00:00,45.0,https://cioe.cn/news/2813_info.html,行业媒体,False
-695712cad9ba,前沿 | 大尺寸HUD自由曲面反射镜的应用与挑战,其他,CIOE 中国光博会,2025-04-17,2026-08-06T11:56:02.182919+00:00,45.0,https://cioe.cn/news/2448_info.html,行业媒体,False
-b98a94015b1b,《政府采购法》修订草案公布 即日起面...,其他,中国政府采购网,2026-06-26,2026-08-06T11:56:02.182919+00:00,45.0,https://www.ccgp.gov.cn/news/202606/t20260626_26825551.htm,媒体,False
-c3d434cb25ec,人大常委会丨我国拟修改政府采购法 系...,其他,中国政府采购网,2026-06-24,2026-08-06T11:56:02.182919+00:00,45.0,https://www.ccgp.gov.cn/news/202606/t20260624_26803448.htm,媒体,False
-98e130caae12,财政部 公安部 市场监管总局关于开展2...,其他,中国政府采购网,2026-06-12,2026-08-06T11:56:02.182919+00:00,45.0,https://www.ccgp.gov.cn/news/202606/t20260612_26740227.htm,媒体,False
-d7bebc6e6897,财政部 市场监管总局关于推进地方政府...,其他,中国政府采购网,2026-06-01,2026-08-06T11:56:02.182919+00:00,45.0,https://www.ccgp.gov.cn/news/202606/t20260601_26660667.htm,媒体,False
-67d2fa6b8c4c,财政部：在政府采购活动中对46家美国...,其他,中国政府采购网,2026-06-22,2026-08-06T11:56:02.182919+00:00,40.0,https://www.ccgp.gov.cn/news/202606/t20260622_26785066.htm,媒体,False
-474b4c4676d7,财政部办公厅关于印发《政府采购电子...,其他,中国政府采购网,2026-06-01,2026-08-06T11:56:02.182919+00:00,40.0,https://www.ccgp.gov.cn/news/202606/t20260601_26660628.htm,媒体,False
-5dc79f3ffe2e,李强主持召开国务院常务会议 研究推进...,科研进展,中国政府采购网,2026-05-22,2026-08-06T11:56:02.182919+00:00,40.0,https://www.ccgp.gov.cn/news/202605/t20260522_26610688.htm,媒体,False
-841eacfba609,中办、国办出台节能降碳意见 深入实施...,其他,中国政府采购网,2026-04-24,2026-08-06T11:56:02.182919+00:00,40.0,https://www.ccgp.gov.cn/news/202604/t20260424_26453931.htm,媒体,False
-827b897735d9,全国政府采购工作会议在北京召开,其他,中国政府采购网,2026-04-13,2026-08-06T11:56:02.182919+00:00,40.0,https://www.ccgp.gov.cn/news/202604/t20260413_26393835.htm,媒体,False
+efff43da2c0f,昇腾超节点闪耀WAIC 2026：架构、商用、生态的三重跨越,产业与资本,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,95.0,https://www.c114.com.cn/news/126/a1314417.html,行业媒体,True
+b4e9dcfb1f24,WAIC 2026 | 中兴通讯全栈智算生态论坛，重磅发布OEX超节点新品,光通信,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,95.0,https://www.c114.com.cn/news/127/a1314380.html,行业媒体,True
+f59871847f2b,华为携手中国电信亮相2026 WAIC，共筑电信级Agentic运维运营新范式,产业与资本,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,95.0,https://www.c114.com.cn/news/126/a1314371.html,行业媒体,True
+d0ed81cd2eb9,“与时代 共昇腾” 昇腾深入千行万业 以算力驱动智能未来,通信与算力,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,95.0,https://www.c114.com.cn/news/126/a1314367.html,行业媒体,True
+ab211c826bb4,WAIC 2026观察｜从镇馆之宝到全球首款，中兴通讯全栈AI再进阶,产业与资本,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,95.0,https://www.c114.com.cn/news/127/a1314339.html,行业媒体,True
+d061b0f524e6,中兴通讯星系列人形机器人及具身智能解决方案亮相 WAIC 2026,产业与资本,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,95.0,https://www.c114.com.cn/news/127/a1314330.html,行业媒体,True
+76ca3c2763c6,中兴通讯发布新支点AIOS：构筑智能体时代操作系统，驱动产业智能化新引擎,产业与资本,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,95.0,https://www.c114.com.cn/news/127/a1314305.html,行业媒体,True
+3d9dfb3bcf28,中兴通讯亮相 2026 AI for Good 全球峰会 以坚实基础设施筑基，以开放生态致远,产业与资本,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,95.0,https://www.c114.com.cn/news/127/a1314302.html,行业媒体,True
+92f4adcf2b14,华为计算模组首次亮相WAIC 2026世界人工智能大会,产业与资本,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,95.0,https://www.c114.com.cn/news/126/a1314293.html,行业媒体,True
+9efeb70d9e5f,中兴通讯携手中国移动及央企伙伴共筑“焕新社区”2.0版，赋能AI新质生产力发展,通信与算力,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,95.0,https://www.c114.com.cn/news/127/a1314225.html,行业媒体,True
+b82c1bf88c90,中兴OEX超节点发布：超节点先锋，打造TCO最优的AI工厂,产业与资本,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,95.0,https://www.c114.com.cn/news/127/a1314208.html,行业媒体,True
+4b461628c591,中兴通讯深度参与中国电信2026 WAIC原生云网运营开发者大会，共绘智能时代新蓝图,产业与资本,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,95.0,https://www.c114.com.cn/news/127/a1314200.html,行业媒体,True
+92293ea8ffe6,自动驾驶激光雷达应如何进行标定？,激光,OFweek 激光频道,2026-04,2026-08-07T08:28:52.679015+00:00,92.5,https://laser.ofweek.com/2026-04/ART-240002-8140-30685436.html,行业媒体,True
+0225c3ea7d1f,"Methods, trade-offs and opportunities in high-speed optical microscopy for neural voltage imaging",光学元件与成像,Nature Photonics,2026-08-03T00:00:00+00:00,2026-08-07T08:28:52.679015+00:00,91.4,https://www.nature.com/articles/s41566-026-01965-5,科研,True
+90eb0e354b3f,Overcoming Scattering in High-Cell-Density Tomographic Volumetric Bioprinting Using Computational Light Optimization,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2608.05347,科研,True
+a94ec901957d,High Spectral Energy Density All-Fiber Nanosecond Pulsed 1.7 $\mu$m Light Source for Photoacoustic Microscopy,光通信,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2608.05384,科研,True
+1f0b63646335,Inverse mask design for interference lithography using automatic differentiable wave propagation,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2608.05488,科研,True
+53e1165580d0,Transverse quantum-state characterization of programmable electron optics,光学元件与成像,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2608.05749,科研,True
+ed650d61344f,Twist-angle Control of Nonlinear Interference in a ZnO Nanowire/Monolayer WSe$_2$ Hybrid Structure,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2608.06010,科研,True
+36b1f3169651,Pulse-Duration Control of Subcycle Multiband Electron Dynamics Extends the High-Harmonic Cutoff in a Light-Driven Insulator,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2608.06129,科研,True
+01ba087620bd,Differentiable eigendecomposition-free rigorous coupled-wave analysis for general photonic structures,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2608.06185,科研,True
+5f3856ca1d49,Comparative analysis of fiber Bragg grating filter losses inscribed by continuous wave UV and femtosecond-IR lasers for astrophotonics,激光,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2608.05349,科研,True
+cec4d0e44438,"Generating two-mechanical mode entangled cat states, and steady-state entanglement, in cavity optomechanics in the presence of dissipation",科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2608.05503,科研,True
+e9a44eb1da74,Net electron spin rotation in a plane-wave pulse: Holonomy set by the anomalous magnetic moment,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2608.05698,科研,True
+f0b032c680f4,Numerical Model of a Multiple-Input-Multiple-Output Distributed Acoustic Sensing System with Joint Phase and Birefringence Estimation,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2608.06198,科研,True
+0512e5e03092,Coherent Control of Wave Scattering via Minimal-Parameter Tuning of Complex Spectra,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2510.13035,科研,True
+da53aa91226a,Integrated polarization-entangled photon source for wavelength-multiplexed quantum networks,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2511.22680,科研,True
+3076793f6e24,Quantitative infrared nanoscopy: Probe-cavity eigenmodes and nano-gap polaritons for strongly coupled nanoscale optics,光学元件与成像,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,89.8,https://arxiv.org/abs/2607.23950,科研,True
+b758120b1c26,Silencing pain with infrared light,光学元件与成像,Nature Photonics,2026-07-31T00:00:00+00:00,2026-08-07T08:28:52.679015+00:00,88.9,https://www.nature.com/articles/s41566-026-01970-8,科研,True
+79ae363a2739,瑞德智能与谷东智能战略合作稳步推进，智能光学生产基地计划下半年试产！,光学元件与成像,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,82.5,https://optics.ofweek.com/2026-08/ART-8100-2500-30697224.html,行业媒体,True
+35ed1a3e029c,"雨雾天,激光雷达能看得见吗?",激光,搜狗微信·光电行业 · 新注册公众号,2026-08-07T08:22:12+00:00,2026-08-07T08:28:52.679015+00:00,82.5,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bhvkMm1JGAlbFk5NZmDW-mVqXa8Fplpd9IftKDbz4dyMe6yxLNXQWhmRbhS8grYlnPqnbUB7vV5rCgts_Jgd4R8Tl2anBE6ipRcA-_BtZLVUSLhaCH4TXn2eqg4EaFCql4GXzLEW8_abzmSk3YLGSC1UDK_vZxXa-deO-jHMNE_7b7LkS0sCc-tTAYXm0N1gGO8nJupH1ZZl5Nu7CnoSqqg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0C4DD43FFAFFC96B52550A229AAD182A53C7649E6A75973E,媒体,True
+b760ad006d3d,"激光雷达老大是中国的,为啥卖得越多越亏?",激光,搜狗微信·光电行业 · 花画科技11,2026-08-07T08:11:03+00:00,2026-08-07T08:28:52.679015+00:00,82.5,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bhvkMm1JGAlbFk5NZmDW-mVqXa8Fplpd9wjMZ8Q2Y-gn3_lglg9iRJtcn9zk6jTx4wBAOjeWOSEwnMm6hrvVeBe887j4IE4XYI-2OqtxAEN66irntpvBcFbkK3aaLMukF5v2Hv4wao7Av6AlAAMHwe0dR4sF_7ft5UOdbtW-knxG6M-NMCMWBN89e71peMch-E7-Dy9hcaQkCYioxHkzTmA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0C4DD43FFAFFC96B52550A229AAD182A53C7649E6A75973E,媒体,True
+93ea81da37ad,"卖得不赖的国产SUV又出新款,带激光雷达还更运动,现款才十万出头,新款定价多少?",激光,搜狗微信·光电行业 · 汪亚美,2026-08-07T07:26:08+00:00,2026-08-07T08:28:52.679015+00:00,82.5,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bhvkMm1JGAlbFk5NZmDW-mVqXa8Fplpd9Q0EkjVXoCxYRBYHx5f-OrVGMhsknlePke2iFiPcVF9BBUMWUWulOg-9WYBjiaLx-Hj3-aS1tLlt6SCmsQYWjJw7E9IWKGUyjfdwGBvoFMhJwaz7OV-2eRCwmuE-qJprb2m2kaNUK0D0AccOy5YzvqekWQk5MJv1oaE7NqRVkkUh535pjGOOjYg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0C4DD43FFAFFC96B52550A229AAD182A53C7649E6A75973E,媒体,True
+4d31a407b016,"新增激光雷达/自适应悬架,全新深蓝S05售11.59万起~",激光,搜狗微信·光电行业 · 广州限行查询,2026-08-07T02:14:39+00:00,2026-08-07T08:28:52.679015+00:00,82.3,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bhvkMm1JGAlbFk5NZmDW-mVqXa8Fplpd9hOuiwGXBnoK21k2hZPSOflV3ne-tB1tr2bwf-xZl2dfF-xne2DQbx5E_Wbmh5NXOY3IY1RbppK9iubqnT_-OMZfEQnxm5DbjOl8-RCpt4uWg8uJ4dDJ4qzry8IxNC9vm0vBtYbm4bLq5ssBKygzxlcRA1bEaZQo86ZYe7dGF_jZOJBjQH7pCxQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0C4DD43FFAFFC96B52550A229AAD182A53C7649E6A75973E,媒体,True
+1f59ac7abaad,激光雷达+年轻化造型!日产官宣:新车正式亮相,激光,搜狗微信·光电行业 · 高科技爱好者,2026-08-06T15:02:21+00:00,2026-08-07T08:28:52.679015+00:00,81.9,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bhvkMm1JGAlbFk5NZmDW-mVqXa8Fplpd9tYGmk38e-coym3gHg6BKHhEeem3DRREQifhaS9XB1NZdUGeveYrl3wHTdZgz-Dd9HJS6_RbM4ENmcSVeZcwg-kZSHNwJIwLwsARRy5DAKT0c29k1aCfixcee7oO8eCB8ZVvRQ_ZSdBbuxIKb_a0dTBGbvF3OAhkRs9ymqKBdyEtCy6umSSPEsg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0C4DD43FFAFFC96B52550A229AAD182A53C7649E6A75973E,媒体,True
+b8efe8bc39e9,聊聊市面上带激光雷达的车,激光,搜狗微信·光电行业 · 小七唠车,2026-08-06T09:31:12+00:00,2026-08-07T08:28:52.679015+00:00,81.7,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bhvkMm1JGAlbFk5NZmDW-mVqXa8Fplpd9I9May0tC9z4QOQGFwtW5ExhEBunJwJs54dYCAM_RKCdmjGi480XTaS5Q9CuFjXXgNQsg4QbBvELYp2ObX-pfTz21tx-f4qNwuhqI_QdvUUwWzTPo1YdNeDgTTOcQ6v0FeJZlFerFnuujYh2fRPoN4852eILK138uPskmS0kIVHL1AfaFW2DefQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0C4DD43FFAFFC96B52550A229AAD182A53C7649E6A75973E,媒体,True
+baca47208e6f,Miniaturized laser technology paves the way for fundamental physics experiments in space,激光,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,80.0,https://phys.org/news/2026-08-miniaturized-laser-technology-paves-fundamental.html,科研,True
+ea37e76ab382,Quantum fluid reveals hidden states that can be switched with a magnetic field,科研进展,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,80.0,https://phys.org/news/2026-08-quantum-fluid-reveals-hidden-states.html,科研,True
+ca23a042ad78,【深度】超窄线宽激光器应用领域广泛 我国市场国产化进程持续提速,激光,OFweek 激光频道,2026-08,2026-08-07T08:28:52.679015+00:00,80.0,https://laser.ofweek.com/2026-08/ART-240002-8420-30696872.html,行业媒体,True
+8e7b421c3720,净利骤降79.40%！首份激光企业半年报出炉,激光,OFweek 激光频道,2026-07,2026-08-07T08:28:52.679015+00:00,80.0,https://laser.ofweek.com/2026-07/ART-8100-2400-30696923.html,行业媒体,True
+d3a80e23edb0,【洞察】企业研发实力持续增强 我国红外皮秒激光器市场朝着高端化方向发展,激光,OFweek 激光频道,2026-04,2026-08-07T08:28:52.679015+00:00,80.0,https://laser.ofweek.com/2026-04/ART-240015-8330-30685985.html,行业媒体,True
+f99e352fcd48,主业净利暴增455%！大族激光半年预报“炸裂”,激光,OFweek 激光频道,2026-07,2026-08-07T08:28:52.679015+00:00,80.0,https://laser.ofweek.com/2026-07/ART-12000-2400-30694426.html,行业媒体,True
+28567e7047a1,李乐成到四川省通信管理局调研 强调深入学习贯彻习近平党建思想 推动信息通信业高质量发展,产业与资本,工信部要闻,,2026-08-07T08:28:52.679015+00:00,80.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_097e130e9a094e0580c6516bd837a6b9.html,媒体,True
+9b99375e195e,广东通信管理局召开全省通信行业半年工作会议,通信与算力,工信部要闻,,2026-08-07T08:28:52.679015+00:00,80.0,https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0d59efe1823847688f0ecbfb51190493.html,媒体,True
+7ce65561eeeb,四川通信管理局传达学习贯彻全国工业和信息化主管部门负责同志座谈会精神,通信与算力,工信部要闻,,2026-08-07T08:28:52.679015+00:00,80.0,https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_7130f2fe57034837b218500073caf39f.html,媒体,True
+dd8185e951fb,广西通信管理局传达学习2026年全国工业和信息化主管部门负责同志座谈会精神,通信与算力,工信部要闻,,2026-08-07T08:28:52.679015+00:00,80.0,https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0af43c7739e84b339646da20d1587835.html,媒体,True
+c3f5f1167700,铌奥光电完成数亿融资，推进薄膜铌酸锂光通信商用,光通信,LEDinside 中文,2026-08-07,2026-08-07T08:28:52.679015+00:00,77.2,https://www.ledinside.cn/news/20260807-62292.html,行业媒体,True
+20c0cac65642,谷东智能完成数亿元融资，加码光波导研发及产业化,光学元件与成像,LEDinside 中文,2026-08-07,2026-08-07T08:28:52.679015+00:00,77.2,https://www.ledinside.cn/news/20260807-62288.html,行业媒体,True
+e8fae3e45a75,TrendForce：需求回温，8月电视面板价格跌幅预计收窄,显示与面板,LEDinside 中文,2026-08-06,2026-08-07T08:28:52.679015+00:00,76.4,https://www.ledinside.cn/research/20260806-62282.html,行业媒体,True
+2d1ee523b064,华为发布五大无线技术创新方向与实践，构建Agentverse基座,产业与资本,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,75.0,https://www.c114.com.cn/news/126/a1314319.html,行业媒体,True
+a6e05e78a8de,华为提无线技术五大创新方向：筑牢Agentverse底座，将智能分发至世界每个角落,其他,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,75.0,https://www.c114.com.cn/news/126/a1314291.html,行业媒体,True
+6ad3f26ed0d6,工信部部署2026年信息通信业安全生产与网络运行安全工作,通信与算力,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,75.0,https://www.c114.com.cn/news/550/a1307461.html,行业媒体,True
+6876e7b26133,工信部召开2026年信息通信业行风建设暨纠风工作会议,通信与算力,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,75.0,https://www.c114.com.cn/news/550/a1306739.html,行业媒体,True
+833aa81bc5e4,挂牌即辅导！富兰光学借力资本加速精密光学国产替代,光学元件与成像,OFweek 光电频道,2026-07,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-07/ART-8100-2500-30696680.html,行业媒体,True
+e1ad889b0877,被截胡后反手收购！索尼将腾龙纳为全资子公司,产业与资本,OFweek 光电频道,2026-07,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-07/ART-8100-2500-30696681.html,行业媒体,True
+5bf80b96e27d,半年报 | 2026上半年中国运动相机市场规模近翻倍，大疆和影石极致双寡头垄断；全年电商销额预测破200亿元,光学元件与成像,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-250003-8420-30697528.html,行业媒体,True
+fd4df38219e3,CCD逆袭：被手机淘汰的相机，如今炒成硬通货,光学元件与成像,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-250003-8420-30697513.html,行业媒体,True
+bab724aedd9d,加速半导体光学精密加工布局！东田微落子无锡,光电芯片与半导体,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30697371.html,行业媒体,True
+895e540f16e6,2亿押注全彩光波导，广纳四维卡位2027！,光学元件与成像,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30697372.html,行业媒体,True
+8b27e161a0fb,立景创新再闯港股IPO，高增长下的“果链依赖症”与独立性质疑,产业与资本,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-250003-12003-30697342.html,行业媒体,True
+4a2b3162ac34,“车灯一哥”星宇股份再闯港股，前常州女首富左手分红，右手拟募资,其他,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-250003-12003-30697269.html,行业媒体,True
+137745440ed1,不靠家族接班，这家光学龙头给民企打了个样,光学元件与成像,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30697223.html,行业媒体,True
+e7afb9a61ea4,女首富又要上市！估值 225 亿，带弟弟干出“光学帝国”,光学元件与成像,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-250003-12008-30697160.html,行业媒体,True
+39c344b3ce74,NASA能找到外星生命？英国押注300万英镑，却先要遮住恒星,其他,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-250003-8110-30697144.html,行业媒体,True
+8e66706d0023,一个月连落两子！这家光学巨头正在悄悄换赛道,光学元件与成像,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30697063.html,行业媒体,True
+3b592c80e914,强强联合！库博光学与爱博医疗达成战略合作,光学元件与成像,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30697059.html,行业媒体,True
+95187835f2f5,三年营收翻倍！这家光学企业再冲港股,光学元件与成像,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30696921.html,行业媒体,True
+db7a5956618a,江苏先导微电子首台12寸晶圆级光学磁控溅射设备正式交付！,光电芯片与半导体,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-8100-2500-30696920.html,行业媒体,True
+a3fb28a2a47c,【洞察】产业链上下游持续利好 全光谱椭偏仪（TFE）行业发展空间有望扩展,产业与资本,OFweek 光电频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-08/ART-250002-8420-30696873.html,行业媒体,True
+ad6baf3c84f3,智驾“小蓝灯”将被禁用 夜间眩光刺眼还招加塞：官方出手,其他,OFweek 光电频道,2026-07,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-07/ART-250003-8110-30696444.html,行业媒体,True
+ddbf3fc96446,拐点已至，云台相机的下半场拼什么？,光学元件与成像,OFweek 光电频道,2026-07,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-07/ART-250003-8420-30696435.html,行业媒体,True
+590044289ee3,高通内部消息！VR设备的“低价梦”悬了,显示与面板,OFweek 光电频道,2026-07,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-07/ART-250006-8110-30696276.html,行业媒体,True
+bb1b776d3ce1,"增长失速, 强敌入场, 影石的云台相机新战事",光学元件与成像,OFweek 光电频道,2026-07,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-07/ART-250003-12003-30696172.html,行业媒体,True
+a2722c624c95,139家机构刚调研，罗博特科就抛出1.29亿大单！,产业与资本,OFweek 光电频道,2026-07,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-07/ART-8100-2500-30696164.html,行业媒体,True
+882ada6606ee,获2.5亿元战略投资！艾舜光电为什么能打动光学龙头？,光学元件与成像,OFweek 光电频道,2026-06,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-06/ART-8100-2500-30689534.html,行业媒体,True
+c9e3c4ab56ff,15亿被套6年？欧菲光重组生死局,其他,OFweek 光电频道,2026-05,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-05/ART-8100-2500-30688151.html,行业媒体,True
+5c69abff182b,打响产能战！英伟达32亿美元锁定康宁,产业与资本,OFweek 光电频道,2026-05,2026-08-07T08:28:52.679015+00:00,75.0,https://optics.ofweek.com/2026-05/ART-8100-2500-30687199.html,行业媒体,True
+76b6cb50406a,最新议程出炉！2026中国激光产业高质量发展峰会即将开启,激光,OFweek 激光频道,2026-07,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-07/ART-8100-2400-30694578.html,行业媒体,True
+eefe86ae5e7a,家电龙头，进军工业激光,激光,OFweek 激光频道,2026-06,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-06/ART-8100-2400-30692859.html,行业媒体,True
+82a7c8844597,频准激光大额理财仍募资补流，毛利率两倍于同行，近千万买专利,激光,OFweek 激光频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-08/ART-240002-12003-30696992.html,行业媒体,True
+f3e9b4d245f8,把激光做成了赚钱生意，禾塞科技被低估了吗？,激光,OFweek 激光频道,2026-08,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-08/ART-240001-12003-30696853.html,行业媒体,True
+14f0bb884649,一年卖出162万台后，禾赛开始挑战激光雷达的下一阶段,激光,OFweek 激光频道,2026-07,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-07/ART-240001-12003-30696472.html,行业媒体,True
+e2e702449228,1.2亿元天价官司背后：高端制造企业扩张与治理失衡的行业警示,其他,OFweek 激光频道,2026-07,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-07/ART-240001-12003-30695841.html,行业媒体,True
+e5b31a1c24f2,天狼星激光器问世 解决锂电加工难题,激光,OFweek 激光频道,2022-05,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2022-05/ART-8110-2400-30560775.html,行业媒体,True
+3dc0b685ed35,英飞凌卫星雷达ART架构，能去掉MCU核吗？,光传感与激光雷达,OFweek 激光频道,2026-06,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-06/ART-240001-8330-30692048.html,行业媒体,True
+3dac2b6e7340,创新突破｜光纤可插拔式1470nm光源：重塑精准激光除草新范式,激光,OFweek 激光频道,2026-06,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-06/ART-8200-2400-30689724.html,行业媒体,True
+8c2f50ef6fe4,打造“冷静”的 AI 算力中心：激光焊接检测助力液冷散热高质量制造,激光,OFweek 激光频道,2026-06,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-06/ART-240015-8230-30689718.html,行业媒体,True
+b4272abe7e7a,特域CWUP-05THS高精度小型冷水机：这么小，那么稳！,其他,OFweek 激光频道,2026-06,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-06/ART-8200-2400-30689326.html,行业媒体,True
+e486dd22bc68,迅镭激光正式参评“维科杯·OFweek 2026年度激光行业最佳激光加工装备技术创新奖”,激光,OFweek 激光频道,2026-05,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-05/ART-8200-2400-30687063.html,行业媒体,True
+d705c27df698,拥有400多家光子学企业，加拿大如何“做大做强”生态圈？,其他,OFweek 激光频道,2024-03,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2024-03/ART-8500-2400-30628190.html,行业媒体,True
+84671bd90137,乘风破“卷”！2023年激光国货出海按下“加速键”,激光,OFweek 激光频道,2024-01,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2024-01/ART-8500-2400-30621831.html,行业媒体,True
+82720c0f04d3,深度观察：超快激光在材料科学中的应用,激光,OFweek 激光频道,2023-11,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2023-11/ART-8500-2400-30617123.html,行业媒体,True
+14dbf17507ed,2023年有哪些值得关注的激光打标趋势与创新？,激光,OFweek 激光频道,2023-11,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2023-11/ART-8500-2400-30616901.html,行业媒体,True
+1badb6fdaeb6,【聚焦】激光刻痕机在取向硅钢处理领域应用潜力大 广州翔声智能科技为国内领先企业,激光,OFweek 激光频道,2026-07,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-07/ART-240001-8420-30694352.html,行业媒体,True
+ab263165d1dc,帝尔激光同时搞三件事，你看懂了吗？,激光,OFweek 激光频道,2026-07,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-07/ART-240001-8420-30693409.html,行业媒体,True
+5adb6cde5335,频准激光科创板IPO获注册：年入4.18亿的量子激光“小巨人”,激光,OFweek 激光频道,2026-06,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-06/ART-240002-12003-30691931.html,行业媒体,True
+cb1caad6b2bb,自动驾驶中激光雷达搭载越多融合越困难吗？,激光,OFweek 激光频道,2026-04,2026-08-07T08:28:52.679015+00:00,75.0,https://laser.ofweek.com/2026-04/ART-240002-8140-30685550.html,行业媒体,True
+4ba71e8f551a,奥来德中标维信诺第6代AMOLED产线设备项目,显示与面板,LEDinside 中文,2026-08-07,2026-08-07T08:28:52.679015+00:00,74.7,https://www.ledinside.cn/news/20260807-62294.html,行业媒体,True
+be6097be1cce,索尼供Micro OLED，VITURE发布XR/AR眼镜新品,显示与面板,LEDinside 中文,2026-08-07,2026-08-07T08:28:52.679015+00:00,74.7,https://www.ledinside.cn/products/20260807-62287.html,行业媒体,True
+b4f8a55dbdad,苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼,其他,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,72.5,https://www.c114.com.cn/news/213/a1282089.html,行业媒体,True
+0c70cafd7ddb,苹果税惹麻烦：苹果在英国面临15亿英镑集体诉讼,其他,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,72.5,https://www.c114.com.cn/news/213/a1281942.html,行业媒体,True
+fe989b874cf9,苹果公司在英面临15亿英镑司法索赔，被指在App Store收费“过高且不公平”,其他,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,72.5,https://www.c114.com.cn/news/213/a1281915.html,行业媒体,True
+f79d9a195144,93g、搭载Micro OLED，XR眼镜URXR One开启众筹,显示与面板,LEDinside 中文,2026-08-04,2026-08-07T08:28:52.679015+00:00,72.2,https://www.ledinside.cn/products/20260804-62255.html,行业媒体,True
+f84716670e3c,关键节点！维信诺合肥8.6代AMOLED产线转入设备调试阶段,显示与面板,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.c114.com.cn/news/211/a1307762.html,行业媒体,True
+f7ede13e59ff,欧盟否认重新评估对美国科技巨头调查，但未来走向不明,其他,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.c114.com.cn/news/213/a1281998.html,行业媒体,True
+8bdd52947a4b,欧盟将重新评估针对苹果、Meta和谷歌等科技巨头的调查,其他,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.c114.com.cn/news/213/a1281972.html,行业媒体,True
+d7753619e776,华为100%份额：中国移动存储集采公示中标候选人,产业与资本,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.c114.com.cn/news/126/a1314421.html,行业媒体,True
+504b6c04f963,中信科移动技术专家参加WAIC2026，聚焦AI与6G NTN技术融合创新,通信与算力,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.c114.com.cn/news/654/a1314395.html,行业媒体,True
+890944933b2c,云端连万物，飞行即生活——5G-ATG 重塑万米高空新体验,通信与算力,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.c114.com.cn/news/127/a1314364.html,行业媒体,True
+8f8e58b9bbdb,对话中国信科罗昆初：从ICT到AICT，锚定智能时代战略跃迁,产业与资本,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.c114.com.cn/news/5455/a1314332.html,行业媒体,True
+c211321333c9,千站级iSDU落地云南：云南移动携手华为打造可唤醒极致休眠绿色网络标杆,通信与算力,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.c114.com.cn/news/126/a1314282.html,行业媒体,True
+6944af4885e6,中兴通讯张万春：全栈协同，引领Token经济时代的TCO最优解,其他,C114中国通信网_设备商,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.c114.com.cn/news/127/a1314209.html,行业媒体,True
+0bedbb08d1d5,工信部等四部门：到2035年，全面建成新型互联网基础设施,其他,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.c114.com.cn/news/550/a1313800.html,行业媒体,True
+e1545edd4bb7,工信部全面开展算力态势感知自动化监测工作,通信与算力,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.c114.com.cn/news/550/a1304689.html,行业媒体,True
+4aa35ec0cf87,工信部：2027年基本建成全域覆盖、高效畅通的城域毫秒级算力网络体系,通信与算力,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.c114.com.cn/news/550/a1298868.html,行业媒体,True
+8537937955ce,工信部等七部门：按需布局算力基础设施 加速算力与行业融合应用,通信与算力,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.c114.com.cn/news/550/a1298426.html,行业媒体,True
+acafde68810f,一图读懂强制性国家标准GB 44721—2026《智能网联汽车 自动驾驶系统安全要求》,产业与资本,工信部要闻,,2026-08-07T08:28:52.679015+00:00,70.0,https://www.miit.gov.cn/zwgk/zcjd/art/2026/art_ef24128ee7304a63b6777d7023631e94.html,媒体,True
+0c282d46aa70,《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布,产业与资本,工信部要闻,,2026-08-07T08:28:52.679015+00:00,70.0,http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_16d1319a933d4ffd8501e60dc4d88491.html,媒体,True
+9bd695cbf660,工业和信息化部量子信息标准化技术委员会成立,科研进展,工信部要闻,,2026-08-07T08:28:52.679015+00:00,70.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_79e6b8bde1974fc9b120b0e18cb0b262.html,媒体,True
+dd9879b8c862,2026年亚太经合组织（APEC）数字和人工智能部长会议新闻发布会在成都召开,产业与资本,工信部要闻,,2026-08-07T08:28:52.679015+00:00,70.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d109e2b6dc4844cc902a1f6f49712f67.html,媒体,True
+59d5a61e2a99,工业和信息化部举行“亚太经合组织（APEC）2026年数字和人工智能部长会议及数字周相关活动新闻通气会”,通信与算力,工信部要闻,,2026-08-07T08:28:52.679015+00:00,70.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a1dcaacc0394430fa13197ef3946dece.html,媒体,True
+8bfa8bf5e7eb,工业和信息化部介绍推动软件和信息技术服务业、科技服务业发展等情况,其他,工信部要闻,,2026-08-07T08:28:52.679015+00:00,70.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_4905fd794aa54b29b9bd050a746b29f0.html,媒体,True
+3a5dd6d4cf09,工业和信息化部：一季度工业和信息化发展总体实现良好开局,其他,工信部要闻,,2026-08-07T08:28:52.679015+00:00,70.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_9e461fb26c75403f822cef394e0ad2d1.html,媒体,True
+ba05bf1064b5,Engram-E2VID: Reference-Based Event-to-Video Reconstruction via Generative Activation of Appearance Engrams,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,69.8,https://arxiv.org/abs/2608.05728,科研,True
+97a9c76c8493,Segmentation-Engineered Ge4Sb6Te7 Switch on SOI Platform for Multilevel Non-Volatile Photonic Neural Inference,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,69.8,https://arxiv.org/abs/2512.19105,科研,True
+0b5773c767ef,一周热点：MicroLED光通信加速,光通信,LEDinside 中文,2026-08-07,2026-08-07T08:28:52.679015+00:00,69.7,https://www.ledinside.cn/news/20260807-62298.html,行业媒体,True
+23c97aa47bfe,天德钰公布2026上半年度业绩快报,其他,LEDinside 中文,2026-08-07,2026-08-07T08:28:52.679015+00:00,69.7,https://www.ledinside.cn/fsa/20260807-62296.html,行业媒体,True
+5aa9ccbd640b,韩媒：中电科风华获LG Display设备采购订单,显示与面板,LEDinside 中文,2026-08-07,2026-08-07T08:28:52.679015+00:00,69.7,https://www.ledinside.cn/news/20260807-62295.html,行业媒体,True
+48393ee7862d,年产52吨，维世诺OLED中间体项目进入试生产,显示与面板,LEDinside 中文,2026-08-07,2026-08-07T08:28:52.679015+00:00,69.7,https://www.ledinside.cn/news/20260807-62293.html,行业媒体,True
+72163216f13f,半导体设备商Veeco获磷化铟MOCVD设备大单,光电芯片与半导体,LEDinside 中文,2026-08-07,2026-08-07T08:28:52.679015+00:00,69.7,https://www.ledinside.cn/news/20260807-62291.html,行业媒体,True
+dbcb392d321d,总投资超27亿，兆驰等押注高端PCB,产业与资本,LEDinside 中文,2026-08-07,2026-08-07T08:28:52.679015+00:00,69.7,https://www.ledinside.cn/news/20260807-62289.html,行业媒体,True
+faa01015c2f6,Valleytronics on a single chip,光电芯片与半导体,Nature Photonics,2026-07-31T00:00:00+00:00,2026-08-07T08:28:52.679015+00:00,68.9,https://www.nature.com/articles/s41566-026-01975-3,科研,True
+df1eae86a7ae,1700亿OLED投资引爆显示设备市场，谁吃下了这波红利？,显示与面板,LEDinside 中文,2026-08-06,2026-08-07T08:28:52.679015+00:00,68.9,https://www.ledinside.cn/news/20260806-62281.html,行业媒体,True
+7b7511104581,华为连发三款鸿蒙电脑新品,其他,LEDinside 中文,2026-08-06,2026-08-07T08:28:52.679015+00:00,68.9,https://www.ledinside.cn/products/20260806-62284.html,行业媒体,True
+1a4d96cb744c,艾迈斯欧司朗：上半年营收124亿元；全面押注数字光子学,产业与资本,LEDinside 中文,2026-08-05,2026-08-07T08:28:52.679015+00:00,68.0,https://www.ledinside.cn/fsa/20260805-62268.html,行业媒体,True
+2625bd3c962a,华为余承东：首款RGB-MiniLED电视8月5日开售,显示与面板,LEDinside 中文,2026-08-04,2026-08-07T08:28:52.679015+00:00,67.2,https://www.ledinside.cn/products/20260804-62263.html,行业媒体,True
+6c6aa805f5b1,产业 | 当XR光学重塑终端格局，空间计算和AR眼镜走到了哪一步？,显示与面板,CIOE 中国光博会,2026-08-04,2026-08-07T08:28:52.679015+00:00,67.2,https://cioe.cn/news/2934_info.html,行业媒体,True
+938f91a09cc5,Laser–plasma amplification of an ultrabroadband laser pulse to 0.3 TW,激光,Nature Photonics,2026-08-03T00:00:00+00:00,2026-08-07T08:28:52.679015+00:00,66.4,https://www.nature.com/articles/s41566-026-01977-1,科研,True
+3c61abc8e818,光芯片收入高涨78%，仕佳光子上半年营收15亿,光通信,LEDinside 中文,2026-08-03,2026-08-07T08:28:52.679015+00:00,66.4,https://www.ledinside.cn/fsa/20260803-62247.html,行业媒体,True
+44d3b28eb94d,光电应用 | 八大细分领域产品采购指南，助力高效观展,其他,CIOE 中国光博会,2026-08-03,2026-08-07T08:28:52.679015+00:00,66.4,https://cioe.cn/news/2933_info.html,行业媒体,True
+3a78f7d71dfb,芯科科技推出智能开发工具Simplicity Ecosystem软件开发套件开启物联网开发的新高度,产业与资本,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/211/a1299264.html,行业媒体,True
+abf98af3d171,英特尔代工获微软下一代AI芯片订单，将采用18A工艺,光电芯片与半导体,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/211/a1298974.html,行业媒体,True
+5db61d7aaa75,新思科技获准向是德科技出售光学解决方案部门,光学元件与成像,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/212/a1298390.html,行业媒体,True
+55a1cf2e027d,零碳算力：AI时代数据中心行业的绿色转型与系统性能源革命,光通信,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/212/a1298294.html,行业媒体,True
+1b011e896156,宇树科技计划登陆科创板 中国移动已投资,产业与资本,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/212/a1292374.html,行业媒体,True
+00975cdf99df,Allegro MicroSystems 携新型 XtremeSense TMR 电流传感器亮相慕尼黑上海电子展,光传感与激光雷达,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/212/a1287354.html,行业媒体,True
+045f3c0a18ad,Allegro 扩展其电机控制和热管理解决方案，满足日益增长的电动汽车和自动化市场,其他,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/212/a1287353.html,行业媒体,True
+e42248a59ec7,微软遭法国反垄断调查：向小型搜索引擎提供必应技术时故意降低搜索结果质量,其他,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/213/a1283012.html,行业媒体,True
+dbe7910cfd25,Meta启动千人裁员计划，腾出空间招揽“最顶尖”人才,其他,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/213/a1283011.html,行业媒体,True
+88c8fb6764b6,为避免欧盟反垄断罚款，消息称微软“捆绑 Team 版 Office”将进一步涨价,其他,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/213/a1283006.html,行业媒体,True
+32dcc3513430,杨元庆：科技企业应打造人人可用、人人受益的“人本智能”,其他,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/211/a1282514.html,行业媒体,True
+fdbc74b49bcb,英伟达机器人业务团队到访北京国地中心，双方规划合作事宜,产业与资本,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/212/a1282451.html,行业媒体,True
+0b5d527bf4f6,能容纳超100个人形机器人同时训练！全国首个异构人形机器人训练场正式启用,其他,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/211/a1282418.html,行业媒体,True
+ddd67d92f7cc,2024 CEIA中国企业IT大奖重磅揭晓 CIO选型权威指南,其他,C114中国通信网_IT资讯,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/212/a1282341.html,行业媒体,True
+21e9f84045b7,工信部向166家外资企业发放经营试点批复 覆盖全部增值电信业务,通信与算力,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/550/a1311651.html,行业媒体,True
+d968f50fa074,工信部筹建量子信息标准化技术委员会,科研进展,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/550/a1301809.html,行业媒体,True
+bc4c89498c2f,工信部全面推广增值电信业务电子证照,通信与算力,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.c114.com.cn/news/550/a1298355.html,行业媒体,True
+53124c0a7ec5,光电测量仪器企业中电科思仪创业板IPO注册生效,产业与资本,COEMA 中国光电子行业协会,2026-07,2026-08-07T08:28:52.679015+00:00,65.0,https://www.coema.org.cn/industry/202607/5754.html,行业媒体,True
+108f60f8afad,聚灿、海康、慧谷新材等发布2026年半年报,产业与资本,COEMA 中国光电子行业协会,2026-07,2026-08-07T08:28:52.679015+00:00,65.0,https://www.coema.org.cn/industry/202607/5774.html,行业媒体,True
+0c94cdd0aab7,磷化铟龙头，签订大单！,产业与资本,COEMA 中国光电子行业协会,2026-07,2026-08-07T08:28:52.679015+00:00,65.0,https://www.coema.org.cn/industry/202607/5772.html,行业媒体,True
+3bfac4c42627,2026年大尺寸OLED面板达到3880万片！笔记本面板增长66%,显示与面板,COEMA 中国光电子行业协会,2026-07,2026-08-07T08:28:52.679015+00:00,65.0,https://www.coema.org.cn/industry/202607/5763.html,行业媒体,True
+41904635cbc2,三安、TCL科技等6企披露半年度业绩预告,其他,COEMA 中国光电子行业协会,2026-07,2026-08-07T08:28:52.679015+00:00,65.0,https://www.coema.org.cn/industry/202607/5758.html,行业媒体,True
+11ea5d943086,高端激光通信研发中心项目落户武汉光谷！,激光,COEMA 中国光电子行业协会,2026-07,2026-08-07T08:28:52.679015+00:00,65.0,https://www.coema.org.cn/industry/202607/5757.html,行业媒体,True
+187d3d307b39,LYNRED发布新一代制冷型中波红外探测器，面向国防与监视系统应用,光学元件与成像,COEMA 中国光电子行业协会,2026-07,2026-08-07T08:28:52.679015+00:00,65.0,https://www.coema.org.cn/industry/202607/5755.html,行业媒体,True
+e51cffdb1b6c,"又一价格屠夫!劳斯莱斯设计师操刀+激光雷达,携Momenta R7高阶智驾,8月13日发布!",激光,搜狗微信·光电行业 · 老司机谈汽车,2026-08-07T08:25:08+00:00,2026-08-07T08:28:52.679015+00:00,65.0,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bhvkMm1JGAlbFk5NZmDW-mVqXa8Fplpd9cZbjm2VBHASr8eUod6r3UjHblpDxVSOQuKMJ-yf68yEl_pZrqNvIkKVKQPbCFOuQv79SnplB__U4ctlweNdB19h2mbKnIay3QcWtBmrue8dubGc4bVEE7Alr8FBAZaxYL9l0_kyQfgJpd-mw4KY-KScX-ejCvJAMqqLjDOkP0SrvzHZXxeLdyg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0C4DD43FFAFFC96B52550A229AAD182A53C7649E6A75973E,媒体,True
+3fd6c7e93e3b,"比亚迪海鸥和零跑A05都带激光雷达了,五菱缤果Pro还只跑三百多公里,它慌不慌?",激光,搜狗微信·光电行业 · 汪亚美,2026-08-07T07:26:08+00:00,2026-08-07T08:28:52.679015+00:00,65.0,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bhvkMm1JGAlbFk5NZmDW-mVqXa8Fplpd9Q0EkjVXoCxYRBYHx5f-OrVGMhsknlePke2iFiPcVF9BBUMWUWulOg1bwdEa3JBmb3yjfTMtfadFNt6BZaIQz167B05H5spzFeSMEfWcA7W04tU8qpl_9O7xAUjsnhHislV8en1-TQ3hKVZE53ZZSI94K2jPId-MGZ7Edx1fCZph535pjGOOjYg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0C4DD43FFAFFC96B52550A229AAD182A53C7649E6A75973E,媒体,True
+2c3f7b75bfb7,第十届金砖国家工业部长会议在印度斋浦尔召开,其他,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_f456e4f55daa44d8a9f524d7f7959d90.html,媒体,True
+2bdb986cd96a,工业和信息化部举办“十五五”工业和信息化规划专题培训班,其他,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_19597459de0745afaed9778c61422ebb.html,媒体,True
+a65dfa044185,三部门关于组织开展2026年度重点行业能效、碳效领跑者企业推荐工作的通知,其他,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_277a824ef0ae478faf7dc2d4f14b5db6.html,媒体,True
+be9c593a7175,工业和信息化部等七部门办公厅（办公室）关于开展2026年工业和信息化领域创新任务揭榜挂帅工作的通知,其他,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_286751ceaf944364b5c282cacd71cb09.html,媒体,True
+a70fe6fc9620,国家税务总局 工业和信息化部关于发布《免征车辆购置税的设有固定装置的非运输专用作业车辆目录》（第二十二批）的公告,产业与资本,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_e4d9035769cb4b6b8e6f7fb81d2a7205.html,媒体,True
+1f5099b93ebb,两部门关于公布第二批次网络安全保险服务试点工作方案名单的通知,通信与算力,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_4d2b61bae848421eacdfd64262199d0e.html,媒体,True
+e5b7ec3343f6,工业和信息化部等六部门办公厅（综合司）关于开展2026年度智能工厂梯度培育行动的通知,其他,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_bbccc17a650749c2a76569679350fa5d.html,媒体,True
+40ce7d23a7ba,两部委关于开展农业领域机器人典型应用场景遴选工作的通知,其他,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_750f6bdfb49e49188136c7bcb3b65dc7.html,媒体,True
+24735461ed64,持续向新向优发展！国新办就2026年上半年工业和信息化发展情况举行新闻发布会,产业与资本,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_bc4cf76777cb4fd2896082ca2ff7039d.html,媒体,True
+a60ec55e0e79,国新办就“勇担时代重任，做新型工业化事业的建设者和追梦人”举行中外记者见面会,其他,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.miit.gov.cn/xwfb/xwfbh/qtxwfbh/art/2026/art_70fdbc6312e648e29fc7801c763e37d0.html,媒体,True
+1b15573dc263,我国成功发射卫星互联网低轨23组卫星,其他,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_20bf245cb87549e28519078d857c6eb0.html,媒体,True
+9118b23d968f,工业和信息化部装备工业一司组织道路机动车辆检验检测机构开展座谈 部署提升检验检测工作质量相关工作,其他,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_4b5ab63f32c84d318ad7a6ba4893a89d.html,媒体,True
+1f19a547dd17,工业和信息化部召开光伏行业座谈会 进一步解读宣贯光伏组件强制性国家标准,光伏与新能源,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_e9d492b5b42642fdbfee562118de42c1.html,媒体,True
+e6a25e417e66,山东通信管理局召开2026年第一次基础电信企业新任职干部监管谈话会,通信与算力,工信部要闻,,2026-08-07T08:28:52.679015+00:00,65.0,https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_b71eb0fd2a0e44c793955ec8eea42de6.html,媒体,True
+11beab549ada,Dual-polarization control of broadband nonreciprocal thermal radiation by combining local and nonlocal metasurfaces,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,64.8,https://arxiv.org/abs/2608.05640,科研,True
+8ff663b154ae,Spectrally flat and broadband doublepumped fiber optical parametric amplifiers,光通信,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,64.8,https://arxiv.org/abs/2608.05652,科研,True
+97ac4dac3eed,Abruptly autofocusing waves enter space-time,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,64.8,https://arxiv.org/abs/2608.05796,科研,True
+8e1ce9643233,Harnessing thermo-optic dynamics for frequency-agile soliton microcombs,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,64.8,https://arxiv.org/abs/2608.05932,科研,True
+863e136f0070,Noise-driven pseudovorticity multipoles in self-focusing beams with quintic saturation,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,64.8,https://arxiv.org/abs/2608.06045,科研,True
+08a6c7dec65e,Structured coherence: A modern perspective on optical coherence as a resource,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,64.8,https://arxiv.org/abs/2608.06356,科研,True
+cf0a6c14ab9a,OPERA: Operator-residual feedback for reliable autonomous optical experiments with language-model agents,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,64.8,https://arxiv.org/abs/2608.05990,科研,True
+78f2e18430e5,Focusing Terawatt-Scale Lasers Using Holographic Gaseous Lenses,激光,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,64.8,https://arxiv.org/abs/2510.02659,科研,True
+ac217fe67590,Phase-Drift Limits and Adaptive Quadrature Readout in Programmable Photonic Processors,科研进展,arXiv 光学与光子学 (physics.optics),2026-08-07T04:00:00+00:00,2026-08-07T08:28:52.679015+00:00,64.8,https://arxiv.org/abs/2608.02249,科研,True
+efda3eda9ae6,"岚图追光S深度解析:30万级＂四激光雷达＂卷王,到底香不香?",激光,搜狗微信·光电行业 · X科技咨讯,2026-08-07T03:51:05+00:00,2026-08-07T08:28:52.679015+00:00,64.8,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bhvkMm1JGAlbFk5NZmDW-mVqXa8Fplpd9MG2hD-kX4Dg0XL0H7-owUceX31a87CKxuudt9ZtWb4YGjDcoMQKmv9b2KPOYx8_eLFq4hR1bfqczSorEEjPcWeeJxxpqzn8rBY0Uh8lDQcqoeStj0kWqtjGHoICJwvwwlNJo68Hr8gItKd3_aM-Pvnd8b_f6j3gT08c2U7hOdk0YJSSFPgfogQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0C4DD43FFAFFC96B52550A229AAD182A53C7649E6A75973E,媒体,True
+57d6349350da,"76.6万起的国产MPV,6颗激光雷达+蟹行+全主动悬架——尊界V800是智商税还是真香?",激光,搜狗微信·光电行业 · 小虎新知,2026-08-07T00:23:08+00:00,2026-08-07T08:28:52.679015+00:00,64.7,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bhvkMm1JGAlbFk5NZmDW-mVqXa8Fplpd9WZE8CTW-oaNBCn771Mzy_z2DPV9QSN70JrOCLjRdPy2QK2hjVFwiPjeyaTVbXyQy4klCr7D5X3b035Wb1Tc8c8W--5N5qIZBVHe7wv2bICzYREgZNeh02HWgiAKyGgnJf21e8CwyDp0S-ZwDBB1no2AI9ZxrIxPfHe59wnZosgvS-e4Yz84xMA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=0C4DD43FFAFFC96B52550A229AAD182A53C7649E6A75973E,媒体,True
+5220d7bb2cd5,Optical–electrical skin sensing,科研进展,Nature Photonics,2026-07-31T00:00:00+00:00,2026-08-07T08:28:52.679015+00:00,63.9,https://www.nature.com/articles/s41566-026-01967-3,科研,True
+b37b4dd9a083,Breaking the power wall in programmable photonics,光通信,Nature Photonics,2026-07-31T00:00:00+00:00,2026-08-07T08:28:52.679015+00:00,63.9,https://www.nature.com/articles/s41566-026-01960-w,科研,True
+e39e140da3c9,The path ahead for organic photovoltaics,科研进展,Nature Photonics,2026-07-31T00:00:00+00:00,2026-08-07T08:28:52.679015+00:00,63.9,https://www.nature.com/articles/s41566-026-01963-7,科研,True
+acea95bd40ce,A hot-electron-based plasmonic artificial leaf,科研进展,Nature Photonics,2026-07-31T00:00:00+00:00,2026-08-07T08:28:52.679015+00:00,63.9,https://www.nature.com/articles/s41566-026-01969-1,科研,True
+caff5d30b117,AI光互连需求爆发，爱思强二季度新增订单同比增长81%,产业与资本,LEDinside 中文,2026-07-31,2026-08-07T08:28:52.679015+00:00,63.9,https://www.ledinside.cn/fsa/20260731-62241.html,行业媒体,True
+dfc1444a2a99,红外技术“筑”牢石化安全防线 | 2026红外产业洞察及应用论坛共“破”运维难题,光学元件与成像,CIOE 中国光博会,2026-07-31,2026-08-07T08:28:52.679015+00:00,63.9,https://cioe.cn/news/2932_info.html,行业媒体,True
+be5343c9ee4d,嘉宾观点 | 三石园科技梁嘉伦：OCS系统“从0到1”面临哪些挑战？,光通信,CIOE 中国光博会,2026-07-31,2026-08-07T08:28:52.679015+00:00,63.9,https://cioe.cn/news/2931_info.html,行业媒体,True
+f00c7c254716,嘉宾观点 | 中国电信刘宇旸：AI推理驱动算力下沉，OCS迈向城域算力光互联,光通信,CIOE 中国光博会,2026-07-31,2026-08-07T08:28:52.679015+00:00,63.9,https://cioe.cn/news/2930_info.html,行业媒体,True
+8dcf1494e51b,TrendForce：电视面板需求8、9月回温，面板厂7月让步降价,显示与面板,LEDinside 中文,2026-07-21,2026-08-07T08:28:52.679015+00:00,63.0,https://www.ledinside.cn/research/20260721-62162.html,行业媒体,True
+0956ff12ec4c,"半导体显示面板赛道冲出一家IPO,依赖大客户京东方,来自重庆",显示与面板,搜狗微信·光电行业 · 格隆汇新股,2026-08-04T10:24:03+00:00,2026-08-07T08:28:52.679015+00:00,62.6,https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2ud2t2t2A6bqz7WpGqocPbFk5NZmDW-mVqXa8Fplpd9yxZYkOiy2_Scngb4ZrDbVjZUnP0q6IPqsLpT-TzGWR2rW4-qutJjScrpfinVcBJFvY95Db1NYRD1CtqK1l1Ez4p03sL1oOInlQYkdvxNCqFpD3jnZ08ywKyY4GIBrWt2ieIK9ggAR15ZURalbRsnU7CmiiyJxba-jOg7oOFVqt654z_tGSZTqA..&amp;type=2&amp;query=%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%98%BE%E7%A4%BA&amp;token=0C4DADC3FAFFC96B52550A229AAD182A53C7649E6A759737,媒体,True
+61f135cf1830,英伟达、博通CPO交换机小量出货，光引擎良率、先进封装产能成关键,光通信,LEDinside 中文,2026-07-28,2026-08-07T08:28:52.679015+00:00,61.4,https://www.ledinside.cn/research/20260728-62203.html,行业媒体,True
+6b78a24e4cf3,"Air-stable, ultrathin superconductors developed for more scalable quantum devices",科研进展,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,60.0,https://phys.org/news/2026-08-air-stable-ultrathin-superconductors-scalable.html,科研,True
+81bd0ad38293,"Two materials, one photonic chip: Unlocking a new way to generate light frequencies",光电芯片与半导体,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,60.0,https://phys.org/news/2026-08-materials-photonic-chip-generate-frequencies.html,科研,True
+c62872fd20be,"Ultrafast X-ray flashes partially reverse the damage they cause, enabling brighter, more accurate imaging",光学元件与成像,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,60.0,https://phys.org/news/2026-08-ultrafast-ray-partially-reverse-enabling.html,科研,True
+4005ae721c7e,国际海缆韧性咨询机构召开全体会议,光通信,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,60.0,https://www.c114.com.cn/news/550/a1313802.html,行业媒体,True
+1d38c77d1d80,工信部、国资委启动2026年度人形机器人与具身智能实景实训专项行动,其他,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,60.0,https://www.c114.com.cn/news/550/a1311872.html,行业媒体,True
+3254a8921095,工信部：开展6G创新发展部省协同试点专项行动,通信与算力,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,60.0,https://www.c114.com.cn/news/550/a1311673.html,行业媒体,True
+e01b3a192ae9,工信部批准5G消息互通标准,产业与资本,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,60.0,https://www.c114.com.cn/news/550/a1306799.html,行业媒体,True
+e29613412022,四部门：推动科技保险高质量发展 在人工智能、集成电路、量子科技等领域开发专属产品,科研进展,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,60.0,https://www.c114.com.cn/news/550/a1306716.html,行业媒体,True
+f063fbb430d5,工信部许可两款L3级自动驾驶车型产品,其他,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,60.0,https://www.c114.com.cn/news/550/a1302301.html,行业媒体,True
+270f5213ae90,工信部召开务虚会 研究谋划“十五五”及开局之年工作：以综合整治“内卷式”竞争为重点,科研进展,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,60.0,https://www.c114.com.cn/news/550/a1301811.html,行业媒体,True
+a9c88baa97ba,工信部：加快制造业中试建设 布局AI、量子科技等关键领域,科研进展,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,60.0,https://www.c114.com.cn/news/550/a1300198.html,行业媒体,True
+0dace465f295,工信部：将组织开展为期两年的卫星物联网业务商用试验,其他,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,60.0,https://www.c114.com.cn/news/550/a1298358.html,行业媒体,True
+95b98bb55c52,两部门发布云计算新规：到2027年新制定相关标准30项以上,产业与资本,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,60.0,https://www.c114.com.cn/news/550/a1298271.html,行业媒体,True
+74628b26cbbe,深圳市出台实施细则 扶持低空经济发展,其他,C114中国通信网_监管,,2026-08-07T08:28:52.679015+00:00,60.0,https://www.c114.com.cn/news/550/a1298153.html,行业媒体,True
+5137764e92d9,前沿｜全波硫系模压红外镜头：重塑红外成像成本与性能核心力量,光学元件与成像,CIOE 中国光博会,2026-07-23,2026-08-07T08:28:52.679015+00:00,57.2,https://cioe.cn/news/2921_info.html,行业媒体,False
+59050d74aad2,An elegant modification doubles the range of low-noise 'white lasers' in a single fiber,激光,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,55.0,https://phys.org/news/2026-08-elegant-modification-range-noise-white.html,科研,False
+e5b9d14567b3,Researchers demonstrate first fully solution-processed solid-state polariton laser,激光,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,55.0,https://phys.org/news/2026-08-fully-solution-solid-state-polariton.html,科研,False
+021ebca7a7c8,Single-shot phase imaging technique can reconstruct transparent objects,光学元件与成像,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,55.0,https://phys.org/news/2026-08-shot-phase-imaging-technique-reconstruct.html,科研,False
+b20d60f1cda7,New quantum microscopy trick quadruples microscope resolution,科研进展,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,55.0,https://phys.org/news/2026-08-quantum-microscopy-quadruples-microscope-resolution.html,科研,False
+2141ccd518e6,Sunlight-powered setup generates quantum entanglement,科研进展,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,55.0,https://phys.org/news/2026-08-sunlight-powered-setup-generates-quantum.html,科研,False
+bfa7ba3de6fa,"'Spooky' particles transit DC suburbs, a step toward a quantum network",科研进展,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,55.0,https://phys.org/news/2026-08-spooky-particles-transit-dc-suburbs.html,科研,False
+1c85024b3a52,New semiconductor maser operates continuously above room temperature,光电芯片与半导体,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,55.0,https://phys.org/news/2026-08-semiconductor-maser-room-temperature.html,科研,False
+938ac02500d9,A temperature dial for more realistic quantum simulations,科研进展,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,55.0,https://phys.org/news/2026-08-temperature-dial-realistic-quantum-simulations.html,科研,False
+45faaaf9b45e,New quantum encryption method prevents ciphertext from being cloned,科研进展,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,55.0,https://phys.org/news/2026-08-quantum-encryption-method-ciphertext-cloned.html,科研,False
+5ea56ea1ee8a,Key principle to boost efficiency of artificial photosynthesis and next-generation semiconductors,科研进展,Phys.org 物理新闻,,2026-08-07T08:28:52.679015+00:00,55.0,https://phys.org/news/2026-08-key-principle-boost-efficiency-artificial.html,科研,False
+59238b0367ca,TrendForce：预估7月电视面板价格承压，显示器与笔电面板需求或减弱,显示与面板,LEDinside 中文,2026-07-07,2026-08-07T08:28:52.679015+00:00,52.5,https://www.ledinside.cn/research/20260707-62053.html,行业媒体,False
+1bcc8a21142c,前沿 | 利用AI打通超构表面全研发链路，纳境科技推出MetaODA超构表面AI一体化智算平台,光通信,CIOE 中国光博会,2026-07-17,2026-08-07T08:28:52.679015+00:00,52.2,https://cioe.cn/news/2919_info.html,行业媒体,False
+97138dbe3744,展商回顾 | 同济大学精密光学工程技术研究所精彩亮相，前沿光学科技成果备受瞩目,光学元件与成像,CIOE 中国光博会,2025-09-19,2026-08-07T08:28:52.679015+00:00,50.0,https://cioe.cn/news/2665_info.html,行业媒体,False
+a38de14953cd,展商回顾 | 复享光学携新品膜厚测量仪亮相，引领光谱技术发展,光学元件与成像,CIOE 中国光博会,2025-09-18,2026-08-07T08:28:52.679015+00:00,50.0,https://cioe.cn/news/2663_info.html,行业媒体,False
+0f4dc2038cfc,光电前沿 | 从OCS到Micro LED CPO：光学与CIS的新机遇,光通信,CIOE 中国光博会,2026-07-14,2026-08-07T08:28:52.679015+00:00,49.7,https://cioe.cn/news/2918_info.html,行业媒体,False
+99770082ca9b,赵乐际主持召开十四届全国人大常委会...,其他,中国政府采购网,2026-06-17,2026-08-07T08:28:52.679015+00:00,47.5,https://www.ccgp.gov.cn/news/202606/t20260617_26763914.htm,媒体,False
+149cdc01cc0f,财政部2026年度立法工作安排,其他,中国政府采购网,2026-06-08,2026-08-07T08:28:52.679015+00:00,47.5,https://www.ccgp.gov.cn/news/202606/t20260608_26702139.htm,媒体,False
+b54b6f2c26bb,全国人大常委会2026年度立法工作计划,其他,中国政府采购网,2026-05-12,2026-08-07T08:28:52.679015+00:00,47.5,https://www.ccgp.gov.cn/news/202605/t20260512_26549039.htm,媒体,False
+595b91e23ba3,财政部公布2026年政府采购代理机构检查名单,其他,中国政府采购网,2026-07-15,2026-08-07T08:28:52.679015+00:00,45.5,https://www.ccgp.gov.cn/news/202607/t20260715_26935390.htm,媒体,False
+4f714797a13e,晶湛半导体MicroLED光通信技术取得新突破,光通信,LEDinside 中文,2026-06-17,2026-08-07T08:28:52.679015+00:00,45.0,https://www.ledinside.cn/knowledge/20260617-61902.html,行业媒体,False
+2021123e58a5,山东大学实现单片集成全GaN有源驱动MicroLED显示模块突破,显示与面板,LEDinside 中文,2026-05-09,2026-08-07T08:28:52.679015+00:00,45.0,https://www.ledinside.cn/knowledge/20260509-61624.html,行业媒体,False
+b1db9ff36370,韩国团队研发出下一代纯绿色OLED材料,显示与面板,LEDinside 中文,2026-04-20,2026-08-07T08:28:52.679015+00:00,45.0,https://www.ledinside.cn/knowledge/20260420-61494.html,行业媒体,False
+2e37d127b1c1,联发科联合微软研究院等研发主动式MicroLED光缆,光通信,LEDinside 中文,2026-03-18,2026-08-07T08:28:52.679015+00:00,45.0,https://www.ledinside.cn/knowledge/20260318-61283.html,行业媒体,False
+0017e7f08fbd,应用案例 | 800G光模块订单激增，硅光芯片/FA耦合如何实现纳米级品质管控,光通信,CIOE 中国光博会,2026-03-26,2026-08-07T08:28:52.679015+00:00,45.0,https://cioe.cn/news/2813_info.html,行业媒体,False
+695712cad9ba,前沿 | 大尺寸HUD自由曲面反射镜的应用与挑战,其他,CIOE 中国光博会,2025-04-17,2026-08-07T08:28:52.679015+00:00,45.0,https://cioe.cn/news/2448_info.html,行业媒体,False
+b98a94015b1b,《政府采购法》修订草案公布 即日起面...,其他,中国政府采购网,2026-06-26,2026-08-07T08:28:52.679015+00:00,45.0,https://www.ccgp.gov.cn/news/202606/t20260626_26825551.htm,媒体,False
+c3d434cb25ec,人大常委会丨我国拟修改政府采购法 系...,其他,中国政府采购网,2026-06-24,2026-08-07T08:28:52.679015+00:00,45.0,https://www.ccgp.gov.cn/news/202606/t20260624_26803448.htm,媒体,False
+98e130caae12,财政部 公安部 市场监管总局关于开展2...,其他,中国政府采购网,2026-06-12,2026-08-07T08:28:52.679015+00:00,45.0,https://www.ccgp.gov.cn/news/202606/t20260612_26740227.htm,媒体,False
+d7bebc6e6897,财政部 市场监管总局关于推进地方政府...,其他,中国政府采购网,2026-06-01,2026-08-07T08:28:52.679015+00:00,45.0,https://www.ccgp.gov.cn/news/202606/t20260601_26660667.htm,媒体,False
+67d2fa6b8c4c,财政部：在政府采购活动中对46家美国...,其他,中国政府采购网,2026-06-22,2026-08-07T08:28:52.679015+00:00,40.0,https://www.ccgp.gov.cn/news/202606/t20260622_26785066.htm,媒体,False
+474b4c4676d7,财政部办公厅关于印发《政府采购电子...,其他,中国政府采购网,2026-06-01,2026-08-07T08:28:52.679015+00:00,40.0,https://www.ccgp.gov.cn/news/202606/t20260601_26660628.htm,媒体,False
+5dc79f3ffe2e,李强主持召开国务院常务会议 研究推进...,科研进展,中国政府采购网,2026-05-22,2026-08-07T08:28:52.679015+00:00,40.0,https://www.ccgp.gov.cn/news/202605/t20260522_26610688.htm,媒体,False
+841eacfba609,中办、国办出台节能降碳意见 深入实施...,其他,中国政府采购网,2026-04-24,2026-08-07T08:28:52.679015+00:00,40.0,https://www.ccgp.gov.cn/news/202604/t20260424_26453931.htm,媒体,False
+827b897735d9,全国政府采购工作会议在北京召开,其他,中国政府采购网,2026-04-13,2026-08-07T08:28:52.679015+00:00,40.0,https://www.ccgp.gov.cn/news/202604/t20260413_26393835.htm,媒体,False
