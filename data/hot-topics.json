@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T08:54:43.899667+00:00",
+  "generatedAt": "2026-08-14T08:44:13.814235+00:00",
   "count": 10,
   "items": [
     {
@@ -9,248 +9,268 @@
         "激光",
         "激光雷达"
       ],
-      "source_count": 8,
-      "signal_count": 9,
+      "source_count": 5,
+      "signal_count": 6,
       "sources": [
         "OFweek 激光频道",
-        "搜狗微信·光电行业 · AI车侦探",
-        "搜狗微信·光电行业 · 卡哥说Car",
-        "搜狗微信·光电行业 · 山河奇遇集5",
-        "搜狗微信·光电行业 · 徐六车感",
-        "搜狗微信·光电行业 · 极速竞技点",
-        "搜狗微信·光电行业 · 自然欢探队5",
-        "搜狗微信·光电行业 · 车质网"
+        "搜狗微信·光电行业 · 小厨柒柒",
+        "搜狗微信·光电行业 · 布布橘爱旅游",
+        "搜狗微信·光电行业 · 沉默的羔楊",
+        "搜狗微信·光电行业 · 绿树成荫"
       ],
-      "score": 96.5,
-      "latest_at": "2026-08-13T08:54:43.899667+00:00",
+      "score": 78.5,
+      "latest_at": "2026-08-14T08:44:13.814235+00:00",
       "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-      "id": "93efa229213f",
+      "id": "d3d52fbab956",
       "links": [
         {
           "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
           "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
           "source": "OFweek 激光频道",
-          "score": 97.5,
+          "score": 90.0,
           "published_at": "2026-08"
         },
         {
-          "title": "13.99万起就能拿下中大型轿车!激光雷达+8295P芯片全系标配,同价位你会选它还是启源A07?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZV0cyJa0lJiZ7w8MFCAKtQFqXa8Fplpd9P9Et9NFfGv1QFfer65NCdwD6zqTeDbl5RBunpKhLBbPlX6A11_k9ijE_jK2B4FimYGpif_3yO0nz6aI0l9-ZwLv-FnZT0hCpSKbmPxxSt09WlH3yMo_dBaYt-Mm6dYKKmWhZ18gCKRO1o45CxSfAh9n2CfY_jB-mzbD1WtuzDOtQ_LeJW-Rhtg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=38651E07F0CA166AC6C09F2E1F3D20D6C7E4C3816A7D864C",
-          "source": "搜狗微信·光电行业 · 徐六车感",
-          "score": 87.5,
-          "published_at": "2026-08-13T08:48:35+00:00"
+          "title": "2026年上半年激光雷达331万台上车，华为896线成新门槛",
+          "url": "https://laser.ofweek.com/2026-08/ART-240001-8420-30698177.html",
+          "source": "OFweek 激光频道",
+          "score": 90.0,
+          "published_at": "2026-08"
         },
         {
-          "title": "6万出头买激光雷达!零跑A05这波,隔壁星愿慌不慌?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZV0cyJa0lJiZ7w8MFCAKtQFqXa8Fplpd9lhxx1ekTWYGfgtYpoP9LzkIAtlmlvoARHYQVFtWJO6RS6a4gtSU5_vJ6YiHKLpXUaUiv0pUykHBuQrwvOfqdum6Jy-iVQlcLjUo48R7scUvu-kYMXkfxzvOEP2afODqzam-pqJ-x4SoLUqIgIW8V4WnpPZZRjoqH2Jg9vV8bikfdrgozfSg6bw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=38651E07F0CA166AC6C09F2E1F3D20D6C7E4C3816A7D864C",
-          "source": "搜狗微信·光电行业 · 卡哥说Car",
-          "score": 87.5,
-          "published_at": "2026-08-13T08:42:48+00:00"
+          "title": "打脸了?比亚迪海豹0718万级就给激光雷达,还能自动跑城市路?但咋只给顶配?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZisUanukXE-k7QsJE5Dg-71qXa8Fplpd9XB5qvclc-df_9y8ME-cA-gepzmC_AxRYFcVqnCjfyeMebhwpcXJ9CUfqdAwApChwlAwFCNARl6rWAekVR20s18q1ZS2GX5d2SWSFEYAuNoKHDK7UIIgtDxfCL37X_QAln4ZOKbiqPWnwftqBAw72q218LMUPx55L6HzwuHVfxxc5eBgmN3LoYQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=400BA64F1A4D885662673A9FB0CD96396227BB346A7ED555",
+          "source": "搜狗微信·光电行业 · 布布橘爱旅游",
+          "score": 80.0,
+          "published_at": "2026-08-14T08:36:03+00:00"
         },
         {
-          "title": "智界RX要来了,华为技术加持,四激光雷达不突然刹车,8月20日亮相,不卷价格只卷价值",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZV0cyJa0lJiZ7w8MFCAKtQFqXa8Fplpd9rOEPmgKhNPa3OR6BVY-RPNBt7lmOorVpbAY4l_MhUhqWhkeqCgry1JWsoCwIx1kPxL32uJTwroP9fuYg1XEFC6uqkrjwByDhRfEhBT2YYU2CsO2L0FSgnW5Gpw8Dluwj37mk7HNzN0AydCf3pfTO5p3IIG8rnPFTCxpNn0nAhRW00NVofL2iDw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=38651E07F0CA166AC6C09F2E1F3D20D6C7E4C3816A7D864C",
-          "source": "搜狗微信·光电行业 · 极速竞技点",
-          "score": 87.5,
-          "published_at": "2026-08-13T08:27:52+00:00"
+          "title": "打脸加钱选装的车?这台华为系六座车把激光雷达全系标配了,凭啥?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZisUanukXE-k7QsJE5Dg-71qXa8Fplpd98bjMQQaLStRIN8H7JG7Y4we_EompKHE7YB2BGJiKAtiDC_tqt_h6v3ac75nNkyEweF4L6rOzXTsHcC3OJbdw-F7aYttlDpbLBQURRXdUM_ZxTekciMNU2dhYGoLX7JTUgFMCNaUAblqU51a5CEf3fQXBMdJ0aEMYMUHkbyAw_UHvzHZXxeLdyg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=400BA64F1A4D885662673A9FB0CD96396227BB346A7ED555",
+          "source": "搜狗微信·光电行业 · 小厨柒柒",
+          "score": 80.0,
+          "published_at": "2026-08-14T08:17:07+00:00"
         },
         {
-          "title": "12万买激光雷达,25万等8AT德系大五座,海豹06和途昂X这波真把桌子掀了",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZV0cyJa0lJiZ7w8MFCAKtQFqXa8Fplpd9JaIR9W1Y3QFUkkX7YMKh31pnnh51DyHP5L4P1vzwwBU1ZQjIlRmN5OGqnI5_QbfQ55xhvQ7i3WuVaGAgdwTRbhG_GuHYTeBvyaVtsrZGFwzt9SSGNoAIXbEOkrV8bqX926KWilQS790MUNBI8FyvL1Lt27KuqnHaVTuC6M4n-v16VKrzu_4XKA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=38651E07F0CA166AC6C09F2E1F3D20D6C7E4C3816A7D864C",
-          "source": "搜狗微信·光电行业 · 山河奇遇集5",
-          "score": 87.5,
-          "published_at": "2026-08-13T08:19:53+00:00"
+          "title": "不到9万的零跑A05,就给配激光雷达?把高阶智驾价格打下来了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZisUanukXE-k7QsJE5Dg-71qXa8Fplpd9JxPGamcVDcjlf0IaIK1W1GcZwnGv4xxHPooQdr4E4fpO6JtlFT_N-4_eA98HFcrNXpu0Dokwk4NOkWYJMFw4jsb81DaekZDTlBdrmtdNYfb_zr21O6eLwUx2_fveXv-xuD8QXgNOx6Qd_t2Ue_8JSAr9-HmaTAKP2KBFHbXNrJ7FcvUoAZZH7Q..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=400BA64F1A4D885662673A9FB0CD96396227BB346A7ED555",
+          "source": "搜狗微信·光电行业 · 绿树成荫",
+          "score": 80.0,
+          "published_at": "2026-08-14T07:42:29+00:00"
         }
       ],
       "top_terms": [
-        "零跑",
         "激光",
         "光雷",
         "雷达",
-        "a05"
+        "华为",
+        "万的"
       ],
       "rank": 1,
-      "heat": 96.5,
-      "status": "爆"
-    },
-    {
-      "terms": [
-        "cpo",
-        "ocs",
-        "光电",
-        "光电子",
-        "光纤",
-        "光芯片",
-        "光通信"
-      ],
-      "source_count": 5,
-      "signal_count": 5,
-      "sources": [
-        "搜狗微信·光电行业 · 巨丰投顾",
-        "搜狗微信·光电行业 · 彭祖 一 价值趋势龙",
-        "搜狗微信·光电行业 · 报告派",
-        "搜狗微信·光电行业 · 趋势低吸战法",
-        "搜狗微信·光电行业 · 阿懒解读"
-      ],
-      "score": 75.0,
-      "latest_at": "2026-08-13T08:54:43.899667+00:00",
-      "title": "光通信概念,核心公司(11家)",
-      "id": "69503c01ed34",
-      "links": [
-        {
-          "title": "光通信概念,核心公司(11家)",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZ-EfqKJAkQn57w8MFCAKtQFqXa8Fplpd9PthiRXKc_FfWeG1bMrPxyGtY2i9D3_p8F_RnBSNKiTC-hfBLY-XzUOhajwiAXQXccn0rT53QI5ycLOxuL_P_7NGg0r88ZGZz8iiFu-LBELiFEIDTfl3XsKzHRWNzDLwZ3yJKi24HE8LYQZLEhfqJHNXvjqrcrtwh4soYiTGCYDWFW6cwuUnkdA..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=3864AC30F0CA166AC6C09F2E1F3D20D6C7E4C3816A7D8639",
-          "source": "搜狗微信·光电行业 · 阿懒解读",
-          "score": 77.3,
-          "published_at": "2026-08-13T03:46:03+00:00"
-        },
-        {
-          "title": "光通信薄膜铌酸锂概念,核心企业",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZ-EfqKJAkQn57w8MFCAKtQFqXa8Fplpd9S3QLPxILR7zeh_38yK8GxtpZzXeVCrKg9-0veX5QjH3fShHnOxu2ke-EuQ1Pvg0GqEtWzhQPu7fw562lzmztfVEkai9ernK80aYxI8AUxDOmeWorRRPkAWxG3_xFTYf-UE6vmWA67d3aFxbaAaQ4brN5GFdQSfn7ul0TRxkyCW9Q_LeJW-Rhtg..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=3864AC30F0CA166AC6C09F2E1F3D20D6C7E4C3816A7D8639",
-          "source": "搜狗微信·光电行业 · 趋势低吸战法",
-          "score": 77.2,
-          "published_at": "2026-08-12T23:31:10+00:00"
-        },
-        {
-          "title": "光通信+光纤,这家公司是基础光纤+光电子双线布局标的",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZ-EfqKJAkQn57w8MFCAKtQFqXa8Fplpd9dQFTf2ZR-DXvjYk0zGNl7AvPWFHUQM4o52PQzGPT-KUlm2L6WC1ep8vkT8tmw44eWjpZMsb_Nax3Q-M6cNfL9MZmtxgvQkgLaojVPDHQXay3IPmSwjH_fRjR7a2C0tZTdzoV3G4IHjRFSKFez81A-tk1JB0OQYuSVyL-_fymnYsGX_iHL9MadA..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=3864AC30F0CA166AC6C09F2E1F3D20D6C7E4C3816A7D8639",
-          "source": "搜狗微信·光电行业 · 巨丰投顾",
-          "score": 77.1,
-          "published_at": "2026-08-12T22:25:31+00:00"
-        },
-        {
-          "title": "光通信行业深度:技术演进、市场规模、产业链拆解及相关公司全解析",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZ-EfqKJAkQn57w8MFCAKtQFqXa8Fplpd9xGfdZZBmb56qIcPvFXqbxDs_4DtzJ4UpFrbO5mucRXHWoJM6tvnH1OhDgzCz2JG4_53RwyiHoaNE1ib8JVhp7SMtIRIK_cCbCDT2fYZwED-x52uWrzs7y3hVnM27z9L4iPD5GJUnVck_Qqw5gZpQ6BdfF5_hI7GFFriBRiF_ojUYJSSFPgfogQ..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=3864AC30F0CA166AC6C09F2E1F3D20D6C7E4C3816A7D8639",
-          "source": "搜狗微信·光电行业 · 报告派",
-          "score": 76.9,
-          "published_at": "2026-08-12T14:31:24+00:00"
-        },
-        {
-          "title": "光通信:光芯片、CPO、NPO、OCS...核心标的",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZ-EfqKJAkQn57w8MFCAKtQFqXa8Fplpd97DTCSerSrDwgm07mMbOaJ-Zm3d4rUHxUnwOHBzKoY2u1ufHsQpUzkJmOnp90e2u3n91l8zd3_yNwYv0_1JQqy-JhIgtvHu9_E5ui4TQwq_eiY_lHP4wrBP4-Mu4jxEmN2PlDBPzqsDbeZqv-PnPLLqCcQd5MXhwOOSuIwDlOA-USYTqT4eyLmA..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=3864AC30F0CA166AC6C09F2E1F3D20D6C7E4C3816A7D8639",
-          "source": "搜狗微信·光电行业 · 彭祖 一 价值趋势龙",
-          "score": 76.8,
-          "published_at": "2026-08-12T12:12:17+00:00"
-        }
-      ],
-      "top_terms": [
-        "光通",
-        "通信",
-        "公司",
-        "核心",
-        "光纤"
-      ],
-      "rank": 2,
-      "heat": 75.0,
+      "heat": 78.5,
       "status": "发酵中"
     },
     {
       "terms": [
-        "accelerate",
-        "antenna-coupled",
-        "augmex",
-        "chips",
-        "delayering",
-        "deployments",
+        "additional",
+        "algorithm",
+        "all-optical",
+        "amplification",
+        "antenna",
+        "approximation",
+        "astrid2",
+        "asymmetric",
+        "autocorrelation-constrained",
+        "best",
+        "binarized",
+        "bioinspired",
+        "birefringent",
+        "brightness",
+        "broadband",
+        "capillary",
+        "cavities",
+        "chip",
+        "color",
+        "computational-weighted",
+        "condition",
+        "crystal",
+        "crystal-engineered",
+        "crystals",
+        "cyclic-quadrature",
+        "demultiplexer",
         "detection",
-        "digital",
-        "ecosystem",
-        "engine",
-        "expand",
-        "experimental",
-        "follow-on",
-        "glasses",
-        "goos-hanchen-shift",
-        "infrared",
-        "lambda",
-        "launch",
-        "market",
-        "mid-infrared",
-        "mobile",
-        "multidimensional",
-        "nanobanner",
-        "nanolumens",
-        "nanometer-scale",
-        "nanowires",
-        "openlight",
-        "packages",
-        "ph18da",
+        "detectors",
+        "dithering",
+        "doubles",
+        "driving",
+        "dynamics",
+        "effective",
+        "electrical",
+        "elegant",
+        "elusive",
+        "exponential",
+        "external-cavity",
+        "fabricated",
+        "fast",
+        "feedhorns",
+        "fiber",
+        "fiber-reinforcement",
+        "focal",
+        "focusing",
+        "fourier",
+        "free-space",
+        "graph-theoretic",
+        "gravitational-wave",
+        "heating",
+        "heterogeneously",
+        "high-q",
+        "high-quality",
+        "high-speed",
+        "iii-v",
+        "illumination",
+        "image",
+        "imaging",
+        "imaging-system-aware",
+        "index",
+        "information-optimal",
+        "integrated",
+        "internal",
+        "intracavity",
+        "inverse",
+        "inverse-designed",
+        "ising-machine-like",
+        "large-scale",
+        "laser",
+        "laser-micromachined",
+        "lasers",
+        "lasing",
+        "lithium",
+        "low-noise",
+        "maximum",
+        "meniscus-guided",
+        "micro",
+        "microactuators",
+        "microscopy",
+        "millimeter-wave",
+        "modification",
+        "multi-graylevel",
+        "nanoprinting",
+        "nanoscale",
+        "nature",
+        "neural",
+        "niobate",
+        "nitride",
+        "nonlinear",
+        "one-step",
+        "opportunities",
+        "optic",
+        "optical",
+        "optimized",
         "photonic",
-        "photonics",
+        "physical",
+        "planes",
+        "pseudo-annealing",
+        "pulsed",
         "quantum",
-        "receives",
-        "semiconductor",
-        "sensor",
-        "signage",
+        "range",
+        "reconstruction",
+        "reduced-frame",
+        "response",
+        "restrictions",
+        "reveals",
+        "routers",
+        "search",
+        "sensing",
+        "sensors",
+        "si3n4",
+        "signal",
         "silicon",
-        "single-photon",
-        "smart",
-        "superconducting",
-        "support",
-        "tamper",
-        "telecloning",
-        "terabit",
-        "tower",
-        "unveils",
-        "vuzix"
+        "silicon-platelet",
+        "single-pixel",
+        "skin",
+        "smooth",
+        "source",
+        "spectrally",
+        "squeezed-light",
+        "ssbm",
+        "structured",
+        "submillimeter",
+        "switching",
+        "textured",
+        "theorem",
+        "theory",
+        "third-harmonic",
+        "trade-offs",
+        "tuning",
+        "two-step",
+        "unified",
+        "value",
+        "vision",
+        "voltage",
+        "waals",
+        "wavelength",
+        "waves",
+        "white",
+        "wide-range",
+        "wigner"
       ],
       "source_count": 3,
-      "signal_count": 9,
+      "signal_count": 22,
       "sources": [
-        "LEDinside 英文",
         "Nature Photonics",
+        "Phys.org 物理新闻",
         "arXiv 光学与光子学 (physics.optics)"
       ],
-      "score": 67.3,
-      "latest_at": "2026-08-13T08:54:43.899667+00:00",
-      "title": "Towards Terabit/$\\lambda$/s Multidimensional Silicon Photonic Engine",
-      "id": "7b8bfc373df7",
+      "score": 75.7,
+      "latest_at": "2026-08-14T08:44:13.814235+00:00",
+      "title": "Ising-machine-like Driving Condition Restrictions in SSBM and Additional Pseudo-annealing- Driving Method for SSBM that Achieves Best Cut Value Search -",
+      "id": "ae4160e3eda3",
       "links": [
         {
-          "title": "Towards Terabit/$\\lambda$/s Multidimensional Silicon Photonic Engine",
-          "url": "https://arxiv.org/abs/2608.11639",
+          "title": "Ising-machine-like Driving Condition Restrictions in SSBM and Additional Pseudo-annealing- Driving Method for SSBM that Achieves Best Cut Value Search -",
+          "url": "https://arxiv.org/abs/2608.12545",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 87.3,
-          "published_at": "2026-08-13T04:00:00+00:00"
+          "score": 89.8,
+          "published_at": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Goos-Hanchen-Shift Photonic Sensor for Nanometer-Scale Delayering and Tamper Detection in Semiconductor Packages",
-          "url": "https://arxiv.org/abs/2608.12243",
+          "title": "Maximum brightness theorem for waves",
+          "url": "https://arxiv.org/abs/2608.12578",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 87.3,
-          "published_at": "2026-08-13T04:00:00+00:00"
+          "score": 89.8,
+          "published_at": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Experimental quantum telecloning across silicon photonic chips",
-          "url": "https://arxiv.org/abs/2608.11718",
+          "title": "Asymmetric Textured Image Sensors Based on Antenna Theory as Designed by Nature",
+          "url": "https://arxiv.org/abs/2608.12729",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 87.3,
-          "published_at": "2026-08-13T04:00:00+00:00"
+          "score": 89.8,
+          "published_at": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Enhanced Mid-Infrared Single-Photon Detection with Antenna-Coupled Superconducting Nanowires",
-          "url": "https://arxiv.org/abs/2604.18155",
+          "title": "Inverse-Designed Lithium Niobate Wavelength Demultiplexer via Birefringent Effective Index Approximation",
+          "url": "https://arxiv.org/abs/2608.12902",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 87.3,
-          "published_at": "2026-08-13T04:00:00+00:00"
+          "score": 89.8,
+          "published_at": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "[News] OpenLight and Tower Semiconductor Expand PH18DA Photonics Ecosystem to Accelerate Photonic IC Development",
-          "url": "//www.ledinside.com/news/2026/8/2026_08_12_03",
-          "source": "LEDinside 英文",
-          "score": 86.4,
-          "published_at": "2026-08-12T00:41:44+00:00"
+          "title": "Bioinspired Microactuators Fabricated via One-step Meniscus-guided 3D Nanoprinting",
+          "url": "https://arxiv.org/abs/2608.12908",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-08-14T04:00:00+00:00"
         }
       ],
       "top_terms": [
-        "photonic",
-        "silicon",
-        "detection",
-        "semiconductor",
-        "infrared"
+        "inverse",
+        "optical",
+        "range",
+        "imaging",
+        "wavelength"
       ],
-      "rank": 3,
-      "heat": 67.3,
+      "rank": 2,
+      "heat": 75.7,
       "status": "发酵中"
     },
     {
@@ -268,7 +288,7 @@
         "C114中国通信网_设备商"
       ],
       "score": 62.5,
-      "latest_at": "2026-08-13T08:54:43.899667+00:00",
+      "latest_at": "2026-08-14T08:44:13.814235+00:00",
       "title": "昇腾超节点闪耀WAIC 2026：架构、商用、生态的三重跨越",
       "id": "02289ea34542",
       "links": [
@@ -315,106 +335,9 @@
         "通讯",
         "智能"
       ],
-      "rank": 4,
+      "rank": 3,
       "heat": 62.5,
       "status": "关注中"
-    },
-    {
-      "terms": [
-        "absorbers",
-        "coherence",
-        "conducting",
-        "crystals",
-        "deformable-convolutional",
-        "dynamics",
-        "electrical",
-        "elusive",
-        "high-speed",
-        "imaging",
-        "internal",
-        "inverse",
-        "microscopy",
-        "nanophotonic",
-        "neural",
-        "nonlinearity",
-        "objects",
-        "opportunities",
-        "optical",
-        "oxides",
-        "pulses",
-        "quantum",
-        "reconstruct",
-        "reveals",
-        "sensing",
-        "single-cycle",
-        "single-shot",
-        "skin",
-        "spectra",
-        "thermalization",
-        "trade-offs",
-        "transparent",
-        "two-stage",
-        "voltage",
-        "wigner"
-      ],
-      "source_count": 3,
-      "signal_count": 6,
-      "sources": [
-        "Nature Photonics",
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "score": 56.8,
-      "latest_at": "2026-08-13T08:54:43.899667+00:00",
-      "title": "Single-Cycle Pulses, Transparent Conducting Oxides, Optical Nonlinearity, Quantum Coherence, Thermalization",
-      "id": "1ef623771520",
-      "links": [
-        {
-          "title": "Single-Cycle Pulses, Transparent Conducting Oxides, Optical Nonlinearity, Quantum Coherence, Thermalization",
-          "url": "https://arxiv.org/abs/2608.11756",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 79.8,
-          "published_at": "2026-08-13T04:00:00+00:00"
-        },
-        {
-          "title": "Two-Stage Deformable-Convolutional Inverse Design of Nanophotonic Absorbers from Optical Spectra",
-          "url": "https://arxiv.org/abs/2608.11860",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 79.8,
-          "published_at": "2026-08-13T04:00:00+00:00"
-        },
-        {
-          "title": "Methods, trade-offs and opportunities in high-speed optical microscopy for neural voltage imaging",
-          "url": "https://www.nature.com/articles/s41566-026-01965-5",
-          "source": "Nature Photonics",
-          "score": 76.4,
-          "published_at": "2026-08-03T00:00:00+00:00"
-        },
-        {
-          "title": "Optical–electrical skin sensing",
-          "url": "https://www.nature.com/articles/s41566-026-01967-3",
-          "source": "Nature Photonics",
-          "score": 73.9,
-          "published_at": "2026-07-31T00:00:00+00:00"
-        },
-        {
-          "title": "New optical method reveals internal dynamics of elusive Wigner crystals",
-          "url": "https://phys.org/news/2026-08-optical-method-reveals-internal-dynamics.html",
-          "source": "Phys.org 物理新闻",
-          "score": 70.0,
-          "published_at": null
-        }
-      ],
-      "top_terms": [
-        "optical",
-        "transparent",
-        "imaging",
-        "cycle",
-        "pulses"
-      ],
-      "rank": 5,
-      "heat": 56.8,
-      "status": "发酵中"
     },
     {
       "terms": [
@@ -428,7 +351,7 @@
         "LEDinside 中文"
       ],
       "score": 56.0,
-      "latest_at": "2026-08-13T08:54:43.899667+00:00",
+      "latest_at": "2026-08-14T08:44:13.814235+00:00",
       "title": "联想业绩下滑7成 16亿再卖楼：确能提亮财报",
       "id": "15122da7eb08",
       "links": [
@@ -464,7 +387,7 @@
           "title": "AI业务增长84%，芯联集成上半年净利润2.78亿",
           "url": "https://www.ledinside.cn/fsa/20260811-62317.html",
           "source": "LEDinside 中文",
-          "score": 80.5,
+          "score": 79.7,
           "published_at": "2026-08-11"
         }
       ],
@@ -475,7 +398,7 @@
         "净利",
         "联想"
       ],
-      "rank": 6,
+      "rank": 4,
       "heat": 56.0,
       "status": "发酵中"
     },
@@ -490,7 +413,7 @@
         "C114中国通信网_要闻精选"
       ],
       "score": 52.5,
-      "latest_at": "2026-08-13T08:54:43.899667+00:00",
+      "latest_at": "2026-08-14T08:44:13.814235+00:00",
       "title": "工信部对我国网络强国建设提出四点建议",
       "id": "d7b47cd923b8",
       "links": [
@@ -537,7 +460,7 @@
         "网络",
         "部等"
       ],
-      "rank": 7,
+      "rank": 5,
       "heat": 52.5,
       "status": "关注中"
     },
@@ -550,7 +473,7 @@
         "工信部要闻"
       ],
       "score": 42.0,
-      "latest_at": "2026-08-13T08:54:43.899667+00:00",
+      "latest_at": "2026-08-14T08:44:13.814235+00:00",
       "title": "工业和信息化部量子信息标准化技术委员会成立",
       "id": "dd6167943760",
       "links": [
@@ -576,93 +499,182 @@
         "息标",
         "标准"
       ],
-      "rank": 8,
+      "rank": 6,
       "heat": 42.0,
       "status": "关注中"
     },
     {
       "terms": [
-        "光电",
-        "激光"
+        "光通信"
       ],
       "source_count": 2,
       "signal_count": 2,
       "sources": [
-        "LEDinside 中文",
-        "OFweek 激光频道"
+        "搜狗微信·光电行业 · 博学星球IZ",
+        "搜狗微信·光电行业 · 猎头侦察兵"
       ],
       "score": 42.0,
-      "latest_at": "2026-08-13T08:54:43.899667+00:00",
-      "title": "光至科技启动IPO辅导，激光新锐冲刺A股",
-      "id": "f182a8774836",
+      "latest_at": "2026-08-14T08:44:13.814235+00:00",
+      "title": "光通信设备!核心布局的10家公司",
+      "id": "45c8fc4a961c",
       "links": [
         {
-          "title": "光至科技启动IPO辅导，激光新锐冲刺A股",
-          "url": "https://laser.ofweek.com/2026-08/ART-240002-12003-30698032.html",
-          "source": "OFweek 激光频道",
-          "score": 80.0,
-          "published_at": "2026-08"
-        },
-        {
-          "title": "苏州光电芯片企业苏纳光电启动IPO辅导",
-          "url": "https://www.ledinside.cn/news/20260813-62336.html",
-          "source": "LEDinside 中文",
-          "score": 74.7,
-          "published_at": "2026-08-13"
-        }
-      ],
-      "top_terms": [
-        "辅导",
-        "启动",
-        "ipo",
-        "光电",
-        "光至科技启动"
-      ],
-      "rank": 9,
-      "heat": 42.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [
-        "cpo",
-        "光通信",
-        "算力"
-      ],
-      "source_count": 2,
-      "signal_count": 2,
-      "sources": [
-        "搜狗微信·光电行业 · 文玩新人",
-        "搜狗微信·光电行业 · 海王财金"
-      ],
-      "score": 42.0,
-      "latest_at": "2026-08-13T08:54:43.899667+00:00",
-      "title": "光通信全天强势涨停潮!CPO成交3900亿,AI算力这条主线还在加速",
-      "id": "2a211437c3f9",
-      "links": [
-        {
-          "title": "光通信全天强势涨停潮!CPO成交3900亿,AI算力这条主线还在加速",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZ-EfqKJAkQn57w8MFCAKtQFqXa8Fplpd9mwCiHalXXMsNlpHfN-ktRTwlvdPcYpl-IzcjEzCWkwkWVke_XyBQYTB_SMQWjgBkKTEEtcFSO-9V6OrNw5nF14eV17mYR07E2KwwLZFB4GA0GSMFewcM3k419Lmp3BMav80RfsBZrnLb7jcyTtXirU22hFYsBAy3FGou6LH0pVdOJBjQH7pCxQ..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=3864AC30F0CA166AC6C09F2E1F3D20D6C7E4C3816A7D8639",
-          "source": "搜狗微信·光电行业 · 文玩新人",
+          "title": "光通信设备!核心布局的10家公司",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZmywIrocJwNo7QsJE5Dg-71qXa8Fplpd9DcRwpxX_3Zo6UJP0mM2sd7VxwYtilzwyE4RdfrTzAMyREXfxT4lFnyXiAWt5mNbTQkFZlMWBIZZb4tkeFYfD9PqAVPyql0KjziWZUOH8hbWOUhcd7c7mRkumPas1z-N2irE3pxRATsh6eZcz61vB2RF0Vk2CzgexJ_rjq55a0Uyfxjh3za6jWA..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=400B6D8A1A4D885662673A9FB0CD96396227BB346A7ED549",
+          "source": "搜狗微信·光电行业 · 博学星球IZ",
           "score": 69.8,
-          "published_at": "2026-08-13T03:41:57+00:00"
+          "published_at": "2026-08-14T03:44:56+00:00"
         },
         {
-          "title": "光通信设备火了!AI算力时代的“卖水人”",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZ-EfqKJAkQn57w8MFCAKtQFqXa8Fplpd9VplaM7fUQKOFuU30FkCGIPrrerijxow_yrCxWi_-PvtkMMb_I9alr4ooeE4Iue3j47pnf7RJo6gqZW6aGPKjpplpxtZy3JXXIIBm0C1X7CiBWyed2YbfpA9K-tPptsGSvzyBn09dK9zP10fI3eZBXM8ZTCRbCt5TJi4bXPLT6KGfxjh3za6jWA..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=3864AC30F0CA166AC6C09F2E1F3D20D6C7E4C3816A7D8639",
-          "source": "搜狗微信·光电行业 · 海王财金",
-          "score": 69.7,
-          "published_at": "2026-08-13T00:29:03+00:00"
+          "title": "光通信行业招聘需求整理",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZmywIrocJwNo7QsJE5Dg-71qXa8Fplpd91OhRmDv-Bl9BuIUfsm67cEmeY10-FXdStCiEr_Ka1TojF3hXgcayLj75hoe4mV8YaekBXF5Gge9jlhKOF8UHMDq77fePUH4myR3usMIMjDR5Rz2j_jQMz_kEpBHR-QgeFI0Bq-NC4zz74pSAxaYscNIKMTQ4y3KghWL2-Pu3ThlQ_LeJW-Rhtg..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=400B6D8A1A4D885662673A9FB0CD96396227BB346A7ED549",
+          "source": "搜狗微信·光电行业 · 猎头侦察兵",
+          "score": 69.2,
+          "published_at": "2026-08-13T09:25:26+00:00"
         }
       ],
       "top_terms": [
         "光通",
         "通信",
-        "算力",
-        "成交",
-        "光通信设备火了"
+        "光通信行业招聘需求整理",
+        "信行",
+        "行业"
+      ],
+      "rank": 7,
+      "heat": 42.0,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "光模块"
+      ],
+      "source_count": 2,
+      "signal_count": 2,
+      "sources": [
+        "搜狗微信·光电行业 · 中发国兴",
+        "搜狗微信·光电行业 · 梦想的第四维"
+      ],
+      "score": 42.0,
+      "latest_at": "2026-08-14T08:44:13.814235+00:00",
+      "title": "光模块的核心作用",
+      "id": "aa1a1bc394a3",
+      "links": [
+        {
+          "title": "光模块的核心作用",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZRPxTtg_Ri7w7QsJE5Dg-71qXa8Fplpd96c28hNpa3lResKI2nQJWpu4miUMF7AC7Ntbjtryspge0D1tJ2e5orDkjWhAKovy_xmfFc6a856cpRltAtvshBuOnotnvgwV_VqEEccjdJO_UiUyg_rIfKMnSewpj4455CjhloVV-YN5jG-OAl3vcgVvxFcCrOEx3VO0icUfeCers46dn8Efgxg..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=400B9B751A4D885662673A9FB0CD96396227BB346A7ED553",
+          "source": "搜狗微信·光电行业 · 中发国兴",
+          "score": 69.9,
+          "published_at": "2026-08-14T06:16:27+00:00"
+        },
+        {
+          "title": "光模块禁令阴影下的三大核心问题",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0wJUuXmWDUZRPxTtg_Ri7w7QsJE5Dg-71qXa8Fplpd9vCsiPYcJBA-ID3i7lUcjJR2xYoL89nGkIvouVfAXDUiqm7BdMGwOCveYPCwNYcO7Lk2BnjHXZMXbBtaadfpZxvkvczzdjM0MgPxhmMKHXzPb297xdfHGjNJGdSyNLvo4A2FE4tuB1UsKxAzGDzj6Y3glggIttVSfH36_sGtd-6HYl_Q5RRZQjg..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=400B9B751A4D885662673A9FB0CD96396227BB346A7ED553",
+          "source": "搜狗微信·光电行业 · 梦想的第四维",
+          "score": 69.7,
+          "published_at": "2026-08-14T00:32:02+00:00"
+        }
+      ],
+      "top_terms": [
+        "光模",
+        "模块",
+        "核心",
+        "光模块的核心作用",
+        "块的"
+      ],
+      "rank": 8,
+      "heat": 42.0,
+      "status": "关注中"
+    },
+    {
+      "terms": [],
+      "source_count": 1,
+      "signal_count": 3,
+      "sources": [
+        "C114中国通信网_要闻精选"
+      ],
+      "score": 38.0,
+      "latest_at": "2026-08-14T08:44:13.814235+00:00",
+      "title": "大招齐发，英特尔直击网络转型",
+      "id": "40753cddc649",
+      "links": [
+        {
+          "title": "大招齐发，英特尔直击网络转型",
+          "url": "http://www.c114.com.cn/topic/5096/a996852.html?utm_medium=C114&dclid=CLmNp8bEwdICFRwhKgodT4YHqQ",
+          "source": "C114中国通信网_要闻精选",
+          "score": 77.5,
+          "published_at": null
+        },
+        {
+          "title": "对话英特尔：产业协作与标准化助推5G成功",
+          "url": "http://www.c114.net/news/138/a996926.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 77.5,
+          "published_at": null
+        },
+        {
+          "title": "英特尔助力电信网络转型 让5G不再是“看上去很美”",
+          "url": "http://www.c114.net/topic/5096/a996887.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 77.5,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "英特",
+        "特尔",
+        "网络",
+        "络转",
+        "转型"
+      ],
+      "rank": 9,
+      "heat": 38.0,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "store"
+      ],
+      "source_count": 1,
+      "signal_count": 3,
+      "sources": [
+        "C114中国通信网_IT资讯"
+      ],
+      "score": 38.0,
+      "latest_at": "2026-08-14T08:44:13.814235+00:00",
+      "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
+      "id": "79ca1f2a334a",
+      "links": [
+        {
+          "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
+          "url": "https://www.c114.com.cn/news/213/a1282089.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
+          "published_at": null
+        },
+        {
+          "title": "苹果税惹麻烦：苹果在英国面临15亿英镑集体诉讼",
+          "url": "https://www.c114.com.cn/news/213/a1281942.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
+          "published_at": null
+        },
+        {
+          "title": "苹果公司在英面临15亿英镑司法索赔，被指在App Store收费“过高且不公平”",
+          "url": "https://www.c114.com.cn/news/213/a1281915.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "苹果",
+        "在英",
+        "亿英",
+        "英镑",
+        "英国"
       ],
       "rank": 10,
-      "heat": 42.0,
+      "heat": 38.0,
       "status": "关注中"
     }
   ]
