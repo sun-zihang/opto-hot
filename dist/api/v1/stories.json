@@ -1,16 +1,70 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T05:27:10.607430+00:00",
+  "generatedAt": "2026-08-19T05:19:14.424549+00:00",
   "count": 10,
   "items": [
     {
-      "id": "c0c15a80e110",
+      "id": "81a9ebe6dce8",
+      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
+      "status": "爆",
+      "heat": 86.0,
+      "sourceCount": 6,
+      "signalCount": 6,
+      "latestAt": "2026-08-19T05:19:14.424549+00:00",
+      "sources": [
+        "OFweek 激光频道",
+        "搜狗微信·光电行业 · 刺猬冬",
+        "搜狗微信·光电行业 · 大山品车",
+        "搜狗微信·光电行业 · 数码笔记",
+        "搜狗微信·光电行业 · 磊子工作室",
+        "搜狗微信·光电行业 · 锐车评"
+      ],
+      "links": [
+        {
+          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
+          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
+          "source": "OFweek 激光频道",
+          "score": 90.0,
+          "published_at": "2026-08"
+        },
+        {
+          "title": "卷疯了,激光雷达、高阶智驾、800V平台的4米5纯电SUV,只卖十万出头",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyv24OX1TBrNKBdmOd6ZQRInl3rJjHhjC1qXa8Fplpd9Gk1igvRSnDPUv6vEcoqO2Va4-LZL8FCa8mNOjAnfbr_0TwqbY5vBvB0_-mzmbu2FQkxTjd5d1ONr7vv9uUy2RENcYF0qXRVe_5IXzoYdntiyDrUDceZzPDoURL6KFrceHEHCySiCzbUN4SLgMzqx0XVXgJb81-hBS_hzTJ2lbd1hlgeRt7bSzA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=6400C0B1E5F9ED6257500E09DEC56ADE578FEAE16A853CCA",
+          "source": "搜狗微信·光电行业 · 锐车评",
+          "score": 79.9,
+          "published_at": "2026-08-19T01:11:55+00:00"
+        },
+        {
+          "title": "15.98万起、全系激光雷达,2026款领克08怎么选才不花冤枉钱?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyv24OX1TBrNKBdmOd6ZQRInl3rJjHhjC1qXa8Fplpd91T0kbUFCdDYs1_AJ8swSD08ZxiKfhWsiLoymEoujlhoU5sT2oCxsSpTQI_eL6UmXMLDava99gdmjOIeeuongiUKtYI7tPMSuIOan2ddDHU4JatRrYpIAlKErC3G6HrHJZPM4S97z7bc8RegdyGVEM6vQ437qukzDZY5A-0keuMwtPujwwRB2Pw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=6400C0B1E5F9ED6257500E09DEC56ADE578FEAE16A853CCA",
+          "source": "搜狗微信·光电行业 · 刺猬冬",
+          "score": 79.9,
+          "published_at": "2026-08-19T03:24:30+00:00"
+        },
+        {
+          "title": "深蓝L06降到11.2万起:全系激光雷达,13万级纯电车开始“卷”辅助驾驶了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyv24OX1TBrNKBdmOd6ZQRInl3rJjHhjC1qXa8Fplpd9GOHTl297EWlyx1sZs9e0iP8cw2pscEb8IG83x6X2zTZYaas5DHeWiARiTl9MBSJyNUO3vIYwl6zoWiP_uFvLlajkj5Qk4CXnmd9hPIW1koMTIFcXZC4K0R8bPRn6VoQxuniLhvrKoioe1b3XmdX2rGHS51kt-p-pmuinAIaGL6V6VKrzu_4XKA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=6400C0B1E5F9ED6257500E09DEC56ADE578FEAE16A853CCA",
+          "source": "搜狗微信·光电行业 · 磊子工作室",
+          "score": 79.9,
+          "published_at": "2026-08-19T03:09:13+00:00"
+        },
+        {
+          "title": "售6.39万元,8万出头就有激光雷达,零跑A05怎么选才不吃亏?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyv24OX1TBrNKBdmOd6ZQRInl3rJjHhjC1qXa8Fplpd9uecLmxFKwCrWw_PU7m--J1PVHcDgcML9-bcTLv8I_j3JR27xiXvgP8CIHfMu4FkZCjiss9dYt1Sl_-0Ni-kJgCthsA5sTtSbo3Ro_RpM2c7HC7SVutjl_y83h5457LKiWgLZ1lMqGzdnjBdvZGKzhe7egkdkjM1R984vaTpBm4nP28temKTOwg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=6400C0B1E5F9ED6257500E09DEC56ADE578FEAE16A853CCA",
+          "source": "搜狗微信·光电行业 · 大山品车",
+          "score": 79.9,
+          "published_at": "2026-08-19T02:58:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": "3e042460242d",
       "title": "Cold-atom comagnetometry via optical control of spin states",
       "status": "发酵中",
-      "heat": 75.0,
+      "heat": 76.1,
       "sourceCount": 3,
-      "signalCount": 24,
-      "latestAt": "2026-08-18T05:27:10.607430+00:00",
+      "signalCount": 14,
+      "latestAt": "2026-08-19T05:19:14.424549+00:00",
       "sources": [
         "Nature Photonics",
         "Phys.org 物理新闻",
@@ -21,36 +75,138 @@
           "title": "Cold-atom comagnetometry via optical control of spin states",
           "url": "https://www.nature.com/articles/s41566-026-01982-4",
           "source": "Nature Photonics",
-          "score": 94.0,
+          "score": 93.1,
           "published_at": "2026-08-17T00:00:00+00:00"
         },
         {
-          "title": "Hidden transverse-flow topology in partially coherent structured light",
-          "url": "https://arxiv.org/abs/2608.14923",
+          "title": "Fiber Nonlinearity Compensation of Coherent Signals Using Deep Photonic Reservoir Computer",
+          "url": "https://arxiv.org/abs/2608.17419",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.9,
-          "published_at": "2026-08-18T04:00:00+00:00"
+          "score": 90.0,
+          "published_at": "2026-08-19T04:00:00+00:00"
         },
         {
-          "title": "Reconfigurable microwave photonic Fano filters based on optical Kerr microcombs",
-          "url": "https://arxiv.org/abs/2608.15025",
+          "title": "Neutron Interferometers from Stacked Holographic Photopolymer Gratings",
+          "url": "https://arxiv.org/abs/2608.17708",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.9,
-          "published_at": "2026-08-18T04:00:00+00:00"
+          "score": 90.0,
+          "published_at": "2026-08-19T04:00:00+00:00"
         },
         {
-          "title": "Optical nonlinearity in a strongly interacting Rydberg atom ensemble",
-          "url": "https://arxiv.org/abs/2608.15072",
+          "title": "Conservation of Pseudoangular Momentum in the Radiative Emission and Optical Excitation of Valley-Polarized Surface Lattice Resonances",
+          "url": "https://arxiv.org/abs/2608.18005",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.9,
-          "published_at": "2026-08-18T04:00:00+00:00"
+          "score": 90.0,
+          "published_at": "2026-08-19T04:00:00+00:00"
         },
         {
-          "title": "Robust inverse design of non-periodic Bloch surface wave sensors",
-          "url": "https://arxiv.org/abs/2608.15152",
+          "title": "Temporally Distinguishing Photocatalytic Dynamics",
+          "url": "https://arxiv.org/abs/2608.17340",
           "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.9,
-          "published_at": "2026-08-18T04:00:00+00:00"
+          "score": 90.0,
+          "published_at": "2026-08-19T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "d7e5cf52ce31",
+      "title": "Edge-on perovskite detectors with suppressed shallow traps for counting X-ray photons at medical computed tomography fluxes",
+      "status": "发酵中",
+      "heat": 71.5,
+      "sourceCount": 3,
+      "signalCount": 10,
+      "latestAt": "2026-08-19T05:19:14.424549+00:00",
+      "sources": [
+        "Nature Photonics",
+        "Phys.org 物理新闻",
+        "arXiv 光学与光子学 (physics.optics)"
+      ],
+      "links": [
+        {
+          "title": "Edge-on perovskite detectors with suppressed shallow traps for counting X-ray photons at medical computed tomography fluxes",
+          "url": "https://www.nature.com/articles/s41566-026-01992-2",
+          "source": "Nature Photonics",
+          "score": 94.0,
+          "published_at": "2026-08-18T00:00:00+00:00"
+        },
+        {
+          "title": "Inductively Scalable, Single-Step Neural Surrogates for Wave-Scattering Inverse Problems",
+          "url": "https://arxiv.org/abs/2608.17344",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 90.0,
+          "published_at": "2026-08-19T04:00:00+00:00"
+        },
+        {
+          "title": "Robust Orbital Angular Momentum Transfer Using low-cost Diffractive Optics",
+          "url": "https://arxiv.org/abs/2608.17816",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 90.0,
+          "published_at": "2026-08-19T04:00:00+00:00"
+        },
+        {
+          "title": "Calibration-free single-frame super-resolution fluorescence microscopy",
+          "url": "https://arxiv.org/abs/2505.13293",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 90.0,
+          "published_at": "2026-08-19T04:00:00+00:00"
+        },
+        {
+          "title": "Model-free pattern separation of two-color ultrafast X-ray diffraction",
+          "url": "https://arxiv.org/abs/2508.19991",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 90.0,
+          "published_at": "2026-08-19T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "9b96fab425e0",
+      "title": "净利暴增186%！光库科技正在兑现AI算力红利",
+      "status": "发酵中",
+      "heat": 70.5,
+      "sourceCount": 3,
+      "signalCount": 8,
+      "latestAt": "2026-08-19T05:19:14.424549+00:00",
+      "sources": [
+        "C114中国通信网_通信财经",
+        "LEDinside 中文",
+        "OFweek 光电频道"
+      ],
+      "links": [
+        {
+          "title": "净利暴增186%！光库科技正在兑现AI算力红利",
+          "url": "https://optics.ofweek.com/2026-08/ART-8100-2500-30698997.html",
+          "source": "OFweek 光电频道",
+          "score": 95.0,
+          "published_at": "2026-08"
+        },
+        {
+          "title": "AR光学膜狂飙110%！日久光电Q2净利环比暴增135%",
+          "url": "https://optics.ofweek.com/2026-08/ART-8100-2500-30698618.html",
+          "source": "OFweek 光电频道",
+          "score": 95.0,
+          "published_at": "2026-08"
+        },
+        {
+          "title": "营收微增，净利翻倍？波长光电的“光学+”战略开始兑现",
+          "url": "https://optics.ofweek.com/2026-08/ART-8100-2500-30698227.html",
+          "source": "OFweek 光电频道",
+          "score": 95.0,
+          "published_at": "2026-08"
+        },
+        {
+          "title": "紫光股份：预计上半年净利润同比增长83.50%-122.89%",
+          "url": "https://www.c114.com.cn/news/123/a1313747.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 90.0,
+          "published_at": null
+        },
+        {
+          "title": "特发信息2026年上半年净利润预增超8倍，智慧服务板块贡献显著",
+          "url": "https://www.c114.com.cn/news/123/a1313628.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 90.0,
+          "published_at": null
         }
       ]
     },
@@ -61,7 +217,7 @@
       "heat": 62.5,
       "sourceCount": 1,
       "signalCount": 12,
-      "latestAt": "2026-08-18T05:27:10.607430+00:00",
+      "latestAt": "2026-08-19T05:19:14.424549+00:00",
       "sources": [
         "C114中国通信网_设备商"
       ],
@@ -104,87 +260,13 @@
       ]
     },
     {
-      "id": "e531f91eb4c4",
-      "title": "22.39万起!岚图追光S全系四激光雷达,20万级纯电SUV没这配置?",
-      "status": "发酵中",
-      "heat": 53.0,
-      "sourceCount": 3,
-      "signalCount": 3,
-      "latestAt": "2026-08-18T05:27:10.607430+00:00",
-      "sources": [
-        "搜狗微信·光电行业 · 30秒懂车",
-        "搜狗微信·光电行业 · 电车纪",
-        "搜狗微信·光电行业 · 钟叔驾道"
-      ],
-      "links": [
-        {
-          "title": "22.39万起!岚图追光S全系四激光雷达,20万级纯电SUV没这配置?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIKxaK2hA71PvLySqQN0poNFqXa8Fplpd9RfaPQSQt95mIlnEqro7aLdYuoZ0DVf70mTm51mkA9b2_9860O0L14M-i_od2DkT8bUH3ciekr61RdXnUaaLCxpPCp1n6R4pbvTWEmNl3Pqj_WCLXYEckHE8fw_twbD8xo8R0oO6d48lbPBPlRIZLpuDBmbJZJCl8ap530p2f2z7vzHZXxeLdyg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5D69ACA9FFC180812C2A7467A42FFF152D33129C6A83ED26",
-          "source": "搜狗微信·光电行业 · 电车纪",
-          "score": 72.5,
-          "published_at": "2026-08-18T05:04:22+00:00"
-        },
-        {
-          "title": "夜间智驾实测 四激光雷达VS纯视觉 岚图追光S真能看穿迷雾?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIKxaK2hA71PvLySqQN0poNFqXa8Fplpd9Ftyk4CO48oP9AmqvEcEBoWMM7WjuVD8TJJ6tVZcJClIC5R7uOeGynfRf53ffGHPLvD8qQIWLRtFwK6anELHhcOkF8FdsTXKbbtmwsSLz8EZ4zFx4w7s8U1BDYvrk3VfRBnN85QOJc3bYfEYRf-KR5IQ-QvGxx4hy6oRNDdzAYeyjotuuiAmOIg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5D69ACA9FFC180812C2A7467A42FFF152D33129C6A83ED26",
-          "source": "搜狗微信·光电行业 · 30秒懂车",
-          "score": 71.9,
-          "published_at": "2026-08-17T11:18:10+00:00"
-        },
-        {
-          "title": "钟观 | 四激光雷达杀入20万级:岚图追光S捅破的,何止是价格天花板",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIKxaK2hA71PvLySqQN0poNFqXa8Fplpd9j8dshk32WAkQjP76CWbHrb2Jk9MsE1f0HgiTjCowsQLiwJCKH2JKj6jEDO4M9MnMYy68Xvgg8I3gy31MGxPlhRpg4zuKeMzA-kdyRWK9laf0cEp9Uy_u6dZi7XEp5jwMDMa7_yuRjl3CiQL3GA7QQe8Zj1y0BIY6NOQ8iWBCogOjotuuiAmOIg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5D69ACA9FFC180812C2A7467A42FFF152D33129C6A83ED26",
-          "source": "搜狗微信·光电行业 · 钟叔驾道",
-          "score": 71.8,
-          "published_at": "2026-08-17T08:22:46+00:00"
-        }
-      ]
-    },
-    {
-      "id": "e9798748144a",
-      "title": "6.39万起,最大510km续航+激光雷达,零跑A05会成为黑马吗?",
-      "status": "发酵中",
-      "heat": 53.0,
-      "sourceCount": 3,
-      "signalCount": 3,
-      "latestAt": "2026-08-18T05:27:10.607430+00:00",
-      "sources": [
-        "搜狗微信·光电行业 · 30秒懂车",
-        "搜狗微信·光电行业 · 千千侃车",
-        "搜狗微信·光电行业 · 宝来168车友会"
-      ],
-      "links": [
-        {
-          "title": "6.39万起,最大510km续航+激光雷达,零跑A05会成为黑马吗?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIKxaK2hA71PvLySqQN0poNFqXa8Fplpd9jneWX3uXYikUYpKYyIu36mwUSAJstMo1XEqKgMsuPATqd3H7ELPa9J9PcbYYWUMk1KVFO0UouXlpgArZiuZQvThGzwmpZ97AIOdw3WCcaCH5BcXCJq6tEPoEGeyj-q51gUYWpc0lxFGCbBUOBQdWVk3KgDjCKNoYl6FWQkz-c4n1AfaFW2DefQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5D69ACA9FFC180812C2A7467A42FFF152D33129C6A83ED26",
-          "source": "搜狗微信·光电行业 · 宝来168车友会",
-          "score": 72.5,
-          "published_at": "2026-08-18T04:12:31+00:00"
-        },
-        {
-          "title": "马自达上新,搭载激光雷达,续航600km",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIKxaK2hA71PvLySqQN0poNFqXa8Fplpd9CENGzc7GJPJhuptckNqND8gC_R990Gx6nsAT3XCip8EvEzGsGYHu6aBXhnUJlAfGcuoUg1ZVSogKdlnVgnqo-QcfB89HgW7EFdEUA1KxAkRpj90rayHGlIrXNUgpM2eIHeNCjPjS3GKNQKAiUDR4gX7-fwCoiOAHq1GZ3hTXjifRtmyIGw2VAg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5D69ACA9FFC180812C2A7467A42FFF152D33129C6A83ED26",
-          "source": "搜狗微信·光电行业 · 千千侃车",
-          "score": 72.3,
-          "published_at": "2026-08-17T23:03:19+00:00"
-        },
-        {
-          "title": "5米1车长8系旗舰 激光雷达+双腔空悬 纯电续航900km 海狮08夯爆了",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIKxaK2hA71PvLySqQN0poNFqXa8Fplpd9Ftyk4CO48oP9AmqvEcEBoWMM7WjuVD8TJJ6tVZcJClIC5R7uOeGynXGSOQ6izCcrU0y97GvMbMJKPPB16icc7EILDdWZu0eXocGFyovYBWwbc4FNRSUYLBrrGnNaV05H1CjD_SzT1J9F9i_zRFBb4ihHzzWEaLI_4637RQqlBA9r1dbZWbKUeQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5D69ACA9FFC180812C2A7467A42FFF152D33129C6A83ED26",
-          "source": "搜狗微信·光电行业 · 30秒懂车",
-          "score": 71.9,
-          "published_at": "2026-08-17T11:18:10+00:00"
-        }
-      ]
-    },
-    {
       "id": "d7b47cd923b8",
       "title": "工信部对我国网络强国建设提出四点建议",
       "status": "关注中",
       "heat": 52.5,
       "sourceCount": 2,
       "signalCount": 5,
-      "latestAt": "2026-08-18T05:27:10.607430+00:00",
+      "latestAt": "2026-08-19T05:19:14.424549+00:00",
       "sources": [
         "C114中国通信网_监管",
         "C114中国通信网_要闻精选"
@@ -228,63 +310,13 @@
       ]
     },
     {
-      "id": "72e7a0ad66fa",
-      "title": "紫光股份：预计上半年净利润同比增长83.50%-122.89%",
-      "status": "关注中",
-      "heat": 52.5,
-      "sourceCount": 2,
-      "signalCount": 5,
-      "latestAt": "2026-08-18T05:27:10.607430+00:00",
-      "sources": [
-        "C114中国通信网_通信财经",
-        "LEDinside 中文"
-      ],
-      "links": [
-        {
-          "title": "紫光股份：预计上半年净利润同比增长83.50%-122.89%",
-          "url": "https://www.c114.com.cn/news/123/a1313747.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 82.5,
-          "published_at": null
-        },
-        {
-          "title": "特发信息2026年上半年净利润预增超8倍，智慧服务板块贡献显著",
-          "url": "https://www.c114.com.cn/news/123/a1313628.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 82.5,
-          "published_at": null
-        },
-        {
-          "title": "光库科技：预计2026年上半年净利润同比增长170%-190%",
-          "url": "https://www.c114.com.cn/news/123/a1313596.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 82.5,
-          "published_at": null
-        },
-        {
-          "title": "永鼎股份：预计上半年净利润同比增长57%-120%",
-          "url": "https://www.c114.com.cn/news/123/a1313347.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 82.5,
-          "published_at": null
-        },
-        {
-          "title": "最高净利润增长近2倍，6家光通信公布2026上半年业绩",
-          "url": "https://www.ledinside.cn/fsa/20260818-62366.html",
-          "source": "LEDinside 中文",
-          "score": 82.3,
-          "published_at": "2026-08-18"
-        }
-      ]
-    },
-    {
       "id": "f757af94ba9d",
       "title": "联想业绩下滑7成 16亿再卖楼：确能提亮财报",
       "status": "关注中",
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-08-18T05:27:10.607430+00:00",
+      "latestAt": "2026-08-19T05:19:14.424549+00:00",
       "sources": [
         "C114中国通信网_要闻精选",
         "C114中国通信网_通信财经"
@@ -307,13 +339,71 @@
       ]
     },
     {
+      "id": "071df073e70a",
+      "title": "天孚通信：预计2026年上半年净利润11.24亿元-13.04亿元",
+      "status": "关注中",
+      "heat": 42.0,
+      "sourceCount": 2,
+      "signalCount": 2,
+      "latestAt": "2026-08-19T05:19:14.424549+00:00",
+      "sources": [
+        "C114中国通信网_通信财经",
+        "LEDinside 中文"
+      ],
+      "links": [
+        {
+          "title": "天孚通信：预计2026年上半年净利润11.24亿元-13.04亿元",
+          "url": "https://www.c114.com.cn/news/123/a1314323.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 75.0,
+          "published_at": null
+        },
+        {
+          "title": "营利双增，天孚通信、优利德、德科立公布上半年业绩",
+          "url": "https://www.ledinside.cn/fsa/20260819-62372.html",
+          "source": "LEDinside 中文",
+          "score": 74.8,
+          "published_at": "2026-08-19"
+        }
+      ]
+    },
+    {
+      "id": "f3596e90ef88",
+      "title": "宇树科技计划登陆科创板 中国移动已投资",
+      "status": "关注中",
+      "heat": 42.0,
+      "sourceCount": 2,
+      "signalCount": 2,
+      "latestAt": "2026-08-19T05:19:14.424549+00:00",
+      "sources": [
+        "C114中国通信网_IT资讯",
+        "COEMA 中国光电子行业协会"
+      ],
+      "links": [
+        {
+          "title": "宇树科技计划登陆科创板 中国移动已投资",
+          "url": "https://www.c114.com.cn/news/212/a1292374.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 70.0,
+          "published_at": null
+        },
+        {
+          "title": "精密光纤激光器企业频准激光登陆科创板",
+          "url": "https://www.coema.org.cn/industry/202608/5795.html",
+          "source": "COEMA 中国光电子行业协会",
+          "score": 70.0,
+          "published_at": "2026-08"
+        }
+      ]
+    },
+    {
       "id": "dd6167943760",
       "title": "工业和信息化部量子信息标准化技术委员会成立",
       "status": "关注中",
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-08-18T05:27:10.607430+00:00",
+      "latestAt": "2026-08-19T05:19:14.424549+00:00",
       "sources": [
         "C114中国通信网_监管",
         "工信部要闻"
@@ -331,70 +421,6 @@
           "url": "https://www.c114.com.cn/news/550/a1301809.html",
           "source": "C114中国通信网_监管",
           "score": 65.0,
-          "published_at": null
-        }
-      ]
-    },
-    {
-      "id": "039db645df81",
-      "title": "华为乾崑激光雷达赋能!泰坦700山路辅助驾驶主观体验",
-      "status": "关注中",
-      "heat": 42.0,
-      "sourceCount": 2,
-      "signalCount": 2,
-      "latestAt": "2026-08-18T05:27:10.607430+00:00",
-      "sources": [
-        "搜狗微信·光电行业 · 太平洋汽车",
-        "搜狗微信·光电行业 · 换个角度看车市"
-      ],
-      "links": [
-        {
-          "title": "华为乾崑激光雷达赋能!泰坦700山路辅助驾驶主观体验",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIKxaK2hA71PvLySqQN0poNFqXa8Fplpd962vRPHfMcawe0LQ6EUbW23qZ2ztfA_bgoDL4dSXXJXYm_aZNFztOeZtrnkp2ipGKKv1uJTOUUXfwcCoFTF892-G3JZh25hTv8XWKMDdrnm1b6_1HbwihgD2IoQ5VsDzsh3zm9kbJhXfrS0z7z8q87YFnJB-c11TokKFKl5G5UJ6FW6cwuUnkdA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5D69ACA9FFC180812C2A7467A42FFF152D33129C6A83ED26",
-          "source": "搜狗微信·光电行业 · 换个角度看车市",
-          "score": 69.9,
-          "published_at": "2026-08-18T01:28:41+00:00"
-        },
-        {
-          "title": "交付突破20000台!华境S搭载舱内激光雷达,全系标配华为城区领航智驾",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwv_xF-VDnnIKxaK2hA71PvLySqQN0poNFqXa8Fplpd94fAbWLZcJmQI942Ou_0InEe82I_Cy-hrdPGbgDNP_1aO5rkca6EEyzPU51A0jstPaVb0X_bKUxxPZtB385OnnHMK5aIb5_NBPbgj5rtwfxi658Vqr7UzUvabhc0aAXbn9GVbqXCRuLb4hJQu7LZHGviXRKY4GbsCQlb5ec9VE6oCn9lOoZLP2Q..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5D69ACA9FFC180812C2A7467A42FFF152D33129C6A83ED26",
-          "source": "搜狗微信·光电行业 · 太平洋汽车",
-          "score": 69.4,
-          "published_at": "2026-08-17T13:15:48+00:00"
-        }
-      ]
-    },
-    {
-      "id": "40753cddc649",
-      "title": "大招齐发，英特尔直击网络转型",
-      "status": "关注中",
-      "heat": 38.0,
-      "sourceCount": 1,
-      "signalCount": 3,
-      "latestAt": "2026-08-18T05:27:10.607430+00:00",
-      "sources": [
-        "C114中国通信网_要闻精选"
-      ],
-      "links": [
-        {
-          "title": "大招齐发，英特尔直击网络转型",
-          "url": "http://www.c114.com.cn/topic/5096/a996852.html?utm_medium=C114&dclid=CLmNp8bEwdICFRwhKgodT4YHqQ",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
-        },
-        {
-          "title": "对话英特尔：产业协作与标准化助推5G成功",
-          "url": "http://www.c114.net/news/138/a996926.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
-        },
-        {
-          "title": "英特尔助力电信网络转型 让5G不再是“看上去很美”",
-          "url": "http://www.c114.net/topic/5096/a996887.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
           "published_at": null
         }
       ]
