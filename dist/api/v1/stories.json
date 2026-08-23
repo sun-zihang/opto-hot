@@ -1,62 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T05:06:39.862525+00:00",
+  "generatedAt": "2026-08-23T05:22:37.379287+00:00",
   "count": 10,
   "items": [
-    {
-      "id": "ee63b887cc25",
-      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-      "status": "爆",
-      "heat": 86.0,
-      "sourceCount": 6,
-      "signalCount": 6,
-      "latestAt": "2026-08-22T05:06:39.862525+00:00",
-      "sources": [
-        "OFweek 激光频道",
-        "搜狗微信·光电行业 · 太平洋汽车",
-        "搜狗微信·光电行业 · 新车新技术",
-        "搜狗微信·光电行业 · 机圈观察员",
-        "搜狗微信·光电行业 · 汽车之家",
-        "搜狗微信·光电行业 · 皮桃凯"
-      ],
-      "links": [
-        {
-          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
-          "source": "OFweek 激光频道",
-          "score": 90.0,
-          "published_at": "2026-08"
-        },
-        {
-          "title": "6座旗舰大型SUV!车顶激光雷达,方盒子造型,续航超2300公里!",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkZWdn8eekpkuLVB7nY8THG1qXa8Fplpd9hYuxIsXvevi0scoA8ixPyl2BtLstJ3cuRLHZi5Vz6QCKH_50Qr8Mn9Z-vh1xq0dnqjjtRoPMU7xajUXJ5_bRrqj1uYFROlzCbQ4DI-PeqP8gdIkJdzayREtJmBNVcxEAwDSVvWT3yWNmYRmRkUfVtE61_VCD6u9ISjPTv3ztqxGAFV_3u-a3OQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=77DF778FEED5152E3B3C62A18C7BBCF33B5C2A966A892E58",
-          "source": "搜狗微信·光电行业 · 汽车之家",
-          "score": 80.0,
-          "published_at": "2026-08-22T04:01:01+00:00"
-        },
-        {
-          "title": "11 万就上激光雷达,这 10 万级 800km+ 纯电新车,炸翻全场了!",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkZWdn8eekpkuLVB7nY8THG1qXa8Fplpd9kadxu9binyLBWS5AuypC3IEeND0-RCtcXLt7sMXFSqP97e2o6G9Genk3FfxTZf9VlDEBTpA3yaOUI35UOQhs8sE7t1vD-rrWfqUbg-nDAKt2zPdzmpM6Xu07us90YAwNQoqj5_HT6rFbIDlloYmt62gB4Kk1RzTQSLFT0NMQ2gIGX_iHL9MadA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=77DF778FEED5152E3B3C62A18C7BBCF33B5C2A966A892E58",
-          "source": "搜狗微信·光电行业 · 机圈观察员",
-          "score": 79.9,
-          "published_at": "2026-08-22T02:46:26+00:00"
-        },
-        {
-          "title": "12万级配激光雷达,吉利图啥",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkZWdn8eekpkuLVB7nY8THG1qXa8Fplpd9GD7FjeaHmL4-BS9ZWwnM1x_ww_AhPFvDjW4oDTV84HRCXL1AXm5kaeL_1BN4d1A0QRfxbTMVpXA0eZ361Otw4vURoEzs6RKf4hZbaJCLneksAdyNW0V9okf1orSJrAOhvOf8oHZpGEmrhZyfKq8N9noIi60kXSSMz-_GCs8vgkLy08OLTBhW0A..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=77DF778FEED5152E3B3C62A18C7BBCF33B5C2A966A892E58",
-          "source": "搜狗微信·光电行业 · 皮桃凯",
-          "score": 79.9,
-          "published_at": "2026-08-22T01:50:42+00:00"
-        },
-        {
-          "title": "全系标配800V+激光雷达,全新领克20登陆2026成都车展!9月正式上市",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbkZWdn8eekpkuLVB7nY8THG1qXa8Fplpd9SDA4vLZWi6psRtv4TbKFuKNWbE-W5BedOuKU65DWxl-QF0zvERL0TNKplLbFXnV9u9VUy2HCYFf5ocMJSKBaRe2C0bc1J1QMhamaWd0ifBSueZf6ymHEUiqsw5nL3r_i0JJxTcpeS7xpqx4i4B64D5U0e-dYhH1Yjrhqoz67EoWfxjh3za6jWA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=77DF778FEED5152E3B3C62A18C7BBCF33B5C2A966A892E58",
-          "source": "搜狗微信·光电行业 · 太平洋汽车",
-          "score": 79.3,
-          "published_at": "2026-08-21T09:58:51+00:00"
-        }
-      ]
-    },
     {
       "id": "73e319dffaa6",
       "title": "半年净利飙升163% ！光学巨头三大业务全线“超预期”",
@@ -64,7 +10,7 @@
       "heat": 76.4,
       "sourceCount": 3,
       "signalCount": 18,
-      "latestAt": "2026-08-22T05:06:39.862525+00:00",
+      "latestAt": "2026-08-23T05:22:37.379287+00:00",
       "sources": [
         "C114中国通信网_通信财经",
         "LEDinside 中文",
@@ -109,63 +55,13 @@
       ]
     },
     {
-      "id": "d7b47cd923b8",
-      "title": "工信部对我国网络强国建设提出四点建议",
-      "status": "关注中",
-      "heat": 52.5,
-      "sourceCount": 2,
-      "signalCount": 5,
-      "latestAt": "2026-08-22T05:06:39.862525+00:00",
-      "sources": [
-        "C114中国通信网_监管",
-        "C114中国通信网_要闻精选"
-      ],
-      "links": [
-        {
-          "title": "工信部对我国网络强国建设提出四点建议",
-          "url": "http://www.c114.net/news/16/a997101.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 82.5,
-          "published_at": null
-        },
-        {
-          "title": "工信部等四部门：到2035年，全面建成新型互联网基础设施",
-          "url": "https://www.c114.com.cn/news/550/a1313800.html",
-          "source": "C114中国通信网_监管",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "工信部全面开展算力态势感知自动化监测工作",
-          "url": "https://www.c114.com.cn/news/550/a1304689.html",
-          "source": "C114中国通信网_监管",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "工信部：2027年基本建成全域覆盖、高效畅通的城域毫秒级算力网络体系",
-          "url": "https://www.c114.com.cn/news/550/a1298868.html",
-          "source": "C114中国通信网_监管",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "工信部等七部门：按需布局算力基础设施 加速算力与行业融合应用",
-          "url": "https://www.c114.com.cn/news/550/a1298426.html",
-          "source": "C114中国通信网_监管",
-          "score": 72.5,
-          "published_at": null
-        }
-      ]
-    },
-    {
-      "id": "a195913a0ae8",
+      "id": "827178de46c3",
       "title": "广西通信管理局部署2026年规范校园电信市场管理工作",
       "status": "关注中",
-      "heat": 45.5,
+      "heat": 49.0,
       "sourceCount": 2,
-      "signalCount": 3,
-      "latestAt": "2026-08-22T05:06:39.862525+00:00",
+      "signalCount": 4,
+      "latestAt": "2026-08-23T05:22:37.379287+00:00",
       "sources": [
         "C114中国通信网_监管",
         "工信部要闻"
@@ -175,21 +71,128 @@
           "title": "广西通信管理局部署2026年规范校园电信市场管理工作",
           "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_f18cd3de197f41af8b02af6885f76deb.html",
           "source": "工信部要闻",
-          "score": 72.5,
+          "score": 75.0,
+          "published_at": null
+        },
+        {
+          "title": "贵州通信管理局召开2026年上半年全省通信发展管理办公室工作会议",
+          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_f2bb0dd5cba94ebb87ff020f53afa09b.html",
+          "source": "工信部要闻",
+          "score": 75.0,
           "published_at": null
         },
         {
           "title": "工信部部署2026年信息通信业安全生产与网络运行安全工作",
           "url": "https://www.c114.com.cn/news/550/a1307461.html",
           "source": "C114中国通信网_监管",
-          "score": 67.5,
+          "score": 70.0,
           "published_at": null
         },
         {
           "title": "工信部召开2026年信息通信业行风建设暨纠风工作会议",
           "url": "https://www.c114.com.cn/news/550/a1306739.html",
           "source": "C114中国通信网_监管",
-          "score": 67.5,
+          "score": 70.0,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "id": "8f0bcf0ce70e",
+      "title": "工业和信息化部批复浙江时空道宇科技有限公司开展卫星物联网业务商用试验",
+      "status": "关注中",
+      "heat": 42.0,
+      "sourceCount": 2,
+      "signalCount": 2,
+      "latestAt": "2026-08-23T05:22:37.379287+00:00",
+      "sources": [
+        "C114中国通信网_监管",
+        "工信部要闻"
+      ],
+      "links": [
+        {
+          "title": "工业和信息化部批复浙江时空道宇科技有限公司开展卫星物联网业务商用试验",
+          "url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_0ecb2a5a2b4e47aea9efb3d6bbeb0934.html",
+          "source": "工信部要闻",
+          "score": 70.0,
+          "published_at": null
+        },
+        {
+          "title": "工信部：将组织开展为期两年的卫星物联网业务商用试验",
+          "url": "https://www.c114.com.cn/news/550/a1298358.html",
+          "source": "C114中国通信网_监管",
+          "score": 65.0,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "id": "4eb86eab1fd0",
+      "title": "限时10.59万起,带激光雷达/845km续航,成都车展MG 07上市",
+      "status": "关注中",
+      "heat": 42.0,
+      "sourceCount": 2,
+      "signalCount": 2,
+      "latestAt": "2026-08-23T05:22:37.379287+00:00",
+      "sources": [
+        "搜狗微信·光电行业 · 30秒懂车",
+        "搜狗微信·光电行业 · 汽车匠人"
+      ],
+      "links": [
+        {
+          "title": "限时10.59万起,带激光雷达/845km续航,成都车展MG 07上市",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-EJnQR8ww6FwLxpw8L9XGFDbi7EA_McdlqXa8Fplpd97_raAAEOanc7lQjXfF1j4sb9M8oh7g8qyDjBkyBoSuoQ_-NN___C1qVKoOlaVBRbcz6YkFjn_NhK-sycL5LAe9_DJwzAxqNX1Nz3aIRkQns0s5T3mk_VHro4u2ai5SyffmY6LiHB4imjSApBiHevDWeYn3lKp-H_P6dJO7YVeXtCy6umSSPEsg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=7E87A7B4871EEC794C4B15FD416EC5754D36F5786A8A8396",
+          "source": "搜狗微信·光电行业 · 汽车匠人",
+          "score": 70.0,
+          "published_at": "2026-08-23T04:19:37+00:00"
+        },
+        {
+          "title": "13.99万起 5米车长C级尺寸 激光雷达+猎鹰700 综合续航超2000km",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-EJnQR8ww6FwLxpw8L9XGFDbi7EA_McdlqXa8Fplpd9T8r4CyxGWHF01tF-W6lN0Iih_5zTOCbV65oA02koG-qI0Nv3R1rPiYkNET8NxokhtkkYzDFjlKg19C7znR3MnzWLFH8T3UPAifJXp_T8nKT2oVmzJYD0O9Hn3kWiBR6Wx-qQaLh9WBU8eOvOzydKt5NkrdFS3Tgrsychrj8tVw4YJSSFPgfogQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=7E87A7B4871EEC794C4B15FD416EC5754D36F5786A8A8396",
+          "source": "搜狗微信·光电行业 · 30秒懂车",
+          "score": 69.3,
+          "published_at": "2026-08-22T10:04:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": "8f1b81c0ad90",
+      "title": "工信部等四部门：到2035年，全面建成新型互联网基础设施",
+      "status": "关注中",
+      "heat": 41.5,
+      "sourceCount": 1,
+      "signalCount": 4,
+      "latestAt": "2026-08-23T05:22:37.379287+00:00",
+      "sources": [
+        "C114中国通信网_监管"
+      ],
+      "links": [
+        {
+          "title": "工信部等四部门：到2035年，全面建成新型互联网基础设施",
+          "url": "https://www.c114.com.cn/news/550/a1313800.html",
+          "source": "C114中国通信网_监管",
+          "score": 70.0,
+          "published_at": null
+        },
+        {
+          "title": "工信部全面开展算力态势感知自动化监测工作",
+          "url": "https://www.c114.com.cn/news/550/a1304689.html",
+          "source": "C114中国通信网_监管",
+          "score": 70.0,
+          "published_at": null
+        },
+        {
+          "title": "工信部：2027年基本建成全域覆盖、高效畅通的城域毫秒级算力网络体系",
+          "url": "https://www.c114.com.cn/news/550/a1298868.html",
+          "source": "C114中国通信网_监管",
+          "score": 70.0,
+          "published_at": null
+        },
+        {
+          "title": "工信部等七部门：按需布局算力基础设施 加速算力与行业融合应用",
+          "url": "https://www.c114.com.cn/news/550/a1298426.html",
+          "source": "C114中国通信网_监管",
+          "score": 70.0,
           "published_at": null
         }
       ]
@@ -198,10 +201,10 @@
       "id": "830a47e48919",
       "title": "光产业链“小巨人”迎上市大考！元立光电北交所IPO明日上会",
       "status": "关注中",
-      "heat": 45.5,
+      "heat": 38.8,
       "sourceCount": 2,
       "signalCount": 3,
-      "latestAt": "2026-08-22T05:06:39.862525+00:00",
+      "latestAt": "2026-08-23T05:22:37.379287+00:00",
       "sources": [
         "LEDinside 中文",
         "OFweek 光电频道"
@@ -225,158 +228,149 @@
           "title": "元立光电IPO过会，募资2.8亿投向Mini/Micro LED等",
           "url": "https://www.ledinside.cn/news/20260821-62384.html",
           "source": "LEDinside 中文",
-          "score": 76.5,
+          "score": 75.6,
           "published_at": "2026-08-21"
         }
       ]
     },
     {
-      "id": "0142a27600a1",
-      "title": "超260个云项目背后：华为助力运营商建好云、用好云、管好云",
-      "status": "关注中",
-      "heat": 42.0,
-      "sourceCount": 2,
-      "signalCount": 2,
-      "latestAt": "2026-08-22T05:06:39.862525+00:00",
-      "sources": [
-        "C114中国通信网_要闻精选",
-        "C114中国通信网_设备商"
-      ],
-      "links": [
-        {
-          "title": "超260个云项目背后：华为助力运营商建好云、用好云、管好云",
-          "url": "http://www.c114.net/news/126/a997279.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 75.0,
-          "published_at": null
-        },
-        {
-          "title": "共建共享，华为云与滴普科技加速制造、零售行业智能化落地",
-          "url": "https://www.c114.com.cn/news/126/a1315633.html",
-          "source": "C114中国通信网_设备商",
-          "score": 75.0,
-          "published_at": null
-        }
-      ]
-    },
-    {
-      "id": "f1d9bb0193a1",
-      "title": "工业和信息化部量子信息标准化技术委员会成立",
-      "status": "关注中",
-      "heat": 42.0,
-      "sourceCount": 2,
-      "signalCount": 2,
-      "latestAt": "2026-08-22T05:06:39.862525+00:00",
-      "sources": [
-        "C114中国通信网_监管",
-        "工信部要闻"
-      ],
-      "links": [
-        {
-          "title": "工业和信息化部量子信息标准化技术委员会成立",
-          "url": "https://www.miit.gov.cn/xwfb/bldhd/art/2026/art_79e6b8bde1974fc9b120b0e18cb0b262.html",
-          "source": "工信部要闻",
-          "score": 70.0,
-          "published_at": null
-        },
-        {
-          "title": "工信部筹建量子信息标准化技术委员会",
-          "url": "https://www.c114.com.cn/news/550/a1301809.html",
-          "source": "C114中国通信网_监管",
-          "score": 65.0,
-          "published_at": null
-        }
-      ]
-    },
-    {
-      "id": "8f0bcf0ce70e",
-      "title": "工业和信息化部批复浙江时空道宇科技有限公司开展卫星物联网业务商用试验",
-      "status": "关注中",
-      "heat": 42.0,
-      "sourceCount": 2,
-      "signalCount": 2,
-      "latestAt": "2026-08-22T05:06:39.862525+00:00",
-      "sources": [
-        "C114中国通信网_监管",
-        "工信部要闻"
-      ],
-      "links": [
-        {
-          "title": "工业和信息化部批复浙江时空道宇科技有限公司开展卫星物联网业务商用试验",
-          "url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_0ecb2a5a2b4e47aea9efb3d6bbeb0934.html",
-          "source": "工信部要闻",
-          "score": 70.0,
-          "published_at": null
-        },
-        {
-          "title": "工信部：将组织开展为期两年的卫星物联网业务商用试验",
-          "url": "https://www.c114.com.cn/news/550/a1298358.html",
-          "source": "C114中国通信网_监管",
-          "score": 65.0,
-          "published_at": null
-        }
-      ]
-    },
-    {
-      "id": "98e6bafd8d87",
-      "title": "光模块行业深度投资研报",
-      "status": "关注中",
-      "heat": 42.0,
-      "sourceCount": 2,
-      "signalCount": 2,
-      "latestAt": "2026-08-22T05:06:39.862525+00:00",
-      "sources": [
-        "搜狗微信·光电行业 · 最丨投行",
-        "搜狗微信·光电行业 · 白谈茶码股道"
-      ],
-      "links": [
-        {
-          "title": "光模块行业深度投资研报",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbks92Xq5U-YD-LVB7nY8THG1qXa8Fplpd90oQmlruNDD6c6brDR1iAC_vBexCBbpz0VFE2fu3_920L6-jGr5Uwc-gC405OUN_2lStwS8g109v9CKDIY4f2cpRxP_wpniA7_riyaMTQGQq5zcu4ChsPHxQ13JAqkm7VD5hbPYSdfYdPkXk0xro7bhkn2QZU206q2QCSaLhdLTgY-UZGbO56rA..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=77DF6C9FEED5152E3B3C62A18C7BBCF33B5C2A966A892E55",
-          "source": "搜狗微信·光电行业 · 白谈茶码股道",
-          "score": 69.9,
-          "published_at": "2026-08-22T02:49:06+00:00"
-        },
-        {
-          "title": "光模块“全球独角兽”,港股IPO获证监会备案",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-DiNAqW3wbks92Xq5U-YD-LVB7nY8THG1qXa8Fplpd9ddiaMJ2ZvoqnFOibOXluM8iL_I8b2hwIhEKq_kdF8Xgc1CwLzlqi-YGBYWXCUD5i-PcXH3wRjdSkiMUOfyEN1NA9Wh-ZKhOtcwKk2iH19yBcx-MJgHByJ5jeYpJIcBqaJtiN-UcH3g9wIs17SHBvsF24_ngzdGlWaJhFJwiUXRkO8fIRwtipOg..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=77DF6C9FEED5152E3B3C62A18C7BBCF33B5C2A966A892E55",
-          "source": "搜狗微信·光电行业 · 最丨投行",
-          "score": 69.8,
-          "published_at": "2026-08-21T23:05:56+00:00"
-        }
-      ]
-    },
-    {
-      "id": "40753cddc649",
-      "title": "大招齐发，英特尔直击网络转型",
+      "id": "79ca1f2a334a",
+      "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
       "status": "关注中",
       "heat": 38.0,
       "sourceCount": 1,
       "signalCount": 3,
-      "latestAt": "2026-08-22T05:06:39.862525+00:00",
+      "latestAt": "2026-08-23T05:22:37.379287+00:00",
       "sources": [
-        "C114中国通信网_要闻精选"
+        "C114中国通信网_IT资讯"
       ],
       "links": [
         {
-          "title": "大招齐发，英特尔直击网络转型",
-          "url": "http://www.c114.com.cn/topic/5096/a996852.html?utm_medium=C114&dclid=CLmNp8bEwdICFRwhKgodT4YHqQ",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
+          "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
+          "url": "https://www.c114.com.cn/news/213/a1282089.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
           "published_at": null
         },
         {
-          "title": "对话英特尔：产业协作与标准化助推5G成功",
-          "url": "http://www.c114.net/news/138/a996926.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
+          "title": "苹果税惹麻烦：苹果在英国面临15亿英镑集体诉讼",
+          "url": "https://www.c114.com.cn/news/213/a1281942.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
           "published_at": null
         },
         {
-          "title": "英特尔助力电信网络转型 让5G不再是“看上去很美”",
-          "url": "http://www.c114.net/topic/5096/a996887.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
+          "title": "苹果公司在英面临15亿英镑司法索赔，被指在App Store收费“过高且不公平”",
+          "url": "https://www.c114.com.cn/news/213/a1281915.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "id": "73d623f9c5d7",
+      "title": "年内最贵新股上市：频准激光，高光之下亦有隐忧",
+      "status": "关注中",
+      "heat": 38.0,
+      "sourceCount": 1,
+      "signalCount": 3,
+      "latestAt": "2026-08-23T05:22:37.379287+00:00",
+      "sources": [
+        "OFweek 激光频道"
+      ],
+      "links": [
+        {
+          "title": "年内最贵新股上市：频准激光，高光之下亦有隐忧",
+          "url": "https://laser.ofweek.com/2026-08/ART-240001-8420-30698963.html",
+          "source": "OFweek 激光频道",
+          "score": 82.5,
+          "published_at": "2026-08"
+        },
+        {
+          "title": "年内最贵IPO诞生！",
+          "url": "https://laser.ofweek.com/2026-08/ART-240001-8110-30698915.html",
+          "source": "OFweek 激光频道",
+          "score": 82.5,
+          "published_at": "2026-08"
+        },
+        {
+          "title": "频准激光大额理财仍募资补流，毛利率两倍于同行，近千万买专利",
+          "url": "https://laser.ofweek.com/2026-08/ART-240002-12003-30696992.html",
+          "source": "OFweek 激光频道",
+          "score": 82.5,
+          "published_at": "2026-08"
+        }
+      ]
+    },
+    {
+      "id": "fe8614742dbc",
+      "title": "Ultrafast electron diffraction with MeV electron source from a laser wakefield accelerator",
+      "status": "关注中",
+      "heat": 34.0,
+      "sourceCount": 2,
+      "signalCount": 4,
+      "latestAt": "2026-08-23T05:22:37.379287+00:00",
+      "sources": [
+        "Nature Photonics",
+        "Phys.org 物理新闻"
+      ],
+      "links": [
+        {
+          "title": "Ultrafast electron diffraction with MeV electron source from a laser wakefield accelerator",
+          "url": "https://www.nature.com/articles/s41566-026-01980-6",
+          "source": "Nature Photonics",
+          "score": 76.5,
+          "published_at": "2026-08-19T00:00:00+00:00"
+        },
+        {
+          "title": "X-ray-driven Hanbury Brown and Twiss spectroscopy",
+          "url": "https://www.nature.com/articles/s41566-026-01981-5",
+          "source": "Nature Photonics",
+          "score": 71.5,
+          "published_at": "2026-08-13T00:00:00+00:00"
+        },
+        {
+          "title": "Correlated electrons extend X-ray high-harmonic generation beyond the single-electron limit",
+          "url": "https://www.nature.com/articles/s41566-026-01976-2",
+          "source": "Nature Photonics",
+          "score": 66.5,
+          "published_at": "2026-08-07T00:00:00+00:00"
+        },
+        {
+          "title": "Laser stability method advances precision control of electrons with light",
+          "url": "https://phys.org/news/2026-08-laser-stability-method-advances-precision.html",
+          "source": "Phys.org 物理新闻",
+          "score": 65.0,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "id": "f8b3f41f4569",
+      "title": "[News] Waveguide Materials and Next-Generation Architecture Research",
+      "status": "关注中",
+      "heat": 32.0,
+      "sourceCount": 2,
+      "signalCount": 2,
+      "latestAt": "2026-08-23T05:22:37.379287+00:00",
+      "sources": [
+        "LEDinside 英文",
+        "Phys.org 物理新闻"
+      ],
+      "links": [
+        {
+          "title": "[News] Waveguide Materials and Next-Generation Architecture Research",
+          "url": "//www.ledinside.com/news/2026/8/2026_08_19_03",
+          "source": "LEDinside 英文",
+          "score": 66.1,
+          "published_at": "2026-08-18T13:40:44+00:00"
+        },
+        {
+          "title": "3D-printed ceramic waveguide lasers could surpass the power of glass fiber lasers by 10 times",
+          "url": "https://phys.org/news/2026-08-3d-ceramic-waveguide-lasers-surpass.html",
+          "source": "Phys.org 物理新闻",
+          "score": 60.0,
           "published_at": null
         }
       ]
