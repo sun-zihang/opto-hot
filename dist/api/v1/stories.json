@@ -1,159 +1,160 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T04:12:31.996831+00:00",
+  "generatedAt": "2026-09-01T04:13:18.579731+00:00",
   "count": 10,
   "items": [
     {
-      "id": "57f0587eb8e2",
-      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-      "status": "爆",
-      "heat": 86.0,
-      "sourceCount": 6,
-      "signalCount": 6,
-      "latestAt": "2026-08-31T04:12:31.996831+00:00",
+      "id": "230acbf95733",
+      "title": "Time to embrace new platforms",
+      "status": "发酵中",
+      "heat": 74.3,
+      "sourceCount": 3,
+      "signalCount": 19,
+      "latestAt": "2026-09-01T04:13:18.579731+00:00",
       "sources": [
-        "OFweek 激光频道",
-        "搜狗微信·光电行业 · 三弟寻爱车",
-        "搜狗微信·光电行业 · 光影车志",
-        "搜狗微信·光电行业 · 固电车视界",
-        "搜狗微信·光电行业 · 车壹圈",
-        "搜狗微信·光电行业 · 野生草莓棉花糖"
-      ],
-      "links": [
-        {
-          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
-          "source": "OFweek 激光频道",
-          "score": 90.0,
-          "published_at": "2026-08"
-        },
-        {
-          "title": "11万级纯电SUV配激光雷达,丰田铂智3X开了5000公里后,真有这么香吗?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9jVtc_vylzDz3ZpEpij0FVlqXa8Fplpd9kSFN6x9S036ln0O9STNtK0wz71X9xK7P0Vq1P-1j0MNIwUF7yV2DmFoBAHaXpaz9U3NkWO2e_leH9S3AHD9iaUTjM9VbLbM23UWKp94y_jhgTVSLl9kCd6T33e57ITkRqvViLnaTtcszTNtsZbz7xG-zNjm-U9M-LjWEsJMB-X1Q_LeJW-Rhtg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=B900717B7F1B77EAEDEBB7BEEFA3BA16EE9911256A94FF27",
-          "source": "搜狗微信·光电行业 · 光影车志",
-          "score": 80.0,
-          "published_at": "2026-08-31T04:05:05+00:00"
-        },
-        {
-          "title": "13.59万买激光雷达+城市NOA,一汽-大众ID. AURA T6把合资电车拉回牌桌",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9jVtc_vylzDz3ZpEpij0FVlqXa8Fplpd918i7vQ29Yu99SSOQts_9eYGc81YN0gpG6V_2Av-7I0I3-jhesi0w7DMLQIplyz66RZnRXO-f9mfzdTljITXyYanzs6pSQdc-i76Yc3g8WyPPoI1A6drNokuv8K-ksnCcpzqMGEk1HzOP2hhBtqq010bhzPeoO_jecvwc4p3OxKgSYTqT4eyLmA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=B900717B7F1B77EAEDEBB7BEEFA3BA16EE9911256A94FF27",
-          "source": "搜狗微信·光电行业 · 三弟寻爱车",
-          "score": 79.9,
-          "published_at": "2026-08-31T00:32:35+00:00"
-        },
-        {
-          "title": "701km纯电续航 4颗激光雷达,商务MPV总撞脸 加个升降立标就够了?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9jVtc_vylzDz3ZpEpij0FVlqXa8Fplpd9y4kiESD6PT_arCMNoTROasYiC52naUPMePT7bwbdfncGfM05MAh4iuTmZUUthEt9A0-RT4FP7Nn10BU8Sa1zTqn7LZPPetGh41jsWoBKL5Fr0m7AFVMC2ii2tsLSgPfr7B9ThkuoXtxNXt8MIxx3ohYBcU7PepsZos2wK4AEQR4SYTqT4eyLmA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=B900717B7F1B77EAEDEBB7BEEFA3BA16EE9911256A94FF27",
-          "source": "搜狗微信·光电行业 · 固电车视界",
-          "score": 79.8,
-          "published_at": "2026-08-30T23:30:46+00:00"
-        },
-        {
-          "title": "10万以下的车装激光雷达是噱头还是真能用",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9jVtc_vylzDz3ZpEpij0FVlqXa8Fplpd9jAA5xIUhM-gwZVt3XW9SFH4decXgBzIhYQdXRrjHVdluVlT4ikBYWnJ2gZ5XGzG5e3cfLLpFFixFr7-7WwqPrrXtt2whgj78rIfKgTu-kCntVyJGk4EskKrY2aZZC-8i0Qw0qh2PdnZw_PtQgpwureWc4v85QGyWpM2jcLXsKk30OK9DLfgmPA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=B900717B7F1B77EAEDEBB7BEEFA3BA16EE9911256A94FF27",
-          "source": "搜狗微信·光电行业 · 野生草莓棉花糖",
-          "score": 79.3,
-          "published_at": "2026-08-30T08:58:48+00:00"
-        }
-      ]
-    },
-    {
-      "id": "43ea98641fb4",
-      "title": "Performance Optimization of Short Reach Optical Interconnects based on Direct Detection",
-      "status": "关注中",
-      "heat": 70.0,
-      "sourceCount": 2,
-      "signalCount": 10,
-      "latestAt": "2026-08-31T04:12:31.996831+00:00",
-      "sources": [
+        "Nature Photonics",
         "Phys.org 物理新闻",
         "arXiv 光学与光子学 (physics.optics)"
       ],
       "links": [
         {
-          "title": "Performance Optimization of Short Reach Optical Interconnects based on Direct Detection",
-          "url": "https://arxiv.org/abs/2608.28129",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 90.0,
-          "published_at": "2026-08-31T04:00:00+00:00"
+          "title": "Time to embrace new platforms",
+          "url": "https://www.nature.com/articles/s41566-026-01996-y",
+          "source": "Nature Photonics",
+          "score": 91.5,
+          "published_at": "2026-08-28T00:00:00+00:00"
         },
         {
-          "title": "Quantum many-body effects in the optical response of ideal thin films",
-          "url": "https://arxiv.org/abs/2608.28261",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 90.0,
-          "published_at": "2026-08-31T04:00:00+00:00"
+          "title": "The state and prospects of the European photonics sector",
+          "url": "https://www.nature.com/articles/s41566-026-02002-1",
+          "source": "Nature Photonics",
+          "score": 91.5,
+          "published_at": "2026-08-28T00:00:00+00:00"
         },
         {
-          "title": "Multi-dimensional spectroscopy of mobile excitons in two-dimensional semiconductors",
-          "url": "https://arxiv.org/abs/2608.27951",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 90.0,
-          "published_at": "2026-08-31T04:00:00+00:00"
+          "title": "Fluid motion and crystallization control enable air-processed fully screen-printed perovskite solar cells",
+          "url": "https://www.nature.com/articles/s41566-026-01991-3",
+          "source": "Nature Photonics",
+          "score": 90.7,
+          "published_at": "2026-08-27T00:00:00+00:00"
         },
         {
-          "title": "Full-field fluorescence computed tomography (F3CT) using a calibrated virtual cone-beam pinhole geometry",
-          "url": "https://arxiv.org/abs/2608.28275",
+          "title": "Artificial Intelligence in a Photonic Temporal Processor",
+          "url": "https://arxiv.org/abs/2608.29469",
           "source": "arXiv 光学与光子学 (physics.optics)",
           "score": 90.0,
-          "published_at": "2026-08-31T04:00:00+00:00"
+          "published_at": "2026-09-01T04:00:00+00:00"
         },
         {
-          "title": "Input-Output Analysis of Quantum Dot SUPER Excitation",
-          "url": "https://arxiv.org/abs/2608.28470",
+          "title": "Programmable generation of optical skyrmions on a silicon photonic chip",
+          "url": "https://arxiv.org/abs/2608.29551",
           "source": "arXiv 光学与光子学 (physics.optics)",
           "score": 90.0,
-          "published_at": "2026-08-31T04:00:00+00:00"
+          "published_at": "2026-09-01T04:00:00+00:00"
         }
       ]
     },
     {
-      "id": "2985dec2be91",
-      "title": "工业和信息化部介绍全力抓好“十五五”规划实施、加快推进新型工业化有关情况",
-      "status": "关注中",
-      "heat": 63.0,
-      "sourceCount": 2,
-      "signalCount": 8,
-      "latestAt": "2026-08-31T04:12:31.996831+00:00",
+      "id": "7d53d39f4287",
+      "title": "工信部对我国网络强国建设提出四点建议",
+      "status": "发酵中",
+      "heat": 74.0,
+      "sourceCount": 3,
+      "signalCount": 9,
+      "latestAt": "2026-09-01T04:13:18.579731+00:00",
       "sources": [
         "C114中国通信网_监管",
+        "C114中国通信网_要闻精选",
         "工信部要闻"
       ],
       "links": [
         {
+          "title": "工信部对我国网络强国建设提出四点建议",
+          "url": "http://www.c114.net/news/16/a997101.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 92.5,
+          "published_at": null
+        },
+        {
           "title": "工业和信息化部介绍全力抓好“十五五”规划实施、加快推进新型工业化有关情况",
           "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_934ddb14d33e4cd5b787d88a15c5c0eb.html",
           "source": "工信部要闻",
-          "score": 85.0,
+          "score": 87.5,
           "published_at": null
         },
         {
           "title": "两部门关于印发《安全应急装备产业发展“十五五”规划》的通知",
           "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_74a880b75f664878b9d5cb62412c014d.html",
           "source": "工信部要闻",
-          "score": 85.0,
+          "score": 87.5,
           "published_at": null
         },
         {
           "title": "持续向新向优发展！国新办就2026年上半年工业和信息化发展情况举行新闻发布会",
           "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_bc4cf76777cb4fd2896082ca2ff7039d.html",
           "source": "工信部要闻",
-          "score": 85.0,
+          "score": 87.5,
           "published_at": null
         },
         {
           "title": "工信部等四部门：到2035年，全面建成新型互联网基础设施",
           "url": "https://www.c114.com.cn/news/550/a1313800.html",
           "source": "C114中国通信网_监管",
-          "score": 80.0,
+          "score": 82.5,
           "published_at": null
+        }
+      ]
+    },
+    {
+      "id": "22e190ac10de",
+      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
+      "status": "发酵中",
+      "heat": 71.0,
+      "sourceCount": 5,
+      "signalCount": 5,
+      "latestAt": "2026-09-01T04:13:18.579731+00:00",
+      "sources": [
+        "OFweek 激光频道",
+        "搜狗微信·光电行业 · 可转债投资与学习",
+        "搜狗微信·光电行业 · 懂车",
+        "搜狗微信·光电行业 · 空城94",
+        "搜狗微信·光电行业 · 蜜蜂飞掉地上"
+      ],
+      "links": [
+        {
+          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
+          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
+          "source": "OFweek 激光频道",
+          "score": 87.5,
+          "published_at": "2026-08"
         },
         {
-          "title": "工信部全面开展算力态势感知自动化监测工作",
-          "url": "https://www.c114.com.cn/news/550/a1304689.html",
-          "source": "C114中国通信网_监管",
-          "score": 80.0,
-          "published_at": null
+          "title": "13.59万起!大众把激光雷达纯电SUV打到了这个价,合资这次是真急了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9J1qB18eBHZdsxjcsr7tdZ-GzzbiE4fbVqXa8Fplpd9VIgTzcNUH7WskmCYr99z8O7WNtb4ggZCM28RW-EFKDIfuVYcRQ_OCHy_OWWA8mbs2iekzkDzhKK3ctjL83wmBJ1is6e5aMaF9-oUBTAWwgs1_Gfj6nov8oPijZZw2E2Yi_ChRRQIiaiAMElcXJoCd3OVFs4yAnELoWU3HxloGI9e0WC6Sbi7DA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=BFFD9CCBC56A109FACAAF6C88D13E60CAC90EF126A9650D5",
+          "source": "搜狗微信·光电行业 · 可转债投资与学习",
+          "score": 77.4,
+          "published_at": "2026-09-01T01:58:27+00:00"
+        },
+        {
+          "title": "大众ID. AURA首款SUV曝光:激光雷达上车,4月21日见真章",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9J1qB18eBHZdsxjcsr7tdZ-GzzbiE4fbVqXa8Fplpd90HnRVtasP_j_4hmOWx2l5vzREiNtHST9Q9N8wfCzLyZdVcWjw3jTa9AaEuDasNWQUIKww00aDzio1JKQv3bCpKWY8Bsi0eRrPmrKgri64VJKKRuUm9PUWIzrDj7JULypm-Vg761fVDQ6NrO7zpjRDBCoVCIZ8INY8Fsar_WEujUO8fIRwtipOg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=BFFD9CCBC56A109FACAAF6C88D13E60CAC90EF126A9650D5",
+          "source": "搜狗微信·光电行业 · 空城94",
+          "score": 77.4,
+          "published_at": "2026-09-01T01:00:19+00:00"
+        },
+        {
+          "title": "“第九代奥迪A6L”能闭眼冲?激光雷达之前,先把量产身份问清楚",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9J1qB18eBHZdsxjcsr7tdZ-GzzbiE4fbVqXa8Fplpd94uIG1M3V-v00dIpJ_UjyvYS0n9IGcDcQZxrdBOSYlnA-2kzRdd2b6K7zQ20_1cr-vbRm7yh69ELk38LJoM0R3ScdrcppIdH8qZBw7emWcwn56AvPXi9QqQDMOvqOKPANmlKVwDYBXWTOkFaH3F7vBoj7Rb21HHkUI82S3WVyTVl6VKrzu_4XKA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=BFFD9CCBC56A109FACAAF6C88D13E60CAC90EF126A9650D5",
+          "source": "搜狗微信·光电行业 · 蜜蜂飞掉地上",
+          "score": 77.0,
+          "published_at": "2026-08-31T12:33:54+00:00"
+        },
+        {
+          "title": "最低9.99万起!配闪充+激光雷达,可选纯电/插混,凯美瑞怎么办?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9J1qB18eBHZdsxjcsr7tdZ-GzzbiE4fbVqXa8Fplpd9lqnSUNUuCsVIYYRbPwYSENJG35_8c8QdhnPKhp6R9jID9PJ24JtOrY_eatUKwj81N4PBYAVm-Y_dToTF2YcK_XKB-VOT9rz6kW9vZYcY-W-h9kdYdfZQBY3gdb0lxnp-Ckrfm0TmWZZbpFe9SMW0yzI69jxLnlh-uMIbAc32OXarCDCayYmfpA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=BFFD9CCBC56A109FACAAF6C88D13E60CAC90EF126A9650D5",
+          "source": "搜狗微信·光电行业 · 懂车",
+          "score": 74.4,
+          "published_at": "2026-08-28T10:35:30+00:00"
         }
       ]
     },
@@ -164,7 +165,7 @@
       "heat": 62.5,
       "sourceCount": 1,
       "signalCount": 12,
-      "latestAt": "2026-08-31T04:12:31.996831+00:00",
+      "latestAt": "2026-09-01T04:13:18.579731+00:00",
       "sources": [
         "C114中国通信网_通信财经"
       ],
@@ -213,7 +214,7 @@
       "heat": 49.0,
       "sourceCount": 2,
       "signalCount": 4,
-      "latestAt": "2026-08-31T04:12:31.996831+00:00",
+      "latestAt": "2026-09-01T04:13:18.579731+00:00",
       "sources": [
         "C114中国通信网_监管",
         "工信部要闻"
@@ -250,73 +251,30 @@
       ]
     },
     {
-      "id": "961f17f4a91c",
-      "title": "合计超30亿元，联讯仪器、联特科技加码高速光通信",
-      "status": "关注中",
-      "heat": 44.0,
-      "sourceCount": 2,
-      "signalCount": 4,
-      "latestAt": "2026-08-31T04:12:31.996831+00:00",
-      "sources": [
-        "COEMA 中国光电子行业协会",
-        "LEDinside 中文"
-      ],
-      "links": [
-        {
-          "title": "合计超30亿元，联讯仪器、联特科技加码高速光通信",
-          "url": "https://www.ledinside.cn/news/20260831-62444.html",
-          "source": "LEDinside 中文",
-          "score": 79.9,
-          "published_at": "2026-08-31"
-        },
-        {
-          "title": "烽火通信、亨通光电、联讯仪器、华工科技等6企发布2026上半年业绩",
-          "url": "https://www.ledinside.cn/fsa/20260827-62426.html",
-          "source": "LEDinside 中文",
-          "score": 76.5,
-          "published_at": "2026-08-27"
-        },
-        {
-          "title": "聚灿、海康、慧谷新材等发布2026年半年报",
-          "url": "https://www.coema.org.cn/industry/202607/5774.html",
-          "source": "COEMA 中国光电子行业协会",
-          "score": 75.0,
-          "published_at": "2026-07"
-        },
-        {
-          "title": "三安、TCL科技等6企披露半年度业绩预告",
-          "url": "https://www.coema.org.cn/industry/202607/5758.html",
-          "source": "COEMA 中国光电子行业协会",
-          "score": 75.0,
-          "published_at": "2026-07"
-        }
-      ]
-    },
-    {
-      "id": "b74db26db150",
-      "title": "Broadband heterodyne interferometry with a chirped femtosecond laser in the H-band",
+      "id": "0142a27600a1",
+      "title": "超260个云项目背后：华为助力运营商建好云、用好云、管好云",
       "status": "关注中",
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-08-31T04:12:31.996831+00:00",
+      "latestAt": "2026-09-01T04:13:18.579731+00:00",
       "sources": [
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
+        "C114中国通信网_要闻精选",
+        "C114中国通信网_设备商"
       ],
       "links": [
         {
-          "title": "Broadband heterodyne interferometry with a chirped femtosecond laser in the H-band",
-          "url": "https://arxiv.org/abs/2608.28098",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 70.0,
-          "published_at": "2026-08-31T04:00:00+00:00"
+          "title": "超260个云项目背后：华为助力运营商建好云、用好云、管好云",
+          "url": "http://www.c114.net/news/126/a997279.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 75.0,
+          "published_at": null
         },
         {
-          "title": "Deuterium enables chip waveguides to generate broadband light from infrared pulses",
-          "url": "https://phys.org/news/2026-08-deuterium-enables-chip-waveguides-generate.html",
-          "source": "Phys.org 物理新闻",
-          "score": 60.0,
+          "title": "共建共享，华为云与滴普科技加速制造、零售行业智能化落地",
+          "url": "https://www.c114.com.cn/news/126/a1315633.html",
+          "source": "C114中国通信网_设备商",
+          "score": 75.0,
           "published_at": null
         }
       ]
@@ -328,7 +286,7 @@
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-08-31T04:12:31.996831+00:00",
+      "latestAt": "2026-09-01T04:13:18.579731+00:00",
       "sources": [
         "C114中国通信网_IT资讯",
         "COEMA 中国光电子行业协会"
@@ -357,7 +315,7 @@
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-08-31T04:12:31.996831+00:00",
+      "latestAt": "2026-09-01T04:13:18.579731+00:00",
       "sources": [
         "C114中国通信网_监管",
         "工信部要闻"
@@ -380,30 +338,65 @@
       ]
     },
     {
-      "id": "8f0bcf0ce70e",
-      "title": "工业和信息化部批复浙江时空道宇科技有限公司开展卫星物联网业务商用试验",
+      "id": "04140ed959fc",
+      "title": "燃油SUV逆势加装激光雷达星越L PLUS反常识出牌17万起",
       "status": "关注中",
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-08-31T04:12:31.996831+00:00",
+      "latestAt": "2026-09-01T04:13:18.579731+00:00",
       "sources": [
-        "C114中国通信网_监管",
-        "工信部要闻"
+        "搜狗微信·光电行业 · 拜托了老司机",
+        "搜狗微信·光电行业 · 激动车站"
       ],
       "links": [
         {
-          "title": "工业和信息化部批复浙江时空道宇科技有限公司开展卫星物联网业务商用试验",
-          "url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_0ecb2a5a2b4e47aea9efb3d6bbeb0934.html",
-          "source": "工信部要闻",
-          "score": 70.0,
+          "title": "燃油SUV逆势加装激光雷达星越L PLUS反常识出牌17万起",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9J1qB18eBHZdsxjcsr7tdZ-GzzbiE4fbVqXa8Fplpd9IuGFTx7m8fs3wZODBfvQ2c0WiCV4aH3MgEVfo4Zjp1GA73wXOMX2gA1j040xpUBUFHo5quZNw9hxbw705AzWhZtdqwe8Ga5DsvnEnrm8fW4-zsgSkJL3boiByiuudx8fC8Vi0dTWvgrsdABU_3CtYsToqg3s4t8rZS7NacLcmB0Y-UZGbO56rA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=BFFD9CCBC56A109FACAAF6C88D13E60CAC90EF126A9650D5",
+          "source": "搜狗微信·光电行业 · 激动车站",
+          "score": 69.9,
+          "published_at": "2026-09-01T00:56:50+00:00"
+        },
+        {
+          "title": "激光雷达上车,尺寸更大!吉利星越L PLUS预告公布:细节不少",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9J1qB18eBHZdsxjcsr7tdZ-GzzbiE4fbVqXa8Fplpd9vkD5cNw1y4LEC02ps15VhzrZYCMXrLKXXcN5jnEvHUAJ2nsuWbHoYkUPNcludI5l3dtV2x5oEu7EY0aQMy0ke8ROPKYX6pQ3Gw2Xr6TO0T464aJYiz_5FCZMnWOAVzC6oMkEo993eCxSBBNPjnUKh8iq9kJ1v-oURGQCVq8vti8YJSSFPgfogQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=BFFD9CCBC56A109FACAAF6C88D13E60CAC90EF126A9650D5",
+          "source": "搜狗微信·光电行业 · 拜托了老司机",
+          "score": 69.4,
+          "published_at": "2026-08-31T12:13:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": "40753cddc649",
+      "title": "大招齐发，英特尔直击网络转型",
+      "status": "关注中",
+      "heat": 38.0,
+      "sourceCount": 1,
+      "signalCount": 3,
+      "latestAt": "2026-09-01T04:13:18.579731+00:00",
+      "sources": [
+        "C114中国通信网_要闻精选"
+      ],
+      "links": [
+        {
+          "title": "大招齐发，英特尔直击网络转型",
+          "url": "http://www.c114.com.cn/topic/5096/a996852.html?utm_medium=C114&dclid=CLmNp8bEwdICFRwhKgodT4YHqQ",
+          "source": "C114中国通信网_要闻精选",
+          "score": 77.5,
           "published_at": null
         },
         {
-          "title": "工信部：将组织开展为期两年的卫星物联网业务商用试验",
-          "url": "https://www.c114.com.cn/news/550/a1298358.html",
-          "source": "C114中国通信网_监管",
-          "score": 65.0,
+          "title": "对话英特尔：产业协作与标准化助推5G成功",
+          "url": "http://www.c114.net/news/138/a996926.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 77.5,
+          "published_at": null
+        },
+        {
+          "title": "英特尔助力电信网络转型 让5G不再是“看上去很美”",
+          "url": "http://www.c114.net/topic/5096/a996887.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 77.5,
           "published_at": null
         }
       ]
