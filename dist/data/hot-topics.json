@@ -1,240 +1,101 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T08:38:34.268914+00:00",
-  "count": 9,
+  "generatedAt": "2026-09-03T08:40:34.691661+00:00",
+  "count": 10,
   "items": [
     {
       "terms": [
-        "advances",
-        "altermagnetism",
-        "analog",
-        "analytical",
-        "asymmetric",
-        "back-reflection",
-        "bound",
-        "broadens",
-        "cascaded",
-        "cavities",
-        "coherence",
-        "computer",
-        "computing",
-        "constraints",
-        "continuum",
-        "density",
-        "detection",
-        "direct",
-        "disordered",
-        "effect",
-        "effects",
-        "european",
-        "exceptional",
-        "excitonic",
-        "fabrics",
-        "fibers",
-        "finite-source",
-        "first-principles",
-        "flatband",
-        "formation",
-        "four-wave",
-        "hard-to-model",
-        "high-responsivity",
-        "high-speed",
-        "hyperdoped",
-        "image",
-        "infrared",
-        "ionic-temperature",
-        "lasing",
-        "low-threshold",
-        "magnetic",
-        "magnetism",
-        "magnus",
-        "matter",
-        "mixing",
-        "modeling",
-        "negative-curvature",
-        "neural-network",
-        "non-hermitian",
-        "numerical",
-        "optical",
-        "optimization",
-        "parameterization",
-        "photodiode",
-        "photonic",
-        "photonics",
-        "physical",
-        "physics",
-        "points",
-        "propagation",
-        "prospects",
-        "quantum",
-        "quasiparticle",
-        "reaching",
-        "reduction",
-        "reflector",
-        "response",
-        "sector",
-        "sharpen",
-        "shock-compressed",
-        "short-wave",
-        "silicon",
-        "speckle",
-        "spectroscopy",
-        "state",
-        "states",
-        "strong",
-        "suppression",
-        "switching",
-        "synthetic-frequency",
-        "temperature",
-        "temporal",
-        "three-dimensional",
-        "tomography",
-        "vortex",
-        "waveguide",
-        "xenon-filled"
-      ],
-      "source_count": 3,
-      "signal_count": 15,
-      "sources": [
-        "Nature Photonics",
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "score": 76.2,
-      "latest_at": "2026-09-02T08:38:34.268914+00:00",
-      "title": "The state and prospects of the European photonics sector",
-      "id": "0260cba888a0",
-      "links": [
-        {
-          "title": "The state and prospects of the European photonics sector",
-          "url": "https://www.nature.com/articles/s41566-026-02002-1",
-          "source": "Nature Photonics",
-          "score": 90.5,
-          "published_at": "2026-08-28T00:00:00+00:00"
-        },
-        {
-          "title": "Modeling and Optimization of Cascaded Four-Wave Mixing toward the VUV in Xenon-Filled Negative-Curvature Fibers",
-          "url": "https://arxiv.org/abs/2609.00223",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-02T04:00:00+00:00"
-        },
-        {
-          "title": "Strong suppression of the photonic density of states in three-dimensional disordered silicon networks",
-          "url": "https://arxiv.org/abs/2609.00432",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-02T04:00:00+00:00"
-        },
-        {
-          "title": "Photonic magnetism and altermagnetism without magnetic materials",
-          "url": "https://arxiv.org/abs/2609.00741",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-02T04:00:00+00:00"
-        },
-        {
-          "title": "Direct Optimization of a 3D Finite-Source Reflector via Neural-Network Parameterization",
-          "url": "https://arxiv.org/abs/2609.00899",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-02T04:00:00+00:00"
-        }
-      ],
-      "top_terms": [
-        "optical",
-        "photonic",
-        "optimization",
-        "wave",
-        "states"
-      ],
-      "rank": 1,
-      "heat": 76.2,
-      "status": "发酵中"
-    },
-    {
-      "terms": [
-        "aura",
-        "智驾",
+        "lplus",
+        "mega",
         "激光",
         "激光雷达"
       ],
-      "source_count": 5,
-      "signal_count": 5,
+      "source_count": 7,
+      "signal_count": 7,
       "sources": [
         "OFweek 激光频道",
-        "搜狗微信·光电行业 · 一起去SUV",
-        "搜狗微信·光电行业 · 布布橘爱旅游",
-        "搜狗微信·光电行业 · 易车",
-        "搜狗微信·光电行业 · 隔壁老王说车"
+        "搜狗微信·光电行业 · 小小酥看车车",
+        "搜狗微信·光电行业 · 懂车",
+        "搜狗微信·光电行业 · 暖宝文案",
+        "搜狗微信·光电行业 · 木子李文利",
+        "搜狗微信·光电行业 · 极速竞技点",
+        "搜狗微信·光电行业 · 汽车阿福"
       ],
-      "score": 75.0,
-      "latest_at": "2026-09-02T08:38:34.268914+00:00",
+      "score": 89.5,
+      "latest_at": "2026-09-03T08:40:34.691661+00:00",
       "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-      "id": "31ae7023c327",
+      "id": "ee0b0dd322d4",
       "links": [
         {
           "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
           "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
           "source": "OFweek 激光频道",
-          "score": 87.5,
+          "score": 92.5,
           "published_at": "2026-08"
         },
         {
-          "title": "国产车把激光雷达智驾价格打下来了,普通家庭这回也能轻松开上",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwjkFw5D-fMyrDWVdo7qUDbViaqexe7iJVqXa8Fplpd9A06yHLQn1iQvEYPXGKQ7YLyD5nvHq65O-h8oJ54m23DsnGQ-ElS0lWr0XA_uBHgZajEipqN4ovZQMp-frjMLFSG4UpE84zeeRH22Z1zQbSNvj0nvCekqMJkbyfynAcxW4vFQey5qPws4Q4oYCAeaAQ8c6utmBS7PUL5o9WjsHCC54z_tGSZTqA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=C932FE46D2C6F4F75A5D0021AE15B73B5B18D4E36A97E082",
-          "source": "搜狗微信·光电行业 · 布布橘爱旅游",
-          "score": 77.5,
-          "published_at": "2026-09-02T07:37:32+00:00"
+          "title": "20万的国产SUV全系带激光雷达?这配置以前30万的车才舍得给",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlGf7vhn2gJv-j9PkevZ9PXk1qXa8Fplpd9czOg8DpaAs8Uhr0hY93PLK4Pl1HZWuU8CLXpGp7BdKhluFiE-WReYXY1HAbtGwlZi7FdXjd8jTzniZARkmRRAtuuyH2vG1CkT4Wy6R-EawNfX8KkCuaf6Ud8A5k0nrsiA9jCUQHsoeBvzzujIlDcTWshgZkcB3ajI_E5Rxy7y5v1AfaFW2DefQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=D114208DBDF7A3B915104C860C6BBDD6165847326A99327C",
+          "source": "搜狗微信·光电行业 · 汽车阿福",
+          "score": 82.5,
+          "published_at": "2026-09-03T08:33:30+00:00"
         },
         {
-          "title": "13.59万起,品牌首款搭激光雷达纯电SUV,4.75米转弯半径,大众ID. AURA T6开启预售!",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwjkFw5D-fMyrDWVdo7qUDbViaqexe7iJVqXa8Fplpd95nPqhuVGAqHauSYctkm0UtT0ppgofVl7Oxx7G5elgPzYqX3iZC9_wv9GS8AL9xYkZ-KxxcztntswBmU7vswaiwSQk7oHO9K5sZXJZImtXZtycgrQ-UM23Siy-ghDDx4tGgpVwz4GUwjcDc4pZIPnhZbepgec8U7ik-Waz8la3Afy08OLTBhW0A..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=C932FE46D2C6F4F75A5D0021AE15B73B5B18D4E36A97E082",
-          "source": "搜狗微信·光电行业 · 易车",
-          "score": 77.4,
-          "published_at": "2026-09-02T07:04:37+00:00"
+          "title": "十几万的长安新车全系都带激光雷达?充电只要吃顿饭功夫,跟小米YU7抢生意",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlGf7vhn2gJv-j9PkevZ9PXk1qXa8Fplpd9S5bxi_wKGOUSXoHGIfNxxv5YGxeb_3qx2SLaYd7sqV_vdnB3n12WWkj66J6_Q9c09DyY16EBNyc0S-5JrFBOXUcKYsGqxrcycSx7Rou-U4ZJjGo2JzCKLPuBxbNpjxfgDLII84vgihPJuhkQSZa_oUOoXicTP8_HlwpDGewg-NFS6t2rFt2rnA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=D114208DBDF7A3B915104C860C6BBDD6165847326A99327C",
+          "source": "搜狗微信·光电行业 · 暖宝文案",
+          "score": 82.5,
+          "published_at": "2026-09-03T08:24:21+00:00"
         },
         {
-          "title": "9月4日预售!长安启源Q06,携激光雷达上阵,中型SUV把配置直接拉满",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwjkFw5D-fMyrDWVdo7qUDbViaqexe7iJVqXa8Fplpd9_SbInyx_I7OJFXYMt_xRpXZh_KbnlfvOnOroLCT2eMzPQn6uQmM-0xoK_nKB9p-FFk3iHtj7ajwQpSvjb6HmWEbHYku0ZTDIHEbrcystbUrdV7yRO-4KO8G5d2q-_wx8aoOWWttJwdWst3BWCHG6_GFFUkub985_Sh9NkCu8Xg6fxjh3za6jWA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=C932FE46D2C6F4F75A5D0021AE15B73B5B18D4E36A97E082",
-          "source": "搜狗微信·光电行业 · 隔壁老王说车",
-          "score": 77.3,
-          "published_at": "2026-09-02T01:38:54+00:00"
+          "title": "以前只有豪车才装得起的激光雷达,现在十几万就能买,谁把价格打下来了?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlGf7vhn2gJv-j9PkevZ9PXk1qXa8Fplpd96ywDCAs0J3YnRWMU0I5YSn3kS7vAWpW0AVVSh6orcviBXKpB9aCOPtzBGfF5orRS6IOERy10QhrvhgR2MGab2iL8haVLqOh6pLEALyZQMkwLiAgCFalLO0pMiGmOk49MGdpZcSRYt8_F5tXk0TZB3Kr8h0Zqa1jgtJC-45mkwboYJSSFPgfogQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=D114208DBDF7A3B915104C860C6BBDD6165847326A99327C",
+          "source": "搜狗微信·光电行业 · 木子李文利",
+          "score": 82.5,
+          "published_at": "2026-09-03T07:43:28+00:00"
         },
         {
-          "title": "14万,大五座,有激光雷达,2000km续航,整车终身质保!",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwjkFw5D-fMyrDWVdo7qUDbViaqexe7iJVqXa8Fplpd9gc8XKYHH3zydAqpKzBceegCf4c-I5Iw3oPqLlxjrLYqzzUGj-DxhRRZTsIjo1kyYB_NkeEPG3oHSfCoehcnANBP-kRGAujtPI2wJiv5ZlsXbg0rnsBEapb6XKRCVIu-mSqN-YA4oOIV22iYXS160Vi21gwVoH1PdMvY0HpD12fq54z_tGSZTqA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=C932FE46D2C6F4F75A5D0021AE15B73B5B18D4E36A97E082",
-          "source": "搜狗微信·光电行业 · 一起去SUV",
-          "score": 76.9,
-          "published_at": "2026-09-01T15:15:10+00:00"
+          "title": "以前百万豪车才有的激光雷达,怎么十几万的家用SUV也装上了?堵车终于不用自己遭罪了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlGf7vhn2gJv-j9PkevZ9PXk1qXa8Fplpd9e7XBgQ84fTVWCzeT-1YPrK5mIkn7b9BF_EWCPahr5qT1AMpoc4Owch9KhdVXNurREUvd0tQCXl48UjDBdhxFZJg01rRz64bK4vbsk_3mYw0HTzK1Lw6Fm3oPcG7MxiVI7NZLbaLNSm_QVGbUS0hMbq0v0l1hSiDcMdv-yWtnMjKq3X8EKMKOIA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=D114208DBDF7A3B915104C860C6BBDD6165847326A99327C",
+          "source": "搜狗微信·光电行业 · 极速竞技点",
+          "score": 82.5,
+          "published_at": "2026-09-03T07:54:50+00:00"
         }
       ],
       "top_terms": [
         "激光",
         "光雷",
         "雷达",
-        "有激",
-        "配置"
+        "万的",
+        "来了"
       ],
-      "rank": 2,
-      "heat": 75.0,
-      "status": "发酵中"
+      "rank": 1,
+      "heat": 89.5,
+      "status": "爆"
     },
     {
       "terms": [
         "算力"
       ],
-      "source_count": 2,
-      "signal_count": 12,
+      "source_count": 3,
+      "signal_count": 13,
       "sources": [
         "C114中国通信网_监管",
+        "C114中国通信网_要闻精选",
         "工信部要闻"
       ],
-      "score": 70.0,
-      "latest_at": "2026-09-02T08:38:34.268914+00:00",
-      "title": "2026年全国工业和信息化经济运行监测协调工作座谈会在合肥召开",
-      "id": "a21521375968",
+      "score": 77.5,
+      "latest_at": "2026-09-03T08:40:34.691661+00:00",
+      "title": "工信部对我国网络强国建设提出四点建议",
+      "id": "ec3da0c59383",
       "links": [
+        {
+          "title": "工信部对我国网络强国建设提出四点建议",
+          "url": "http://www.c114.net/news/16/a997101.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 95.0,
+          "published_at": null
+        },
         {
           "title": "2026年全国工业和信息化经济运行监测协调工作座谈会在合肥召开",
           "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_213861644c274b92acaf01ab57d2fc12.html",
@@ -262,13 +123,6 @@
           "source": "工信部要闻",
           "score": 90.0,
           "published_at": null
-        },
-        {
-          "title": "2026年全国工业和信息化主管部门负责同...",
-          "url": "https://www.miit.gov.cn/xwfb/spgx/art/2026/art_b1c1f888aff84e6c9c01aeb37b2883ff.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
         }
       ],
       "top_terms": [
@@ -278,8 +132,278 @@
         "工业",
         "算力"
       ],
+      "rank": 2,
+      "heat": 77.5,
+      "status": "发酵中"
+    },
+    {
+      "terms": [
+        "all-optical",
+        "altermagnetic",
+        "angle-of-arrival",
+        "asymmetric",
+        "boron",
+        "breathing",
+        "broken",
+        "bullets",
+        "cancer",
+        "chaotic",
+        "communication",
+        "computer",
+        "computing",
+        "correlated",
+        "cylindrical",
+        "defect",
+        "defocus",
+        "detection",
+        "detectors",
+        "dichalcogenide",
+        "dimensional",
+        "disorder",
+        "distance",
+        "double",
+        "dwdm",
+        "dynamical",
+        "dynamics",
+        "effect",
+        "effects",
+        "exponential",
+        "fibers",
+        "fidelity",
+        "field",
+        "fluid",
+        "forecasting",
+        "free-space",
+        "function",
+        "geometry",
+        "grating",
+        "grin",
+        "hard",
+        "harmonic",
+        "heterojunctions",
+        "heterostructure",
+        "hexagonal",
+        "high-order",
+        "inference",
+        "intensity",
+        "interface-orientation",
+        "inverse",
+        "lateral",
+        "localization",
+        "long",
+        "magnons",
+        "magnus",
+        "mesoscopic",
+        "metal",
+        "metallizations",
+        "microscopy",
+        "microwave",
+        "multidimensional",
+        "multimodal",
+        "multiphoton",
+        "neural",
+        "nitride-based",
+        "nonlinear",
+        "nonlinearity",
+        "optical",
+        "optical-field",
+        "participation",
+        "photoemission",
+        "photon",
+        "photon-number-resolving",
+        "point-spread",
+        "polarization",
+        "probed",
+        "prominent",
+        "proposal",
+        "quantum",
+        "random-mapped",
+        "ratio",
+        "redistribution",
+        "refraction",
+        "reservoir",
+        "retrieval",
+        "reveals",
+        "rydberg-atom",
+        "scanning",
+        "self-shadowed",
+        "series",
+        "sharpen",
+        "single-shot",
+        "soft",
+        "sources",
+        "spatially-resolved",
+        "speedup",
+        "stabilisation",
+        "stabilization",
+        "static",
+        "strongly",
+        "structural",
+        "symmetry",
+        "symmetry-engineered",
+        "tissue",
+        "topological",
+        "transition",
+        "transmission",
+        "two-layer",
+        "universal",
+        "vapor-cell-mediated",
+        "yardstick"
+      ],
+      "source_count": 2,
+      "signal_count": 17,
+      "sources": [
+        "Phys.org 物理新闻",
+        "arXiv 光学与光子学 (physics.optics)"
+      ],
+      "score": 70.0,
+      "latest_at": "2026-09-03T08:40:34.691661+00:00",
+      "title": "Multidimensional Double Refraction Microscopy",
+      "id": "a64981749ff2",
+      "links": [
+        {
+          "title": "Multidimensional Double Refraction Microscopy",
+          "url": "https://arxiv.org/abs/2609.01703",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-03T04:00:00+00:00"
+        },
+        {
+          "title": "Asymmetric optical transmission from broken interface-orientation symmetry in self-shadowed grating metallizations",
+          "url": "https://arxiv.org/abs/2609.01755",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-03T04:00:00+00:00"
+        },
+        {
+          "title": "Rydberg-atom microwave angle-of-arrival detection via cylindrical vapor-cell-mediated field redistribution",
+          "url": "https://arxiv.org/abs/2609.02044",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-03T04:00:00+00:00"
+        },
+        {
+          "title": "Multidimensional Light Detection with Symmetry-engineered Heterojunctions",
+          "url": "https://arxiv.org/abs/2609.02161",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-03T04:00:00+00:00"
+        },
+        {
+          "title": "Static and breathing dynamics of optical bullets in nonlinear GRIN fibers",
+          "url": "https://arxiv.org/abs/2609.02374",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-03T04:00:00+00:00"
+        }
+      ],
+      "top_terms": [
+        "optical",
+        "quantum",
+        "detection",
+        "multidimensional",
+        "microscopy"
+      ],
       "rank": 3,
       "heat": 70.0,
+      "status": "关注中"
+    },
+    {
+      "terms": [],
+      "source_count": 1,
+      "signal_count": 11,
+      "sources": [
+        "C114中国通信网_通信财经"
+      ],
+      "score": 62.5,
+      "latest_at": "2026-09-03T08:40:34.691661+00:00",
+      "title": "光迅科技2026年上半年净利润5.82亿元，同比增长56.34%",
+      "id": "d69c04e9e09b",
+      "links": [
+        {
+          "title": "光迅科技2026年上半年净利润5.82亿元，同比增长56.34%",
+          "url": "https://www.c114.com.cn/news/123/a1315966.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
+        },
+        {
+          "title": "天孚通信2026年上半年净利润12.04亿元，同比增长33.92%",
+          "url": "https://www.c114.com.cn/news/123/a1315895.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
+        },
+        {
+          "title": "光库科技2026年上半年净利润1.48亿元，同比增长186.09%",
+          "url": "https://www.c114.com.cn/news/123/a1315809.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
+        },
+        {
+          "title": "锐捷网络2026年上半年净利润6.94亿元，同比增长53.54%",
+          "url": "https://www.c114.com.cn/news/123/a1315739.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
+        },
+        {
+          "title": "中科曙光上半年实现净利润9.78亿元，同比增长34.19%",
+          "url": "https://www.c114.com.cn/news/123/a1315661.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "亿元",
+        "上半",
+        "半年",
+        "净利",
+        "利润"
+      ],
+      "rank": 4,
+      "heat": 62.5,
+      "status": "关注中"
+    },
+    {
+      "terms": [],
+      "source_count": 2,
+      "signal_count": 2,
+      "sources": [
+        "C114中国通信网_要闻精选",
+        "C114中国通信网_设备商"
+      ],
+      "score": 42.0,
+      "latest_at": "2026-09-03T08:40:34.691661+00:00",
+      "title": "超260个云项目背后：华为助力运营商建好云、用好云、管好云",
+      "id": "0142a27600a1",
+      "links": [
+        {
+          "title": "超260个云项目背后：华为助力运营商建好云、用好云、管好云",
+          "url": "http://www.c114.net/news/126/a997279.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 75.0,
+          "published_at": null
+        },
+        {
+          "title": "共建共享，华为云与滴普科技加速制造、零售行业智能化落地",
+          "url": "https://www.c114.com.cn/news/126/a1315633.html",
+          "source": "C114中国通信网_设备商",
+          "score": 75.0,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "好云",
+        "华为",
+        "超",
+        "个云项目背后",
+        "个云"
+      ],
+      "rank": 5,
+      "heat": 42.0,
       "status": "关注中"
     },
     {
@@ -295,7 +419,7 @@
         "COEMA 中国光电子行业协会"
       ],
       "score": 42.0,
-      "latest_at": "2026-09-02T08:38:34.268914+00:00",
+      "latest_at": "2026-09-03T08:40:34.691661+00:00",
       "title": "宇树科技计划登陆科创板 中国移动已投资",
       "id": "f3596e90ef88",
       "links": [
@@ -321,7 +445,7 @@
         "创板",
         "激光"
       ],
-      "rank": 4,
+      "rank": 6,
       "heat": 42.0,
       "status": "关注中"
     },
@@ -334,7 +458,7 @@
         "工信部要闻"
       ],
       "score": 42.0,
-      "latest_at": "2026-09-02T08:38:34.268914+00:00",
+      "latest_at": "2026-09-03T08:40:34.691661+00:00",
       "title": "工业和信息化部绿色低碳标准化技术委员会成立",
       "id": "724502ae4fa0",
       "links": [
@@ -360,8 +484,53 @@
         "化技",
         "技术"
       ],
-      "rank": 5,
+      "rank": 7,
       "heat": 42.0,
+      "status": "关注中"
+    },
+    {
+      "terms": [],
+      "source_count": 1,
+      "signal_count": 3,
+      "sources": [
+        "C114中国通信网_要闻精选"
+      ],
+      "score": 38.0,
+      "latest_at": "2026-09-03T08:40:34.691661+00:00",
+      "title": "大招齐发，英特尔直击网络转型",
+      "id": "40753cddc649",
+      "links": [
+        {
+          "title": "大招齐发，英特尔直击网络转型",
+          "url": "http://www.c114.com.cn/topic/5096/a996852.html?utm_medium=C114&dclid=CLmNp8bEwdICFRwhKgodT4YHqQ",
+          "source": "C114中国通信网_要闻精选",
+          "score": 77.5,
+          "published_at": null
+        },
+        {
+          "title": "对话英特尔：产业协作与标准化助推5G成功",
+          "url": "http://www.c114.net/news/138/a996926.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 77.5,
+          "published_at": null
+        },
+        {
+          "title": "英特尔助力电信网络转型 让5G不再是“看上去很美”",
+          "url": "http://www.c114.net/topic/5096/a996887.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 77.5,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "英特",
+        "特尔",
+        "网络",
+        "络转",
+        "转型"
+      ],
+      "rank": 8,
+      "heat": 38.0,
       "status": "关注中"
     },
     {
@@ -374,7 +543,7 @@
         "C114中国通信网_IT资讯"
       ],
       "score": 38.0,
-      "latest_at": "2026-09-02T08:38:34.268914+00:00",
+      "latest_at": "2026-09-03T08:40:34.691661+00:00",
       "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
       "id": "79ca1f2a334a",
       "links": [
@@ -407,102 +576,7 @@
         "英镑",
         "英国"
       ],
-      "rank": 6,
-      "heat": 38.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [
-        "光子",
-        "光学"
-      ],
-      "source_count": 1,
-      "signal_count": 3,
-      "sources": [
-        "OFweek 光电频道"
-      ],
-      "score": 38.0,
-      "latest_at": "2026-09-02T08:38:34.268914+00:00",
-      "title": "净利润同比增长13.65%！宇瞳光学上半年实现营收17.82亿",
-      "id": "645e516f3e89",
-      "links": [
-        {
-          "title": "净利润同比增长13.65%！宇瞳光学上半年实现营收17.82亿",
-          "url": "https://optics.ofweek.com/2026-08/ART-8100-2500-30700612.html",
-          "source": "OFweek 光电频道",
-          "score": 82.5,
-          "published_at": "2026-08"
-        },
-        {
-          "title": "光学元组件同比增长45.75%！永新光学上半年实现营收5.64亿",
-          "url": "https://optics.ofweek.com/2026-08/ART-8100-2500-30700430.html",
-          "source": "OFweek 光电频道",
-          "score": 82.5,
-          "published_at": "2026-08"
-        },
-        {
-          "title": "战略聚焦数字光子学提速！光学巨头上半年实现营收124亿",
-          "url": "https://optics.ofweek.com/2026-08/ART-8100-2500-30700237.html",
-          "source": "OFweek 光电频道",
-          "score": 82.5,
-          "published_at": "2026-08"
-        }
-      ],
-      "top_terms": [
-        "光学",
-        "上半",
-        "半年",
-        "年实",
-        "实现"
-      ],
-      "rank": 7,
-      "heat": 38.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [
-        "apec"
-      ],
-      "source_count": 1,
-      "signal_count": 3,
-      "sources": [
-        "工信部要闻"
-      ],
-      "score": 38.0,
-      "latest_at": "2026-09-02T08:38:34.268914+00:00",
-      "title": "工业和信息化部举行“第32次亚太经合组织（APEC）中小企业部长会议新闻通气会”",
-      "id": "e8e243d38e08",
-      "links": [
-        {
-          "title": "工业和信息化部举行“第32次亚太经合组织（APEC）中小企业部长会议新闻通气会”",
-          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_0c0a3ae10f1b41d88813ab3ad5f6df54.html",
-          "source": "工信部要闻",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "2026年亚太经合组织（APEC）数字和人工智能部长会议新闻发布会在成都召开",
-          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d109e2b6dc4844cc902a1f6f49712f67.html",
-          "source": "工信部要闻",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "工业和信息化部举行“亚太经合组织（APEC）2026年数字和人工智能部长会议及数字周相关活动新闻通气会”",
-          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a1dcaacc0394430fa13197ef3946dece.html",
-          "source": "工信部要闻",
-          "score": 72.5,
-          "published_at": null
-        }
-      ],
-      "top_terms": [
-        "亚太",
-        "太经",
-        "经合",
-        "合组",
-        "组织"
-      ],
-      "rank": 8,
+      "rank": 9,
       "heat": 38.0,
       "status": "关注中"
     },
@@ -511,44 +585,44 @@
       "source_count": 1,
       "signal_count": 3,
       "sources": [
-        "中国政府采购网"
+        "工信部要闻"
       ],
-      "score": 18.0,
-      "latest_at": "2026-09-02T08:38:34.268914+00:00",
-      "title": "赵乐际主持召开十四届全国人大常委会...",
-      "id": "50233d9c196a",
+      "score": 38.0,
+      "latest_at": "2026-09-03T08:40:34.691661+00:00",
+      "title": "工业和信息化部等七部门办公厅（办公室）关于开展2026年工业和信息化领域创新任务揭榜挂帅工作的通知",
+      "id": "b4457e0f5a58",
       "links": [
         {
-          "title": "赵乐际主持召开十四届全国人大常委会...",
-          "url": "https://www.ccgp.gov.cn/news/202606/t20260617_26763914.htm",
-          "source": "中国政府采购网",
-          "score": 47.5,
-          "published_at": "2026-06-17"
+          "title": "工业和信息化部等七部门办公厅（办公室）关于开展2026年工业和信息化领域创新任务揭榜挂帅工作的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_286751ceaf944364b5c282cacd71cb09.html",
+          "source": "工信部要闻",
+          "score": 72.5,
+          "published_at": null
         },
         {
-          "title": "财政部2026年度立法工作安排",
-          "url": "https://www.ccgp.gov.cn/news/202606/t20260608_26702139.htm",
-          "source": "中国政府采购网",
-          "score": 47.5,
-          "published_at": "2026-06-08"
+          "title": "工业和信息化部等六部门办公厅（综合司）关于开展2026年度智能工厂梯度培育行动的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_bbccc17a650749c2a76569679350fa5d.html",
+          "source": "工信部要闻",
+          "score": 72.5,
+          "published_at": null
         },
         {
-          "title": "全国人大常委会2026年度立法工作计划",
-          "url": "https://www.ccgp.gov.cn/news/202605/t20260512_26549039.htm",
-          "source": "中国政府采购网",
-          "score": 47.5,
-          "published_at": "2026-05-12"
+          "title": "辽宁通信管理局组织开展2026年工业和信息化领域创新任务揭榜挂帅申报工作",
+          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_7cd6cbdca9c84da6ad86de5ecfe1b340.html",
+          "source": "工信部要闻",
+          "score": 72.5,
+          "published_at": null
         }
       ],
       "top_terms": [
-        "全国",
-        "国人",
-        "人大",
-        "大常",
-        "常委"
+        "工业",
+        "业和",
+        "和信",
+        "信息",
+        "息化"
       ],
-      "rank": 9,
-      "heat": 18.0,
+      "rank": 10,
+      "heat": 38.0,
       "status": "关注中"
     }
   ]
