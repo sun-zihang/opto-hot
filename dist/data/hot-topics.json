@@ -1,218 +1,92 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T08:36:31.292952+00:00",
+  "generatedAt": "2026-09-05T08:11:14.673660+00:00",
   "count": 10,
   "items": [
     {
       "terms": [
-        "freelander",
+        "id.aura",
         "激光",
         "激光雷达"
       ],
-      "source_count": 6,
-      "signal_count": 6,
+      "source_count": 7,
+      "signal_count": 7,
       "sources": [
         "OFweek 激光频道",
-        "搜狗微信·光电行业 · 52城市",
-        "搜狗微信·光电行业 · 失宠小野猫",
-        "搜狗微信·光电行业 · 看日出的超",
-        "搜狗微信·光电行业 · 科技大而问",
-        "搜狗微信·光电行业 · 车世界周之刊"
+        "搜狗微信·光电行业 · Lucky深度观察",
+        "搜狗微信·光电行业 · sw-青山溪.",
+        "搜狗微信·光电行业 · 一荤一素醉流年",
+        "搜狗微信·光电行业 · 丁香4149",
+        "搜狗微信·光电行业 · 拜托了老司机",
+        "搜狗微信·光电行业 · 瓜田汪星人"
       ],
-      "score": 86.0,
-      "latest_at": "2026-09-04T08:36:31.292952+00:00",
+      "score": 89.5,
+      "latest_at": "2026-09-05T08:11:14.673660+00:00",
       "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-      "id": "c6a9e7147d62",
+      "id": "0d973dd1f81d",
       "links": [
         {
           "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
           "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
           "source": "OFweek 激光频道",
-          "score": 90.0,
+          "score": 92.5,
           "published_at": "2026-08"
         },
         {
-          "title": "以前20万以上的车才配激光雷达,长安新车15万全系标配,比亚迪宋L咋接招?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5YBoZVHco0mSmLcDXlSkVTOdOWW4pepWFqXa8Fplpd90Ug-kkw3JkWcfX8QLwFXnkIrkkKCjQ_Rr-rqebxFpLZHyr0ZdF-TmZJ3kEvEVD0I6u4Zh2jUJ0UK0XBs0YCjETxf4-6ICZ901IAUFQkA7Gxf2KHEL1NWzpLRCoa-MadfNMdUtAJ67nDpwpRRFPSq_N-hwR_ZowrtdevscogHq-NCy6umSSPEsg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=D8B0B44DA9D4C8675E5804FB779798C75FDF21EF6A9A8308",
-          "source": "搜狗微信·光电行业 · 看日出的超",
-          "score": 80.0,
-          "published_at": "2026-09-04T07:29:46+00:00"
+          "title": "6万多就能上激光雷达+8295芯片?零跑A10这波操作,把10万级纯电卷到天花板了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5YBoZVHco0mZX9-JWIlvcCnXY-HrJD0AFqXa8Fplpd91qxo9IRu0Sj6y8s0VsV5Ofo2N7qP1LxY_o1GrE0BWONySlOWJkw9I5SKNRJp8ridR0-MfEH9OeqtweJnScStHnG7Wr_3GbBt0keZdXjKXltMRsP7aTklBwj9EU6h4ERZ9-GCyRfDoDmYU-Zk4CO9q9UqOgnZ_h4M6V1JA0m_0HW54z_tGSZTqA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=E07BE4765E63821A5F5804E8B4A329BE5F8989506A9BCE9A",
+          "source": "搜狗微信·光电行业 · 丁香4149",
+          "score": 82.4,
+          "published_at": "2026-09-05T04:45:06+00:00"
         },
         {
-          "title": "直降2万!丰田突然开卷:激光雷达上车,最低16.18万",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5YBoZVHco0mSmLcDXlSkVTOdOWW4pepWFqXa8Fplpd9slMvKlttj-OCY7hqriFFfgxy58K7i6JymHaVc0Jr4TuJxDl0Ly11eB6H9RqMXCxv2rPPyu0xD8rjuMLg02ROz_yxGo_M--LdBoFa1icNBZcrAmQv_PwvdYSBcg_F001noqFwVT4YBwiC8XDUXo1U9RP8shxlsljjTKQ6yJi2eiQYJSSFPgfogQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=D8B0B44DA9D4C8675E5804FB779798C75FDF21EF6A9A8308",
-          "source": "搜狗微信·光电行业 · 52城市",
-          "score": 80.0,
-          "published_at": "2026-09-04T07:11:23+00:00"
+          "title": "20.18万起步就能拿下激光雷达+大六座?长城H10把同级对手都卷慌了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5YBoZVHco0mZX9-JWIlvcCnXY-HrJD0AFqXa8Fplpd93Pfag-6tQxfbJg2KxjBglgrOF_3cPDOCRsgis35JgXjTDa4u4WxjApbNDsBWl3mjyQ3AakheuuGlyFNQ-nQE9g_OZJuMxSZqT920qGS08ITqsZxG-zUWXjEkCl2nsjmBwEmoBOZZ8Wv7OInBp6kpyBartTF-f0BFU-eQ2VUoX1HS-e4Yz84xMA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=E07BE4765E63821A5F5804E8B4A329BE5F8989506A9BCE9A",
+          "source": "搜狗微信·光电行业 · sw-青山溪.",
+          "score": 82.2,
+          "published_at": "2026-09-04T23:16:21+00:00"
         },
         {
-          "title": "搭载896线激光雷达,FREELANDER神行者8上市,权益价28.99万起",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5YBoZVHco0mSmLcDXlSkVTOdOWW4pepWFqXa8Fplpd9ej0y93lstsky4iUnwefugNR3tZU26meKspQPZlXEdwRwtXN8psPPtqZnza0xIpnjiA784xxsdC0whyntVLhY8PW-0sEODPXvpXeG3zKpZdeuXan_4E1fxR0X5lL0f_mUn8qxooDlT9wZsiBBIw2YXDcH5QLDuZauNcjFiooUP2XYl_Q5RRZQjg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=D8B0B44DA9D4C8675E5804FB779798C75FDF21EF6A9A8308",
-          "source": "搜狗微信·光电行业 · 车世界周之刊",
-          "score": 79.9,
-          "published_at": "2026-09-04T04:26:38+00:00"
+          "title": "24.99万起4颗激光雷达加L3架构加20秒变大床房,这台华系阔五座把家用SUV卷没了天花板",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5YBoZVHco0mZX9-JWIlvcCnXY-HrJD0AFqXa8Fplpd97jLkdJ9QJFFv8PaxDi5p52O5RDYP4vb-ebeyxgVPmaAyF8zK6chuKbzxmS12e_J-RgRIEaawDGd3T17C1YhFjvklvW6i4ltCK4mVaV5BsAJsmUM1uHQilt_LruDeoFyZDfR5XnkddZqAO_wfmx3SV8-qgh0drVrb_0RJeP_JVB8HpHkoPMgL3A..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=E07BE4765E63821A5F5804E8B4A329BE5F8989506A9BCE9A",
+          "source": "搜狗微信·光电行业 · Lucky深度观察",
+          "score": 82.2,
+          "published_at": "2026-09-05T00:10:53+00:00"
         },
         {
-          "title": "激光雷达卖到上百万,中国团队100块就顶上了,老外没想到会这么快?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5YBoZVHco0mSmLcDXlSkVTOdOWW4pepWFqXa8Fplpd91QFwydtkwpBGTmQggqjcU_bNzF_92Wb1_JYU6iSO7-tO25-66CSuB69kszKttexda1fUAKIiY6DVWxHjLuGjidiYv2Lc5o8jkaYj_QbpoKq0WY2XA_uStidqzNcxFQq-bNNYiM-aO_W_Ujz-xPZ60_ulXb99612A-ijlHYj9PoLm0CtGSSkZQQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=D8B0B44DA9D4C8675E5804FB779798C75FDF21EF6A9A8308",
-          "source": "搜狗微信·光电行业 · 科技大而问",
-          "score": 79.9,
-          "published_at": "2026-09-04T06:15:16+00:00"
+          "title": "13.59万起的德系纯电SUV,带激光雷达,ID.AURA T6预售信息梳理",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5YBoZVHco0mZX9-JWIlvcCnXY-HrJD0AFqXa8Fplpd9DxAqnVRorwVbE0jDWyexVkekyhk7poW_uK26ht51mp1vmYoJWiyZE-6komGpPi-lILWJHp2lKmwTwlNBPnqjRL5L9PA2ayVpqkgV5iw_3VN1rsXloCut9nkHPwdWIgrz01xFZdWJn62b5PdPkbwzI7_YW3SFOYk_vNe-vJtVtqYGX_iHL9MadA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=E07BE4765E63821A5F5804E8B4A329BE5F8989506A9BCE9A",
+          "source": "搜狗微信·光电行业 · 一荤一素醉流年",
+          "score": 82.2,
+          "published_at": "2026-09-04T23:57:09+00:00"
         }
       ],
       "top_terms": [
         "激光",
         "光雷",
         "雷达",
-        "以前",
-        "万的"
+        "万起",
+        "预售"
       ],
       "rank": 1,
-      "heat": 86.0,
+      "heat": 89.5,
       "status": "爆"
-    },
-    {
-      "terms": [
-        "cdsnp2-based",
-        "coherent",
-        "communication",
-        "core",
-        "curing",
-        "efficiency",
-        "embrace",
-        "estimation",
-        "european",
-        "even",
-        "excelitas",
-        "expanded",
-        "explainable",
-        "flexibility",
-        "glass",
-        "grammar-based",
-        "greater",
-        "higher",
-        "integrated",
-        "interface",
-        "interferometer",
-        "introduces",
-        "learning-assisted",
-        "led",
-        "links",
-        "machine",
-        "micro",
-        "micro led",
-        "microresonator",
-        "microwave",
-        "neutral-atom",
-        "nitride",
-        "omnicure",
-        "optical",
-        "optimization",
-        "parallel",
-        "photon-added",
-        "photonic",
-        "photonics",
-        "platforms",
-        "prospects",
-        "quantum",
-        "quantum-enhanced",
-        "qubits",
-        "reconfigurable",
-        "refond",
-        "reshaping",
-        "search",
-        "sector",
-        "semicon",
-        "series",
-        "showcases",
-        "silicon",
-        "solar-photodetector",
-        "sources",
-        "spectrometers",
-        "state",
-        "states",
-        "substrates",
-        "systems-on-chip",
-        "taiwan",
-        "ten-channel",
-        "topology",
-        "twin-photon"
-      ],
-      "source_count": 4,
-      "signal_count": 11,
-      "sources": [
-        "LEDinside 英文",
-        "Nature Photonics",
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "score": 79.5,
-      "latest_at": "2026-09-04T08:36:31.292952+00:00",
-      "title": "Grammar-based topology search for reconfigurable integrated photonic spectrometers",
-      "id": "2f20cb41b767",
-      "links": [
-        {
-          "title": "Grammar-based topology search for reconfigurable integrated photonic spectrometers",
-          "url": "https://arxiv.org/abs/2609.03196",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Machine learning-assisted design and explainable optimization of CdSnP2-based integrated solar-photodetector devices",
-          "url": "https://arxiv.org/abs/2609.03642",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Twin-photon generation in a silicon nitride microresonator",
-          "url": "https://arxiv.org/abs/2609.04171",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Quantum-Enhanced Phase Estimation with Photon-Added Even and Odd Coherent States in an SU(1,1) Interferometer",
-          "url": "https://arxiv.org/abs/2609.04064",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Integrated Microwave Photonics: From Material Platforms to Systems-on-Chip",
-          "url": "https://arxiv.org/abs/2608.31146",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-04T04:00:00+00:00"
-        }
-      ],
-      "top_terms": [
-        "integrated",
-        "photonic",
-        "photon",
-        "photonics",
-        "platforms"
-      ],
-      "rank": 2,
-      "heat": 79.5,
-      "status": "发酵中"
     },
     {
       "terms": [
         "算力"
       ],
       "source_count": 3,
-      "signal_count": 15,
+      "signal_count": 13,
       "sources": [
         "C114中国通信网_监管",
         "C114中国通信网_要闻精选",
         "工信部要闻"
       ],
       "score": 77.5,
-      "latest_at": "2026-09-04T08:36:31.292952+00:00",
+      "latest_at": "2026-09-05T08:11:14.673660+00:00",
       "title": "工信部对我国网络强国建设提出四点建议",
-      "id": "e5c8ce1a37e7",
+      "id": "7c8799eaec4f",
       "links": [
         {
           "title": "工信部对我国网络强国建设提出四点建议",
@@ -223,14 +97,7 @@
         },
         {
           "title": "工业和信息化部等十部门关于印发《促进中小企业发展“十五五”规划》的通知",
-          "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_80ce437ddf6b42c2915d30bc8876dde2.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
-        },
-        {
-          "title": "2026年全国工业和信息化经济运行监测协调工作座谈会在合肥召开",
-          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_213861644c274b92acaf01ab57d2fc12.html",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_80ce437ddf6b42c2915d30bc8876dde2.html",
           "source": "工信部要闻",
           "score": 90.0,
           "published_at": null
@@ -248,16 +115,23 @@
           "source": "工信部要闻",
           "score": 90.0,
           "published_at": null
+        },
+        {
+          "title": "持续向新向优发展！国新办就2026年上半年工业和信息化发展情况举行新闻发布会",
+          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_bc4cf76777cb4fd2896082ca2ff7039d.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
         }
       ],
       "top_terms": [
         "工信",
         "信部",
         "信息",
-        "工业",
-        "规划"
+        "规划",
+        "工业"
       ],
-      "rank": 3,
+      "rank": 2,
       "heat": 77.5,
       "status": "发酵中"
     },
@@ -269,7 +143,7 @@
         "C114中国通信网_通信财经"
       ],
       "score": 62.5,
-      "latest_at": "2026-09-04T08:36:31.292952+00:00",
+      "latest_at": "2026-09-05T08:11:14.673660+00:00",
       "title": "光迅科技2026年上半年净利润5.82亿元，同比增长56.34%",
       "id": "29dc9c860a30",
       "links": [
@@ -316,8 +190,96 @@
         "净利",
         "利润"
       ],
-      "rank": 4,
+      "rank": 3,
       "heat": 62.5,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "common",
+        "communication",
+        "core",
+        "curing",
+        "efficiency",
+        "electrons",
+        "excelitas",
+        "expanded",
+        "flexibility",
+        "glass",
+        "greater",
+        "higher",
+        "introduces",
+        "lasers",
+        "led",
+        "micro",
+        "micro led",
+        "omnicure",
+        "optical",
+        "radiation",
+        "refond",
+        "reshaping",
+        "reveal",
+        "semicon",
+        "semiconductors",
+        "series",
+        "showcases",
+        "signals",
+        "sources",
+        "strong",
+        "substrates",
+        "taiwan",
+        "ultrafast",
+        "unexpectedly"
+      ],
+      "source_count": 2,
+      "signal_count": 4,
+      "sources": [
+        "LEDinside 英文",
+        "Phys.org 物理新闻"
+      ],
+      "score": 44.0,
+      "latest_at": "2026-09-05T08:11:14.673660+00:00",
+      "title": "[News] Excelitas Introduces Enhanced OmniCure AC Series UV LED Curing Systems with Higher Performance, Greater Efficiency, and Expanded Application Flexibility",
+      "id": "9169a18a7000",
+      "links": [
+        {
+          "title": "[News] Excelitas Introduces Enhanced OmniCure AC Series UV LED Curing Systems with Higher Performance, Greater Efficiency, and Expanded Application Flexibility",
+          "url": "//www.ledinside.com/news/2026/9/2026_09_03_02",
+          "source": "LEDinside 英文",
+          "score": 73.6,
+          "published_at": "2026-09-03T15:34:21+00:00"
+        },
+        {
+          "title": "[News] Reshaping Light Sources | Refond Introduces 1.X Optical Technology",
+          "url": "//www.ledinside.com/news/2026/9/2026_09_04_01",
+          "source": "LEDinside 英文",
+          "score": 73.4,
+          "published_at": "2026-09-03T10:36:33+00:00"
+        },
+        {
+          "title": "[News] AUO Showcases Micro LED Optical Communication and Glass Core Substrates Technologies at SEMICON Taiwan 2026",
+          "url": "//www.ledinside.com/news/2026/9/2026_09_02_02",
+          "source": "LEDinside 英文",
+          "score": 72.0,
+          "published_at": "2026-09-01T16:52:34+00:00"
+        },
+        {
+          "title": "Ultrafast electrons and lasers reveal unexpectedly strong radiation signals in common semiconductors",
+          "url": "https://phys.org/news/2026-09-ultrafast-electrons-lasers-reveal-unexpectedly.html",
+          "source": "Phys.org 物理新闻",
+          "score": 65.0,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "introduces",
+        "led",
+        "optical",
+        "ultrafast",
+        "electrons"
+      ],
+      "rank": 4,
+      "heat": 44.0,
       "status": "关注中"
     },
     {
@@ -329,7 +291,7 @@
         "C114中国通信网_设备商"
       ],
       "score": 42.0,
-      "latest_at": "2026-09-04T08:36:31.292952+00:00",
+      "latest_at": "2026-09-05T08:11:14.673660+00:00",
       "title": "超260个云项目背后：华为助力运营商建好云、用好云、管好云",
       "id": "0142a27600a1",
       "links": [
@@ -361,42 +323,43 @@
     },
     {
       "terms": [
-        "光纤",
-        "激光",
-        "激光器"
+        "ar",
+        "lumus",
+        "光学",
+        "半导体"
       ],
       "source_count": 2,
       "signal_count": 2,
       "sources": [
-        "C114中国通信网_IT资讯",
-        "COEMA 中国光电子行业协会"
+        "LEDinside 中文",
+        "OFweek 光电频道"
       ],
       "score": 42.0,
-      "latest_at": "2026-09-04T08:36:31.292952+00:00",
-      "title": "宇树科技计划登陆科创板 中国移动已投资",
-      "id": "f3596e90ef88",
+      "latest_at": "2026-09-05T08:11:14.673660+00:00",
+      "title": "AR光学轻薄化再提速！Lumus授权广达量产新一代几何光波导",
+      "id": "2d5e2ac06f82",
       "links": [
         {
-          "title": "宇树科技计划登陆科创板 中国移动已投资",
-          "url": "https://www.c114.com.cn/news/212/a1292374.html",
-          "source": "C114中国通信网_IT资讯",
-          "score": 70.0,
-          "published_at": null
+          "title": "AR光学轻薄化再提速！Lumus授权广达量产新一代几何光波导",
+          "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30701535.html",
+          "source": "OFweek 光电频道",
+          "score": 80.0,
+          "published_at": "2026-09"
         },
         {
-          "title": "精密光纤激光器企业频准激光登陆科创板",
-          "url": "https://www.coema.org.cn/industry/202608/5795.html",
-          "source": "COEMA 中国光电子行业协会",
-          "score": 70.0,
-          "published_at": "2026-08"
+          "title": "光波导竞速：光舟半导体、广纳四维、Lumus、阿法龙加速跟上",
+          "url": "https://www.ledinside.cn/news/20260904-62493.html",
+          "source": "LEDinside 中文",
+          "score": 73.9,
+          "published_at": "2026-09-04"
         }
       ],
       "top_terms": [
-        "登陆",
-        "陆科",
-        "科创",
-        "创板",
-        "激光"
+        "光波",
+        "波导",
+        "lumus",
+        "光学轻薄化再提速",
+        "光学"
       ],
       "rank": 6,
       "heat": 42.0,
@@ -411,7 +374,7 @@
         "LEDinside 中文"
       ],
       "score": 42.0,
-      "latest_at": "2026-09-04T08:36:31.292952+00:00",
+      "latest_at": "2026-09-05T08:11:14.673660+00:00",
       "title": "高测股份磷化铟切割设备获订单",
       "id": "588b96f3ac47",
       "links": [
@@ -419,7 +382,7 @@
           "title": "高测股份磷化铟切割设备获订单",
           "url": "https://www.ledinside.cn/news/20260904-62491.html",
           "source": "LEDinside 中文",
-          "score": 74.7,
+          "score": 73.9,
           "published_at": "2026-09-04"
         },
         {
@@ -443,70 +406,56 @@
     },
     {
       "terms": [
-        "analytical",
-        "atmosphere",
-        "critical",
-        "decoherence",
-        "flowing",
-        "hydrodynamic",
-        "impurity",
-        "interference",
-        "matter-wave",
-        "measurement",
-        "mobile",
-        "paraxial",
-        "past",
-        "probability-flow",
-        "propagation",
-        "structured",
-        "superfluid",
-        "talbot",
-        "three-observable",
-        "turbulent",
-        "velocity"
+        "光学",
+        "光电",
+        "光通信",
+        "激光",
+        "红外"
       ],
-      "source_count": 1,
+      "source_count": 3,
       "signal_count": 3,
       "sources": [
-        "arXiv 光学与光子学 (physics.optics)"
+        "CIOE 中国光博会",
+        "LEDinside 中文",
+        "搜狗微信·光电行业 · 东方大研"
       ],
-      "score": 38.0,
-      "latest_at": "2026-09-04T08:36:31.292952+00:00",
-      "title": "Three-observable measurement of the critical velocity in a paraxial superfluid of light flowing past a mobile impurity",
-      "id": "e118d4ce332a",
+      "score": 39.7,
+      "latest_at": "2026-09-05T08:11:14.673660+00:00",
+      "title": "4家光通信相关企业实现营收、利润双增长",
+      "id": "d60a268c2e36",
       "links": [
         {
-          "title": "Three-observable measurement of the critical velocity in a paraxial superfluid of light flowing past a mobile impurity",
-          "url": "https://arxiv.org/abs/2609.03948",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 72.3,
-          "published_at": "2026-09-04T04:00:00+00:00"
+          "title": "4家光通信相关企业实现营收、利润双增长",
+          "url": "https://www.ledinside.cn/fsa/20260831-62447.html",
+          "source": "LEDinside 中文",
+          "score": 73.0,
+          "published_at": "2026-08-31"
         },
         {
-          "title": "Decoherence in matter-wave Talbot interference: A hydrodynamic probability-flow analysis",
-          "url": "https://arxiv.org/abs/2605.14181",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 72.3,
-          "published_at": "2026-09-04T04:00:00+00:00"
+          "title": "光通信,有新进展——深度布局的10家企业",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5YBoZVHco0mw1dLugz_nU2nXY-HrJD0AFqXa8Fplpd9CppaR9lIh_aUQ9kf4nEx_MRJ50ztYLmZHAcBpzI3Q9FKUd57KBV6FHb3owscjgYtc5f0E9JE998FVPGJ78-N_oRDtuwIIy_TTwOZKLZJJJozJ4eDvyt7r5udF5lomZQ3CFB2Ms0_S_3hbkcnXbVSFePTdWvAMcx6d-1NFlhsJHjuL0unUdKkuw..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=E07B890A5E63821A5F5804E8B4A329BE5F8989506A9BCE8A",
+          "source": "搜狗微信·光电行业 · 东方大研",
+          "score": 71.9,
+          "published_at": "2026-09-04T15:32:43+00:00"
         },
         {
-          "title": "Analytical model for structured light propagation through a turbulent atmosphere",
-          "url": "https://arxiv.org/abs/2605.30304",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 72.3,
-          "published_at": "2026-09-04T04:00:00+00:00"
+          "title": "产业论坛 | 聚焦通信 / 光学 / 激光 / 红外 / 量子前沿赛道，深度对话共拓光电产业新局",
+          "url": "https://cioe.cn/news/2999_info.html",
+          "source": "CIOE 中国光博会",
+          "score": 68.0,
+          "published_at": "2026-08-25"
         }
       ],
       "top_terms": [
-        "three",
-        "observable",
-        "measurement",
-        "critical",
-        "velocity"
+        "通信",
+        "光通",
+        "企业",
+        "深度",
+        "产业"
       ],
       "rank": 8,
-      "heat": 38.0,
-      "status": "关注中"
+      "heat": 39.7,
+      "status": "发酵中"
     },
     {
       "terms": [],
@@ -516,7 +465,7 @@
         "C114中国通信网_要闻精选"
       ],
       "score": 38.0,
-      "latest_at": "2026-09-04T08:36:31.292952+00:00",
+      "latest_at": "2026-09-05T08:11:14.673660+00:00",
       "title": "大招齐发，英特尔直击网络转型",
       "id": "40753cddc649",
       "links": [
@@ -563,7 +512,7 @@
         "C114中国通信网_IT资讯"
       ],
       "score": 38.0,
-      "latest_at": "2026-09-04T08:36:31.292952+00:00",
+      "latest_at": "2026-09-05T08:11:14.673660+00:00",
       "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
       "id": "79ca1f2a334a",
       "links": [
