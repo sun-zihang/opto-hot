@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T08:47:11.829301+00:00",
+  "generatedAt": "2026-09-10T08:45:36.355593+00:00",
   "count": 10,
   "items": [
     {
-      "id": "fca06e5d16ce",
+      "id": "ff0d47592ba0",
+      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
+      "status": "爆",
+      "heat": 96.5,
+      "sourceCount": 9,
+      "signalCount": 9,
+      "latestAt": "2026-09-10T08:45:36.355593+00:00",
+      "sources": [
+        "OFweek 激光频道",
+        "搜狗微信·光电行业 · A数字没回复弹语音",
+        "搜狗微信·光电行业 · 一月的暖阳",
+        "搜狗微信·光电行业 · 人间清醒56",
+        "搜狗微信·光电行业 · 小新说车",
+        "搜狗微信·光电行业 · 恒宇山河",
+        "搜狗微信·光电行业 · 清漓2428",
+        "搜狗微信·光电行业 · 电动邦",
+        "搜狗微信·光电行业 · 舞青殇"
+      ],
+      "links": [
+        {
+          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
+          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
+          "source": "OFweek 激光频道",
+          "score": 97.5,
+          "published_at": "2026-08"
+        },
+        {
+          "title": "20.18万起,全系激光雷达!这台方盒子把20万级卷明白了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7wlZ04ybojnD4sYi-CY_mOc9ooknb35NVqXa8Fplpd9DMijnC6gf93LX-g3NJRACypvBtv8BBiDUiYhGz4fChw8b5Ez_UKxXlLwaEFK5eNwZr7hNYx3VP1H4Olkc0cAZ2RCQAZ39iWmE25YeqCrJD0x-BFsPEGOrdAO5lMulHeW60FzTDzQtlW8nfedRsSrOe9yKeTr4LucJZ_9Ht_jiuAC2Qmj7RgGwQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=056F1D6980670D19B6B0EDAA4AD76AC5B6828FF66AA26E2A",
+          "source": "搜狗微信·光电行业 · 一月的暖阳",
+          "score": 87.5,
+          "published_at": "2026-09-10T08:39:00+00:00"
+        },
+        {
+          "title": "油车智驾一直落后?吉利头一个把激光雷达塞进30万内的SUV",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7wlZ04ybojnD4sYi-CY_mOc9ooknb35NVqXa8Fplpd9LS4-glUp-WnwNy_lG6Q5feHy0w5uisFizNB3SR9doXd7mFsXD1Oz6XaFVykQ4Tgc0AbG5O9JdLLV4kQ4OtdzvOfP9Lx2UMKJhPlBYs-H6iK99PvS5K-J6v4tWEQ4MKIievlht_E1KT5yeYZ9km6pPOqxF719SIKHShdpeZRGclndrgozfSg6bw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=056F1D6980670D19B6B0EDAA4AD76AC5B6828FF66AA26E2A",
+          "source": "搜狗微信·光电行业 · A数字没回复弹语音",
+          "score": 87.5,
+          "published_at": "2026-09-10T07:39:48+00:00"
+        },
+        {
+          "title": "顶配不到13万标配激光雷达!老汽车人带你静态体验奇瑞风云A9,实力到底多恐怖?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7wlZ04ybojnD4sYi-CY_mOc9ooknb35NVqXa8Fplpd9BGEmC0d2_QJgnNCJ0YG6b1LuWA8K2MYOj1BxM_q3teWFB0HlEzNeYQl4tdYkCdbJf1gdw71N6CzLfL71JNAcImkH9FkIj2KZCEz1g9xE_phlAXh9dkfhGkg2jt770KMqaoGEU-imgFzIP6kyB2av7RUNq8UlaQD1Nud2csjE1KBFkDr8IT4KYw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=056F1D6980670D19B6B0EDAA4AD76AC5B6828FF66AA26E2A",
+          "source": "搜狗微信·光电行业 · 人间清醒56",
+          "score": 87.5,
+          "published_at": "2026-09-10T07:25:19+00:00"
+        },
+        {
+          "title": "65万豪车高速突然宕机!激光雷达堆满了,关键时刻却成了摆设",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7wlZ04ybojnD4sYi-CY_mOc9ooknb35NVqXa8Fplpd92cq6zlIqjUtQ085oB9HVRUMHhz1qHkx-llbEdMA3CQZ9dQD2hQZp3hb_qEQ6UHRr9HmnO7ePun-B6UUzbzjcSlQ8uoBIOsjBYQPMmH4EOQf6yXQ-6R4iH35A5TqTa1PHlcWUbPyatCvxoKc7aiucCsJtwKkfPlN2MEd7f3C3Bk3vzHZXxeLdyg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=056F1D6980670D19B6B0EDAA4AD76AC5B6828FF66AA26E2A",
+          "source": "搜狗微信·光电行业 · 恒宇山河",
+          "score": 87.5,
+          "published_at": "2026-09-10T07:22:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "451b2bd2a0d9",
       "title": "工信部对我国网络强国建设提出四点建议",
       "status": "发酵中",
       "heat": 77.5,
       "sourceCount": 3,
-      "signalCount": 17,
-      "latestAt": "2026-09-09T08:47:11.829301+00:00",
+      "signalCount": 15,
+      "latestAt": "2026-09-10T08:45:36.355593+00:00",
       "sources": [
         "C114中国通信网_监管",
         "C114中国通信网_要闻精选",
@@ -55,47 +112,52 @@
       ]
     },
     {
-      "id": "589db8443660",
-      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-      "status": "发酵中",
-      "heat": 64.0,
-      "sourceCount": 4,
-      "signalCount": 4,
-      "latestAt": "2026-09-09T08:47:11.829301+00:00",
+      "id": "abcdeaa0cbe0",
+      "title": "Resonant subspace approximation for photonic crystal slabs",
+      "status": "关注中",
+      "heat": 66.4,
+      "sourceCount": 2,
+      "signalCount": 11,
+      "latestAt": "2026-09-10T08:45:36.355593+00:00",
       "sources": [
-        "OFweek 激光频道",
-        "搜狗微信·光电行业 · 星车仔",
-        "搜狗微信·光电行业 · 熊大不熊",
-        "搜狗微信·光电行业 · 车主都来看"
+        "Nature Photonics",
+        "arXiv 光学与光子学 (physics.optics)"
       ],
       "links": [
         {
-          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
-          "source": "OFweek 激光频道",
-          "score": 85.0,
-          "published_at": "2026-08"
+          "title": "Resonant subspace approximation for photonic crystal slabs",
+          "url": "https://arxiv.org/abs/2609.09810",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-10T04:00:00+00:00"
         },
         {
-          "title": "10.69万起配激光雷达!风云A9这配置,谁还盯着燃油A级车?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2GPYffkLtCgUR6VfCvFqpf4b8qirGhTWlqXa8Fplpd9CgifuWT2-wRTgOwKRZliJjll3IE1aEVYpIy_juZYd7joZb-YzyfcfvTwCj1O-lyrFp1YlA3zWQKEwuTAAkXxTwqDD3bPEQILEkKM_TSI6chQINMJjKuNl54uG7ov-5xaFDmpW5TcInJh8Mda2fu-frqcPz_FqEDnSDVozIzNaEr1AfaFW2DefQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=FD8721DF63CE71CDD9DC82D23EF02E81DACBA5016AA11D09",
-          "source": "搜狗微信·光电行业 · 星车仔",
-          "score": 74.8,
-          "published_at": "2026-09-09T02:38:49+00:00"
+          "title": "Non-Hermitian Light Beams",
+          "url": "https://arxiv.org/abs/2609.10011",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-10T04:00:00+00:00"
         },
         {
-          "title": "13.59万起!大众首款带激光雷达的纯电SUV来了,德味底盘+660km续航,这次真不＂智障＂了?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2GPYffkLtCgUR6VfCvFqpf4b8qirGhTWlqXa8Fplpd93va0FwKxoKe1Qx3ViWH3I3iSLrZttmgvVU4bZp5TgNulAGV5RBWKHdixV_9yBkhzP7D9bz5PRmTaASZTjClqKWs_CYulrMATvlyWcjnO9bYMqV9UIXdTCM5hDuaZYlD6Egn0yPOiZKDgrAbAwkWUXFmNbrv7kkk3owanvgtb69KjotuuiAmOIg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=FD8721DF63CE71CDD9DC82D23EF02E81DACBA5016AA11D09",
-          "source": "搜狗微信·光电行业 · 熊大不熊",
-          "score": 74.7,
-          "published_at": "2026-09-09T00:00:30+00:00"
+          "title": "Transition of Photonic Dissipative Dynamics through the Exceptional Point",
+          "url": "https://arxiv.org/abs/2609.10061",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-10T04:00:00+00:00"
         },
         {
-          "title": "630km续航 全系激光雷达+800V 全新领克20配置杀疯",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2GPYffkLtCgUR6VfCvFqpf4b8qirGhTWlqXa8Fplpd9ru56d3pEYQ5s3qIJC8W0cy_PhDembYSjEekOmS-gySFKcfFQDmR8VGAtPxg7pzap7J2O_pc0i1T1t1Ap1yPVasmWsin6ebx2UF4nclrbT0e9Q3e9bfpbnH3ZjIQrNsiyGsxJ_byBxIkNPEsxPZOQRxc11_yuo80tJzvGGMfE2P9Cy6umSSPEsg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=FD8721DF63CE71CDD9DC82D23EF02E81DACBA5016AA11D09",
-          "source": "搜狗微信·光电行业 · 车主都来看",
-          "score": 74.2,
-          "published_at": "2026-09-08T11:01:05+00:00"
+          "title": "Optical design for implementing non-collinear circularly polarized high harmonic generation in an enhancement cavity",
+          "url": "https://arxiv.org/abs/2609.10235",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Surrogate-Assisted Inverse Design and Temperature-Dependent Electrothermal Analysis of an All-Oxide Narrowband Thermophotovoltaic Emitter",
+          "url": "https://arxiv.org/abs/2609.10252",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-10T04:00:00+00:00"
         }
       ]
     },
@@ -106,7 +168,7 @@
       "heat": 62.5,
       "sourceCount": 1,
       "signalCount": 12,
-      "latestAt": "2026-09-09T08:47:11.829301+00:00",
+      "latestAt": "2026-09-10T08:45:36.355593+00:00",
       "sources": [
         "C114中国通信网_通信财经"
       ],
@@ -149,13 +211,63 @@
       ]
     },
     {
+      "id": "5dc8fd90d0a8",
+      "title": "[News] Marelli and Microchip pioneer open-standard display connectivity solution for software-defined vehicles",
+      "status": "关注中",
+      "heat": 46.0,
+      "sourceCount": 2,
+      "signalCount": 6,
+      "latestAt": "2026-09-10T08:45:36.355593+00:00",
+      "sources": [
+        "EDN 电子工程专辑",
+        "LEDinside 英文"
+      ],
+      "links": [
+        {
+          "title": "[News] Marelli and Microchip pioneer open-standard display connectivity solution for software-defined vehicles",
+          "url": "//www.ledinside.com/news/2026/9/2026_09_09_04",
+          "source": "LEDinside 英文",
+          "score": 79.6,
+          "published_at": "2026-09-09T21:30:47+00:00"
+        },
+        {
+          "title": "[News] ‘Be Road Ready’ with OSRAM Automotive: Product Launch and Selected Highlights at Automechanika 2026",
+          "url": "//www.ledinside.com/news/2026/9/2026_09_09_03",
+          "source": "LEDinside 英文",
+          "score": 79.1,
+          "published_at": "2026-09-09T05:25:57+00:00"
+        },
+        {
+          "title": "[News] Nichia Presents Advanced Automotive Lighting Technologies at SIA Vision 2026",
+          "url": "//www.ledinside.com/products/2026/9/2026_09_09_01",
+          "source": "LEDinside 英文",
+          "score": 78.2,
+          "published_at": "2026-09-08T05:24:02+00:00"
+        },
+        {
+          "title": "[News] IAA Transportation 2026: FORVIA HELLA Presents Adaptive RGB Interior Lighting Technology for Commercial Vehicles",
+          "url": "//www.ledinside.com/products/2026/9/2026_09_07_05",
+          "source": "LEDinside 英文",
+          "score": 77.2,
+          "published_at": "2026-09-07T00:03:26+00:00"
+        },
+        {
+          "title": "[News] Philips Hue Expands on Smart Lighting with AI, Immersive Entertainment & Design",
+          "url": "//www.ledinside.com/products/2026/9/2026_09_07_04",
+          "source": "LEDinside 英文",
+          "score": 76.6,
+          "published_at": "2026-09-06T07:55:53+00:00"
+        }
+      ]
+    },
+    {
       "id": "0142a27600a1",
       "title": "超260个云项目背后：华为助力运营商建好云、用好云、管好云",
       "status": "关注中",
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-09-09T08:47:11.829301+00:00",
+      "latestAt": "2026-09-10T08:45:36.355593+00:00",
       "sources": [
         "C114中国通信网_要闻精选",
         "C114中国通信网_设备商"
@@ -178,60 +290,31 @@
       ]
     },
     {
-      "id": "9d55f34c9f64",
-      "title": "三星落选，LG独揽！夏普的OLED供应链为何只留一家？",
+      "id": "0f1018376181",
+      "title": "光通信的下一轮爆发,已经越来越清楚了",
       "status": "关注中",
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-09-09T08:47:11.829301+00:00",
+      "latestAt": "2026-09-10T08:45:36.355593+00:00",
       "sources": [
-        "LEDinside 中文",
-        "OFweek 光电频道"
+        "搜狗微信·光电行业 · 中国证券报",
+        "搜狗微信·光电行业 · 第四维的梦想"
       ],
       "links": [
         {
-          "title": "三星落选，LG独揽！夏普的OLED供应链为何只留一家？",
-          "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30702232.html",
-          "source": "OFweek 光电频道",
-          "score": 80.0,
-          "published_at": "2026-09"
+          "title": "光通信的下一轮爆发,已经越来越清楚了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7wlZ04ybojnaYrzYxn5LiCc9ooknb35NVqXa8Fplpd9sWdiFJD19EwdcJZ_Ye9_HLJCwUcj-pxe3V4R9XHsqvwdUSRB1tig3-111CyDyF8Vz2rahCYO3l9iyRtw9UVRsymPz4xYOIdnougMB_dkssriRapQGgdg7hE1PWL6u0ElONf7KFHHoCNwrJobS6Gvh1XI-UXWrl9oeDbniq6-Wwrs46dn8Efgxg..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=056ED7E480670D19B6B0EDAA4AD76AC5B6828FF66AA26E1C",
+          "source": "搜狗微信·光电行业 · 第四维的梦想",
+          "score": 69.8,
+          "published_at": "2026-09-10T03:39:21+00:00"
         },
         {
-          "title": "韩媒：LG Display独供夏普OLED电视面板",
-          "url": "https://www.ledinside.cn/news/20260908-62514.html",
-          "source": "LEDinside 中文",
-          "score": 73.9,
-          "published_at": "2026-09-08"
-        }
-      ]
-    },
-    {
-      "id": "020edfeca145",
-      "title": "2023年有哪些值得关注的激光打标趋势与创新？",
-      "status": "关注中",
-      "heat": 42.0,
-      "sourceCount": 2,
-      "signalCount": 2,
-      "latestAt": "2026-09-09T08:47:11.829301+00:00",
-      "sources": [
-        "OFweek 激光频道",
-        "搜狗微信·光电行业 · 十点行研"
-      ],
-      "links": [
-        {
-          "title": "2023年有哪些值得关注的激光打标趋势与创新？",
-          "url": "https://laser.ofweek.com/2023-11/ART-8500-2400-30616901.html",
-          "source": "OFweek 激光频道",
-          "score": 80.0,
-          "published_at": "2023-11"
-        },
-        {
-          "title": "光通信,值得关注的几个方向!",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2GPYffkLtCgZF28p1Bn4374b8qirGhTWlqXa8Fplpd9DaGfGD3tU3j0NKWskAk1DMxd2ZUiBFKFrCaW9CKocZFfHpONYnFm3fAGqc5L-6AmmKHrN78Ykyk8RvqAFpNxTHY24JNRn_u8VSDfyIdwK79n8hU1Tj-NsBtwNJRCGVJt4NP-SXhF5dI0Xx2GRUARWRNAG17hWkhwifrohTZSij4NGbbB75bUeA..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=FD86DFAA63CE71CDD9DC82D23EF02E81DACBA5016AA11CFB",
-          "source": "搜狗微信·光电行业 · 十点行研",
-          "score": 69.4,
-          "published_at": "2026-09-08T15:20:14+00:00"
+          "title": "光通信设备龙头,历史新高",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7wlZ04ybojnaYrzYxn5LiCc9ooknb35NVqXa8Fplpd9Y3iHOvEfNpm4mwoG-7BgLaBJMwRdlTBOfrneR9JgGaFu4ufE7f0WYlXT7IMKOTZBfYKUXzDnBOeNtWWMo-bMvNNzXUmugCEfgNyrw1S2D8oc9ub0qZkOc1jzb1-V0s1Bv_x8ZYyYLykbYpkco9evnF7Anngz29CJH1mBt8u7pW3wdVqCwyPdzA..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=056ED7E480670D19B6B0EDAA4AD76AC5B6828FF66AA26E1C",
+          "source": "搜狗微信·光电行业 · 中国证券报",
+          "score": 69.0,
+          "published_at": "2026-09-09T04:00:07+00:00"
         }
       ]
     },
@@ -242,7 +325,7 @@
       "heat": 38.0,
       "sourceCount": 1,
       "signalCount": 3,
-      "latestAt": "2026-09-09T08:47:11.829301+00:00",
+      "latestAt": "2026-09-10T08:45:36.355593+00:00",
       "sources": [
         "C114中国通信网_要闻精选"
       ],
@@ -277,7 +360,7 @@
       "heat": 38.0,
       "sourceCount": 1,
       "signalCount": 3,
-      "latestAt": "2026-09-09T08:47:11.829301+00:00",
+      "latestAt": "2026-09-10T08:45:36.355593+00:00",
       "sources": [
         "C114中国通信网_IT资讯"
       ],
@@ -312,7 +395,7 @@
       "heat": 38.0,
       "sourceCount": 1,
       "signalCount": 3,
-      "latestAt": "2026-09-09T08:47:11.829301+00:00",
+      "latestAt": "2026-09-10T08:45:36.355593+00:00",
       "sources": [
         "工信部要闻"
       ],
@@ -334,41 +417,6 @@
         {
           "title": "工业和信息化部举行“亚太经合组织（APEC）2026年数字和人工智能部长会议及数字周相关活动新闻通气会”",
           "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a1dcaacc0394430fa13197ef3946dece.html",
-          "source": "工信部要闻",
-          "score": 72.5,
-          "published_at": null
-        }
-      ]
-    },
-    {
-      "id": "1fb32b60105f",
-      "title": "四川通信管理局召开会议 总结树立和践行正确政绩观学习教育 部署巩固拓展学习教育成果工作",
-      "status": "关注中",
-      "heat": 38.0,
-      "sourceCount": 1,
-      "signalCount": 3,
-      "latestAt": "2026-09-09T08:47:11.829301+00:00",
-      "sources": [
-        "工信部要闻"
-      ],
-      "links": [
-        {
-          "title": "四川通信管理局召开会议 总结树立和践行正确政绩观学习教育 部署巩固拓展学习教育成果工作",
-          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_dc44cef1a5a242f4aed122e0c8e1beaf.html",
-          "source": "工信部要闻",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "贵州通信管理局召开树立和践行正确政绩观学习教育总结会议",
-          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_1355ef6c71f94475be748c2893a18e82.html",
-          "source": "工信部要闻",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "天津通信管理局召开党组（扩大）会议总结树立和践行正确政绩观学习教育部署巩固拓展学习教育成果工作",
-          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_07e690cd2fe14f369ee49cda3b0f8eca.html",
           "source": "工信部要闻",
           "score": 72.5,
           "published_at": null
