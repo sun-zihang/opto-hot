@@ -1,344 +1,114 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T09:45:22.225294+00:00",
+  "generatedAt": "2026-09-15T09:18:46.554469+00:00",
   "count": 10,
   "items": [
     {
       "terms": [
-        "智驾",
+        "aion",
+        "plus",
         "激光",
         "激光雷达"
       ],
       "source_count": 6,
-      "signal_count": 7,
+      "signal_count": 6,
       "sources": [
         "OFweek 激光频道",
+        "搜狗微信·光电行业 · 半盏手艺",
         "搜狗微信·光电行业 · 懂车大咖",
-        "搜狗微信·光电行业 · 未未带你去旅行",
-        "搜狗微信·光电行业 · 未来员工研究所",
-        "搜狗微信·光电行业 · 红涛说车",
-        "搜狗微信·光电行业 · 车车局"
+        "搜狗微信·光电行业 · 极致车评",
+        "搜狗微信·光电行业 · 迪粉笔记",
+        "搜狗微信·光电行业 · 逃到地球躲雨"
       ],
-      "score": 89.5,
-      "latest_at": "2026-09-14T09:45:22.225294+00:00",
+      "score": 86.0,
+      "latest_at": "2026-09-15T09:18:46.554469+00:00",
       "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-      "id": "461cb5748374",
+      "id": "dc160c353a22",
       "links": [
         {
           "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
           "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
           "source": "OFweek 激光频道",
-          "score": 92.5,
+          "score": 90.0,
           "published_at": "2026-08"
         },
         {
-          "title": "12.99万起还全系800V+激光雷达:吉利银河TT,把纯电轿车的价格锚砸了",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-U3vLmM-br5p_pwrXCuKHp8YcFe15_kzFqXa8Fplpd92eEv_IkFr__ik9OlF8oCZmyPtCUMA08a2SYTdBXDf--msHM9rNhqFj7AEUzBjN-SfA5ojWkPBCPrrKMuRtEwKe6AOXF65RTYwP8ADOn_fojOxUi77nwFqBOw7mvPNq_GDS5-qvW40hAxxyaiBxTc1HkLfATFCOEHLxohtb1NF-l6VKrzu_4XKA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=237FFEC05B0130C7C2C499AC8BA2370AC32290346AA7C22B",
-          "source": "搜狗微信·光电行业 · 车车局",
-          "score": 82.5,
-          "published_at": "2026-09-14T09:38:57+00:00"
-        },
-        {
-          "title": "12.99万起 C级纯电卷王 激光雷达+最高725km续航 CCD悬架 银河TT杀疯",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-U3vLmM-br5p_pwrXCuKHp8YcFe15_kzFqXa8Fplpd9OzLKJ9nCYQLJkapZrwHkjY2UlgiYAPWrHxhjx1uRKjhJbewn_cm6I-eytj0Vre9BvVJhFKTKKiaKqd56YN80VJyfHwt_RCbLB043aHF49nFCqlk9hZyA2cNtjcWy0-N6euL3L460vpqdODOoh6l-H1i4DVEBF8vZ-6n_EujaAB_yPfCoem7FzA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=237FFEC05B0130C7C2C499AC8BA2370AC32290346AA7C22B",
+          "title": "起售不到10万 激光雷达+天神之眼B 二代刀闪充 海豹06配置堆到顶",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxPkaRVoEuLga6_142iaJOQZ4YmhN1Nv2VqXa8Fplpd9HZRPv_7Nhm5ZO3PzZeQlVodlqoRz1e0GKRnAhZFgccycppUjnTVDIA3LMhCkvMvAgOIWO0nXvQdoPxrSBtMecrKGiPqR7E8PJFFj0aKwBKkshpv_IVeYnI_okyLnaj8TUkEHiVVbEZBdkTDxxfYGqWLmqBBaduW9YGRFJzVNzrcO8fIRwtipOg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=2B06E15EFE0C7E06ABACF129A2BC5403AB3AC9856AA90D70",
           "source": "搜狗微信·光电行业 · 懂车大咖",
-          "score": 82.5,
-          "published_at": "2026-09-14T09:08:23+00:00"
+          "score": 80.0,
+          "published_at": "2026-09-15T09:06:21+00:00"
         },
         {
-          "title": "6.58万起,激光雷达下放8万级 零跑A10这台车,该怎么想清楚再",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-U3vLmM-br5p_pwrXCuKHp8YcFe15_kzFqXa8Fplpd97COv6SK6I_zbj2QF23VHCtJhWPKhTh6CdLFu_TE2fHKElP9nRJHVB544gEIK1IBwHa8Nv2dz5BiWvr5rP53f647ZgSIyQwqdHrX4C9vGuUEvfBqhBDBxn4OUbg5NGFdXxs2dP_GXDUkNwtDOy7ycUHkdn0RSESWGndF9V94Nufz1AfaFW2DefQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=237FFEC05B0130C7C2C499AC8BA2370AC32290346AA7C22B",
-          "source": "搜狗微信·光电行业 · 未来员工研究所",
-          "score": 82.5,
-          "published_at": "2026-09-14T08:55:45+00:00"
+          "title": "10万块买电车还发愁啥?6万起就有激光雷达,充电一回能跑500公里",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxPkaRVoEuLga6_142iaJOQZ4YmhN1Nv2VqXa8Fplpd9pvNhuiseOWndzb7ZJznJPpHDzuvKaKxGDc2n5Fajq1LmnT83weByW7vDDBt53H-SBqnhreYqrpjL1qtuuFXlZZhbjUahON7UgJYZtr-ppU3dg1Wny6UVZ_C5RO_7ItSFaxXGlWUA-4QPTo6mmLsOF5mIsioMuViMAgI5jqVrqgW54z_tGSZTqA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=2B06E15EFE0C7E06ABACF129A2BC5403AB3AC9856AA90D70",
+          "source": "搜狗微信·光电行业 · 半盏手艺",
+          "score": 80.0,
+          "published_at": "2026-09-15T08:49:52+00:00"
         },
         {
-          "title": "只有豪车才配激光雷达?埃安i60偏不,L4智驾加超长续航全堆上了",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-U3vLmM-br5p_pwrXCuKHp8YcFe15_kzFqXa8Fplpd9cq4lhhTEEdh7J8_9NoKQqxASx8B6NK7n5rVkDsmK3UFfn7lJWAS0LDT5MHblnLK5TEXEg3JAqcRXCYeGY2fY4fe2kkYwFUI9elxbouGzfexFHEe0V8T14TZwohmiUrHciSPWLp35ihfEWhCOL2-Sr7AvKhDFX1GNcrs-ojTqqOOjotuuiAmOIg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=237FFEC05B0130C7C2C499AC8BA2370AC32290346AA7C22B",
-          "source": "搜狗微信·光电行业 · 未未带你去旅行",
-          "score": 82.5,
-          "published_at": "2026-09-14T08:31:22+00:00"
+          "title": "2026款元PLUS变精致了:激光雷达上车,座舱也不再简单",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxPkaRVoEuLga6_142iaJOQZ4YmhN1Nv2VqXa8Fplpd9_JNLwDKEcX4edcOPXp6SM7xfCGiGlRrvA_mnFA8dLT-xlhDT2jKtTjLBiRXlSGK1LvmXrKl3JrvSjDJ4HqVeSl1yzIjQn4g88OIsh7yCPZ9qusTIy7iyKlM1_MxUtWNMKytH6qT7ew_Qr3Awl_bp7VF7E18aRVWncpRBoNRF-RcC2Qmj7RgGwQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=2B06E15EFE0C7E06ABACF129A2BC5403AB3AC9856AA90D70",
+          "source": "搜狗微信·光电行业 · 逃到地球躲雨",
+          "score": 80.0,
+          "published_at": "2026-09-15T08:40:13+00:00"
+        },
+        {
+          "title": "8万块买激光雷达?零跑A05是“代步神器”?还是“流量陷阱”?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxPkaRVoEuLga6_142iaJOQZ4YmhN1Nv2VqXa8Fplpd9DMPFDIRS9trcDHGb2OKvpAQzmjaQt8VITR3WXx-aRppQbje-M57M7B_c2R7f2z_BMDu6YHBO9A0XNmG6WAYaVInOTEscVNEknRsQ-glLnISR-wp7bYetEJmViRQFAUFMccELEhZshN5VMChsVcGS2igh94BpdOqix8zXMqoOa4HyPfCoem7FzA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=2B06E15EFE0C7E06ABACF129A2BC5403AB3AC9856AA90D70",
+          "source": "搜狗微信·光电行业 · 极致车评",
+          "score": 79.9,
+          "published_at": "2026-09-15T07:49:52+00:00"
         }
       ],
       "top_terms": [
         "激光",
         "光雷",
         "雷达",
-        "万起",
-        "银河"
+        "有激",
+        "配置"
       ],
       "rank": 1,
-      "heat": 89.5,
+      "heat": 86.0,
       "status": "爆"
-    },
-    {
-      "terms": [
-        "ar",
-        "cioe",
-        "cioe2026",
-        "led",
-        "micro",
-        "micro led",
-        "光电",
-        "光通信",
-        "激光"
-      ],
-      "source_count": 5,
-      "signal_count": 22,
-      "sources": [
-        "C114中国通信网_通信财经",
-        "CIOE 中国光博会",
-        "LEDinside 中文",
-        "OFweek 光电频道",
-        "OFweek 激光频道"
-      ],
-      "score": 88.9,
-      "latest_at": "2026-09-14T09:45:22.225294+00:00",
-      "title": "光耀鹏城，匠心追光｜卓立汉光 CIOE2026 深圳光博会圆满收官，聚力光电新征程",
-      "id": "6167638961e1",
-      "links": [
-        {
-          "title": "光耀鹏城，匠心追光｜卓立汉光 CIOE2026 深圳光博会圆满收官，聚力光电新征程",
-          "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30702920.html",
-          "source": "OFweek 光电频道",
-          "score": 100.0,
-          "published_at": "2026-09"
-        },
-        {
-          "title": "最新议程出炉！2026中国激光产业高质量发展峰会即将开启",
-          "url": "https://laser.ofweek.com/2026-07/ART-8100-2400-30694578.html",
-          "source": "OFweek 激光频道",
-          "score": 100.0,
-          "published_at": "2026-07"
-        },
-        {
-          "title": "第27届中国国际光电博览会开展首日盛况空前，“光 + AI”激活光电全产业链新动能",
-          "url": "https://laser.ofweek.com/2026-09/ART-8100-2400-30702419.html",
-          "source": "OFweek 激光频道",
-          "score": 100.0,
-          "published_at": "2026-09"
-        },
-        {
-          "title": "AI赋能光电新变革，第27届CIOE中国光博会9月深圳举办聚力全链创新",
-          "url": "https://laser.ofweek.com/2026-08/ART-8100-2400-30701091.html",
-          "source": "OFweek 激光频道",
-          "score": 100.0,
-          "published_at": "2026-08"
-        },
-        {
-          "title": "光迅科技2026年上半年净利润5.82亿元，同比增长56.34%",
-          "url": "https://www.c114.com.cn/news/123/a1315966.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 95.0,
-          "published_at": null
-        }
-      ],
-      "top_terms": [
-        "亿元",
-        "上半",
-        "半年",
-        "净利",
-        "利润"
-      ],
-      "rank": 2,
-      "heat": 88.9,
-      "status": "爆"
-    },
-    {
-      "terms": [
-        "assessments",
-        "attosecond",
-        "autonomous",
-        "bidirectional",
-        "boost",
-        "bring",
-        "cavity",
-        "chiral",
-        "chirality",
-        "circulator",
-        "classical",
-        "clocking",
-        "common",
-        "complex",
-        "compression",
-        "computing",
-        "conditions",
-        "cones",
-        "dark",
-        "decoherence",
-        "detectors",
-        "dirac",
-        "direct-interference",
-        "dramatically",
-        "efficiency",
-        "electro-optic",
-        "electrons",
-        "emitters",
-        "empowered",
-        "epitaxial",
-        "european",
-        "fibre",
-        "fields",
-        "films",
-        "formation",
-        "frequency-multiplexed",
-        "full",
-        "gains",
-        "graphite",
-        "gravitational-wave",
-        "growth",
-        "image",
-        "improving",
-        "information",
-        "integrated",
-        "interfaces",
-        "interferometry",
-        "interplay",
-        "lasers",
-        "lasing",
-        "led",
-        "light-matter",
-        "lithium",
-        "localized",
-        "machine",
-        "matter",
-        "media",
-        "metric",
-        "metrology",
-        "mitigation",
-        "molecular",
-        "monochromatic",
-        "multidimensional",
-        "multifunctional",
-        "multimode",
-        "nanophotonic",
-        "nanoscale",
-        "near",
-        "niobate",
-        "nuclear",
-        "objects",
-        "on-shell",
-        "optical",
-        "oscar",
-        "path-degenerate",
-        "photonic",
-        "photonics",
-        "physicists",
-        "prior-information",
-        "processing",
-        "prospects",
-        "ptychography",
-        "pulse-driven",
-        "quantum",
-        "radiation",
-        "reconstruction",
-        "reflection",
-        "reservoir",
-        "resonance-enhanced",
-        "resonances",
-        "response",
-        "reveal",
-        "scattering",
-        "search",
-        "sector",
-        "semiconductors",
-        "sensors",
-        "signals",
-        "state",
-        "strong",
-        "super-resolution",
-        "synchronously",
-        "temporal",
-        "thin",
-        "thin-film",
-        "transmission",
-        "turn",
-        "type",
-        "ultra-cold",
-        "ultrafast",
-        "uncertainty",
-        "unconventional",
-        "unexpectedly",
-        "unified",
-        "wave",
-        "wavefunction",
-        "weakly",
-        "x-ray"
-      ],
-      "source_count": 3,
-      "signal_count": 18,
-      "sources": [
-        "Nature Photonics",
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "score": 75.3,
-      "latest_at": "2026-09-14T09:45:22.225294+00:00",
-      "title": "Integrated electro-optic circulator on thin-film lithium niobate for bidirectional optical fibre transmission",
-      "id": "a17b18920258",
-      "links": [
-        {
-          "title": "Integrated electro-optic circulator on thin-film lithium niobate for bidirectional optical fibre transmission",
-          "url": "https://www.nature.com/articles/s41566-026-02008-9",
-          "source": "Nature Photonics",
-          "score": 92.2,
-          "published_at": "2026-09-11T00:00:00+00:00"
-        },
-        {
-          "title": "Frequency-Multiplexed Photonic Reservoir Computing with a Synchronously Pulse-Driven Optical Cavity",
-          "url": "https://arxiv.org/abs/2609.12212",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-14T04:00:00+00:00"
-        },
-        {
-          "title": "Resonance-Enhanced Time Reflection at Photonic Temporal Interfaces",
-          "url": "https://arxiv.org/abs/2609.12332",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-14T04:00:00+00:00"
-        },
-        {
-          "title": "Enhanced chiral response of hybrid photonic structures empowered by Mie resonances",
-          "url": "https://arxiv.org/abs/2609.12358",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-14T04:00:00+00:00"
-        },
-        {
-          "title": "Autonomous multifunctional image processing via programmable multimode lasing",
-          "url": "https://arxiv.org/abs/2609.12534",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-14T04:00:00+00:00"
-        }
-      ],
-      "top_terms": [
-        "quantum",
-        "photonic",
-        "optical",
-        "processing",
-        "information"
-      ],
-      "rank": 3,
-      "heat": 75.3,
-      "status": "发酵中"
     },
     {
       "terms": [
         "算力"
       ],
-      "source_count": 2,
-      "signal_count": 13,
+      "source_count": 3,
+      "signal_count": 16,
       "sources": [
         "C114中国通信网_监管",
+        "C114中国通信网_要闻精选",
         "工信部要闻"
       ],
-      "score": 70.0,
-      "latest_at": "2026-09-14T09:45:22.225294+00:00",
-      "title": "工业和信息化部等九部门关于印发《智能网联新能源汽车产业发展“十五五”规划》的通知",
-      "id": "adb017103e2a",
+      "score": 77.5,
+      "latest_at": "2026-09-15T09:18:46.554469+00:00",
+      "title": "工信部对我国网络强国建设提出四点建议",
+      "id": "7dcdfd04aa72",
       "links": [
+        {
+          "title": "工信部对我国网络强国建设提出四点建议",
+          "url": "http://www.c114.net/news/16/a997101.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 95.0,
+          "published_at": null
+        },
+        {
+          "title": "工业和信息化部召开部分省份工业经济运行座谈会",
+          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_ab5c2644b3134b74b1d1267af2198bc4.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
+        },
+        {
+          "title": "两部门关于印发《电子信息制造业发展“十五五”规划》的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_f4864217588b44c489d58da20de766c8.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
+        },
         {
           "title": "工业和信息化部等九部门关于印发《智能网联新能源汽车产业发展“十五五”规划》的通知",
           "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_47e6f99ffbe945279ef3ffd23c5b3631.html",
@@ -352,27 +122,6 @@
           "source": "工信部要闻",
           "score": 90.0,
           "published_at": null
-        },
-        {
-          "title": "工业和信息化部等六部门关于印发《关于推动历史经典产业高质量发展的意见》的通知",
-          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_6d9ac16698c0431eb4e202a53143bc9f.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
-        },
-        {
-          "title": "工业和信息化部等十部门关于印发《促进中小企业发展“十五五”规划》的通知",
-          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_80ce437ddf6b42c2915d30bc8876dde2.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
-        },
-        {
-          "title": "两部门关于印发《安全应急装备产业发展“十五五”规划》的通知",
-          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_74a880b75f664878b9d5cb62412c014d.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
         }
       ],
       "top_terms": [
@@ -382,8 +131,475 @@
         "发展",
         "业和"
       ],
+      "rank": 2,
+      "heat": 77.5,
+      "status": "发酵中"
+    },
+    {
+      "terms": [
+        "advantage",
+        "assessments",
+        "asymmetric",
+        "automatic",
+        "bidirectional",
+        "blue",
+        "boost",
+        "bragg",
+        "cells",
+        "chirped",
+        "circuits",
+        "circulator",
+        "classical",
+        "clustering",
+        "communication",
+        "dark",
+        "dipole",
+        "dramatically",
+        "driven",
+        "electro-optic",
+        "emission",
+        "erbium-doped",
+        "experimental",
+        "extracting",
+        "fabrication",
+        "feedback",
+        "fibre",
+        "fidelity",
+        "game",
+        "getting",
+        "gold",
+        "gratings",
+        "high-efficiency",
+        "improving",
+        "information",
+        "ingan",
+        "integrated",
+        "inversely",
+        "laser",
+        "lasers",
+        "lithium",
+        "machine",
+        "machine-learning-assisted",
+        "matter",
+        "micro-transfer",
+        "microscopy",
+        "momentum",
+        "nanoantenna",
+        "nanocone-nanohole",
+        "nanoparticle",
+        "nanophotonic",
+        "nanopores",
+        "nanostructures",
+        "niobate",
+        "niobate-on-insulator",
+        "nitride",
+        "nuclear",
+        "optical",
+        "orientations",
+        "passive",
+        "pattern",
+        "photonic",
+        "photons",
+        "physicists",
+        "plasmonic",
+        "printed",
+        "processing",
+        "proof-of-concept",
+        "provable",
+        "quantum",
+        "raman",
+        "reliable",
+        "reservoirs",
+        "search",
+        "sensors",
+        "shape",
+        "silicon",
+        "sleeve-and-bulk",
+        "solar",
+        "spectropolarimetry",
+        "spectroscopic",
+        "strongly",
+        "temporal",
+        "thin-film",
+        "transfer",
+        "transmission",
+        "trapping",
+        "turn",
+        "ultra-cold",
+        "ultrafast",
+        "uncertainty",
+        "unconventional",
+        "versatile",
+        "x-ray"
+      ],
+      "source_count": 3,
+      "signal_count": 14,
+      "sources": [
+        "Nature Photonics",
+        "Phys.org 物理新闻",
+        "arXiv 光学与光子学 (physics.optics)"
+      ],
+      "score": 76.1,
+      "latest_at": "2026-09-15T09:18:46.554469+00:00",
+      "title": "Integrated electro-optic circulator on thin-film lithium niobate for bidirectional optical fibre transmission",
+      "id": "8b079c021131",
+      "links": [
+        {
+          "title": "Integrated electro-optic circulator on thin-film lithium niobate for bidirectional optical fibre transmission",
+          "url": "https://www.nature.com/articles/s41566-026-02008-9",
+          "source": "Nature Photonics",
+          "score": 91.3,
+          "published_at": "2026-09-11T00:00:00+00:00"
+        },
+        {
+          "title": "Momentum microscopy of ultrafast electron emission from a strongly driven optical nanoantenna",
+          "url": "https://arxiv.org/abs/2609.13354",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-15T04:00:00+00:00"
+        },
+        {
+          "title": "Versatile Sleeve-and-Bulk Fabrication of Inversely Designed Nanophotonic Structures with High Pattern Transfer Fidelity",
+          "url": "https://arxiv.org/abs/2609.13460",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-15T04:00:00+00:00"
+        },
+        {
+          "title": "Hybrid Nanocone-Nanohole Light Trapping for High-Efficiency Thin-Film Silicon Solar Cells",
+          "url": "https://arxiv.org/abs/2609.14396",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-15T04:00:00+00:00"
+        },
+        {
+          "title": "Chirped Bragg Gratings as Passive Photonic Reservoirs: An Experimental Proof-of-Concept for Temporal Information Processing",
+          "url": "https://arxiv.org/abs/2609.14405",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.8,
+          "published_at": "2026-09-15T04:00:00+00:00"
+        }
+      ],
+      "top_terms": [
+        "quantum",
+        "integrated",
+        "optical",
+        "transfer",
+        "efficiency"
+      ],
+      "rank": 3,
+      "heat": 76.1,
+      "status": "发酵中"
+    },
+    {
+      "terms": [],
+      "source_count": 1,
+      "signal_count": 12,
+      "sources": [
+        "C114中国通信网_通信财经"
+      ],
+      "score": 62.5,
+      "latest_at": "2026-09-15T09:18:46.554469+00:00",
+      "title": "光迅科技2026年上半年净利润5.82亿元，同比增长56.34%",
+      "id": "29dc9c860a30",
+      "links": [
+        {
+          "title": "光迅科技2026年上半年净利润5.82亿元，同比增长56.34%",
+          "url": "https://www.c114.com.cn/news/123/a1315966.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
+        },
+        {
+          "title": "天孚通信2026年上半年净利润12.04亿元，同比增长33.92%",
+          "url": "https://www.c114.com.cn/news/123/a1315895.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
+        },
+        {
+          "title": "光库科技2026年上半年净利润1.48亿元，同比增长186.09%",
+          "url": "https://www.c114.com.cn/news/123/a1315809.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
+        },
+        {
+          "title": "锐捷网络2026年上半年净利润6.94亿元，同比增长53.54%",
+          "url": "https://www.c114.com.cn/news/123/a1315739.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
+        },
+        {
+          "title": "中科曙光上半年实现净利润9.78亿元，同比增长34.19%",
+          "url": "https://www.c114.com.cn/news/123/a1315661.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "亿元",
+        "上半",
+        "半年",
+        "净利",
+        "利润"
+      ],
       "rank": 4,
-      "heat": 70.0,
+      "heat": 62.5,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "cpo",
+        "光模块",
+        "光纤",
+        "光芯片",
+        "光通信",
+        "算力",
+        "驱动"
+      ],
+      "source_count": 4,
+      "signal_count": 4,
+      "sources": [
+        "LEDinside 中文",
+        "搜狗微信·光电行业 · 任尚",
+        "搜狗微信·光电行业 · 市场分析报告",
+        "搜狗微信·光电行业 · 报告派"
+      ],
+      "score": 59.0,
+      "latest_at": "2026-09-15T09:18:46.554469+00:00",
+      "title": "光通信产业链 | 从光芯片到光模块,谁最赚钱?",
+      "id": "f6d4701a377c",
+      "links": [
+        {
+          "title": "光通信产业链 | 从光芯片到光模块,谁最赚钱?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxPkaRVoEuLg49-Cg4fQSZQZ4YmhN1Nv2VqXa8Fplpd9ziL5Ux6jAfueW6pdIxrW66ndXWkmAAwWEmN8d2SFeNObn9XSZMEYXbQTJMl97IUQ8N4LHOtt9VAM6TZ0jCWaXNBs1WMRcRLDD01t-YKVENtqHxUq3CjJAfSBBPsncwOXKkfy2188Fvj4maa6QGGpZ0bIPinulfb9Pp1jKYlPi3QYJSSFPgfogQ..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=2B06932FFE0C7E06ABACF129A2BC5403AB3AC9856AA90D61",
+          "source": "搜狗微信·光电行业 · 任尚",
+          "score": 74.9,
+          "published_at": "2026-09-15T07:18:47+00:00"
+        },
+        {
+          "title": "光通信产业链:光模块+光芯片+光纤+CPO,最核心的15家公司",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxPkaRVoEuLg49-Cg4fQSZQZ4YmhN1Nv2VqXa8Fplpd90zmNIFUU9HMQec0nKSSnH9swlJyJLADaqsSvhnkyiA1GzjmL-FDwfF6Gsb0x2TOuRJ5oWhyghLDXbHHEPW3o-SFpF0kVHENizHO4XAdydN73OnFpXFLIVLjafgVkexjxLPM_AxMFcsKjdYLBKaRH-oqYE-_4hw8EfFDhv4qBc1XYl_Q5RRZQjg..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=2B06932FFE0C7E06ABACF129A2BC5403AB3AC9856AA90D61",
+          "source": "搜狗微信·光电行业 · 市场分析报告",
+          "score": 74.3,
+          "published_at": "2026-09-14T12:50:34+00:00"
+        },
+        {
+          "title": "光通信产业链全解析:AI算力驱动、技术演进、产业链拆解与核心公司深度梳理",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxPkaRVoEuLg49-Cg4fQSZQZ4YmhN1Nv2VqXa8Fplpd9w-W26QOR3e7esN_t7nfzNfDzpRQVhoae-ykqbTUlQzI-enbTsgB006PtbyIPbvL7DjakfX2O4i4CFy7AtHIWqUcdvjFs-G_FUsPt3wHJjjTTb62DY0NlupQsTGkkIsepY87eEF8DGnodgo-1zbrZR0IQErg4XyzOZc-RRFCTyO-FW6cwuUnkdA..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=2B06932FFE0C7E06ABACF129A2BC5403AB3AC9856AA90D61",
+          "source": "搜狗微信·光电行业 · 报告派",
+          "score": 74.3,
+          "published_at": "2026-09-14T14:31:59+00:00"
+        },
+        {
+          "title": "4家光通信相关企业实现营收、利润双增长",
+          "url": "https://www.ledinside.cn/fsa/20260831-62447.html",
+          "source": "LEDinside 中文",
+          "score": 67.2,
+          "published_at": "2026-08-31"
+        }
+      ],
+      "top_terms": [
+        "产业",
+        "业链",
+        "光通",
+        "通信",
+        "信产"
+      ],
+      "rank": 5,
+      "heat": 59.0,
+      "status": "发酵中"
+    },
+    {
+      "terms": [
+        "cioe",
+        "cioe2026",
+        "光电",
+        "激光"
+      ],
+      "source_count": 3,
+      "signal_count": 6,
+      "sources": [
+        "CIOE 中国光博会",
+        "OFweek 光电频道",
+        "OFweek 激光频道"
+      ],
+      "score": 56.8,
+      "latest_at": "2026-09-15T09:18:46.554469+00:00",
+      "title": "光耀鹏城，匠心追光｜卓立汉光 CIOE2026 深圳光博会圆满收官，聚力光电新征程",
+      "id": "edff06b28a24",
+      "links": [
+        {
+          "title": "光耀鹏城，匠心追光｜卓立汉光 CIOE2026 深圳光博会圆满收官，聚力光电新征程",
+          "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30702920.html",
+          "source": "OFweek 光电频道",
+          "score": 90.0,
+          "published_at": "2026-09"
+        },
+        {
+          "title": "最新议程出炉！2026中国激光产业高质量发展峰会即将开启",
+          "url": "https://laser.ofweek.com/2026-07/ART-8100-2400-30694578.html",
+          "source": "OFweek 激光频道",
+          "score": 90.0,
+          "published_at": "2026-07"
+        },
+        {
+          "title": "第27届中国国际光电博览会开展首日盛况空前，“光 + AI”激活光电全产业链新动能",
+          "url": "https://laser.ofweek.com/2026-09/ART-8100-2400-30702419.html",
+          "source": "OFweek 激光频道",
+          "score": 90.0,
+          "published_at": "2026-09"
+        },
+        {
+          "title": "AI赋能光电新变革，第27届CIOE中国光博会9月深圳举办聚力全链创新",
+          "url": "https://laser.ofweek.com/2026-08/ART-8100-2400-30701091.html",
+          "source": "OFweek 激光频道",
+          "score": 90.0,
+          "published_at": "2026-08"
+        },
+        {
+          "title": "热度攀升！AI光电融合引领产业变革，CIOE 2026新品首发亮点纷呈",
+          "url": "https://cioe.cn/news/3009_info.html",
+          "source": "CIOE 中国光博会",
+          "score": 80.5,
+          "published_at": "2026-09-10"
+        }
+      ],
+      "top_terms": [
+        "光电",
+        "中国",
+        "产业",
+        "cioe",
+        "激光"
+      ],
+      "rank": 6,
+      "heat": 56.8,
+      "status": "发酵中"
+    },
+    {
+      "terms": [],
+      "source_count": 2,
+      "signal_count": 2,
+      "sources": [
+        "C114中国通信网_要闻精选",
+        "C114中国通信网_设备商"
+      ],
+      "score": 42.0,
+      "latest_at": "2026-09-15T09:18:46.554469+00:00",
+      "title": "超260个云项目背后：华为助力运营商建好云、用好云、管好云",
+      "id": "0142a27600a1",
+      "links": [
+        {
+          "title": "超260个云项目背后：华为助力运营商建好云、用好云、管好云",
+          "url": "http://www.c114.net/news/126/a997279.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 75.0,
+          "published_at": null
+        },
+        {
+          "title": "共建共享，华为云与滴普科技加速制造、零售行业智能化落地",
+          "url": "https://www.c114.com.cn/news/126/a1315633.html",
+          "source": "C114中国通信网_设备商",
+          "score": 75.0,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "好云",
+        "华为",
+        "超",
+        "个云项目背后",
+        "个云"
+      ],
+      "rank": 7,
+      "heat": 42.0,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "激光",
+        "激光雷达"
+      ],
+      "source_count": 2,
+      "signal_count": 2,
+      "sources": [
+        "OFweek 激光频道",
+        "搜狗微信·光电行业 · 格隆汇新股"
+      ],
+      "score": 42.0,
+      "latest_at": "2026-09-15T09:18:46.554469+00:00",
+      "title": "光至科技启动IPO辅导，激光新锐冲刺A股",
+      "id": "c661f9d5e4a0",
+      "links": [
+        {
+          "title": "光至科技启动IPO辅导，激光新锐冲刺A股",
+          "url": "https://laser.ofweek.com/2026-08/ART-240002-12003-30698032.html",
+          "source": "OFweek 激光频道",
+          "score": 80.0,
+          "published_at": "2026-08"
+        },
+        {
+          "title": "深圳激光雷达巨头冲刺IPO,供货小米、石头科技!",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxPkaRVoEuLga6_142iaJOQZ4YmhN1Nv2VqXa8Fplpd9opwi9NVoPazZBqh9TYSttcnAfH6Rfef6sF6irYbiLDSPx83ZTREk_M_Gw3yaB9dtkZRrb_KBtWUS3gXN2mi2Vep4zOWVEZ7Ff8Bqgm0_2qj_KOwlXmaYi1YyFFZ5dMmsF2Lmz8_bpmAJ_AdBmoUne9nVoZWCl1vqQC506nKvfhFe0WC6Sbi7DA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=2B06E15EFE0C7E06ABACF129A2BC5403AB3AC9856AA90D70",
+          "source": "搜狗微信·光电行业 · 格隆汇新股",
+          "score": 69.2,
+          "published_at": "2026-09-14T10:25:50+00:00"
+        }
+      ],
+      "top_terms": [
+        "科技",
+        "激光",
+        "冲刺",
+        "ipo",
+        "辅导"
+      ],
+      "rank": 8,
+      "heat": 42.0,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "激光",
+        "激光雷达"
+      ],
+      "source_count": 2,
+      "signal_count": 2,
+      "sources": [
+        "搜狗微信·光电行业 · CA深蓝车友会",
+        "搜狗微信·光电行业 · 青岚舜华"
+      ],
+      "score": 42.0,
+      "latest_at": "2026-09-15T09:18:46.554469+00:00",
+      "title": "深蓝S07舱内激光雷达版ADS 5功能抢先看,深蓝汽车因发布会商业侵权,引导签阴阳协议!丨深蓝车友会",
+      "id": "bf58aef68d07",
+      "links": [
+        {
+          "title": "深蓝S07舱内激光雷达版ADS 5功能抢先看,深蓝汽车因发布会商业侵权,引导签阴阳协议!丨深蓝车友会",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxPkaRVoEuLga6_142iaJOQZ4YmhN1Nv2VqXa8Fplpd90s1MVJGUXLS1oC_oy_lCgiP4QCSeZaLQy_e_liHEZBtvrVXBY9EIrCHC0G5Q2RhclzMjjjUxsXb1Ab_tIJ5Vkli1oNh8w3CtAk9VoxbSJfhR61iXxLAw1z9ZLO13TwgsnA_kTOEhn1FBomcv7xfWvzZhrAqgRqPjPbUsG27D38DyPfCoem7FzA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=2B06E15EFE0C7E06ABACF129A2BC5403AB3AC9856AA90D70",
+          "source": "搜狗微信·光电行业 · CA深蓝车友会",
+          "score": 70.0,
+          "published_at": "2026-09-15T08:02:55+00:00"
+        },
+        {
+          "title": "全新深蓝 S05 上市:激光雷达成为 1.2 万元选择题",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxPkaRVoEuLga6_142iaJOQZ4YmhN1Nv2VqXa8Fplpd9AtxF4zUunUVNvdjtYDUac064fALyzjRD4CNaCq7pOL1nNoxluRyvBm7TONiad4TdkM9ndu3-oywMXhIPSl2dH5-d5ngGuLFAq7-dQYMKihrf7EDcxwBw0EZ7kbuknlbTIP7aLuR7tbDRMxuip-zvl7JHntcvvqZrXTc5uhmreGTzAjcIGepUqA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=2B06E15EFE0C7E06ABACF129A2BC5403AB3AC9856AA90D70",
+          "source": "搜狗微信·光电行业 · 青岚舜华",
+          "score": 69.8,
+          "published_at": "2026-09-15T03:24:00+00:00"
+        }
+      ],
+      "top_terms": [
+        "深蓝",
+        "激光",
+        "光雷",
+        "雷达",
+        "上市"
+      ],
+      "rank": 9,
+      "heat": 42.0,
       "status": "关注中"
     },
     {
@@ -391,178 +607,39 @@
       "source_count": 1,
       "signal_count": 4,
       "sources": [
-        "OFweek 光电频道"
+        "工信部要闻"
       ],
       "score": 41.5,
-      "latest_at": "2026-09-14T09:45:22.225294+00:00",
-      "title": "销售费用涨61%跑赢营收，影石创新的“营销幻觉”还能持续多久？",
-      "id": "9147427a3b58",
+      "latest_at": "2026-09-15T09:18:46.554469+00:00",
+      "title": "湖南通信管理局召开树立和践行正确政绩观学习教育总结会",
+      "id": "6dcfab9e8acc",
       "links": [
         {
-          "title": "销售费用涨61%跑赢营收，影石创新的“营销幻觉”还能持续多久？",
-          "url": "https://optics.ofweek.com/2026-09/ART-250003-12003-30702714.html",
-          "source": "OFweek 光电频道",
-          "score": 85.0,
-          "published_at": "2026-09"
-        },
-        {
-          "title": "跌破100元，市场开始重估影石",
-          "url": "https://optics.ofweek.com/2026-09/ART-250003-8420-30702675.html",
-          "source": "OFweek 光电频道",
-          "score": 85.0,
-          "published_at": "2026-09"
-        },
-        {
-          "title": "影石创新收入大增利润暴跌：股价今年腰斩超五成，被下调盈利预测",
-          "url": "https://optics.ofweek.com/2026-09/ART-250003-12004-30702442.html",
-          "source": "OFweek 光电频道",
-          "score": 85.0,
-          "published_at": "2026-09"
-        },
-        {
-          "title": "营收增长50%与净利下滑94%：影石创新的\"战略性亏损\"还能持续多久？",
-          "url": "https://optics.ofweek.com/2026-09/ART-250003-12003-30702048.html",
-          "source": "OFweek 光电频道",
-          "score": 85.0,
-          "published_at": "2026-09"
-        }
-      ],
-      "top_terms": [
-        "影石",
-        "石创",
-        "创新",
-        "营收",
-        "影石创新的"
-      ],
-      "rank": 5,
-      "heat": 41.5,
-      "status": "关注中"
-    },
-    {
-      "terms": [
-        "store"
-      ],
-      "source_count": 1,
-      "signal_count": 3,
-      "sources": [
-        "C114中国通信网_IT资讯"
-      ],
-      "score": 38.0,
-      "latest_at": "2026-09-14T09:45:22.225294+00:00",
-      "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
-      "id": "79ca1f2a334a",
-      "links": [
-        {
-          "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
-          "url": "https://www.c114.com.cn/news/213/a1282089.html",
-          "source": "C114中国通信网_IT资讯",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "苹果税惹麻烦：苹果在英国面临15亿英镑集体诉讼",
-          "url": "https://www.c114.com.cn/news/213/a1281942.html",
-          "source": "C114中国通信网_IT资讯",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "苹果公司在英面临15亿英镑司法索赔，被指在App Store收费“过高且不公平”",
-          "url": "https://www.c114.com.cn/news/213/a1281915.html",
-          "source": "C114中国通信网_IT资讯",
-          "score": 72.5,
-          "published_at": null
-        }
-      ],
-      "top_terms": [
-        "苹果",
-        "在英",
-        "亿英",
-        "英镑",
-        "英国"
-      ],
-      "rank": 6,
-      "heat": 38.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [
-        "apec"
-      ],
-      "source_count": 1,
-      "signal_count": 3,
-      "sources": [
-        "工信部要闻"
-      ],
-      "score": 38.0,
-      "latest_at": "2026-09-14T09:45:22.225294+00:00",
-      "title": "工业和信息化部举行“第32次亚太经合组织（APEC）中小企业部长会议新闻通气会”",
-      "id": "e8e243d38e08",
-      "links": [
-        {
-          "title": "工业和信息化部举行“第32次亚太经合组织（APEC）中小企业部长会议新闻通气会”",
-          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_0c0a3ae10f1b41d88813ab3ad5f6df54.html",
+          "title": "湖南通信管理局召开树立和践行正确政绩观学习教育总结会",
+          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_be76a684326a4b5f99d688abc2ea4dd7.html",
           "source": "工信部要闻",
-          "score": 72.5,
+          "score": 75.0,
           "published_at": null
         },
         {
-          "title": "2026年亚太经合组织（APEC）数字和人工智能部长会议新闻发布会在成都召开",
-          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d109e2b6dc4844cc902a1f6f49712f67.html",
+          "title": "河南通信管理局召开会议 总结树立和践行正确政绩观学习教育 部署巩固拓展学习教育成果工作",
+          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_dce1ec211149481998b315c406fa0364.html",
           "source": "工信部要闻",
-          "score": 72.5,
+          "score": 75.0,
           "published_at": null
         },
         {
-          "title": "工业和信息化部举行“亚太经合组织（APEC）2026年数字和人工智能部长会议及数字周相关活动新闻通气会”",
-          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a1dcaacc0394430fa13197ef3946dece.html",
+          "title": "浙江通信管理局党组召开党组（扩大）会议 总结树立和践行正确政绩观学习教育",
+          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_8dd1c3c8344e405284976c76f1ea09a7.html",
           "source": "工信部要闻",
-          "score": 72.5,
-          "published_at": null
-        }
-      ],
-      "top_terms": [
-        "亚太",
-        "太经",
-        "经合",
-        "合组",
-        "组织"
-      ],
-      "rank": 7,
-      "heat": 38.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [],
-      "source_count": 1,
-      "signal_count": 3,
-      "sources": [
-        "工信部要闻"
-      ],
-      "score": 38.0,
-      "latest_at": "2026-09-14T09:45:22.225294+00:00",
-      "title": "新疆通信管理局召开党的建设工作领导小组（扩大）会议 总结树立和践行正确政绩观学习教育 部署巩固拓展学习教育成果工作",
-      "id": "f6742716ee39",
-      "links": [
-        {
-          "title": "新疆通信管理局召开党的建设工作领导小组（扩大）会议 总结树立和践行正确政绩观学习教育 部署巩固拓展学习教育成果工作",
-          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_38d902f5e82d4f62aee3f7d52072af33.html",
-          "source": "工信部要闻",
-          "score": 72.5,
+          "score": 75.0,
           "published_at": null
         },
         {
-          "title": "江西通信管理局召开树立和践行正确政绩观学习教育总结会",
-          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_c466587171a941ec8b3d2ee3e2640000.html",
+          "title": "内蒙古通信管理局召开会议 总结树立和践行正确政绩观学习教育 部署巩固拓展学习教育成果工作",
+          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_86b15e28081f4c86ba7710ed4802b6d7.html",
           "source": "工信部要闻",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "甘肃通信管理局召开树立和践行正确政绩观学习教育总结大会",
-          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_d77e521836e6420586818de2937ccd9e.html",
-          "source": "工信部要闻",
-          "score": 72.5,
+          "score": 75.0,
           "published_at": null
         }
       ],
@@ -570,108 +647,11 @@
         "学习",
         "习教",
         "教育",
-        "通信",
-        "信管"
-      ],
-      "rank": 8,
-      "heat": 38.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [
-        "asa-ml",
-        "connectivity",
-        "display",
-        "displays",
-        "extend",
-        "marelli",
-        "microchip",
-        "open-standard",
-        "pioneer",
-        "software-defined",
-        "solution",
-        "vehicles"
-      ],
-      "source_count": 2,
-      "signal_count": 2,
-      "sources": [
-        "EDN 电子工程专辑",
-        "LEDinside 英文"
-      ],
-      "score": 22.0,
-      "latest_at": "2026-09-14T09:45:22.225294+00:00",
-      "title": "[News] Marelli and Microchip pioneer open-standard display connectivity solution for software-defined vehicles",
-      "id": "d79781e385da",
-      "links": [
-        {
-          "title": "[News] Marelli and Microchip pioneer open-standard display connectivity solution for software-defined vehicles",
-          "url": "//www.ledinside.com/news/2026/9/2026_09_09_04",
-          "source": "LEDinside 英文",
-          "score": 66.2,
-          "published_at": "2026-09-09T21:30:47+00:00"
-        },
-        {
-          "title": "Marelli, Microchip extend ASA-ML to displays",
-          "url": "https://www.edn.com/marelli-microchip-extend-asa-ml-to-displays/",
-          "source": "EDN 电子工程专辑",
-          "score": 56.2,
-          "published_at": "2026-09-09T19:37:06+00:00"
-        }
-      ],
-      "top_terms": [
-        "marelli",
-        "microchip",
-        "pioneer",
-        "open",
-        "standard"
-      ],
-      "rank": 9,
-      "heat": 22.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [],
-      "source_count": 1,
-      "signal_count": 3,
-      "sources": [
-        "中国政府采购网"
-      ],
-      "score": 18.0,
-      "latest_at": "2026-09-14T09:45:22.225294+00:00",
-      "title": "《政府采购法》修订草案公布 即日起面...",
-      "id": "f8a506d50342",
-      "links": [
-        {
-          "title": "《政府采购法》修订草案公布 即日起面...",
-          "url": "https://www.ccgp.gov.cn/news/202606/t20260626_26825551.htm",
-          "source": "中国政府采购网",
-          "score": 47.5,
-          "published_at": "2026-06-26"
-        },
-        {
-          "title": "人大常委会丨我国拟修改政府采购法 系...",
-          "url": "https://www.ccgp.gov.cn/news/202606/t20260624_26803448.htm",
-          "source": "中国政府采购网",
-          "score": 47.5,
-          "published_at": "2026-06-24"
-        },
-        {
-          "title": "赵乐际主持召开十四届全国人大常委会...",
-          "url": "https://www.ccgp.gov.cn/news/202606/t20260617_26763914.htm",
-          "source": "中国政府采购网",
-          "score": 47.5,
-          "published_at": "2026-06-17"
-        }
-      ],
-      "top_terms": [
-        "政府",
-        "府采",
-        "采购",
-        "购法",
-        "人大"
+        "会议",
+        "通信"
       ],
       "rank": 10,
-      "heat": 18.0,
+      "heat": 41.5,
       "status": "关注中"
     }
   ]
