@@ -1,23 +1,91 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T08:53:59.948098+00:00",
+  "generatedAt": "2026-09-19T08:40:32.115401+00:00",
   "count": 10,
   "items": [
+    {
+      "terms": [
+        "激光",
+        "激光雷达"
+      ],
+      "source_count": 7,
+      "signal_count": 7,
+      "sources": [
+        "OFweek 激光频道",
+        "搜狗微信·光电行业 · A drop of rain",
+        "搜狗微信·光电行业 · 安兔兔",
+        "搜狗微信·光电行业 · 易车",
+        "搜狗微信·光电行业 · 林深见鹿5",
+        "搜狗微信·光电行业 · 親簽",
+        "搜狗微信·光电行业 · 逸风车韵"
+      ],
+      "score": 89.5,
+      "latest_at": "2026-09-19T08:40:32.115401+00:00",
+      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
+      "id": "3841680e9e0c",
+      "links": [
+        {
+          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
+          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
+          "source": "OFweek 激光频道",
+          "score": 92.5,
+          "published_at": "2026-08"
+        },
+        {
+          "title": "买SUV还要加钱选激光雷达?吉利博越L顶配就带,油耗才4个多",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoi2ZXIayQBrWC3wfnMLF7rkFqXa8Fplpd9KsCdIG6ur4NcOPSc_4NKbOon4r6WBkHpQEElGPpJDARQoxWlxYedLwyuj6uO3yKBQvw2-oWmcNp6C6Iv6hXoKYYWBH_BMnhhbPj_yGBfBgYty30XXiTOzyL5aqeWVcG9kJj0BOcYantbH0-VqguLvcqHaLsChtATTynR68V5nLhQ_LeJW-Rhtg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4A05567023A0188101075AD1F7C405700186DEFC6AAE4A79",
+          "source": "搜狗微信·光电行业 · 親簽",
+          "score": 82.5,
+          "published_at": "2026-09-19T08:18:36+00:00"
+        },
+        {
+          "title": "新增激光雷达,紧凑型SUV,全新银河E5下周上市!",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoi2ZXIayQBrWC3wfnMLF7rkFqXa8Fplpd9yoKdSmZitmvTuhViSiFTK9fbWgtdJLN3z3UBfngwK-sgLgsG2iqlI9ZrHuxANfOgSezUQ3Dmmnhi4GzS-7WYHN5lFbZW5XUcmY1Crc39yJ6GiYPzi3LYusd3Ggg1gtxPew76wSI2KFkIUwCmjTTF7-Je8lx-eoZIHrPJuEpcAJ3P28temKTOwg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4A05567023A0188101075AD1F7C405700186DEFC6AAE4A79",
+          "source": "搜狗微信·光电行业 · 易车",
+          "score": 82.4,
+          "published_at": "2026-09-19T07:04:43+00:00"
+        },
+        {
+          "title": "7万预算能买500km续航+激光雷达?这三台车把燃油车打趴了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoi2ZXIayQBrWC3wfnMLF7rkFqXa8Fplpd9pCd0YW5RdDW3KK9mFuNPniJQvzU3wMghdmoHeD_S_YOhBij5ju47Etb3w2SpRklRTTewg7g4XFCgbp4grfUKqjfy9oqo5s0QUbjfNMBTnBZ9fQNb5wxzkNN9xF8UF9FIK1cFG3MEKtibqgbCMNT-jYs6nZet2rHHO_nCY-bmAhGfxjh3za6jWA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4A05567023A0188101075AD1F7C405700186DEFC6AAE4A79",
+          "source": "搜狗微信·光电行业 · 逸风车韵",
+          "score": 82.4,
+          "published_at": "2026-09-19T06:53:28+00:00"
+        },
+        {
+          "title": "新款吉利银河E5,9月23上市,配激光雷达,电机升至245kW",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoi2ZXIayQBrWC3wfnMLF7rkFqXa8Fplpd9pZpOtLe0t16ft5I-GOxAhC6eR0URJnru0lSvvLZWY6MndvpsiRsF7Zd1KFKaEQHNG3LXJYwiIY62mMMD5ib47iVvR3n2omAlLxFoghohNfYOOK-JGZPEie9xDeAF68A9PlWGzNOIubx0oOGhSAk0m_xpmhO4oIulz1q9uRzRmw1j32-j2KiwUw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4A05567023A0188101075AD1F7C405700186DEFC6AAE4A79",
+          "source": "搜狗微信·光电行业 · A drop of rain",
+          "score": 82.4,
+          "published_at": "2026-09-19T06:53:32+00:00"
+        }
+      ],
+      "top_terms": [
+        "激光",
+        "光雷",
+        "雷达",
+        "上市",
+        "吉利"
+      ],
+      "rank": 1,
+      "heat": 89.5,
+      "status": "爆"
+    },
     {
       "terms": [
         "算力"
       ],
       "source_count": 3,
-      "signal_count": 18,
+      "signal_count": 19,
       "sources": [
         "C114中国通信网_监管",
         "C114中国通信网_要闻精选",
         "工信部要闻"
       ],
       "score": 77.5,
-      "latest_at": "2026-09-18T08:53:59.948098+00:00",
+      "latest_at": "2026-09-19T08:40:32.115401+00:00",
       "title": "工信部对我国网络强国建设提出四点建议",
-      "id": "741eb76ed5be",
+      "id": "408e98822cd6",
       "links": [
         {
           "title": "工信部对我国网络强国建设提出四点建议",
@@ -41,15 +109,15 @@
           "published_at": null
         },
         {
-          "title": "两部门关于印发《电子信息制造业发展“十五五”规划》的通知",
-          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_f4864217588b44c489d58da20de766c8.html",
+          "title": "工业和信息化部等十部门关于印发《医药工业发展“十五五”规划》的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9463adac4db040159f6cbf482675eeea.html",
           "source": "工信部要闻",
           "score": 90.0,
           "published_at": null
         },
         {
-          "title": "工业和信息化部等九部门关于印发《智能网联新能源汽车产业发展“十五五”规划》的通知",
-          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_47e6f99ffbe945279ef3ffd23c5b3631.html",
+          "title": "两部门关于印发《电子信息制造业发展“十五五”规划》的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_f4864217588b44c489d58da20de766c8.html",
           "source": "工信部要闻",
           "score": 90.0,
           "published_at": null
@@ -59,10 +127,10 @@
         "规划",
         "工业",
         "信息",
-        "业和",
-        "和信"
+        "发展",
+        "业和"
       ],
-      "rank": 1,
+      "rank": 2,
       "heat": 77.5,
       "status": "发酵中"
     },
@@ -80,7 +148,7 @@
         "LEDinside 中文"
       ],
       "score": 76.2,
-      "latest_at": "2026-09-18T08:53:59.948098+00:00",
+      "latest_at": "2026-09-19T08:40:32.115401+00:00",
       "title": "光迅科技2026年上半年净利润5.82亿元，同比增长56.34%",
       "id": "f2d6a4d2a17b",
       "links": [
@@ -127,248 +195,8 @@
         "净利",
         "利润"
       ],
-      "rank": 2,
-      "heat": 76.2,
-      "status": "发酵中"
-    },
-    {
-      "terms": [
-        "absorption",
-        "aluminum",
-        "amplifier",
-        "angular",
-        "attraction",
-        "battery",
-        "bidirectional",
-        "bilayered",
-        "bridge",
-        "bright-squeezed-vacuum-driven",
-        "brilliant",
-        "characterization",
-        "circulator",
-        "coherent",
-        "common",
-        "compact",
-        "complex",
-        "computers",
-        "computing",
-        "conditions",
-        "conventional",
-        "convert",
-        "correlations",
-        "coupling",
-        "deep",
-        "deep-level",
-        "degenerate",
-        "dispersion",
-        "each",
-        "efficiency",
-        "electro-optic",
-        "electroluminescence",
-        "electrons",
-        "emission",
-        "engineering",
-        "enhancement",
-        "exceptional",
-        "extreme",
-        "fibre",
-        "floquet",
-        "free-electron",
-        "free-space",
-        "frequency",
-        "group",
-        "high-capacity",
-        "high-harmonic",
-        "high-order",
-        "incorporating",
-        "inexpensive",
-        "integrated",
-        "interlayers",
-        "inverted",
-        "laser",
-        "lasers",
-        "lasing",
-        "learning-based",
-        "lithium",
-        "magnets",
-        "measurements",
-        "media",
-        "microwaves",
-        "mutual",
-        "negativities",
-        "neural",
-        "niobate",
-        "nitride",
-        "noise-robust",
-        "non-differentiable",
-        "nonlinear",
-        "oleds",
-        "optical",
-        "other",
-        "packets",
-        "parametric",
-        "part",
-        "paves",
-        "perfect",
-        "phosphorescent",
-        "photodetection",
-        "physicists",
-        "plasmon",
-        "points",
-        "preparation",
-        "processor",
-        "quantum",
-        "reconstruction",
-        "reflectance",
-        "reliable",
-        "remote",
-        "repulsion",
-        "research",
-        "researcher",
-        "reservoirs",
-        "says",
-        "scattering",
-        "self-rectification",
-        "single-distance",
-        "solids",
-        "spectroscopy",
-        "speedy",
-        "state",
-        "talk",
-        "thin-film",
-        "time-resolved",
-        "transient",
-        "transmission",
-        "tutorial",
-        "ultrafast",
-        "velocity",
-        "voltage-current-emission",
-        "wave",
-        "wigner"
-      ],
-      "source_count": 3,
-      "signal_count": 17,
-      "sources": [
-        "Nature Photonics",
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "score": 75.1,
-      "latest_at": "2026-09-18T08:53:59.948098+00:00",
-      "title": "Inverted phosphorescent OLEDs with plasmon coupling from quantum dot interlayers for enhanced efficiency",
-      "id": "9e35f6a56993",
-      "links": [
-        {
-          "title": "Inverted phosphorescent OLEDs with plasmon coupling from quantum dot interlayers for enhanced efficiency",
-          "url": "https://www.nature.com/articles/s41566-026-02001-2",
-          "source": "Nature Photonics",
-          "score": 92.2,
-          "published_at": "2026-09-15T00:00:00+00:00"
-        },
-        {
-          "title": "Limits on the free-space group velocity of optical wave packets incorporating angular dispersion. Part~I, conventional angular dispersion: tutorial",
-          "url": "https://arxiv.org/abs/2609.19576",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Limits on the free-space group velocity of optical wave packets incorporating angular dispersion. Part~II, non-differentiable angular dispersion: tutorial",
-          "url": "https://arxiv.org/abs/2609.19580",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Voltage-Current-Emission Framework of Time-Resolved Electroluminescence",
-          "url": "https://arxiv.org/abs/2609.19723",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "High-capacity computing with self-rectification nonlinear optical neural processor",
-          "url": "https://arxiv.org/abs/2609.19981",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-18T04:00:00+00:00"
-        }
-      ],
-      "top_terms": [
-        "optical",
-        "quantum",
-        "angular",
-        "dispersion",
-        "free"
-      ],
       "rank": 3,
-      "heat": 75.1,
-      "status": "发酵中"
-    },
-    {
-      "terms": [
-        "激光",
-        "激光雷达"
-      ],
-      "source_count": 5,
-      "signal_count": 5,
-      "sources": [
-        "OFweek 激光频道",
-        "搜狗微信·光电行业 · 半盏话事",
-        "搜狗微信·光电行业 · 小久的世界旅行",
-        "搜狗微信·光电行业 · 科技小豆芽",
-        "搜狗微信·光电行业 · 车轮观"
-      ],
-      "score": 75.0,
-      "latest_at": "2026-09-18T08:53:59.948098+00:00",
-      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-      "id": "d01127bca66a",
-      "links": [
-        {
-          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
-          "source": "OFweek 激光频道",
-          "score": 87.5,
-          "published_at": "2026-08"
-        },
-        {
-          "title": "谁说高端就得贵?红旗新车二十来万,激光雷达全系不用加钱",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2hPZLfdT5s2wyDuXLKruhLSB8fDqa471VqXa8Fplpd9Oc2a1ixAqggCzu2IikgNTy24hfxWsCGJPsaWtwPVaqZDdeOddWontpZLF4sVTcqt4SgzrA5FWu1GwqjyQdvIc49kCYjAecgxC3gDw24tFHy6A6mGSphsZIGePNijdwQGHJ9oi3TB8cgWvMNIhQ0LbJIWpDT_c3IJyKriVmAPFpBflztgI7RZ1g..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4252B28B3B6A146B7E7825C076C3B1C67F04500B6AACFC1E",
-          "source": "搜狗微信·光电行业 · 小久的世界旅行",
-          "score": 77.5,
-          "published_at": "2026-09-18T08:22:17+00:00"
-        },
-        {
-          "title": "吉利新车官宣,9月24日上市,有激光雷达",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2hPZLfdT5s2wyDuXLKruhLSB8fDqa471VqXa8Fplpd9pLuX7dpCMpg9xcWyZjTJ5-4lQwhkIFk5Y2kSoj2Ik0sLAEvUTVvwNKSunCkn5NXGZ5sCoIGufNnBVn1BLUgC1yRXSp-je5w_Sk4CAigogGEkpMu6Lum7uCdC-qOj-cgKqFUvipgA8JQKfVyMl9O38eXCrFG1qjAimdt8j8oXwCIHpHkoPMgL3A..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4252B28B3B6A146B7E7825C076C3B1C67F04500B6AACFC1E",
-          "source": "搜狗微信·光电行业 · 科技小豆芽",
-          "score": 77.5,
-          "published_at": "2026-09-18T08:06:55+00:00"
-        },
-        {
-          "title": "搭载宁德电池+激光雷达!大众新车官宣,9月20日正式上市",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2hPZLfdT5s2wyDuXLKruhLSB8fDqa471VqXa8Fplpd9cBt6qDzl7HA8XuLLR8kmH0LM1ASk5IhjZOoG0dgAugoOI3W0v7zaSnyuwJFOV2k7Ik8KWT6FrDxPtc0wOel0_pMNuxDbDcQ1eGCR_W_c1ZWZ6lRaIZdQEPIVByFivpPeh2ecBk6Wz78y_RHF_0dFxcOUpsyKiryaEGiui8btTO089kyxDwoXvg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4252B28B3B6A146B7E7825C076C3B1C67F04500B6AACFC1E",
-          "source": "搜狗微信·光电行业 · 半盏话事",
-          "score": 77.4,
-          "published_at": "2026-09-18T05:48:16+00:00"
-        },
-        {
-          "title": "10.98万起!丰田bZ5全系激光雷达!!",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2hPZLfdT5s2wyDuXLKruhLSB8fDqa471VqXa8Fplpd98CtWhWQkqxjMfR1Vk-RTTaMzM328WfWdLeVp2uQXs9TYzM1q4EY6VJ5gsH2CoPqGGMdNKoJ5FLg2oKkjUaCz9YtvNGDrNLM6uGOO7vMo9f4LE83ENVxYecdL-YUY-XgMZ1vdnHdsgDtDXQ_8FxwuLPwhoQicLWnxkYBKnPcxaB_yPfCoem7FzA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4252B28B3B6A146B7E7825C076C3B1C67F04500B6AACFC1E",
-          "source": "搜狗微信·光电行业 · 车轮观",
-          "score": 77.4,
-          "published_at": "2026-09-18T04:49:44+00:00"
-        }
-      ],
-      "top_terms": [
-        "激光",
-        "光雷",
-        "雷达",
-        "新车",
-        "有激"
-      ],
-      "rank": 4,
-      "heat": 75.0,
+      "heat": 76.2,
       "status": "发酵中"
     },
     {
@@ -384,7 +212,7 @@
         "OFweek 激光频道"
       ],
       "score": 45.5,
-      "latest_at": "2026-09-18T08:53:59.948098+00:00",
+      "latest_at": "2026-09-19T08:40:32.115401+00:00",
       "title": "光耀鹏城，匠心追光｜卓立汉光 CIOE2026 深圳光博会圆满收官，聚力光电新征程",
       "id": "a498e7212d6a",
       "links": [
@@ -417,8 +245,98 @@
         "博会",
         "聚力"
       ],
-      "rank": 5,
+      "rank": 4,
       "heat": 45.5,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "bridge",
+        "computers",
+        "contact",
+        "convert",
+        "detect",
+        "diamond",
+        "each",
+        "extremely",
+        "heart",
+        "interacting",
+        "lens",
+        "magnetism",
+        "magnets",
+        "microwaves",
+        "multiferroicity",
+        "other",
+        "physicists",
+        "quantum",
+        "researcher",
+        "reveal",
+        "room-temperature",
+        "says",
+        "sensors",
+        "skin",
+        "stable",
+        "stacked",
+        "strongly",
+        "talk",
+        "temperature",
+        "voltage-controlled"
+      ],
+      "source_count": 1,
+      "signal_count": 5,
+      "sources": [
+        "Phys.org 物理新闻"
+      ],
+      "score": 45.0,
+      "latest_at": "2026-09-19T08:40:32.115401+00:00",
+      "title": "An extremely stable quantum gas offers a new lens on strongly interacting systems",
+      "id": "20c3a44c2083",
+      "links": [
+        {
+          "title": "An extremely stable quantum gas offers a new lens on strongly interacting systems",
+          "url": "https://phys.org/news/2026-09-extremely-stable-quantum-gas-lens.html",
+          "source": "Phys.org 物理新闻",
+          "score": 67.5,
+          "published_at": null
+        },
+        {
+          "title": "Stacked 2D materials reveal room-temperature multiferroicity and voltage-controlled magnetism",
+          "url": "https://phys.org/news/2026-09-stacked-2d-materials-reveal-room.html",
+          "source": "Phys.org 物理新闻",
+          "score": 67.5,
+          "published_at": null
+        },
+        {
+          "title": "A new bridge for quantum networks: Physicists convert microwaves to light using 2D magnets",
+          "url": "https://phys.org/news/2026-09-bridge-quantum-networks-physicists-microwaves.html",
+          "source": "Phys.org 物理新闻",
+          "score": 67.5,
+          "published_at": null
+        },
+        {
+          "title": "Diamond quantum sensors can detect heart magnetism at room temperature without skin contact",
+          "url": "https://phys.org/news/2026-09-diamond-quantum-sensors-heart-magnetism.html",
+          "source": "Phys.org 物理新闻",
+          "score": 67.5,
+          "published_at": null
+        },
+        {
+          "title": "Magnets could help quantum computers talk to each other, says researcher",
+          "url": "https://phys.org/news/2026-09-magnets-quantum.html",
+          "source": "Phys.org 物理新闻",
+          "score": 67.5,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "quantum",
+        "temperature",
+        "magnetism",
+        "magnets",
+        "extremely"
+      ],
+      "rank": 5,
+      "heat": 45.0,
       "status": "关注中"
     },
     {
@@ -430,7 +348,7 @@
         "C114中国通信网_设备商"
       ],
       "score": 42.0,
-      "latest_at": "2026-09-18T08:53:59.948098+00:00",
+      "latest_at": "2026-09-19T08:40:32.115401+00:00",
       "title": "超260个云项目背后：华为助力运营商建好云、用好云、管好云",
       "id": "0142a27600a1",
       "links": [
@@ -473,7 +391,7 @@
         "COEMA 中国光电子行业协会"
       ],
       "score": 42.0,
-      "latest_at": "2026-09-18T08:53:59.948098+00:00",
+      "latest_at": "2026-09-19T08:40:32.115401+00:00",
       "title": "宇树科技计划登陆科创板 中国移动已投资",
       "id": "f3596e90ef88",
       "links": [
@@ -514,7 +432,7 @@
         "OFweek 光电频道"
       ],
       "score": 42.0,
-      "latest_at": "2026-09-18T08:53:59.948098+00:00",
+      "latest_at": "2026-09-19T08:40:32.115401+00:00",
       "title": "光学载荷头部企业吉天星舟完成数亿元B轮融资！",
       "id": "39f086769f1a",
       "links": [
@@ -545,108 +463,95 @@
       "status": "关注中"
     },
     {
-      "terms": [
-        "光模块"
-      ],
-      "source_count": 2,
-      "signal_count": 2,
+      "terms": [],
+      "source_count": 1,
+      "signal_count": 3,
       "sources": [
-        "搜狗微信·光电行业 · 八维大数据选股",
-        "搜狗微信·光电行业 · 江辉价值远航"
+        "C114中国通信网_要闻精选"
       ],
-      "score": 42.0,
-      "latest_at": "2026-09-18T08:53:59.948098+00:00",
-      "title": "光模块+政策定调+高盛上修,利好的6家公司",
-      "id": "6f3672c161ab",
+      "score": 38.0,
+      "latest_at": "2026-09-19T08:40:32.115401+00:00",
+      "title": "大招齐发，英特尔直击网络转型",
+      "id": "40753cddc649",
       "links": [
         {
-          "title": "光模块+政策定调+高盛上修,利好的6家公司",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2hPZLfdT5s2yUoYjWVtX43SB8fDqa471VqXa8Fplpd9RoVcSqeM_rQJl7Wez0Mi7qZol25585kljO4wdAm-GIEjzeLKeIyaV8JiOYoQpnGeoLAmLf3l3JdcVmWNqY37bBjz82FxJu0YexyTajy8XHxKcYzaZqvCVb0BBqumS3LWD1-dx2Wj7Mq0T8jEhkKJ9ZFGOsE7_4R2L8HRpQgNICTvzHZXxeLdyg..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=4252A58A3B6A146B7E7825C076C3B1C67F04500B6AACFC1B",
-          "source": "搜狗微信·光电行业 · 八维大数据选股",
-          "score": 69.8,
-          "published_at": "2026-09-18T04:34:29+00:00"
+          "title": "大招齐发，英特尔直击网络转型",
+          "url": "http://www.c114.com.cn/topic/5096/a996852.html?utm_medium=C114&dclid=CLmNp8bEwdICFRwhKgodT4YHqQ",
+          "source": "C114中国通信网_要闻精选",
+          "score": 77.5,
+          "published_at": null
         },
         {
-          "title": "光模块行业谁的盈利能力强",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2hPZLfdT5s2yUoYjWVtX43SB8fDqa471VqXa8Fplpd9II8OOcY_PHEZACjrdRFx4fcOWFIg27yy2N4VgNDAVuhHpvTW1HxxxQaZi_8cJQpc82oYEtKkuMfrIwmBSk3atCZbvfGmezdkY70a6X4jmk65khixX_rBwKP5UDFaEdjT41ZeeMg_n-1NSfZZnaiCXATAdPvpQXgiFx6Yt_SN8raq3X8EKMKOIA..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=4252A58A3B6A146B7E7825C076C3B1C67F04500B6AACFC1B",
-          "source": "搜狗微信·光电行业 · 江辉价值远航",
-          "score": 69.2,
-          "published_at": "2026-09-17T09:37:00+00:00"
+          "title": "对话英特尔：产业协作与标准化助推5G成功",
+          "url": "http://www.c114.net/news/138/a996926.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 77.5,
+          "published_at": null
+        },
+        {
+          "title": "英特尔助力电信网络转型 让5G不再是“看上去很美”",
+          "url": "http://www.c114.net/topic/5096/a996887.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 77.5,
+          "published_at": null
         }
       ],
       "top_terms": [
-        "光模",
-        "模块",
-        "光模块行业谁的盈利能力强",
-        "块行",
-        "行业"
+        "英特",
+        "特尔",
+        "网络",
+        "络转",
+        "转型"
       ],
       "rank": 9,
-      "heat": 42.0,
+      "heat": 38.0,
       "status": "关注中"
     },
     {
       "terms": [
-        "accelerators",
-        "advance",
-        "cloud",
-        "communication",
-        "edge",
-        "getting",
-        "imprinting",
-        "metasurfaces",
-        "nonlinear",
-        "photonic",
-        "photonics",
-        "photons",
-        "platforms",
-        "quantum",
-        "reliable",
-        "shape",
-        "topology"
+        "store"
       ],
-      "source_count": 2,
+      "source_count": 1,
       "signal_count": 3,
       "sources": [
-        "Nature Photonics",
-        "Phys.org 物理新闻"
+        "C114中国通信网_IT资讯"
       ],
-      "score": 38.8,
-      "latest_at": "2026-09-18T08:53:59.948098+00:00",
-      "title": "Photonic accelerators for AI across cloud and edge platforms",
-      "id": "bbe9b65637bb",
+      "score": 38.0,
+      "latest_at": "2026-09-19T08:40:32.115401+00:00",
+      "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
+      "id": "79ca1f2a334a",
       "links": [
         {
-          "title": "Photonic accelerators for AI across cloud and edge platforms",
-          "url": "https://www.nature.com/articles/s41566-026-01987-z",
-          "source": "Nature Photonics",
-          "score": 74.7,
-          "published_at": "2026-09-15T00:00:00+00:00"
-        },
-        {
-          "title": "Study explores new photonics advance: Topology imprinting in nonlinear metasurfaces",
-          "url": "https://phys.org/news/2026-09-explores-photonics-advance-topology-imprinting.html",
-          "source": "Phys.org 物理新闻",
-          "score": 62.5,
+          "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
+          "url": "https://www.c114.com.cn/news/213/a1282089.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
           "published_at": null
         },
         {
-          "title": "Getting photons into shape for reliable quantum communication",
-          "url": "https://phys.org/news/2026-09-photons-reliable-quantum-communication.html",
-          "source": "Phys.org 物理新闻",
-          "score": 62.5,
+          "title": "苹果税惹麻烦：苹果在英国面临15亿英镑集体诉讼",
+          "url": "https://www.c114.com.cn/news/213/a1281942.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
+          "published_at": null
+        },
+        {
+          "title": "苹果公司在英面临15亿英镑司法索赔，被指在App Store收费“过高且不公平”",
+          "url": "https://www.c114.com.cn/news/213/a1281915.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
           "published_at": null
         }
       ],
       "top_terms": [
-        "photonic",
-        "accelerators",
-        "cloud",
-        "edge",
-        "platforms"
+        "苹果",
+        "在英",
+        "亿英",
+        "英镑",
+        "英国"
       ],
       "rank": 10,
-      "heat": 38.8,
+      "heat": 38.0,
       "status": "关注中"
     }
   ]

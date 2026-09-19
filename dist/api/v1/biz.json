@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T08:53:59.948098+00:00",
+  "generatedAt": "2026-09-19T08:40:32.115401+00:00",
   "count": 38,
   "fields": [
     "project_no",
@@ -14,7 +14,7 @@
       "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6aff1cc2d094936aaca2f131389d3f8.html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -25,8 +25,19 @@
       "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_ab5c2644b3134b74b1d1267af2198bc4.html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
+      "budget": null,
+      "deadline": null
+    },
+    {
+      "source": "工信部要闻",
+      "title": "工业和信息化部等十部门关于印发《医药工业发展“十五五”规划》的通知",
+      "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9463adac4db040159f6cbf482675eeea.html",
+      "category": "其他",
+      "published_at": null,
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
+      "project_no": "工信部联规〔2026〕210号",
       "budget": null,
       "deadline": null
     },
@@ -36,7 +47,7 @@
       "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_f4864217588b44c489d58da20de766c8.html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": "工信部联规〔2026〕216号",
       "budget": null,
       "deadline": null
@@ -47,7 +58,7 @@
       "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_47e6f99ffbe945279ef3ffd23c5b3631.html",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": "工信部联规函〔2026〕305号",
       "budget": null,
       "deadline": null
@@ -58,7 +69,7 @@
       "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_456511e63be14508aa5b0d113af559fe.html",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": "工信部规〔2026〕188号",
       "budget": null,
       "deadline": null
@@ -69,7 +80,7 @@
       "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_6d9ac16698c0431eb4e202a53143bc9f.html",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": "工信部联消费〔2026〕204号",
       "budget": null,
       "deadline": null
@@ -80,19 +91,8 @@
       "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_80ce437ddf6b42c2915d30bc8876dde2.html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": "工信部联规函〔2026〕290号",
-      "budget": null,
-      "deadline": null
-    },
-    {
-      "source": "工信部要闻",
-      "title": "两部门关于印发《安全应急装备产业发展“十五五”规划》的通知",
-      "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_74a880b75f664878b9d5cb62412c014d.html",
-      "category": "产业与资本",
-      "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
-      "project_no": "工信部联规〔2026〕186号",
       "budget": null,
       "deadline": null
     },
@@ -102,7 +102,7 @@
       "url": "https://www.miit.gov.cn/xwfb/xwfbh/bxwfbh/art/2026/art_05c4683ad9ee4c3c880485f7a8873601.html",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -113,7 +113,7 @@
       "url": "https://www.miit.gov.cn/xwfb/xwfbh/bxwfbh/art/2026/art_95c0b992336a4cb1b87ec3ccc576a669.html",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -124,62 +124,18 @@
       "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_934ddb14d33e4cd5b787d88a15c5c0eb.html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
     },
     {
       "source": "工信部要闻",
-      "title": "国新办举行国务院政策例行吹风会 介绍加强中小企业回款难问题治理有关工作情况",
-      "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_7285ee48244d4f20b0f127c7f013ec11.html",
-      "category": "产业与资本",
+      "title": "辽宁通信管理局召开通信行业发展“十五五”规划终审会议擘画未来五年发展蓝图",
+      "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_9c635f6c246747b6b1848cadc5d82349.html",
+      "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
-      "project_no": null,
-      "budget": null,
-      "deadline": null
-    },
-    {
-      "source": "工信部要闻",
-      "title": "工业和信息化部举行“第32次亚太经合组织（APEC）中小企业部长会议新闻通气会”",
-      "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_0c0a3ae10f1b41d88813ab3ad5f6df54.html",
-      "category": "其他",
-      "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
-      "project_no": null,
-      "budget": null,
-      "deadline": null
-    },
-    {
-      "source": "工信部要闻",
-      "title": "2026年亚太经合组织（APEC）数字和人工智能部长会议新闻发布会在成都召开",
-      "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d109e2b6dc4844cc902a1f6f49712f67.html",
-      "category": "产业与资本",
-      "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
-      "project_no": null,
-      "budget": null,
-      "deadline": null
-    },
-    {
-      "source": "工信部要闻",
-      "title": "“千帆星座”组网卫星成功发射 卫星数量增至256颗",
-      "url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_b100b46264bc4c45bd2ba95dcb260771.html",
-      "category": "其他",
-      "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
-      "project_no": null,
-      "budget": null,
-      "deadline": null
-    },
-    {
-      "source": "工信部要闻",
-      "title": "“千帆星座”组网卫星成功发射 卫星数量增至248颗",
-      "url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_709e055324884de2a78ff0e2d5511b6c.html",
-      "category": "其他",
-      "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -190,7 +146,7 @@
       "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_9db8c03c83784e2b97f6ae401ffddd64.html",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -201,7 +157,73 @@
       "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_aa49539f6ba046209de97c0f61fe4936.html",
       "category": "通信与算力",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
+      "project_no": null,
+      "budget": null,
+      "deadline": null
+    },
+    {
+      "source": "工信部要闻",
+      "title": "陕西通信管理局召开党的建设工作领导小组（扩大） 会议总结树立和践行正确政绩观学习教育 部署巩固拓展学习教育成果工作",
+      "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_b57c942ca10640ff9afef617ef38a528.html",
+      "category": "通信与算力",
+      "published_at": null,
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
+      "project_no": null,
+      "budget": null,
+      "deadline": null
+    },
+    {
+      "source": "工信部要闻",
+      "title": "国新办举行国务院政策例行吹风会 介绍加强中小企业回款难问题治理有关工作情况",
+      "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_7285ee48244d4f20b0f127c7f013ec11.html",
+      "category": "产业与资本",
+      "published_at": null,
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
+      "project_no": null,
+      "budget": null,
+      "deadline": null
+    },
+    {
+      "source": "工信部要闻",
+      "title": "工业和信息化部举行“第32次亚太经合组织（APEC）中小企业部长会议新闻通气会”",
+      "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_0c0a3ae10f1b41d88813ab3ad5f6df54.html",
+      "category": "其他",
+      "published_at": null,
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
+      "project_no": null,
+      "budget": null,
+      "deadline": null
+    },
+    {
+      "source": "工信部要闻",
+      "title": "2026年亚太经合组织（APEC）数字和人工智能部长会议新闻发布会在成都召开",
+      "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d109e2b6dc4844cc902a1f6f49712f67.html",
+      "category": "产业与资本",
+      "published_at": null,
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
+      "project_no": null,
+      "budget": null,
+      "deadline": null
+    },
+    {
+      "source": "工信部要闻",
+      "title": "“千帆星座”组网卫星成功发射 卫星数量增至256颗",
+      "url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_b100b46264bc4c45bd2ba95dcb260771.html",
+      "category": "其他",
+      "published_at": null,
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
+      "project_no": null,
+      "budget": null,
+      "deadline": null
+    },
+    {
+      "source": "工信部要闻",
+      "title": "“千帆星座”组网卫星成功发射 卫星数量增至248颗",
+      "url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_709e055324884de2a78ff0e2d5511b6c.html",
+      "category": "其他",
+      "published_at": null,
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -212,7 +234,7 @@
       "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_77aedfadd17a4bcdbfc09ae1b766b316.html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -223,7 +245,7 @@
       "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_7982b459b09e4adb907255c723f152c8.html",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -234,7 +256,7 @@
       "url": "https://www.miit.gov.cn/xwfb/zxzc/art/2026/art_f7a75444808e4e3b8f13b7a84ac733e4.html",
       "category": "产业与资本",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": "工信厅联财函〔2026〕418号",
       "budget": null,
       "deadline": null
@@ -245,40 +267,18 @@
       "url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_be93e3d561f840bdac4258ba6bb104c9.html",
       "category": "其他",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
     },
     {
       "source": "工信部要闻",
-      "title": "电子信息司召开电子元器件产业发展座谈会",
-      "url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_f391d25e89d14cc3adea826f6a97cbc0.html",
-      "category": "产业与资本",
+      "title": "安徽通信管理局召开行业总经理座谈会 深入研究新一代通信网规划建设等工作",
+      "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_e16582d11fcd4533b54b1c78427833a0.html",
+      "category": "科研进展",
       "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
-      "project_no": null,
-      "budget": null,
-      "deadline": null
-    },
-    {
-      "source": "工信部要闻",
-      "title": "电动自行车充电桩强制性国家标准正式发布规范电动自行车配套充电设施安全技术指标",
-      "url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_1060bd1ebd9f40febcf5db864751ae89.html",
-      "category": "产业与资本",
-      "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
-      "project_no": null,
-      "budget": null,
-      "deadline": null
-    },
-    {
-      "source": "工信部要闻",
-      "title": "山西通信管理局专题部署新一代通信网规划建设",
-      "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_82e771ee5de544d186773ea0ed0d1a5b.html",
-      "category": "通信与算力",
-      "published_at": null,
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -289,7 +289,7 @@
       "url": "https://www.ccgp.gov.cn/news/202609/t20260911_27309577.htm",
       "category": "其他",
       "published_at": "2026-09-11",
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -300,7 +300,7 @@
       "url": "https://www.ccgp.gov.cn/news/202609/t20260911_27314679.htm",
       "category": "其他",
       "published_at": "2026-09-11",
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -311,7 +311,7 @@
       "url": "https://www.ccgp.gov.cn/news/202606/t20260626_26825551.htm",
       "category": "其他",
       "published_at": "2026-06-26",
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -322,7 +322,7 @@
       "url": "https://www.ccgp.gov.cn/news/202606/t20260624_26803448.htm",
       "category": "其他",
       "published_at": "2026-06-24",
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -333,7 +333,7 @@
       "url": "https://www.ccgp.gov.cn/news/202606/t20260617_26763914.htm",
       "category": "其他",
       "published_at": "2026-06-17",
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -344,7 +344,7 @@
       "url": "https://www.ccgp.gov.cn/news/202607/t20260715_26935390.htm",
       "category": "其他",
       "published_at": "2026-07-15",
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -355,7 +355,7 @@
       "url": "https://www.ccgp.gov.cn/news/202606/t20260612_26740227.htm",
       "category": "其他",
       "published_at": "2026-06-12",
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -366,7 +366,7 @@
       "url": "https://www.ccgp.gov.cn/news/202606/t20260601_26660628.htm",
       "category": "其他",
       "published_at": "2026-06-01",
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -377,7 +377,7 @@
       "url": "https://www.ccgp.gov.cn/news/202606/t20260601_26660667.htm",
       "category": "其他",
       "published_at": "2026-06-01",
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -388,7 +388,7 @@
       "url": "https://www.ccgp.gov.cn/news/202608/t20260825_27195598.htm",
       "category": "其他",
       "published_at": "2026-08-25",
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -399,7 +399,7 @@
       "url": "https://www.ccgp.gov.cn/news/202606/t20260622_26785066.htm",
       "category": "其他",
       "published_at": "2026-06-22",
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -410,7 +410,7 @@
       "url": "https://www.ccgp.gov.cn/news/202606/t20260608_26702139.htm",
       "category": "其他",
       "published_at": "2026-06-08",
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
@@ -421,7 +421,7 @@
       "url": "https://www.ccgp.gov.cn/news/202605/t20260522_26610688.htm",
       "category": "科研进展",
       "published_at": "2026-05-22",
-      "discovered_at": "2026-09-18T08:53:59.948098+00:00",
+      "discovered_at": "2026-09-19T08:40:32.115401+00:00",
       "project_no": null,
       "budget": null,
       "deadline": null
