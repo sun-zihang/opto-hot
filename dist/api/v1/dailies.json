@@ -1,27 +1,4 @@
 {
-  "2025-09-19": {
-    "date": "2025-09-19",
-    "weekday": "周五",
-    "label": "2025年9月19日",
-    "sections": [
-      {
-        "category": "光学元件与成像",
-        "articles": [
-          {
-            "title": "展商回顾 | 同济大学精密光学工程技术研究所精彩亮相，前沿光学科技成果备受瞩目",
-            "url": "https://cioe.cn/news/2665_info.html",
-            "source": "CIOE 中国光博会",
-            "summary": "",
-            "score": 50.0,
-            "role": "行业媒体",
-            "published_at": "2025-09-19"
-          }
-        ]
-      }
-    ],
-    "tocCount": 1,
-    "readMinutes": 1
-  },
   "2026-03-26": {
     "date": "2026-03-26",
     "weekday": "周四",
@@ -109,23 +86,9 @@
             "published_at": "2026-06-17"
           }
         ]
-      },
-      {
-        "category": "其他",
-        "articles": [
-          {
-            "title": "赵乐际主持召开十四届全国人大常委会...",
-            "url": "https://www.ccgp.gov.cn/news/202606/t20260617_26763914.htm",
-            "source": "中国政府采购网",
-            "summary": "",
-            "score": 47.5,
-            "role": "媒体",
-            "published_at": "2026-06-17"
-          }
-        ]
       }
     ],
-    "tocCount": 2,
+    "tocCount": 1,
     "readMinutes": 1
   },
   "2026-07-02": {
@@ -2184,7 +2147,7 @@
             "url": "https://www.nature.com/articles/s41566-026-01998-w",
             "source": "Nature Photonics",
             "summary": "Nature Photonics, Published online: 28 August 2026; doi:10.1038/s41566-026-01998-w Mechanochromic tactile sensing",
-            "score": 51.4,
+            "score": 50.5,
             "role": "科研",
             "published_at": "2026-08-28T00:00:00+00:00"
           },
@@ -2193,7 +2156,7 @@
             "url": "https://www.nature.com/articles/s41566-026-01993-1",
             "source": "Nature Photonics",
             "summary": "Nature Photonics, Published online: 28 August 2026; doi:10.1038/s41566-026-01993-1 One approach to generate high-energy X-rays and γ-rays is inverse Compton scattering, where a high-energy electron beam collides with an intense laser pulse.",
-            "score": 51.4,
+            "score": 50.5,
             "role": "科研",
             "published_at": "2026-08-28T00:00:00+00:00"
           }
@@ -2262,7 +2225,7 @@
             "url": "https://www.ledinside.cn/fsa/20260831-62447.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 53.9,
+            "score": 65.5,
             "role": "行业媒体",
             "published_at": "2026-08-31"
           }
@@ -2276,7 +2239,7 @@
             "url": "https://www.ledinside.cn/products/20260831-62443.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 58.9,
+            "score": 58.0,
             "role": "行业媒体",
             "published_at": "2026-08-31"
           }
@@ -2299,7 +2262,7 @@
             "url": "https://www.ledinside.cn/fsa/20260901-62454.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 79.7,
+            "score": 66.3,
             "role": "行业媒体",
             "published_at": "2026-09-01"
           }
@@ -2570,7 +2533,7 @@
             "url": "https://www.ledinside.cn/research/20260908-62516.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 60.5,
+            "score": 59.7,
             "role": "行业媒体",
             "published_at": "2026-09-08"
           }
@@ -2584,7 +2547,7 @@
             "url": "https://www.ledinside.cn/products/20260908-62515.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 60.5,
+            "score": 59.7,
             "role": "行业媒体",
             "published_at": "2026-09-08"
           }
@@ -2598,7 +2561,7 @@
             "url": "https://www.ledinside.cn/research/20260908-62517.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 60.5,
+            "score": 59.7,
             "role": "行业媒体",
             "published_at": "2026-09-08"
           }
@@ -2644,7 +2607,7 @@
             "url": "https://www.ledinside.cn/fsa/20260910-62524.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 62.2,
+            "score": 61.3,
             "role": "行业媒体",
             "published_at": "2026-09-10"
           },
@@ -2653,7 +2616,7 @@
             "url": "https://cioe.cn/news/3012_info.html",
             "source": "CIOE 中国光博会",
             "summary": "",
-            "score": 62.2,
+            "score": 61.3,
             "role": "行业媒体",
             "published_at": "2026-09-10"
           }
@@ -2667,7 +2630,7 @@
             "url": "https://www.ledinside.cn/fsa/20260910-62526.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 62.2,
+            "score": 61.3,
             "role": "行业媒体",
             "published_at": "2026-09-10"
           }
@@ -2681,7 +2644,7 @@
             "url": "https://cioe.cn/news/3011_info.html",
             "source": "CIOE 中国光博会",
             "summary": "",
-            "score": 62.2,
+            "score": 61.3,
             "role": "行业媒体",
             "published_at": "2026-09-10"
           }
@@ -2695,7 +2658,7 @@
             "url": "https://www.nature.com/articles/s41566-026-02000-3",
             "source": "Nature Photonics",
             "summary": "Nature Photonics, Published online: 10 September 2026; doi:10.1038/s41566-026-02000-3 An organic polymer with a large refractive index and excellent transparency in the infrared regime could bring new opportunities for imaging.",
-            "score": 62.2,
+            "score": 61.3,
             "role": "科研",
             "published_at": "2026-09-10T00:00:00+00:00"
           }
@@ -2709,7 +2672,7 @@
             "url": "https://www.ledinside.cn/products/20260910-62527.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 62.2,
+            "score": 61.3,
             "role": "行业媒体",
             "published_at": "2026-09-10"
           }
@@ -2732,7 +2695,7 @@
             "url": "https://www.nature.com/articles/s41566-026-02003-0",
             "source": "Nature Photonics",
             "summary": "Nature Photonics, Published online: 11 September 2026; doi:10.1038/s41566-026-02003-0 An integrated semiconductor laser array can directly generate incoherent space–time wave packets with propagation-invariant and self-healing characteristi",
-            "score": 63.0,
+            "score": 62.2,
             "role": "科研",
             "published_at": "2026-09-11T00:00:00+00:00"
           }
@@ -2746,7 +2709,7 @@
             "url": "https://www.nature.com/articles/s41566-026-02008-9",
             "source": "Nature Photonics",
             "summary": "Nature Photonics, Published online: 11 September 2026; doi:10.1038/s41566-026-02008-9 A thin-film lithium niobate integrated circulator with peak isolation up to 37 dB and a broad transmission bandwidth supports bidirectional transmission t",
-            "score": 68.0,
+            "score": 67.2,
             "role": "科研",
             "published_at": "2026-09-11T00:00:00+00:00"
           }
@@ -2760,37 +2723,14 @@
             "url": "https://www.ledinside.cn/products/20260911-62531.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 63.0,
+            "score": 62.2,
             "role": "行业媒体",
-            "published_at": "2026-09-11"
-          }
-        ]
-      },
-      {
-        "category": "其他",
-        "articles": [
-          {
-            "title": "国办发文治理中小企业回款难 政府采购...",
-            "url": "https://www.ccgp.gov.cn/news/202609/t20260911_27309577.htm",
-            "source": "中国政府采购网",
-            "summary": "",
-            "score": 63.0,
-            "role": "媒体",
-            "published_at": "2026-09-11"
-          },
-          {
-            "title": "财政部 应急管理部联合印发《紧急采购管理暂行办法》",
-            "url": "https://www.ccgp.gov.cn/news/202609/t20260911_27314679.htm",
-            "source": "中国政府采购网",
-            "summary": "",
-            "score": 58.0,
-            "role": "媒体",
             "published_at": "2026-09-11"
           }
         ]
       }
     ],
-    "tocCount": 5,
+    "tocCount": 3,
     "readMinutes": 2
   },
   "2026-09-12": {
@@ -3505,7 +3445,7 @@
             "url": "https://www.nature.com/articles/s41566-026-02012-z",
             "source": "Nature Photonics",
             "summary": "Nature Photonics, Published online: 14 September 2026; doi:10.1038/s41566-026-02012-z A coordination-regulated chemical bath deposition method yields conformal nickel oxide layers for perovskite solar cells, enabling 27.35% certified cell e",
-            "score": 65.5,
+            "score": 64.7,
             "role": "科研",
             "published_at": "2026-09-14T00:00:00+00:00"
           }
@@ -3519,7 +3459,7 @@
             "url": "https://cioe.cn/news/3016_info.html",
             "source": "CIOE 中国光博会",
             "summary": "",
-            "score": 65.5,
+            "score": 64.7,
             "role": "行业媒体",
             "published_at": "2026-09-14"
           }
@@ -3542,7 +3482,7 @@
             "url": "https://www.nature.com/articles/s41566-026-02001-2",
             "source": "Nature Photonics",
             "summary": "Nature Photonics, Published online: 15 September 2026; doi:10.1038/s41566-026-02001-2 The introduction of a layer of quantum dots reduces plasmonic losses in organic light-emitting diodes.",
-            "score": 71.4,
+            "score": 70.5,
             "role": "科研",
             "published_at": "2026-09-15T00:00:00+00:00"
           }
@@ -3556,7 +3496,7 @@
             "url": "https://cioe.cn/news/3017_info.html",
             "source": "CIOE 中国光博会",
             "summary": "",
-            "score": 66.4,
+            "score": 65.5,
             "role": "行业媒体",
             "published_at": "2026-09-15"
           }
@@ -3570,7 +3510,7 @@
             "url": "https://www.nature.com/articles/s41566-026-01987-z",
             "source": "Nature Photonics",
             "summary": "Nature Photonics, Published online: 15 September 2026; doi:10.1038/s41566-026-01987-z The merits of photonic accelerators for artificial intelligence applications are discussed, with an emphasis on cloud versus edge systems.",
-            "score": 66.4,
+            "score": 65.5,
             "role": "科研",
             "published_at": "2026-09-15T00:00:00+00:00"
           }
@@ -3593,7 +3533,7 @@
             "url": "https://www.ledinside.cn/research/20260916-62573.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 67.2,
+            "score": 66.3,
             "role": "行业媒体",
             "published_at": "2026-09-16"
           }
@@ -3607,7 +3547,7 @@
             "url": "https://www.ledinside.cn/research/20260916-62572.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 72.2,
+            "score": 71.3,
             "role": "行业媒体",
             "published_at": "2026-09-16"
           },
@@ -3616,7 +3556,7 @@
             "url": "//www.ledinside.com/news/2026/9/2026_09_16_06",
             "source": "LEDinside 英文",
             "summary": "LEDMAN X Series dual-sided LED display is not simply two screens installed back to back. Its real value lies in using one installation point to reach audiences moving in different directions. In the right environment, each side can deliver ",
-            "score": 69.6,
+            "score": 68.8,
             "role": "行业媒体",
             "published_at": "2026-09-15T22:33:44+00:00"
           },
@@ -3625,7 +3565,7 @@
             "url": "//www.ledinside.com/news/2026/9/2026_09_16_01",
             "source": "LEDinside 英文",
             "summary": "What Is LED Display Optimization? LED display optimization improves image quality, energy efficiency, manufacturing simplicity, reliability, maintenance requirements and total cost of ownership through advances in LED technology and display",
-            "score": 69.6,
+            "score": 68.8,
             "role": "行业媒体",
             "published_at": "2026-09-15T22:10:21+00:00"
           },
@@ -3634,7 +3574,7 @@
             "url": "https://cioe.cn/news/3019_info.html",
             "source": "CIOE 中国光博会",
             "summary": "",
-            "score": 67.2,
+            "score": 66.3,
             "role": "行业媒体",
             "published_at": "2026-09-16"
           },
@@ -3643,7 +3583,7 @@
             "url": "//www.ledinside.com/news/2026/9/2026_09_17_01",
             "source": "LEDinside 英文",
             "summary": "Product development and volume production at Hongshi MicroLED At the China International Optoelectronic Exposition (CIOE) 2026, Hongshi Intelligent showcased a new-generation full-color MicroLED light engine based on its Yunjin platform. Us",
-            "score": 62.7,
+            "score": 61.9,
             "role": "行业媒体",
             "published_at": "2026-09-16T15:29:41+00:00"
           }
@@ -3657,7 +3597,7 @@
             "url": "//www.ledinside.com/news/2026/9/2026_09_16_04",
             "source": "LEDinside 英文",
             "summary": "Ouster, Inc., a leader in sensing and perception for Physical AI, today announced surging customer momentum for its Rev8 OS1 Max native color digital lidar, with payload integrators and drone OEMs across the aerial mapping market selecting ",
-            "score": 62.1,
+            "score": 61.3,
             "role": "行业媒体",
             "published_at": "2026-09-15T22:28:06+00:00"
           }
@@ -3671,7 +3611,7 @@
             "url": "//www.ledinside.com/news/2026/9/2026_09_16_03",
             "source": "LEDinside 英文",
             "summary": "Vuzix® Corporation, a leading supplier of AI-powered smart glasses, waveguides and augmented reality technologies, today announced that it has begun shipping its first Causeway™ waveguide bridge samples to select prospective customers and e",
-            "score": 62.1,
+            "score": 61.3,
             "role": "行业媒体",
             "published_at": "2026-09-15T22:24:00+00:00"
           }
@@ -3685,7 +3625,7 @@
             "url": "https://cioe.cn/news/3018_info.html",
             "source": "CIOE 中国光博会",
             "summary": "",
-            "score": 67.2,
+            "score": 66.3,
             "role": "行业媒体",
             "published_at": "2026-09-16"
           },
@@ -3694,7 +3634,7 @@
             "url": "//www.ledinside.com/news/2026/9/2026_09_17_02",
             "source": "LEDinside 英文",
             "summary": "On September 9, Goeroptics showcased a range of new products spanning XR optics, smart projection, automotive optics, and industrial vision at the 27th China International Optoelectronic Exposition (CIOE). XR Optics: Parallel Iteration Acro",
-            "score": 62.7,
+            "score": 61.9,
             "role": "行业媒体",
             "published_at": "2026-09-16T15:41:08+00:00"
           },
@@ -3703,7 +3643,7 @@
             "url": "//www.ledinside.com/news/2026/9/2026_09_16_10",
             "source": "LEDinside 英文",
             "summary": "Eindhoven, The Netherlands, Lumileds Singapore Pte. Ltd. announced today that, as part of its ongoing program to protect and enforce its LED patent portfolio, it has filed several patent infringement actions in the Unified Patent Court (UPC",
-            "score": 62.2,
+            "score": 61.3,
             "role": "行业媒体",
             "published_at": "2026-09-15T22:52:05+00:00"
           },
@@ -3712,7 +3652,7 @@
             "url": "//www.ledinside.com/news/2026/9/2026_09_16_05",
             "source": "LEDinside 英文",
             "summary": "MACOM Technology Solutions Inc. (“MACOM”), a leading supplier of semiconductor products, today announced it will showcase its latest optical and high speed connectivity technologies at the European Conference on Optical Communication (ECOC)",
-            "score": 62.1,
+            "score": 61.3,
             "role": "行业媒体",
             "published_at": "2026-09-15T22:31:10+00:00"
           }
@@ -3735,18 +3675,9 @@
             "url": "//www.ledinside.com/news/2026/9/2026_09_17_08",
             "source": "LEDinside 英文",
             "summary": "On September 10, 2026, Macroblock and Juxin jointly hosted the 2026 International LED Display Symposium under the theme “No Spec Hype. Just Perfect Experience.” Industry experts gathered to discuss the direction of the next generation of LE",
-            "score": 70.5,
+            "score": 69.7,
             "role": "行业媒体",
             "published_at": "2026-09-17T00:26:34+00:00"
-          },
-          {
-            "title": "TCL华星G8.6代印刷OLED项目主厂房Super Clean仪式正式启动",
-            "url": "https://www.ledinside.cn/news/20260917-62586.html",
-            "source": "LEDinside 中文",
-            "summary": "",
-            "score": 68.0,
-            "role": "行业媒体",
-            "published_at": "2026-09-17"
           }
         ]
       },
@@ -3758,7 +3689,7 @@
             "url": "https://www.edn.com/spad-sensor-processes-photon-events-on-chip/",
             "source": "EDN 电子工程专辑",
             "summary": "Singular Photonics’ Litavis is a CMOS SPAD image sensor with integrated digital photon processing on-chip and in-pixel. The post SPAD sensor processes photon events on-chip appeared first on EDN .",
-            "score": 58.0,
+            "score": 57.2,
             "role": "媒体",
             "published_at": "2026-09-16T23:58:14+00:00"
           }
@@ -3772,7 +3703,7 @@
             "url": "https://www.edn.com/sensor-sharpens-infrared-in-cabin-imaging/",
             "source": "EDN 电子工程专辑",
             "summary": "The ST SafeSense VD56GA 1.1-Mpixel automotive image sensor enables infrared in-cabin sensing for driver and occupant monitoring applications. The post Sensor sharpens infrared in-cabin imaging appeared first on EDN .",
-            "score": 58.0,
+            "score": 57.2,
             "role": "媒体",
             "published_at": "2026-09-17T00:01:33+00:00"
           }
@@ -3786,14 +3717,14 @@
             "url": "//www.ledinside.com/news/2026/9/2026_09_17_03",
             "source": "LEDinside 英文",
             "summary": "Lumus, the pioneering developer of reflective (geometric) waveguide technology for augmented reality (AR) eyewear, today announced a new manufacturing agreement with Zhejiang Crystal-Optech Co., Ltd. (Crystal-Optech or COT), a leading Chine",
-            "score": 63.0,
+            "score": 62.2,
             "role": "行业媒体",
             "published_at": "2026-09-16T23:44:39+00:00"
           }
         ]
       }
     ],
-    "tocCount": 5,
+    "tocCount": 4,
     "readMinutes": 3
   },
   "2026-09-18": {
@@ -3806,53 +3737,12 @@
         "articles": [
           {
             "title": "激光雷达/千里浩瀚H5上车 全新吉利银河E5定档9月23日全球上市",
-            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoi2ZXIayQBrWC3wfnMLF7rkFqXa8Fplpd9R9If1JooaVu4JMRekkFK5_UJjQc8WCHEg1yv4dChNdYfWz-URIueyi9FJ2n1DNZ0DCbNW5artWPykWklecmX7aF8hPUz8kX7AF9hdMbaHfkGVqExEhEK72y16oHlGtYh8LebL1Z9M8Lm8bfLGqystvxT6F8jhMDne-Da1uY_nWajotuuiAmOIg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4A05567023A0188101075AD1F7C405700186DEFC6AAE4A79",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiJ6VHwpnN1putsAKof5hGU1qXa8Fplpd919NU34Ul8OQBuVPZ_1SpNZMLW1qW40REsYzRhkC3vaElWxF2qdeLrG58tGZNZnwE8GeGF6Vqs4xyqjMg85xqs5i0omIctqeq8XGFDwLvaC-txQvUkekNRUoRbZ5LPQAD5d53GS5MeO1JukOr10C_A_1u1_0j21404wqXaS80zT3zAjcIGepUqA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5208E0FF6182E3C1D5D28F3254CFDEDDD5D558566AAFA317",
             "source": "搜狗微信·光电行业 · 安兔兔",
             "summary": "新车车顶配备有激光雷达,搭载了千里浩瀚 H5 辅助驾驶方案.值得一提的是,新车还有望配备电动前备箱.侧面造型方面,车顶带着...",
-            "score": 81.9,
+            "score": 81.0,
             "role": "媒体",
             "published_at": "2026-09-18T14:03:26+00:00"
-          },
-          {
-            "title": "激光雷达产业观察",
-            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoi2ZXIayQBrWC3wfnMLF7rkFqXa8Fplpd9b1wM7cYNFlzudPt8MrMdzvSSRZAXJqFA5bf2_Xwc58vdRqm5YYms9TUllNaIy49dJ2Ae5aPMI4EDuR_-FEDBczWk-YWA469ZRX9mDyYssgenN-RV7YeFa-reV3A4kvyPtU-hjJ9QF6QxHzZxQdENP7QWknY8cTs752OUlgRxi-gYJSSFPgfogQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4A05567023A0188101075AD1F7C405700186DEFC6AAE4A79",
-            "source": "搜狗微信·光电行业 · 迪普战略研究所",
-            "summary": "激光雷达凭借厘米级三维感知能力,被视为高阶智驾不可或缺的关键传感器;与此同时,纯视觉方案的崛起、多传感器融合趋势的深化...",
-            "score": 64.2,
-            "role": "媒体",
-            "published_at": "2026-09-18T10:41:35+00:00"
-          }
-        ]
-      },
-      {
-        "category": "光通信",
-        "articles": [
-          {
-            "title": "沃特检验集团华南中心封顶，涉及光芯片、光模块检测",
-            "url": "https://www.ledinside.cn/news/20260918-62589.html",
-            "source": "LEDinside 中文",
-            "summary": "",
-            "score": 68.9,
-            "role": "行业媒体",
-            "published_at": "2026-09-18"
-          },
-          {
-            "title": "光模块卖铲人,砍下45亿订单!",
-            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiH9yqQiSQKVS3wfnMLF7rkFqXa8Fplpd9IAavKRAAXan1CzLtADq6gn2bWlEfMA52YBx1b62ZIh8r_lnHAakUU1dY2he9Rg3nEZ7Td_IjpaFihl-r2afsIUJP6epj94jq7lvcmeQhKvVy8P3fQm-x1aeU-xH5IXUrLQV7jDdUgsTzo0iOApRR06VzBwAPhVWb5MTqff3_lNIC2Qmj7RgGwQ..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=4A0548FB23A0188101075AD1F7C405700186DEFC6AAE4A76",
-            "source": "搜狗微信·光电行业 · 老张投研",
-            "summary": "9月11日,中国国际光电博览会落幕.光模块,站上舞台中央.这次光博会,三个看点值得关注.1、1.6T光模块站上C位.1.6T光模块...",
-            "score": 64.2,
-            "role": "媒体",
-            "published_at": "2026-09-18T10:05:41+00:00"
-          },
-          {
-            "title": "光模块走到1.6T之后,这只龙头真正的价值才开始被重新定义",
-            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiH9yqQiSQKVS3wfnMLF7rkFqXa8Fplpd9ZVEMw7NaN2xlQqXXDf-4wI3zToAC4_5MwyeJhbscmPyDvYgycvdUj1svFp1iX4BS8wVK0L6dt1zADcnZTuaDBgevntRSiSI1AJHVdD23Wit6lTTmlnHuW6RqKPZAvxMTE3o7SwdTOQ2bzSEgEtk8NiWZJyqqjUH_8f8OUMdBre9hWLv6O878UA..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=4A0548FB23A0188101075AD1F7C405700186DEFC6AAE4A76",
-            "source": "搜狗微信·光电行业 · 价小前投研",
-            "summary": "AI光模块这么景气,为什么上半年公司总收入只增长2.5%?原因不是没订单.恰恰相反,是有订单,交不出来.上半年1.6T DSP、800...",
-            "score": 64.2,
-            "role": "媒体",
-            "published_at": "2026-09-18T10:28:15+00:00"
           }
         ]
       },
@@ -3864,7 +3754,7 @@
             "url": "https://www.ledinside.cn/news/20260918-62596.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 73.9,
+            "score": 73.0,
             "role": "行业媒体",
             "published_at": "2026-09-18"
           },
@@ -3873,62 +3763,7 @@
             "url": "https://www.ledinside.cn/news/20260918-62594.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 68.9,
-            "role": "行业媒体",
-            "published_at": "2026-09-18"
-          },
-          {
-            "title": "英特尔推出Micro LED玻璃基封装技术",
-            "url": "https://www.ledinside.cn/news/20260918-62591.html",
-            "source": "LEDinside 中文",
-            "summary": "",
-            "score": 68.9,
-            "role": "行业媒体",
-            "published_at": "2026-09-18"
-          },
-          {
-            "title": "奥拓电子LED虚拍摄屏进驻好莱坞电视城",
-            "url": "https://www.ledinside.cn/news/20260918-62587.html",
-            "source": "LEDinside 中文",
-            "summary": "",
-            "score": 68.9,
-            "role": "行业媒体",
-            "published_at": "2026-09-18"
-          },
-          {
-            "title": "LED显示的非标困局:三十年了,何时才能“开机即用”?",
-            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoizE-1FWPYUvC3wfnMLF7rkFqXa8Fplpd90yGYF5TJenaK0kEjFWnurcJGEbZyC5hDufGvZpboy9VpTmcS5qyiq2BYxAKxUImZIXvlucsICuBEy-nsBM3Bjy4m5_NiABdm2SjmjwteKw0dlj9rlf5AH1x2fJisQBRKFobGSGgHnIM_I4X6gAPVNbKUSvIv90gIAvaUZvaCaw_f3q8uRDTfkw..&amp;type=2&amp;query=LED%E6%98%BE%E7%A4%BA&amp;token=4A05197723A0188101075AD1F7C405700186DEFC6AAE4A6E",
-            "source": "搜狗微信·光电行业 · 每日LED",
-            "summary": "一块LED显示屏从下单到点亮,需要多久?对于习惯了“买回家插电就用”的消费者来说,这个问题可能有些陌生.但在LED显示行业...",
-            "score": 64.2,
-            "role": "媒体",
-            "published_at": "2026-09-18T09:27:10+00:00"
-          }
-        ]
-      },
-      {
-        "category": "光学元件与成像",
-        "articles": [
-          {
-            "title": "年产15万吨，新涛光学级PMMA树脂项目正式投产",
-            "url": "https://www.ledinside.cn/news/20260918-62590.html",
-            "source": "LEDinside 中文",
-            "summary": "",
-            "score": 68.9,
-            "role": "行业媒体",
-            "published_at": "2026-09-18"
-          }
-        ]
-      },
-      {
-        "category": "产业与资本",
-        "articles": [
-          {
-            "title": "华为发布全球首个采用NPO的超节点",
-            "url": "https://www.ledinside.cn/news/20260918-62593.html",
-            "source": "LEDinside 中文",
-            "summary": "",
-            "score": 68.9,
+            "score": 68.0,
             "role": "行业媒体",
             "published_at": "2026-09-18"
           }
@@ -3942,29 +3777,102 @@
             "url": "https://www.ledinside.cn/news/20260918-62595.html",
             "source": "LEDinside 中文",
             "summary": "",
-            "score": 68.9,
-            "role": "行业媒体",
-            "published_at": "2026-09-18"
-          },
-          {
-            "title": "3亿元，固安云谷获合肥维信诺860项专利许可",
-            "url": "https://www.ledinside.cn/news/20260918-62592.html",
-            "source": "LEDinside 中文",
-            "summary": "",
-            "score": 68.9,
+            "score": 68.0,
             "role": "行业媒体",
             "published_at": "2026-09-18"
           }
         ]
       }
     ],
-    "tocCount": 14,
+    "tocCount": 4,
     "readMinutes": 1
   },
   "2026-09-19": {
     "date": "2026-09-19",
     "weekday": "周六",
     "label": "2026年9月19日",
+    "sections": [
+      {
+        "category": "激光",
+        "articles": [
+          {
+            "title": "算力3000TOPS、激光雷达2160线,L3级自动驾驶离我们还有多远?",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiJ6VHwpnN1putsAKof5hGU1qXa8Fplpd9__6KFoRoLHrpNXRCz4C0OdGhd-bcpdDc_4nfpCQRpnXeTSzmAYWosON_UjFH6epBCcvmkyMiWK5arcVyslMD-mNV3hDRhf_OSPs80lHJ3qSQJ9UIDHy47h_u9h7ssAniOuPyKIuRTaOoSjBQktFcj-tT2MOJ2vR9PqdgjZasKaB5Nu7CnoSqqg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5208E0FF6182E3C1D5D28F3254CFDEDDD5D558566AAFA317",
+            "source": "搜狗微信·光电行业 · 070850wjw",
+            "summary": "吉利发布的Robotaxi原型车Eva Cab,集成三颗旗舰芯片,总算力超过3000TOPS,搭载的数字化激光雷达线数达到2160线.与此同时...",
+            "score": 69.4,
+            "role": "媒体",
+            "published_at": "2026-09-19T15:58:05+00:00"
+          },
+          {
+            "title": "激光雷达是怎么工作的:一把用光做成的尺子",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiJ6VHwpnN1putsAKof5hGU1qXa8Fplpd92InbwiKYWuD35qqOQ9SZZ0wk4LsuS-6KwvCkA2En1-kYjWd6Zr5gXeNdx-Do4R1sieONFO0D0KpwLng7EyHdTOxGvd9gI_ir6NmIXTRf6TJm7JzMLbNuW105OVnb1-Dhbv5Vmt6n8S_d80JD-G5hAb9A8dYP_HlX6Jva2o6j0MNFH6In5Ei3zg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5208E0FF6182E3C1D5D28F3254CFDEDDD5D558566AAFA317",
+            "source": "搜狗微信·光电行业 · 阿正的十万个为什么",
+            "summary": "激光雷达提供距离和立体结构,摄像头能补充颜色、交通信号等画面信息.计算机把信息放在一起,预测周围的变化,再计算行驶路线...",
+            "score": 64.3,
+            "role": "媒体",
+            "published_at": "2026-09-19T12:53:00+00:00"
+          },
+          {
+            "title": "激光雷达+城区NOA 2.9米轴距 9风道空力套件 操控人车合一",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiJ6VHwpnN1putsAKof5hGU1qXa8Fplpd9Oao18QHMp8ZsyWVNhgHmqCQ4xn52-6uC0BweQj9WqEIcYMKw67TL7jnYT2oncja9CHEo_QnHXiRPHzGcpPh-YxbJQ5ZNVEXtDLKWs5of5K5tsSo0xI_lty9JQ-mPfdm60r3VdMBPu2AnpPd-4E9YA2xQ9aKz1W0NrBMv9oefQTVj3x9Nw6p-Fg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5208E0FF6182E3C1D5D28F3254CFDEDDD5D558566AAFA317",
+            "source": "搜狗微信·光电行业 · 30秒懂车",
+            "summary": "马自达EZ‑60激光版,最直观的区别便是搭载了禾赛ATX激光雷达.整车配备1颗激光雷达、3颗毫米波雷达、11颗高清摄像头与12颗...",
+            "score": 64.2,
+            "role": "媒体",
+            "published_at": "2026-09-19T10:04:40+00:00"
+          }
+        ]
+      },
+      {
+        "category": "光通信",
+        "articles": [
+          {
+            "title": "光通信龙头,上半年净利大增58%,行业景气上行",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiNACU4rUl8KqtsAKof5hGU1qXa8Fplpd9yX3ah3Jyd5dWrQ_B7FNeIFVVK3YFqgzJgFmBMpjxEnwBX5OElVIT3DIJvpi__dTwOrlA5ALzFqKwqp2N1cSaPUCgQN6rwVxxI6FE96VIeYItzGffT9zUVvbGlMejGyRODRYImrxUafG00lYKQMEymVsveoicWtTy1-tNOHk4pT3s46dn8Efgxg..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=52089A986182E3C1D5D28F3254CFDEDDD5D558566AAFA308",
+            "source": "搜狗微信·光电行业 · 章老师说投资",
+            "summary": "光通信板块收入占比持续提升,高附加值的特种光纤、光器件产品占比提高,一定程度对冲了汽车线束板块的压力,整体盈利水平相比...",
+            "score": 76.8,
+            "role": "媒体",
+            "published_at": "2026-09-19T12:32:55+00:00"
+          },
+          {
+            "title": "光通信概念龙头:亨通光电、长飞光纤、仕佳光子、特发信息、天孚通信、太辰光,6家龙头公司研发实力深度数据",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiNACU4rUl8KqtsAKof5hGU1qXa8Fplpd9DM3TNKj0RedDRjWh37XYzw5ow840jDbYMYvWne3Nz1JHpltK9l6JqVCe39MZHCorHFYV3SK2Byo3_rFlfejG-jf73P3L3U6L5wjlCqrQWhHOYTjIaKXbMczO_DCNtPQ0kUacmpcDYhEQ7w1f-TnMq7LQ-wOM-LlSm29gQsB328AHpHkoPMgL3A..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=52089A986182E3C1D5D28F3254CFDEDDD5D558566AAFA308",
+            "source": "搜狗微信·光电行业 · 碧湾信息",
+            "summary": "显示出这些企业在光通信领域对高学历人才的重视.相比之下,ST特信和仕佳光子的研发团队则更加精简,其中ST特信全部为本科及...",
+            "score": 76.6,
+            "role": "媒体",
+            "published_at": "2026-09-19T08:00:25+00:00"
+          },
+          {
+            "title": "光通信产业全景拆解:从光芯片到光模块,AI 算力「血管」全链条梳理",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiNACU4rUl8KqtsAKof5hGU1qXa8Fplpd9PPlkfuRjIZ9z6MWr9p-iB8I9ly5ivWrWrvckCfXp4Jn_j6Emrizx2hp5131Pw-mOIj99SKJn5Q5fPt55r2-HxyJWkDoNDcM6iNKuQ3fAwEZotOQm7IU3XlpA1oUN4_iZKPOM2oCOFdVXkT1vzyJev4iugIdWFTj-zPPu2oTYWajRtmyIGw2VAg..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=52089A986182E3C1D5D28F3254CFDEDDD5D558566AAFA308",
+            "source": "搜狗微信·光电行业 · 股海灯塔日志",
+            "summary": "算力是一座城市,那么芯片是发电厂,服务器是工厂,而光通信就是这座城市里运送电力和货物的地下管网.一座万卡级智算集群里,...",
+            "score": 68.9,
+            "role": "媒体",
+            "published_at": "2026-09-19T00:21:15+00:00"
+          },
+          {
+            "title": "光通信+空芯光纤,这7家公司让我读懂了光通信最底层的“介质革命”.",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiNACU4rUl8KqtsAKof5hGU1qXa8Fplpd9f7N1_DDYsEdqWW553WOUGDqHWvZ31TTnWZ4HmzYAq6TULEpU3Wi2-GA_WTvV1fRdkV28tZqaRfARc6VfhlX3B2PPtxKuBwfQ6DfP6LPPjgELCKbZZ3fPOTm6wlbhvI59TajNFQ3gC2azg-HBp0JktS86Cpo1nNxcC-5VvIVdqZ1FkDr8IT4KYw..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=52089A986182E3C1D5D28F3254CFDEDDD5D558566AAFA308",
+            "source": "搜狗微信·光电行业 · 金脉手册",
+            "summary": "光通信这门生意,听起来很高科技,但本质上和修水管差不多——无非是把“光”这种特殊的水,从A点运到B点.过去几十年,这根...",
+            "score": 64.1,
+            "role": "媒体",
+            "published_at": "2026-09-19T08:16:38+00:00"
+          }
+        ]
+      }
+    ],
+    "tocCount": 7,
+    "readMinutes": 1
+  },
+  "2026-09-20": {
+    "date": "2026-09-20",
+    "weekday": "周日",
+    "label": "2026年9月20日",
     "sections": [
       {
         "category": "激光",
@@ -3979,49 +3887,49 @@
             "published_at": "2026-08"
           },
           {
-            "title": "买SUV还要加钱选激光雷达?吉利博越L顶配就带,油耗才4个多",
-            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoi2ZXIayQBrWC3wfnMLF7rkFqXa8Fplpd9KsCdIG6ur4NcOPSc_4NKbOon4r6WBkHpQEElGPpJDARQoxWlxYedLwyuj6uO3yKBQvw2-oWmcNp6C6Iv6hXoKYYWBH_BMnhhbPj_yGBfBgYty30XXiTOzyL5aqeWVcG9kJj0BOcYantbH0-VqguLvcqHaLsChtATTynR68V5nLhQ_LeJW-Rhtg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4A05567023A0188101075AD1F7C405700186DEFC6AAE4A79",
-            "source": "搜狗微信·光电行业 · 親簽",
-            "summary": "激光雷达在顶配车型上是标配,用户不用再额外花钱选装,避免了不少人的选配焦虑.在同级别车型里,这种做法算是体现了诚意,...",
+            "title": "800V和激光雷达都来了,新款银河E5定档9月23日,前驱换后驱",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiJ6VHwpnN1putsAKof5hGU1qXa8Fplpd99Cvdgy1rWLFlD1cHATPwvgFhihUSp2GN6FRHhWcjIZCqK382F5LzR3LW2J82sF4pC6rBg41S-DLn89kutoO98HpOtdx8UXDvJX12n1Qr_W-OTzQL7iKPyX5vlpOfN6q8PjMj-krm3AfoIPGHRlqf9UVvyRwQdWJc1W4zebu5eEn6zvkPgoArRQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5208E0FF6182E3C1D5D28F3254CFDEDDD5D558566AAFA317",
+            "source": "搜狗微信·光电行业 · 没烦恼日常",
+            "summary": "激光雷达相当于给车子加装一双带有测距功能的夜视眼,对突然窜出来的行人电动车识别起来更靠谱.尺寸上也做了调整,长宽高为...",
             "score": 82.5,
             "role": "媒体",
-            "published_at": "2026-09-19T08:18:36+00:00"
+            "published_at": "2026-09-20T08:43:53+00:00"
           },
           {
-            "title": "新增激光雷达,紧凑型SUV,全新银河E5下周上市!",
-            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoi2ZXIayQBrWC3wfnMLF7rkFqXa8Fplpd9yoKdSmZitmvTuhViSiFTK9fbWgtdJLN3z3UBfngwK-sgLgsG2iqlI9ZrHuxANfOgSezUQ3Dmmnhi4GzS-7WYHN5lFbZW5XUcmY1Crc39yJ6GiYPzi3LYusd3Ggg1gtxPew76wSI2KFkIUwCmjTTF7-Je8lx-eoZIHrPJuEpcAJ3P28temKTOwg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4A05567023A0188101075AD1F7C405700186DEFC6AAE4A79",
-            "source": "搜狗微信·光电行业 · 易车",
-            "summary": "智能驾驶是全新吉利银河E5最大的亮点之一,车顶新增激光雷达,搭载全新千里浩瀚辅助驾驶H5方案,智驾感知能力与算法水平同步...",
-            "score": 82.4,
+            "title": "13 万起的大众带激光雷达,合资纯电也掀桌了",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiJ6VHwpnN1putsAKof5hGU1qXa8Fplpd97DfKfkRO7tRtur8UMsg_q5DDH7ptlh6SO_o4Nc0iTOJ8C7K5ljFPMqeBF56qw3eFqCClZS_2p-MFEeXBL5QHerLyJp20C-8LgVtwi5y4pcpuzA3EZ7ZT0xymxkZajPW-zGpDef_6Rfs46H2xYCON_lUwkMJiYWJz19P5Clx4uN7I3OTRHYU2og..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5208E0FF6182E3C1D5D28F3254CFDEDDD5D558566AAFA317",
+            "source": "搜狗微信·光电行业 · 汽车那些事儿",
+            "summary": "最让人意外的是,顶配激光雷达版直接塞进了一颗 192 线激光雷达和 420TOPS 算力的地平线征程 6H 芯片.合资电车杀到 13 万级还...",
+            "score": 82.5,
             "role": "媒体",
-            "published_at": "2026-09-19T07:04:43+00:00"
+            "published_at": "2026-09-20T08:36:54+00:00"
           },
           {
-            "title": "7万预算能买500km续航+激光雷达?这三台车把燃油车打趴了",
-            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoi2ZXIayQBrWC3wfnMLF7rkFqXa8Fplpd9pCd0YW5RdDW3KK9mFuNPniJQvzU3wMghdmoHeD_S_YOhBij5ju47Etb3w2SpRklRTTewg7g4XFCgbp4grfUKqjfy9oqo5s0QUbjfNMBTnBZ9fQNb5wxzkNN9xF8UF9FIK1cFG3MEKtibqgbCMNT-jYs6nZet2rHHO_nCY-bmAhGfxjh3za6jWA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4A05567023A0188101075AD1F7C405700186DEFC6AAE4A79",
-            "source": "搜狗微信·光电行业 · 逸风车韵",
-            "summary": "激光雷达不等于全自动驾驶,芯片算力多在30到100TOPS,实际还是L2+辅助,驾驶员必须全程盯路.没人能保证这台激光雷达在小县...",
-            "score": 82.4,
-            "role": "媒体",
-            "published_at": "2026-09-19T06:53:28+00:00"
-          },
-          {
-            "title": "新款吉利银河E5,9月23上市,配激光雷达,电机升至245kW",
-            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoi2ZXIayQBrWC3wfnMLF7rkFqXa8Fplpd9pZpOtLe0t16ft5I-GOxAhC6eR0URJnru0lSvvLZWY6MndvpsiRsF7Zd1KFKaEQHNG3LXJYwiIY62mMMD5ib47iVvR3n2omAlLxFoghohNfYOOK-JGZPEie9xDeAF68A9PlWGzNOIubx0oOGhSAk0m_xpmhO4oIulz1q9uRzRmw1j32-j2KiwUw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4A05567023A0188101075AD1F7C405700186DEFC6AAE4A79",
-            "source": "搜狗微信·光电行业 · A drop of rain",
-            "summary": "激光雷达的加入更容易吸引注意,新车翼子板和车尾顶部同步增加摄像头,感知硬件规格向上走了一步,这都是智驾的基础配置.但一...",
-            "score": 82.4,
-            "role": "媒体",
-            "published_at": "2026-09-19T06:53:32+00:00"
-          },
-          {
-            "title": "10万起配激光雷达+城市NOA,第四代博越L 9月24日上市,吉利这波是不是算错账了?",
-            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoi2ZXIayQBrWC3wfnMLF7rkFqXa8Fplpd94fck4Dya_kJ0po6LEwwo6iJoB4vnfXzdejr2iVOv7rxnTK3jhy6vQw5z2YrnG2e2YxJkBjV_TAkXpal3ekl8Na3Avc45TFzHz88QiF8x139F2e1WXIvpk-5jj_ATqBTUwRNX3EQmR-Bb5arr44Wtp3EJfSK6qhI3lrm9SFTbDN0C2Qmj7RgGwQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=4A05567023A0188101075AD1F7C405700186DEFC6AAE4A79",
-            "source": "搜狗微信·光电行业 · 林深见鹿5",
-            "summary": "27个传感器、1个激光雷达,城市NOA、高速NOA、跨层记忆泊车等配置,在高配版中出现.城市NOA是高级辅助驾驶系统,在使用过...",
+            "title": "大众纯电SUV仅13.59万起,激光雷达加持,合资车终于低头?",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiJ6VHwpnN1putsAKof5hGU1qXa8Fplpd9_3XNeulKsoQCzQfz-HoVaABjJ54LLyrgxSc3Zxrqo1uT-xJp66LIfbbmTsc8voqBVwBDCRS0EwpQnDA_zEY1wwrF2GOTYe7kRH0iEcX23LBHtwFvrWl6V6SZFRXpzofQrWnFfTalG-v6jBbTNOVMcfa8n8FaVBSqiBtZOVI-tN55LU3lqtPw9g..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5208E0FF6182E3C1D5D28F3254CFDEDDD5D558566AAFA317",
+            "source": "搜狗微信·光电行业 · 激动车站",
+            "summary": "13.59万,大众把带激光雷达的中型纯电SUV砸到了国产车的价格带里.一汽-大众ID.AURA T6预售破2.5万辆,不是因为德国人突然良...",
             "score": 82.3,
             "role": "媒体",
-            "published_at": "2026-09-19T01:36:34+00:00"
+            "published_at": "2026-09-20T02:21:59+00:00"
+          },
+          {
+            "title": "标配激光雷达 领克20将于9月28日上市",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiJ6VHwpnN1putsAKof5hGU1qXa8Fplpd9w5lAcxaV5TM_e9SpIyCLQH-U4tFA-_kDdqL0AgQSQikL0mq2rI9TJw75DYIvY8Szy3AfnLLxdqhtuf2D-nqz-iEfm3Ge0yp5C0yX67srPdTe-r7uTApcnzYkcpd6EFyCFbwVvT9F4kTuVwX7JRoZmGWVWn3TcfR-hKxH6qAQq1CFW6cwuUnkdA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5208E0FF6182E3C1D5D28F3254CFDEDDD5D558566AAFA317",
+            "source": "搜狗微信·光电行业 · 车买买",
+            "summary": "新车定位紧凑型纯电SUV,基于800V碳化硅高压平台打造,标配激光雷达与千里浩瀚H5辅助驾驶系统.外观延续领克家族The Next ...",
+            "score": 82.1,
+            "role": "媒体",
+            "published_at": "2026-09-19T23:01:51+00:00"
+          },
+          {
+            "title": "13 万级就标配城区智驾 + 激光雷达,这 3 台 SUV,比 20 万合资配置还高",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiJ6VHwpnN1putsAKof5hGU1qXa8Fplpd9Dz6CT_iy6iEgKbvGHURtTZNFdKRkdUr_xlgjGt7MIvqRPU9EBhlsbUBD1TgmeSpHxm3NnPeBAHY4_tpIACy-UIQbxInRDcHrr3SKCjAbzqYZzJWzmRfWHJhnMfYy0AcjbQqVFGEVAv_KDYB-Pb18QZCKddYnHck-GGFmKxbc5B-54z_tGSZTqA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=5208E0FF6182E3C1D5D28F3254CFDEDDD5D558566AAFA317",
+            "source": "搜狗微信·光电行业 · 天才小狗熊",
+            "summary": "激光雷达多给你100米的探测冗余,这100米就是一家老小的命.埃安这波操作,等于把安全配置的底裤扒了,原来不是成本降不下来...",
+            "score": 82.1,
+            "role": "媒体",
+            "published_at": "2026-09-19T22:09:50+00:00"
           },
           {
             "title": "大幅面厚板，全自动切割！FLY系列自动上下料板材激光切割自动化方案",
@@ -4074,13 +3982,22 @@
             "published_at": null
           },
           {
-            "title": "高速光模块订单大增，剑桥科技上半年净利润同比增长156.65%至197.18%",
-            "url": "https://www.c114.com.cn/news/123/a1313968.html",
-            "source": "C114中国通信网_通信财经",
-            "summary": "剑桥科技2026年上半年净利润大幅增长，主要受益于高速光模块业务订单与毛利率提升，虽受汇兑损失拖累，整体仍保持强劲预增态势。",
-            "score": 70.0,
+            "title": "光通信扫盲:从光模块到光芯片",
+            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiNACU4rUl8KqtsAKof5hGU1qXa8Fplpd98TkhkPsqMOeM_2Eea3j0jG8L0sAUzSXHtnVjfaACLI5qO25tZZVrd6OYNVwaVflzKddhfREUgd6mYVM_mBz5NB76FrxycnJEBBBEVJ9JETWoj51Rm_y-16kitJtyQhtHJMVwUtkMzt4OtO94BmjXH9NGffEAEZn4A2zrXq44gZzuL0unUdKkuw..&amp;type=2&amp;query=%E5%85%89%E9%80%9A%E4%BF%A1&amp;token=52089A986182E3C1D5D28F3254CFDEDDD5D558566AAFA308",
+            "source": "搜狗微信·光电行业 · Sissy的生活感",
+            "summary": "自己成长的笔记分享给你们最近因为工作的原因,开始恶补光通信.说实话,刚开始听他们聊天真的跟听天书一样,800G、1.6T、光...",
+            "score": 69.9,
+            "role": "媒体",
+            "published_at": "2026-09-20T05:01:55+00:00"
+          },
+          {
+            "title": "富采增持友达股份，携手布局MicroLED CPO",
+            "url": "https://www.ledinside.cn/news/20260920-62601.html",
+            "source": "LEDinside 中文",
+            "summary": "",
+            "score": 69.7,
             "role": "行业媒体",
-            "published_at": null
+            "published_at": "2026-09-20"
           },
           {
             "title": "零碳算力：AI时代数据中心行业的绿色转型与系统性能源革命",
@@ -4092,37 +4009,46 @@
             "published_at": null
           },
           {
-            "title": "光模块＂四连阳＂强势回归!四重共振点燃AI算力核心赛道",
-            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiH9yqQiSQKVS3wfnMLF7rkFqXa8Fplpd9en5SiyA6MobQ_VeHc37jy7oXW32q4__bTkE1fuwuaukaOvsNUqblRjP7umyJLloxGhmw0Zy5moJoI_fYDyG28EBMmY6lREW-JkrFWBFe7KouGdVHxGd9XyXPp3RFzrHGdGdFO_hLyqsTPDAO3LzvSpr_k4LV3okfjQ10cnsXVZxj32-j2KiwUw..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=4A0548FB23A0188101075AD1F7C405700186DEFC6AAE4A76",
-            "source": "搜狗微信·光电行业 · 居士的后花园",
-            "summary": "2026年上半年,光模块行业交出了一份堪称＂史诗级＂的成绩单:中际旭创:上半年营收417.78亿元,同比增长182.49%;归母净利润...",
-            "score": 64.8,
-            "role": "媒体",
-            "published_at": "2026-09-19T02:51:03+00:00"
+            "title": "国际海缆韧性咨询机构召开全体会议",
+            "url": "https://www.c114.com.cn/news/550/a1313802.html",
+            "source": "C114中国通信网_监管",
+            "summary": "2026年7月10日，国际电信联盟国际海缆韧性咨询机构首届任期收官会议在瑞士日内瓦召开。该机构是国际电信联盟推动全球海缆治理体系建设的重要机制，下设海缆快速部署与维修风险监测与缓解地理路由多样性三个工作组，旨在凝聚各界力量，研究海缆建设与保护中的重大问题，推动形成国际共识和政策建议。",
+            "score": 60.0,
+            "role": "行业媒体",
+            "published_at": null
           },
           {
-            "title": "光模块:4万8千颗,华为不需要了",
-            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiH9yqQiSQKVS3wfnMLF7rkFqXa8Fplpd9R7NCPIrvZH-61miqpN7oKN2QARET82DkDochiOQAUsgHFh39kl7IyJ_mmqmFul0Qau4ZBuCdaTR4pKZCW9PK8ItF_qptOlf1au2RR_JaXc9xnW_kNko83XdNJERH6cAqyK4Q1hfiiKC0Uib8UHEA4iW9A-v6VsAG9LA2JZf3ifrs46dn8Efgxg..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=4A0548FB23A0188101075AD1F7C405700186DEFC6AAE4A76",
-            "source": "搜狗微信·光电行业 · 图南研究",
-            "summary": "深 研9月17日华为全联接大会上有一句话,你要是拿着光模块的股票,得停下来读两遍:＂用5500个Hi-ONE,替代原本需要的4万8千...",
-            "score": 64.6,
-            "role": "媒体",
-            "published_at": "2026-09-18T22:00:33+00:00"
-          },
-          {
-            "title": "光模块的“路线战争”一场没有终局的博弈",
-            "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiH9yqQiSQKVS3wfnMLF7rkFqXa8Fplpd9h2NncC2cF21g7jcg6Np6W1eOEEJ2J17ZaUi2s6Ii95kjyMRG1ETj9_L8K4WPL1Iw1QhrqtCyBfjjpgwoMdqPqmtBD3uDdXZJstRQ4TPD9C1--1oOEr3XgzoE0EOLcVnseCn10Dga4TDDt7okjE75ejIFudgk0aSrA74N3hloLWBQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=4A0548FB23A0188101075AD1F7C405700186DEFC6AAE4A76",
-            "source": "搜狗微信·光电行业 · 光模块大佬",
-            "summary": "光模块到底走哪条技术路线.说白了,这个问题的本质是:在 AI 算力集群里,把电信号变成光信号的那块“翻译器”,应该放在哪儿...",
-            "score": 64.4,
-            "role": "媒体",
-            "published_at": "2026-09-18T16:00:24+00:00"
+            "title": "Study explores new photonics advance: Topology imprinting in nonlinear metasurfaces",
+            "url": "https://phys.org/news/2026-09-explores-photonics-advance-topology-imprinting.html",
+            "source": "Phys.org 物理新闻",
+            "summary": "Light is traditionally described by properties such as wavelength, amplitude, phase and polarization. Advances in optics have shown that light can also be shaped into complex spatial patterns known as structured light, enabling new ways to ",
+            "score": 55.0,
+            "role": "科研",
+            "published_at": null
           }
         ]
       },
       {
         "category": "显示与面板",
         "articles": [
+          {
+            "title": "眼镜片暴增42%！雅视光学为何仍亏1338万？",
+            "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30703458.html",
+            "source": "OFweek 光电频道",
+            "summary": "",
+            "score": 75.0,
+            "role": "行业媒体",
+            "published_at": "2026-09"
+          },
+          {
+            "title": "Valve头显猛涨2400元的背后：一个赔本卖吆喝时代的落幕",
+            "url": "https://optics.ofweek.com/2026-09/ART-250003-8110-30704030.html",
+            "source": "OFweek 光电频道",
+            "summary": "",
+            "score": 75.0,
+            "role": "行业媒体",
+            "published_at": "2026-09"
+          },
           {
             "title": "眼动追踪、ToF、AI眼镜, Metalens的商业化路径逐渐清晰",
             "url": "https://optics.ofweek.com/2026-09/ART-250002-8420-30703767.html",
@@ -4135,15 +4061,6 @@
           {
             "title": "产学研协同！鸿石智能携手清华大学攻坚MicroLED光学核心难题",
             "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30703460.html",
-            "source": "OFweek 光电频道",
-            "summary": "",
-            "score": 75.0,
-            "role": "行业媒体",
-            "published_at": "2026-09"
-          },
-          {
-            "title": "眼镜片暴增42%！雅视光学为何仍亏1338万？",
-            "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30703458.html",
             "source": "OFweek 光电频道",
             "summary": "",
             "score": 75.0,
@@ -4185,15 +4102,6 @@
             "score": 75.0,
             "role": "行业媒体",
             "published_at": "2026-06"
-          },
-          {
-            "title": "上海电信联合中兴通讯在ChinaJoy 2026解锁16K超高清XR多路并发应用",
-            "url": "https://www.c114.com.cn/news/127/a1315598.html",
-            "source": "C114中国通信网_设备商",
-            "summary": "7月31日至8月3日，第二十三届中国国际数码互动娱乐展览会（ChinaJoy）在上海新国际博览中心圆满举办。展会期间，上海电信与中兴通讯深度携手，依托5G-A毫米波EasyOnMeta专网解决方案，于高通骁龙主题馆成功落地双目16K超高清视效的XR多路并发体验，将观众带入恢弘逼真的虚拟世界，解锁极致流畅的沉浸式交互体验。",
-            "score": 70.0,
-            "role": "行业媒体",
-            "published_at": null
           }
         ]
       },
@@ -4208,6 +4116,24 @@
             "score": 65.0,
             "role": "行业媒体",
             "published_at": null
+          },
+          {
+            "title": "DUV光刻机也能造3nm芯片！中科院GAA晶体管重大突破：绕开EUV光刻",
+            "url": "https://www.coema.org.cn/industry/202609/5846.html",
+            "source": "COEMA 中国光电子行业协会",
+            "summary": "",
+            "score": 65.0,
+            "role": "行业媒体",
+            "published_at": "2026-09"
+          },
+          {
+            "title": "玻璃基板突围！彩虹股份1.4亿跨界半导体",
+            "url": "https://www.coema.org.cn/industry/202609/5843.html",
+            "source": "COEMA 中国光电子行业协会",
+            "summary": "",
+            "score": 65.0,
+            "role": "行业媒体",
+            "published_at": "2026-09"
           }
         ]
       },
@@ -4215,13 +4141,13 @@
         "category": "光学元件与成像",
         "articles": [
           {
-            "title": "光学载荷头部企业吉天星舟完成数亿元B轮融资！",
-            "url": "https://optics.ofweek.com/2026-06/ART-8100-2500-30692085.html",
+            "title": "投芝诺、供宇树！舜宇光学卡位具身智能",
+            "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30703630.html",
             "source": "OFweek 光电频道",
             "summary": "",
-            "score": 80.0,
+            "score": 75.0,
             "role": "行业媒体",
-            "published_at": "2026-06"
+            "published_at": "2026-09"
           },
           {
             "title": "1530.68万！道明光学中标广东新能源汽车号牌原材料项目",
@@ -4244,15 +4170,6 @@
           {
             "title": "总投资20.5亿！世华科技光学薄膜材料项目冲刺投产",
             "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30703629.html",
-            "source": "OFweek 光电频道",
-            "summary": "",
-            "score": 75.0,
-            "role": "行业媒体",
-            "published_at": "2026-09"
-          },
-          {
-            "title": "投芝诺、供宇树！舜宇光学卡位具身智能",
-            "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30703630.html",
             "source": "OFweek 光电频道",
             "summary": "",
             "score": 75.0,
@@ -4285,6 +4202,15 @@
             "score": 75.0,
             "role": "行业媒体",
             "published_at": "2026-09"
+          },
+          {
+            "title": "An extremely stable quantum gas offers a new lens on strongly interacting systems",
+            "url": "https://phys.org/news/2026-09-extremely-stable-quantum-gas-lens.html",
+            "source": "Phys.org 物理新闻",
+            "summary": "Molecular gases are a new form of artificial quantum matter. However, when these molecules collide, they are often lost extremely rapidly. Researchers from Radboud University and Columbia University have been able to suppress this collision",
+            "score": 67.5,
+            "role": "科研",
+            "published_at": null
           }
         ]
       },
@@ -4360,15 +4286,6 @@
             "published_at": null
           },
           {
-            "title": "安徽通信管理局召开行业总经理座谈会 深入研究新一代通信网规划建设等工作",
-            "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_e16582d11fcd4533b54b1c78427833a0.html",
-            "source": "工信部要闻",
-            "summary": "",
-            "score": 65.0,
-            "role": "媒体",
-            "published_at": null
-          },
-          {
             "title": "四部门：推动科技保险高质量发展 在人工智能、集成电路、量子科技等领域开发专属产品",
             "url": "https://www.c114.com.cn/news/550/a1306716.html",
             "source": "C114中国通信网_监管",
@@ -4385,6 +4302,15 @@
             "score": 60.0,
             "role": "行业媒体",
             "published_at": null
+          },
+          {
+            "title": "工信部筹建量子信息标准化技术委员会",
+            "url": "https://www.c114.com.cn/news/550/a1301809.html",
+            "source": "C114中国通信网_监管",
+            "summary": "工信部官网发布消息，根据产业发展和行业管理需要，有关单位提出工业和信息化部量子信息标准化技术委员会的筹建方案。为进一步听取各方意见，现将筹建方案予以公示。",
+            "score": 60.0,
+            "role": "行业媒体",
+            "published_at": null
           }
         ]
       },
@@ -4392,76 +4318,76 @@
         "category": "产业与资本",
         "articles": [
           {
-            "title": "光迅科技2026年上半年净利润5.82亿元，同比增长56.34%",
-            "url": "https://www.c114.com.cn/news/123/a1315966.html",
-            "source": "C114中国通信网_通信财经",
-            "summary": "光迅科技2026年上半年营收66.10亿元、净利5.82亿元，同比大增；全球光器件市占率稳居前列，AI驱动下数通光模块需求旺盛。",
-            "score": 95.0,
+            "title": "工业和信息化部等九部门关于印发《智能网联新能源汽车产业发展“十五五”规划》的通知",
+            "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_47e6f99ffbe945279ef3ffd23c5b3631.html",
+            "source": "工信部要闻",
+            "summary": "",
+            "score": 90.0,
+            "role": "媒体",
+            "published_at": null
+          },
+          {
+            "title": "工业和信息化部等六部门关于印发《关于推动历史经典产业高质量发展的意见》的通知",
+            "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_6d9ac16698c0431eb4e202a53143bc9f.html",
+            "source": "工信部要闻",
+            "summary": "",
+            "score": 90.0,
+            "role": "媒体",
+            "published_at": null
+          },
+          {
+            "title": "工业和信息化部举行新闻发布会 介绍智能网联新能源汽车产业高质量发展情况",
+            "url": "https://www.miit.gov.cn/xwfb/xwfbh/bxwfbh/art/2026/art_05c4683ad9ee4c3c880485f7a8873601.html",
+            "source": "工信部要闻",
+            "summary": "",
+            "score": 90.0,
+            "role": "媒体",
+            "published_at": null
+          },
+          {
+            "title": "工业和信息化部举行《“人工智能+软件”专项行动实施方案》新闻发布会",
+            "url": "https://www.miit.gov.cn/xwfb/xwfbh/bxwfbh/art/2026/art_95c0b992336a4cb1b87ec3ccc576a669.html",
+            "source": "工信部要闻",
+            "summary": "",
+            "score": 90.0,
+            "role": "媒体",
+            "published_at": null
+          },
+          {
+            "title": "江西通信管理局发布《江西省“十五五”信息通信行业发展规划》",
+            "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_2377e97d0abd4347ab402252bebe8806.html",
+            "source": "工信部要闻",
+            "summary": "",
+            "score": 90.0,
+            "role": "媒体",
+            "published_at": null
+          },
+          {
+            "title": "第27届中国国际光电博览会开展首日盛况空前，“光 + AI”激活光电全产业链新动能",
+            "url": "https://laser.ofweek.com/2026-09/ART-8100-2400-30702419.html",
+            "source": "OFweek 激光频道",
+            "summary": "",
+            "score": 82.5,
+            "role": "行业媒体",
+            "published_at": "2026-09"
+          },
+          {
+            "title": "对话英特尔：产业协作与标准化助推5G成功",
+            "url": "http://www.c114.net/news/138/a996926.html",
+            "source": "C114中国通信网_要闻精选",
+            "summary": "5G不仅仅是为了手机而设计的，更多的是用于未来的智慧城市、智能家居以及VR等场景。在这个过程中，英特尔和产业合作伙伴也需要不断地学习，从测试当中不断地学习和调整技术和解决方案。英特尔扮演着独特的贡献的角色，通过前期测试当中不断吸取经验和教训，来反馈到标准化的制定当中，让更多的产业合作伙伴受益。",
+            "score": 77.5,
             "role": "行业媒体",
             "published_at": null
           },
           {
-            "title": "天孚通信2026年上半年净利润12.04亿元，同比增长33.92%",
-            "url": "https://www.c114.com.cn/news/123/a1315895.html",
-            "source": "C114中国通信网_通信财经",
-            "summary": "天孚通信2026年上半年营收28.28亿元、净利12.04亿元，分别增长15.15%和33.92%，受益于AI驱动的光器件需求增长及垂直整合与技术平台优势。",
-            "score": 95.0,
+            "title": "长光华芯上半年营收同比增长82.67%",
+            "url": "https://www.coema.org.cn/industry/202609/5826.html",
+            "source": "COEMA 中国光电子行业协会",
+            "summary": "",
+            "score": 77.5,
             "role": "行业媒体",
-            "published_at": null
-          },
-          {
-            "title": "光库科技2026年上半年净利润1.48亿元，同比增长186.09%",
-            "url": "https://www.c114.com.cn/news/123/a1315809.html",
-            "source": "C114中国通信网_通信财经",
-            "summary": "光库科技2026年上半年营收10.32亿元、净利润1.48亿元，同比大增；受益AI基建需求，光通讯与光纤激光器件业务双轮驱动。",
-            "score": 95.0,
-            "role": "行业媒体",
-            "published_at": null
-          },
-          {
-            "title": "锐捷网络2026年上半年净利润6.94亿元，同比增长53.54%",
-            "url": "https://www.c114.com.cn/news/123/a1315739.html",
-            "source": "C114中国通信网_通信财经",
-            "summary": "锐捷网络2026年上半年营收88.32亿元、净利润6.94亿元，同比增32.83%和53.54%，主要受益于AI驱动的数据中心交换机业务高增长及全球智算网络方案拓展。",
-            "score": 95.0,
-            "role": "行业媒体",
-            "published_at": null
-          },
-          {
-            "title": "中科曙光上半年实现净利润9.78亿元，同比增长34.19%",
-            "url": "https://www.c114.com.cn/news/123/a1315661.html",
-            "source": "C114中国通信网_通信财经",
-            "summary": "C114讯 8月14日消息 中科曙光昨日发布了2026年半年度报告。报告期内，公司营收为74.29亿元，同比增长26.99%；归属于上市公司股东净利润 9.78 亿元，同比增长 34.19%；归属于上市公司股东的扣除非经常性损益的净利润 8.53 亿元，比上年同期增长50.01%。",
-            "score": 95.0,
-            "role": "行业媒体",
-            "published_at": null
-          },
-          {
-            "title": "仕佳光子上半年营收14.95亿元，同比增长50.66%",
-            "url": "https://www.c114.com.cn/news/123/a1315061.html",
-            "source": "C114中国通信网_通信财经",
-            "summary": "仕佳光子2026年上半年营收14.95亿元，同比增50.66%，主要受益于AI算力需求带动光芯片业务增长77.64%，境外收入占比近58.9%。",
-            "score": 95.0,
-            "role": "行业媒体",
-            "published_at": null
-          },
-          {
-            "title": "天孚通信：预计2026年上半年净利润11.24亿元-13.04亿元",
-            "url": "https://www.c114.com.cn/news/123/a1314323.html",
-            "source": "C114中国通信网_通信财经",
-            "summary": "天孚通信预计2026年上半年净利润同比增长25%-45%，主要受益于AI驱动的数据中心建设带动高速光器件需求增长。",
-            "score": 95.0,
-            "role": "行业媒体",
-            "published_at": null
-          },
-          {
-            "title": "紫光股份：预计上半年净利润同比增长83.50%-122.89%",
-            "url": "https://www.c114.com.cn/news/123/a1313747.html",
-            "source": "C114中国通信网_通信财经",
-            "summary": "紫光股份预计2026年上半年归母净利润同比增长83.50%-122.89%，主要受益于AI算力需求拉动ICT增长、新华三股权收购增厚利润及金融负债利息终止计提。",
-            "score": 95.0,
-            "role": "行业媒体",
-            "published_at": null
+            "published_at": "2026-09"
           }
         ]
       },
@@ -4487,8 +4413,8 @@
             "published_at": null
           },
           {
-            "title": "辽宁通信管理局召开通信行业发展“十五五”规划终审会议擘画未来五年发展蓝图",
-            "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_9c635f6c246747b6b1848cadc5d82349.html",
+            "title": "江西通信管理局部署“人工智能+信息通信”创新发展专项行动",
+            "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_6051e1e6e8284b8aa1ae1f2dfcf3b321.html",
             "source": "工信部要闻",
             "summary": "",
             "score": 90.0,
@@ -4545,15 +4471,6 @@
       {
         "category": "其他",
         "articles": [
-          {
-            "title": "启明星辰上半年扭亏为盈 预计净利2600万至3800万元",
-            "url": "https://www.c114.com.cn/news/123/a1313768.html",
-            "source": "C114中国通信网_通信财经",
-            "summary": "日前，启明星辰发布2026年半年度业绩预告。公司预计上半年实现营业收入12.1亿元至12.6亿元，同比增长6.84%至11.25%；归属于上市公司股东的净利润为2600万元至3800万元，上年同期为亏损9335万元，实现扭亏为盈；",
-            "score": 95.0,
-            "role": "行业媒体",
-            "published_at": null
-          },
           {
             "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
             "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6aff1cc2d094936aaca2f131389d3f8.html",
@@ -4616,11 +4533,20 @@
             "score": 85.0,
             "role": "行业媒体",
             "published_at": null
+          },
+          {
+            "title": "工信部、国资委启动2026年度人形机器人与具身智能实景实训专项行动",
+            "url": "https://www.c114.com.cn/news/550/a1311872.html",
+            "source": "C114中国通信网_监管",
+            "summary": "近日，工业和信息化部、国务院国资委联合印发通知，正式启动2026年度人形机器人与具身智能实景实训专项行动，聚焦工业、服务、特种等领域重点场景，部署打造实景实训空间、组建创新应用联合体、攻关实用化作业技能、加强实景应用验证与常态部署、强化关键要素保障、凝练成熟经验等六项重点任务，加速构建“实景实训—数据沉淀—产品迭代—规模部署”闭环，支撑人形机器人与具身智能产业高质量发展。",
+            "score": 85.0,
+            "role": "行业媒体",
+            "published_at": null
           }
         ]
       }
     ],
-    "tocCount": 67,
+    "tocCount": 69,
     "readMinutes": 1
   }
 }
