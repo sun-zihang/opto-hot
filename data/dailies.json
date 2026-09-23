@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T09:10:22.063639+00:00",
-  "count": 87,
+  "generatedAt": "2026-09-23T09:11:25.348835+00:00",
+  "count": 88,
   "dailies": {
     "2026-03-26": {
       "date": "2026-03-26",
@@ -85,7 +85,7 @@
               "url": "https://www.ledinside.cn/knowledge/20260617-61902.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 50.0,
+              "score": 52.5,
               "role": "行业媒体",
               "published_at": "2026-06-17"
             }
@@ -2151,7 +2151,7 @@
               "url": "https://www.nature.com/articles/s41566-026-01998-w",
               "source": "Nature Photonics",
               "summary": "Nature Photonics, Published online: 28 August 2026; doi:10.1038/s41566-026-01998-w Mechanochromic tactile sensing",
-              "score": 48.8,
+              "score": 48.0,
               "role": "科研",
               "published_at": "2026-08-28T00:00:00+00:00"
             },
@@ -2160,7 +2160,7 @@
               "url": "https://www.nature.com/articles/s41566-026-01993-1",
               "source": "Nature Photonics",
               "summary": "Nature Photonics, Published online: 28 August 2026; doi:10.1038/s41566-026-01993-1 One approach to generate high-energy X-rays and γ-rays is inverse Compton scattering, where a high-energy electron beam collides with an intense laser pulse.",
-              "score": 48.8,
+              "score": 48.0,
               "role": "科研",
               "published_at": "2026-08-28T00:00:00+00:00"
             }
@@ -2229,28 +2229,14 @@
               "url": "https://www.ledinside.cn/fsa/20260831-62447.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 76.3,
-              "role": "行业媒体",
-              "published_at": "2026-08-31"
-            }
-          ]
-        },
-        {
-          "category": "显示与面板",
-          "articles": [
-            {
-              "title": "RGB-MiniLED持续升温，长虹、卡萨帝推出新品",
-              "url": "https://www.ledinside.cn/products/20260831-62443.html",
-              "source": "LEDinside 中文",
-              "summary": "",
-              "score": 51.3,
+              "score": 75.5,
               "role": "行业媒体",
               "published_at": "2026-08-31"
             }
           ]
         }
       ],
-      "tocCount": 2,
+      "tocCount": 1,
       "readMinutes": 1
     },
     "2026-09-01": {
@@ -2266,7 +2252,7 @@
               "url": "https://www.ledinside.cn/fsa/20260901-62454.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 77.2,
+              "score": 76.3,
               "role": "行业媒体",
               "published_at": "2026-09-01"
             }
@@ -2537,28 +2523,14 @@
               "url": "https://www.ledinside.cn/products/20260908-62515.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 58.0,
-              "role": "行业媒体",
-              "published_at": "2026-09-08"
-            }
-          ]
-        },
-        {
-          "category": "其他",
-          "articles": [
-            {
-              "title": "TrendForce：Q2全球智能手机品牌产量排名公布",
-              "url": "https://www.ledinside.cn/research/20260908-62517.html",
-              "source": "LEDinside 中文",
-              "summary": "",
-              "score": 58.0,
+              "score": 57.2,
               "role": "行业媒体",
               "published_at": "2026-09-08"
             }
           ]
         }
       ],
-      "tocCount": 2,
+      "tocCount": 1,
       "readMinutes": 1
     },
     "2026-09-09": {
@@ -2597,7 +2569,7 @@
               "url": "https://www.ledinside.cn/fsa/20260910-62524.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 59.7,
+              "score": 58.8,
               "role": "行业媒体",
               "published_at": "2026-09-10"
             },
@@ -2606,7 +2578,7 @@
               "url": "https://cioe.cn/news/3012_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 59.7,
+              "score": 58.8,
               "role": "行业媒体",
               "published_at": "2026-09-10"
             }
@@ -2620,7 +2592,7 @@
               "url": "https://www.ledinside.cn/fsa/20260910-62526.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 59.7,
+              "score": 58.8,
               "role": "行业媒体",
               "published_at": "2026-09-10"
             }
@@ -2634,7 +2606,7 @@
               "url": "https://cioe.cn/news/3011_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 59.7,
+              "score": 58.8,
               "role": "行业媒体",
               "published_at": "2026-09-10"
             }
@@ -2648,7 +2620,7 @@
               "url": "https://www.nature.com/articles/s41566-026-02000-3",
               "source": "Nature Photonics",
               "summary": "Nature Photonics, Published online: 10 September 2026; doi:10.1038/s41566-026-02000-3 An organic polymer with a large refractive index and excellent transparency in the infrared regime could bring new opportunities for imaging.",
-              "score": 59.7,
+              "score": 58.8,
               "role": "科研",
               "published_at": "2026-09-10T00:00:00+00:00"
             }
@@ -2662,7 +2634,7 @@
               "url": "https://www.ledinside.cn/products/20260910-62527.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 59.7,
+              "score": 58.8,
               "role": "行业媒体",
               "published_at": "2026-09-10"
             }
@@ -2685,7 +2657,7 @@
               "url": "https://www.nature.com/articles/s41566-026-02003-0",
               "source": "Nature Photonics",
               "summary": "Nature Photonics, Published online: 11 September 2026; doi:10.1038/s41566-026-02003-0 An integrated semiconductor laser array can directly generate incoherent space–time wave packets with propagation-invariant and self-healing characteristi",
-              "score": 60.5,
+              "score": 64.7,
               "role": "科研",
               "published_at": "2026-09-11T00:00:00+00:00"
             }
@@ -2699,7 +2671,7 @@
               "url": "https://www.nature.com/articles/s41566-026-02008-9",
               "source": "Nature Photonics",
               "summary": "Nature Photonics, Published online: 11 September 2026; doi:10.1038/s41566-026-02008-9 A thin-film lithium niobate integrated circulator with peak isolation up to 37 dB and a broad transmission bandwidth supports bidirectional transmission t",
-              "score": 85.5,
+              "score": 84.7,
               "role": "科研",
               "published_at": "2026-09-11T00:00:00+00:00"
             }
@@ -2713,7 +2685,7 @@
               "url": "https://www.ledinside.cn/products/20260911-62531.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 60.5,
+              "score": 64.7,
               "role": "行业媒体",
               "published_at": "2026-09-11"
             }
@@ -3428,6 +3400,20 @@
       "label": "2026年9月14日",
       "sections": [
         {
+          "category": "光通信",
+          "articles": [
+            {
+              "title": "光博会直击：光迅科技/新易盛/天孚通信等43家光通信企业亮点一览",
+              "url": "https://www.ledinside.cn/showreport/20260914-62548.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 87.2,
+              "role": "行业媒体",
+              "published_at": "2026-09-14"
+            }
+          ]
+        },
+        {
           "category": "光伏与新能源",
           "articles": [
             {
@@ -3435,7 +3421,7 @@
               "url": "https://www.nature.com/articles/s41566-026-02012-z",
               "source": "Nature Photonics",
               "summary": "Nature Photonics, Published online: 14 September 2026; doi:10.1038/s41566-026-02012-z A coordination-regulated chemical bath deposition method yields conformal nickel oxide layers for perovskite solar cells, enabling 27.35% certified cell e",
-              "score": 63.0,
+              "score": 62.2,
               "role": "科研",
               "published_at": "2026-09-14T00:00:00+00:00"
             }
@@ -3449,14 +3435,14 @@
               "url": "https://cioe.cn/news/3016_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 63.0,
+              "score": 62.2,
               "role": "行业媒体",
               "published_at": "2026-09-14"
             }
           ]
         }
       ],
-      "tocCount": 2,
+      "tocCount": 3,
       "readMinutes": 1
     },
     "2026-09-15": {
@@ -3472,7 +3458,7 @@
               "url": "https://www.nature.com/articles/s41566-026-02001-2",
               "source": "Nature Photonics",
               "summary": "Nature Photonics, Published online: 15 September 2026; doi:10.1038/s41566-026-02001-2 The introduction of a layer of quantum dots reduces plasmonic losses in organic light-emitting diodes.",
-              "score": 88.8,
+              "score": 88.0,
               "role": "科研",
               "published_at": "2026-09-15T00:00:00+00:00"
             }
@@ -3486,7 +3472,7 @@
               "url": "https://cioe.cn/news/3017_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 63.8,
+              "score": 63.0,
               "role": "行业媒体",
               "published_at": "2026-09-15"
             }
@@ -3500,7 +3486,7 @@
               "url": "https://www.nature.com/articles/s41566-026-01987-z",
               "source": "Nature Photonics",
               "summary": "Nature Photonics, Published online: 15 September 2026; doi:10.1038/s41566-026-01987-z The merits of photonic accelerators for artificial intelligence applications are discussed, with an emphasis on cloud versus edge systems.",
-              "score": 63.8,
+              "score": 88.0,
               "role": "科研",
               "published_at": "2026-09-15T00:00:00+00:00"
             }
@@ -3523,7 +3509,7 @@
               "url": "https://www.ledinside.cn/research/20260916-62573.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 64.7,
+              "score": 63.8,
               "role": "行业媒体",
               "published_at": "2026-09-16"
             }
@@ -3537,7 +3523,7 @@
               "url": "https://www.ledinside.cn/research/20260916-62572.html",
               "source": "LEDinside 中文",
               "summary": "",
-              "score": 69.7,
+              "score": 71.3,
               "role": "行业媒体",
               "published_at": "2026-09-16"
             },
@@ -3546,7 +3532,7 @@
               "url": "https://cioe.cn/news/3019_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 64.7,
+              "score": 63.8,
               "role": "行业媒体",
               "published_at": "2026-09-16"
             },
@@ -3555,18 +3541,9 @@
               "url": "//www.ledinside.com/news/2026/9/2026_09_17_01",
               "source": "LEDinside 英文",
               "summary": "Product development and volume production at Hongshi MicroLED At the China International Optoelectronic Exposition (CIOE) 2026, Hongshi Intelligent showcased a new-generation full-color MicroLED light engine based on its Yunjin platform. Us",
-              "score": 60.2,
+              "score": 59.4,
               "role": "行业媒体",
               "published_at": "2026-09-16T15:29:41+00:00"
-            },
-            {
-              "title": "[News] One Installation, Two Viewing Directions: When Does a Dual-Sided LED Display Make Sense?",
-              "url": "//www.ledinside.com/news/2026/9/2026_09_16_06",
-              "source": "LEDinside 英文",
-              "summary": "LEDMAN X Series dual-sided LED display is not simply two screens installed back to back. Its real value lies in using one installation point to reach audiences moving in different directions. In the right environment, each side can deliver ",
-              "score": 59.6,
-              "role": "行业媒体",
-              "published_at": "2026-09-15T22:33:44+00:00"
             }
           ]
         },
@@ -3578,7 +3555,7 @@
               "url": "https://cioe.cn/news/3018_info.html",
               "source": "CIOE 中国光博会",
               "summary": "",
-              "score": 64.7,
+              "score": 63.8,
               "role": "行业媒体",
               "published_at": "2026-09-16"
             },
@@ -3587,23 +3564,14 @@
               "url": "//www.ledinside.com/news/2026/9/2026_09_17_02",
               "source": "LEDinside 英文",
               "summary": "On September 9, Goeroptics showcased a range of new products spanning XR optics, smart projection, automotive optics, and industrial vision at the 27th China International Optoelectronic Exposition (CIOE). XR Optics: Parallel Iteration Acro",
-              "score": 60.2,
+              "score": 59.4,
               "role": "行业媒体",
               "published_at": "2026-09-16T15:41:08+00:00"
-            },
-            {
-              "title": "[News] Lumileds Files Patent Infringement Actions Against Xiaomi in the Unified Patent Court in Europe",
-              "url": "//www.ledinside.com/news/2026/9/2026_09_16_10",
-              "source": "LEDinside 英文",
-              "summary": "Eindhoven, The Netherlands, Lumileds Singapore Pte. Ltd. announced today that, as part of its ongoing program to protect and enforce its LED patent portfolio, it has filed several patent infringement actions in the Unified Patent Court (UPC",
-              "score": 59.6,
-              "role": "行业媒体",
-              "published_at": "2026-09-15T22:52:05+00:00"
             }
           ]
         }
       ],
-      "tocCount": 8,
+      "tocCount": 6,
       "readMinutes": 1
     },
     "2026-09-17": {
@@ -3619,23 +3587,9 @@
               "url": "//www.ledinside.com/news/2026/9/2026_09_17_08",
               "source": "LEDinside 英文",
               "summary": "On September 10, 2026, Macroblock and Juxin jointly hosted the 2026 International LED Display Symposium under the theme “No Spec Hype. Just Perfect Experience.” Industry experts gathered to discuss the direction of the next generation of LE",
-              "score": 65.5,
+              "score": 64.7,
               "role": "行业媒体",
               "published_at": "2026-09-17T00:26:34+00:00"
-            }
-          ]
-        },
-        {
-          "category": "光电芯片与半导体",
-          "articles": [
-            {
-              "title": "SPAD sensor processes photon events on-chip",
-              "url": "https://www.edn.com/spad-sensor-processes-photon-events-on-chip/",
-              "source": "EDN 电子工程专辑",
-              "summary": "Singular Photonics’ Litavis is a CMOS SPAD image sensor with integrated digital photon processing on-chip and in-pixel. The post SPAD sensor processes photon events on-chip appeared first on EDN .",
-              "score": 75.5,
-              "role": "媒体",
-              "published_at": "2026-09-16T23:58:14+00:00"
             }
           ]
         },
@@ -3647,7 +3601,7 @@
               "url": "https://www.edn.com/sensor-sharpens-infrared-in-cabin-imaging/",
               "source": "EDN 电子工程专辑",
               "summary": "The ST SafeSense VD56GA 1.1-Mpixel automotive image sensor enables infrared in-cabin sensing for driver and occupant monitoring applications. The post Sensor sharpens infrared in-cabin imaging appeared first on EDN .",
-              "score": 75.5,
+              "score": 49.7,
               "role": "媒体",
               "published_at": "2026-09-17T00:01:33+00:00"
             }
@@ -3661,15 +3615,15 @@
               "url": "//www.ledinside.com/news/2026/9/2026_09_17_03",
               "source": "LEDinside 英文",
               "summary": "Lumus, the pioneering developer of reflective (geometric) waveguide technology for augmented reality (AR) eyewear, today announced a new manufacturing agreement with Zhejiang Crystal-Optech Co., Ltd. (Crystal-Optech or COT), a leading Chine",
-              "score": 60.5,
+              "score": 59.7,
               "role": "行业媒体",
               "published_at": "2026-09-16T23:44:39+00:00"
             }
           ]
         }
       ],
-      "tocCount": 4,
-      "readMinutes": 3
+      "tocCount": 3,
+      "readMinutes": 2
     },
     "2026-09-18": {
       "date": "2026-09-18",
@@ -3819,20 +3773,6 @@
       "label": "2026年9月20日",
       "sections": [
         {
-          "category": "激光",
-          "articles": [
-            {
-              "title": "本田冠道终于急了:激光雷达上车,智能化短板这次真要补齐了?",
-              "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9vj77TvILLLdXfcVcEJEsTV01xQBzoMolqXa8Fplpd9fRsVclEQvxoqnD3WrPf8BOei9mnhLb5gygjMXYSc1oAc670Xs-reJONI2-vJrA2Ofj_WAyoRI0KMqlSq2V7DACbUDPQx9zVIRfmYORlJBkzb7ZQRkcCpkYFkPlFv_PoCONbnpDjV5db_h9T2qxDBBlQAm5xFEUP2tP_ibCiz167vzHZXxeLdyg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=615C3A3AB4E866D3C7C19AC87EE720C7C7967CB86AB245DE",
-              "source": "搜狗微信·光电行业 · 七爷谈车",
-              "summary": "激光雷达与高阶智驾的落地这次曝光的谍照里,最显眼的就是车顶位置的激光雷达.这意味着新车大概率会搭载覆盖高速、城区甚至泊...",
-              "score": 63.5,
-              "role": "媒体",
-              "published_at": "2026-09-20T13:45:09+00:00"
-            }
-          ]
-        },
-        {
           "category": "显示与面板",
           "articles": [
             {
@@ -3840,14 +3780,14 @@
               "url": "//www.ledinside.com/news/2026/9/2026_09_21_03",
               "source": "LEDinside 英文",
               "summary": "Just as the transition from a 15 cm vacuum tube to a 1 cm transistor triggered the IT revolution, light-emitting devices are also evolving beyond conventional LEDs used simply for illumination into ultra-miniaturized opto semiconductors tha",
-              "score": 63.0,
+              "score": 62.1,
               "role": "行业媒体",
               "published_at": "2026-09-19T22:12:40+00:00"
             }
           ]
         }
       ],
-      "tocCount": 2,
+      "tocCount": 1,
       "readMinutes": 1
     },
     "2026-09-21": {
@@ -3856,16 +3796,80 @@
       "label": "2026年9月21日",
       "sections": [
         {
+          "category": "显示与面板",
+          "articles": [
+            {
+              "title": "TrendForce：成本压力叠加需求转弱，十月大世代面板稼动率预计调至79.6%",
+              "url": "https://www.ledinside.cn/research/20260921-62611.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 73.0,
+              "role": "行业媒体",
+              "published_at": "2026-09-21"
+            },
+            {
+              "title": "[News] From LED Driver ICs to MBEyes Display Inspection: Macroblock Presents a Comprehensive Display Technology Portfolio",
+              "url": "//www.ledinside.com/products/2026/9/2026_09_21_02",
+              "source": "LEDinside 英文",
+              "summary": "Macroblock and Juxin Optoelectronics successfully held 2026 LED Display Symposium at the Shenzhen Marriott Hotel. In addition to the main-stage sessions, which focused on display industry trends and technology sharing, the exhibition area f",
+              "score": 67.9,
+              "role": "行业媒体",
+              "published_at": "2026-09-20T22:07:31+00:00"
+            },
+            {
+              "title": "[News] Shaping Auckland’s Smart Urban Future: Unilumin LED Displays Feature in Landmark City Rail Link",
+              "url": "//www.ledinside.com/news/2026/9/2026_09_21_01",
+              "source": "LEDinside 英文",
+              "summary": "This month, Auckland’s long-awaited City Rail Link (CRL)—New Zealand’s largest-ever transport infrastructure project—has officially opened, marking a significant milestone in the country’s public transportation development. Designed to tran",
+              "score": 62.9,
+              "role": "行业媒体",
+              "published_at": "2026-09-20T21:59:21+00:00"
+            }
+          ]
+        }
+      ],
+      "tocCount": 3,
+      "readMinutes": 1
+    },
+    "2026-09-22": {
+      "date": "2026-09-22",
+      "weekday": "周二",
+      "label": "2026年9月22日",
+      "sections": [
+        {
           "category": "激光",
           "articles": [
             {
-              "title": "10-15万买新能源轿跑,无框车门+激光雷达配齐,还看啥燃油小钢炮?",
-              "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9vj77TvILLLvwqmcsOLUnXV01xQBzoMolqXa8Fplpd9lxx1POSNfvFNp9N9LtlDL0evvkxnIkiyzbffTuGmqUHHpp_zcxy-EYA40XSxnRf8rLKW0fk_QN3lJL62UntEPfSKaP54xTL8sC1TDo8xFL0GzA38pgyNQBcBd9wYi5dS_xcMWtTke52tHCUczJ9pTgX85-n2anfprntATHe1t5FOJBjQH7pCxQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=615C3A3AB4E866D3C7C19AC87EE720C7C7967CB86AB245DE",
-              "source": "搜狗微信·光电行业 · 懂车",
-              "summary": "激光雷达+Momenta R7强化世界模型、8295芯片、21扬声器等等诸多配置.而在三电方面,纯电提供176千瓦和235千瓦的单电机版本...",
-              "score": 64.2,
+              "title": "12万的合资激光雷达家轿,我帮你选好了",
+              "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwYJ_SHIvEVoqnR9qhXthRNHRZg5uTp1VlqXa8Fplpd9x75WMtD7eJsPg-GvYuOpifgXczXitCP90cE-aCf1ayX-T_81XoPJJhZPnH09QTomHFae6ZIr2BkSFvWl0IaVxonLv5rWDKmXPeHRIM_9y_Cr-ONSmD0d-oq0m3SwZMMgPsyvVXFqKOZ0LqcA5fZu9Qqb9zx1tgGnw4gcK7j0aU5r1dbZWbKUeQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=693829BF1E32A7064B4A17699776B8F44C1874706AB397B7",
+              "source": "搜狗微信·光电行业 · 有车以后",
+              "summary": "激光雷达、全车29个传感器、Momenta R7世界模型,高速加城区的领航辅助都在这台上.这套东西搁合资车上,以前基本得奔着二十...",
+              "score": 71.9,
               "role": "媒体",
-              "published_at": "2026-09-21T10:31:04+00:00"
+              "published_at": "2026-09-22T14:44:51+00:00"
+            }
+          ]
+        },
+        {
+          "category": "光通信",
+          "articles": [
+            {
+              "title": "[News] ams OSRAM unveils breakthrough Thin-Film VCSEL for AI Scale-Up, showcasing connectorized multi-core fiber solution and expanding ecosystem network",
+              "url": "//www.ledinside.com/news/2026/9/2026_09_23_02",
+              "source": "LEDinside 英文",
+              "summary": "Moving data efficiently is becoming one of the defining challenges of next-generation AI systems. As AI clusters continue to scale, optical interconnects are emerging as critical technology for enabling higher bandwidth at significantly low",
+              "score": 89.4,
+              "role": "行业媒体",
+              "published_at": "2026-09-22T15:43:10+00:00"
+            },
+            {
+              "title": "[News] AI Photonics – creating the optical interconnects of tomorrow",
+              "url": "//www.ledinside.com/news/2026/9/2026_09_23_01",
+              "source": "LEDinside 英文",
+              "summary": "ams OSRAM wide-and-slow architecture for scale-up, scale-out and future chip-to-chip use cases in AI data centers.<iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfulls",
+              "score": 89.1,
+              "role": "行业媒体",
+              "published_at": "2026-09-22T06:50:41+00:00"
             }
           ]
         },
@@ -3873,31 +3877,36 @@
           "category": "显示与面板",
           "articles": [
             {
-              "title": "[News] From LED Driver ICs to MBEyes Display Inspection: Macroblock Presents a Comprehensive Display Technology Portfolio",
-              "url": "//www.ledinside.com/products/2026/9/2026_09_21_02",
-              "source": "LEDinside 英文",
-              "summary": "Macroblock and Juxin Optoelectronics successfully held 2026 LED Display Symposium at the Shenzhen Marriott Hotel. In addition to the main-stage sessions, which focused on display industry trends and technology sharing, the exhibition area f",
-              "score": 68.8,
+              "title": "TrendForce：成本压力升温，9月电视面板伺机涨价",
+              "url": "https://www.ledinside.cn/research/20260922-62622.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 73.8,
               "role": "行业媒体",
-              "published_at": "2026-09-20T22:07:31+00:00"
+              "published_at": "2026-09-22"
             },
             {
-              "title": "TrendForce：成本压力叠加需求转弱，十月大世代面板稼动率预计调至79.6%",
-              "url": "https://www.ledinside.cn/research/20260921-62611.html",
+              "title": "惠科：5.5代柔性OLED产线已实现手机面板小批量出货",
+              "url": "https://www.ledinside.cn/news/20260922-62621.html",
               "source": "LEDinside 中文",
               "summary": "",
               "score": 68.8,
               "role": "行业媒体",
-              "published_at": "2026-09-21"
-            },
+              "published_at": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "category": "产业与资本",
+          "articles": [
             {
-              "title": "[News] Shaping Auckland’s Smart Urban Future: Unilumin LED Displays Feature in Landmark City Rail Link",
-              "url": "//www.ledinside.com/news/2026/9/2026_09_21_01",
-              "source": "LEDinside 英文",
-              "summary": "This month, Auckland’s long-awaited City Rail Link (CRL)—New Zealand’s largest-ever transport infrastructure project—has officially opened, marking a significant milestone in the country’s public transportation development. Designed to tran",
-              "score": 63.8,
+              "title": "采用京东方Q11发光材料，vivo X500 Pro 系列手机发布",
+              "url": "https://www.ledinside.cn/news/20260922-62620.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 68.8,
               "role": "行业媒体",
-              "published_at": "2026-09-20T21:59:21+00:00"
+              "published_at": "2026-09-22"
             }
           ]
         },
@@ -3905,24 +3914,24 @@
           "category": "其他",
           "articles": [
             {
-              "title": "传友达再出售厂房",
-              "url": "https://www.ledinside.cn/news/20260921-62609.html",
-              "source": "LEDinside 中文",
-              "summary": "",
-              "score": 68.8,
+              "title": "[News] Chipshow Expands EN 12966-Certified VMS Coverage from 6.67mm to 20mm Pixel Pitch",
+              "url": "//www.ledinside.com/news/2026/9/2026_09_22_01",
+              "source": "LEDinside 英文",
+              "summary": "LED display manufacturer Chipshow has extended its EN 12966 certification coverage for its variable message sign (VMS) series to 20mm pixel pitch. The latest addition was certified in July 2026 by DBI Certification A/S (Notified Body No. 25",
+              "score": 63.8,
               "role": "行业媒体",
-              "published_at": "2026-09-21"
+              "published_at": "2026-09-21T23:28:11+00:00"
             }
           ]
         }
       ],
-      "tocCount": 5,
-      "readMinutes": 1
+      "tocCount": 7,
+      "readMinutes": 2
     },
-    "2026-09-22": {
-      "date": "2026-09-22",
-      "weekday": "周二",
-      "label": "2026年9月22日",
+    "2026-09-23": {
+      "date": "2026-09-23",
+      "weekday": "周三",
+      "label": "2026年9月23日",
       "sections": [
         {
           "category": "激光",
@@ -3937,15 +3946,6 @@
               "published_at": null
             },
             {
-              "title": "Laser-Driven Electron Emission Carrying Orbital Angular Momentum from Carbon Nanotubes",
-              "url": "https://arxiv.org/abs/2609.23654",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2609.23654v1 Announce Type: new Abstract: Extending the orbital angular momentum (OAM) degree of freedom to slow electrons would open a distinct regime of low-energy electron-matter interactions. Using time-dependent density-functiona",
-              "score": 89.8,
-              "role": "科研",
-              "published_at": "2026-09-22T04:00:00+00:00"
-            },
-            {
               "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
               "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
               "source": "OFweek 激光频道",
@@ -3953,15 +3953,6 @@
               "score": 82.5,
               "role": "行业媒体",
               "published_at": "2026-08"
-            },
-            {
-              "title": "Laser experiments recreate solar flare physics and reveal consistent magnetic reconnection rates",
-              "url": "https://phys.org/news/2026-09-laser-recreate-solar-flare-physics.html",
-              "source": "Phys.org 物理新闻",
-              "summary": "Magnetic reconnection is a process that occurs when the magnetic fields of a conductive plasma quickly rearrange and release massive amounts of stored magnetic energy. It is widely thought to be the underlying mechanism behind cosmic events",
-              "score": 80.0,
-              "role": "科研",
-              "published_at": null
             },
             {
               "title": "液冷板激光焊接，智启AI算力“散热革命”新引擎",
@@ -3993,6 +3984,24 @@
             {
               "title": "森峰激光闯注册关，7成收入靠海外，背负对赌的李峰西夫妇背水一战",
               "url": "https://laser.ofweek.com/2026-09/ART-240001-12003-30703679.html",
+              "source": "OFweek 激光频道",
+              "summary": "",
+              "score": 75.0,
+              "role": "行业媒体",
+              "published_at": "2026-09"
+            },
+            {
+              "title": "滨松空间光调制器工业激光加工应用成果研讨会于深圳圆满举办",
+              "url": "https://laser.ofweek.com/2026-09/ART-8100-2400-30704389.html",
+              "source": "OFweek 激光频道",
+              "summary": "",
+              "score": 75.0,
+              "role": "行业媒体",
+              "published_at": "2026-09"
+            },
+            {
+              "title": "大族激光500W一体化光纤绿光激光器全球首发！",
+              "url": "https://laser.ofweek.com/2026-09/ART-8100-2400-30702788.html",
               "source": "OFweek 激光频道",
               "summary": "",
               "score": 75.0,
@@ -4032,13 +4041,13 @@
               "published_at": null
             },
             {
-              "title": "$f$-2$f$ self-referencing for silicon nitride photonics via a heterogeneously integrated lithium niobate layer",
-              "url": "https://arxiv.org/abs/2609.23328",
+              "title": "Research and simulation of analytical polarization control enabled by optical computing on an integrated photonics chip",
+              "url": "https://arxiv.org/abs/2609.04666",
               "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2609.23328v1 Announce Type: new Abstract: Heterogeneous integration combines complementary material properties in a single photonic platform. Here, we demonstrate on-chip $f$-2$f$ self-referencing in a heterogeneously integrated Si$_3",
+              "summary": "arXiv:2609.04666v2 Announce Type: replace Abstract: Dynamic polarization controllers are key devices with broad applications in many fields. However, most on-chip polarization controllers still rely on traditional blind-search methods, wher",
               "score": 89.8,
               "role": "科研",
-              "published_at": "2026-09-22T04:00:00+00:00"
+              "published_at": "2026-09-23T04:00:00+00:00"
             },
             {
               "title": "诚锋科技亮相CIOE 2026：以纳米级光学检测硬实力，护航AI光互联“中国芯”",
@@ -4059,19 +4068,19 @@
               "published_at": "2026-06"
             },
             {
+              "title": "魔飞光电完成B轮融资，加速光波导与CPO技术布局",
+              "url": "https://www.ledinside.cn/news/20260923-62625.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 74.7,
+              "role": "行业媒体",
+              "published_at": "2026-09-23"
+            },
+            {
               "title": "推进光纤入户 工信部联合住建部解决”最后一公里”问题",
               "url": "http://www.c114.net/news/549/a997513.html",
               "source": "C114中国通信网_要闻精选",
               "summary": "",
-              "score": 70.0,
-              "role": "行业媒体",
-              "published_at": null
-            },
-            {
-              "title": "东山精密上半年光模块业务收入53.51亿元，占营收比19.25%",
-              "url": "https://www.c114.com.cn/news/123/a1316159.html",
-              "source": "C114中国通信网_通信财经",
-              "summary": "东山精密2026年上半年光模块业务收入53.51亿元，依托索尔思实现EML光芯片IDM量产，并推进1.6T/3.2T光模块及硅光技术布局。",
               "score": 70.0,
               "role": "行业媒体",
               "published_at": null
@@ -4081,6 +4090,15 @@
         {
           "category": "显示与面板",
           "articles": [
+            {
+              "title": "辰显光电与利亚德达成合作，推进MicroLED产业化",
+              "url": "https://www.ledinside.cn/news/20260923-62630.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 77.2,
+              "role": "行业媒体",
+              "published_at": "2026-09-23"
+            },
             {
               "title": "眼镜片暴增42%！雅视光学为何仍亏1338万？",
               "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30703458.html",
@@ -4127,24 +4145,6 @@
               "published_at": "2026-09"
             },
             {
-              "title": "一年700万片光波导！疯狂扩产之下，AR眼镜到底能卖多少？",
-              "url": "https://optics.ofweek.com/2026-09/ART-250003-8420-30703429.html",
-              "source": "OFweek 光电频道",
-              "summary": "",
-              "score": 75.0,
-              "role": "行业媒体",
-              "published_at": "2026-09"
-            },
-            {
-              "title": "洛图科技：AR眼镜正分化为轻量化AI HUD和AR巨幕观影/空间计算眼镜两大阵营",
-              "url": "https://optics.ofweek.com/2026-09/ART-250003-8420-30703222.html",
-              "source": "OFweek 光电频道",
-              "summary": "",
-              "score": 75.0,
-              "role": "行业媒体",
-              "published_at": "2026-09"
-            },
-            {
               "title": "投资32.8亿！歌尔临港12英寸AR眼镜光学晶圆基地投产",
               "url": "https://optics.ofweek.com/2026-06/ART-250002-8490-30691919.html",
               "source": "OFweek 光电频道",
@@ -4152,6 +4152,15 @@
               "score": 75.0,
               "role": "行业媒体",
               "published_at": "2026-06"
+            },
+            {
+              "title": "亮度超千万尼特，德国研发WUXGA蓝光Micro LED",
+              "url": "https://www.ledinside.cn/news/20260923-62629.html",
+              "source": "LEDinside 中文",
+              "summary": "",
+              "score": 74.7,
+              "role": "行业媒体",
+              "published_at": "2026-09-23"
             }
           ]
         },
@@ -4191,13 +4200,31 @@
           "category": "光学元件与成像",
           "articles": [
             {
-              "title": "Synthetic-Aperture Super-Resolution Imaging via Spatial-Frequency Shift in Near-Field Diffraction",
-              "url": "https://arxiv.org/abs/2609.24039",
+              "title": "Resonant multi-harmonic acousto-optics for programmable frequency control of visible light in a CMOS platform",
+              "url": "https://arxiv.org/abs/2609.25593",
               "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2609.24039v1 Announce Type: new Abstract: Grating-based computational imaging shifts high-spatial-frequency information into the detectable range, enabling super-resolution reconstruction. However, a fixed grating produces effective d",
+              "summary": "arXiv:2609.25593v1 Announce Type: new Abstract: Scaling quantum control for atoms, ions, and solid-state emitters requires gigahertz-frequency spectral control of high-power visible light in a volume-manufacturable platform. Silicon nitride",
               "score": 89.8,
               "role": "科研",
-              "published_at": "2026-09-22T04:00:00+00:00"
+              "published_at": "2026-09-23T04:00:00+00:00"
+            },
+            {
+              "title": "Meta-Optics-Based Diffractive Learning Machine for Angle-Multiplexed Multi-Task Processing",
+              "url": "https://arxiv.org/abs/2609.25792",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2609.25792v1 Announce Type: new Abstract: All-optical diffractive neural networks (DNNs) offer low latency, low energy consumption, and massive parallelism. However, their scalability in terms of network scale and multi-task processin",
+              "score": 89.8,
+              "role": "科研",
+              "published_at": "2026-09-23T04:00:00+00:00"
+            },
+            {
+              "title": "Optical-Memory Transport Imaging: Extension to Stochastic Diffusion",
+              "url": "https://arxiv.org/abs/2609.25946",
+              "source": "arXiv 光学与光子学 (physics.optics)",
+              "summary": "arXiv:2609.25946v1 Announce Type: new Abstract: Finite-memory optical tracers can encode transport properties through their previously experienced excitation. Using such memory features, harboured in the population of excitable long-lived e",
+              "score": 89.8,
+              "role": "科研",
+              "published_at": "2026-09-23T04:00:00+00:00"
             },
             {
               "title": "An extremely stable quantum gas offers a new lens on strongly interacting systems",
@@ -4218,8 +4245,8 @@
               "published_at": "2026-09"
             },
             {
-              "title": "牵手西安光机所！华为在下怎样的一盘“光学大棋”？",
-              "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30704235.html",
+              "title": "全球手持智能相机中国品牌霸榜！大疆、影石合计拿下93%份额",
+              "url": "https://optics.ofweek.com/2026-09/ART-250003-8110-30704590.html",
               "source": "OFweek 光电频道",
               "summary": "",
               "score": 75.0,
@@ -4227,8 +4254,8 @@
               "published_at": "2026-09"
             },
             {
-              "title": "总投资2亿元！高精度智能光学摄像头结构件项目签约落户连州",
-              "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30704059.html",
+              "title": "光波导技术分类: 五条路线，五种物理逻辑",
+              "url": "https://optics.ofweek.com/2026-09/ART-250006-8140-30704546.html",
               "source": "OFweek 光电频道",
               "summary": "",
               "score": 75.0,
@@ -4236,26 +4263,8 @@
               "published_at": "2026-09"
             },
             {
-              "title": "成立不到两年就拿下亿元融资，这家光学新锐凭什么？",
-              "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30704061.html",
-              "source": "OFweek 光电频道",
-              "summary": "",
-              "score": 75.0,
-              "role": "行业媒体",
-              "published_at": "2026-09"
-            },
-            {
-              "title": "1530.68万！道明光学中标广东新能源汽车号牌原材料项目",
-              "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30703826.html",
-              "source": "OFweek 光电频道",
-              "summary": "",
-              "score": 75.0,
-              "role": "行业媒体",
-              "published_at": "2026-09"
-            },
-            {
-              "title": "1.1亿募资改道！福光股份加码精密光学与空天镜头",
-              "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30703827.html",
+              "title": "打通生产全链路数据！毫米光学启动MES与ERP升级项目",
+              "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30704404.html",
               "source": "OFweek 光电频道",
               "summary": "",
               "score": 75.0,
@@ -4291,76 +4300,76 @@
           "category": "科研进展",
           "articles": [
             {
-              "title": "All-optical spin-selective control and shaping of frequency conversion pathways",
-              "url": "https://arxiv.org/abs/2609.22530",
+              "title": "Photonic half-semimetals with dual semimetal-insulator topology",
+              "url": "https://arxiv.org/abs/2609.25596",
               "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2609.22530v1 Announce Type: new Abstract: The interplay between optical spin and crystal symmetry provides a powerful mechanism to control light-matter interaction, enabling advances in imaging, holography, sensing, signal processing,",
+              "summary": "arXiv:2609.25596v1 Announce Type: new Abstract: Topological wave systems have largely evolved along two distinct paradigms: gapless topological semimetals and gapped topological insulators. While topological semimetals support bulk transpor",
               "score": 89.8,
               "role": "科研",
-              "published_at": "2026-09-22T04:00:00+00:00"
+              "published_at": "2026-09-23T04:00:00+00:00"
             },
             {
-              "title": "Ultrafast light-sheet optical tweezers for in situ parallelized biomechanical characterization of cells and soft tissues",
-              "url": "https://arxiv.org/abs/2609.22540",
+              "title": "Intra-bandgap Bound-State Magnonics in a Photonic Crystal Waveguide",
+              "url": "https://arxiv.org/abs/2609.25744",
               "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2609.22540v1 Announce Type: new Abstract: Quantitative characterization of the mechanical properties of cells and tissues is essential for understanding disease progression and tissue regeneration. Optical tweezers (OT) enable the dir",
+              "summary": "arXiv:2609.25744v1 Announce Type: new Abstract: Cavity and waveguide magnonics have recently emerged as frontiers for investigating light-matter interactions. In these systems, coupling magnons into meticulously engineered photonic lattices",
               "score": 89.8,
               "role": "科研",
-              "published_at": "2026-09-22T04:00:00+00:00"
+              "published_at": "2026-09-23T04:00:00+00:00"
             },
             {
-              "title": "Cascaded Brillouin-Kerr microcombs in surface nanoscale axial photonic resonators",
-              "url": "https://arxiv.org/abs/2609.22629",
+              "title": "Localized Decoherence as a Constructive Tool: An Optical Simulation of Matter-Wave Interference",
+              "url": "https://arxiv.org/abs/2609.25227",
               "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2609.22629v1 Announce Type: new Abstract: Surface nanoscale axial photonic resonators (SNAPRs) provide an axially structured whispering-gallery-mode platform in which nanoscale effective-radius variations produce spatially localized o",
+              "summary": "arXiv:2609.25227v1 Announce Type: cross Abstract: Decoherence is conventionally regarded as a detrimental process that suppresses quantum coherence and limits the performance of quantum technologies. Contrary to this view, we show that spat",
               "score": 89.8,
               "role": "科研",
-              "published_at": "2026-09-22T04:00:00+00:00"
+              "published_at": "2026-09-23T04:00:00+00:00"
             },
             {
-              "title": "High-Q Magneto-Optical Microdisk Resonators Based on Monocrystalline Bismuth-substituted Yttrium Iron Garnets",
-              "url": "https://arxiv.org/abs/2609.22841",
+              "title": "Efficient Ion-Photon Quantum Interface with Long-Working-Distance Exceeding 26 mm",
+              "url": "https://arxiv.org/abs/2609.25598",
               "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2609.22841v1 Announce Type: new Abstract: Microresonators based on diverse material platforms have driven the progress of integrated photonics by enhancing light-matter interactions in compact volumes. Extending this strategy to magne",
+              "summary": "arXiv:2609.25598v1 Announce Type: cross Abstract: Trapped-ion quantum networks rely on efficient ion-photon interfaces, while objective-based free-space collection systems must balance high photon collection with sufficient working distance",
               "score": 89.8,
               "role": "科研",
-              "published_at": "2026-09-22T04:00:00+00:00"
+              "published_at": "2026-09-23T04:00:00+00:00"
             },
             {
-              "title": "Cryogenic thermo-optic response of low-loss phase change material for non-volatile photonic phase shifter",
-              "url": "https://arxiv.org/abs/2609.23599",
+              "title": "Memory in Integrated Photonic Neural Networks: From Physical Mechanisms to Neuromorphic Architectures",
+              "url": "https://arxiv.org/abs/2604.22620",
               "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2609.23599v1 Announce Type: new Abstract: Phase change materials (PCMs) can enable non-volatile optical memory through the large refractive index and extinction coefficient contrast between crystalline and amorphous states. Among them",
+              "summary": "arXiv:2604.22620v2 Announce Type: replace Abstract: The rapid scaling of artificial neural networks has exposed fundamental limitations of conventional von Neumann computing architectures. In these systems, the physical separation between m",
               "score": 89.8,
               "role": "科研",
-              "published_at": "2026-09-22T04:00:00+00:00"
+              "published_at": "2026-09-23T04:00:00+00:00"
             },
             {
-              "title": "Sustained Orbital Motion Driven by Circularly Polarized Light in Nanoscale Stator-Rotor Architectures",
-              "url": "https://arxiv.org/abs/2609.24029",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2609.24029v1 Announce Type: new Abstract: Light-induced forces and torques offer a versatile strategy for remotely actuating microscopic objects, enabling breakthroughs including optical trapping and light-driven nanomachines. Extendi",
-              "score": 89.8,
-              "role": "科研",
-              "published_at": "2026-09-22T04:00:00+00:00"
+              "title": "工信部：加快制造业中试建设 布局AI、量子科技等关键领域",
+              "url": "https://www.c114.com.cn/news/550/a1300198.html",
+              "source": "C114中国通信网_监管",
+              "summary": "今日，工信部发布《关于进一步加快制造业中试平台体系化布局和高水平建设的通知》，旨在落实《制造业中试创新发展实施意见》，进一步推进制造业中试平台体系化布局，加强高水平中试平台建设。",
+              "score": 85.0,
+              "role": "行业媒体",
+              "published_at": null
             },
             {
-              "title": "Hypervectors from Optical Disorder: Programmable Encoding and Optical Inference for Hyperdimensional Computing",
-              "url": "https://arxiv.org/abs/2609.24108",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2609.24108v1 Announce Type: new Abstract: Hyperdimensional computing (HDC) is a computing framework that represents information as high-dimensional pseudorandom vectors called hypervectors (HVs), enabling learning and inference throug",
-              "score": 89.8,
+              "title": "Physicists crack the math connecting ultraslow quantum magnetism to ultrafast black-hole physics",
+              "url": "https://phys.org/news/2026-09-physicists-math-ultraslow-quantum-magnetism.html",
+              "source": "Phys.org 物理新闻",
+              "summary": "A team led by University at Buffalo physicists has found a mathematical solution that shows how a frustrated quantum magnet can transition from ultraslow behavior to ultrafast, highly entangled behavior resembling that of a black hole.",
+              "score": 80.0,
               "role": "科研",
-              "published_at": "2026-09-22T04:00:00+00:00"
+              "published_at": null
             },
             {
-              "title": "Dual-layer large-numerical-aperture metalenses with rotational zoom capability",
-              "url": "https://arxiv.org/abs/2609.24171",
-              "source": "arXiv 光学与光子学 (physics.optics)",
-              "summary": "arXiv:2609.24171v1 Announce Type: new Abstract: We present a non-paraxial design strategy based on the full ideal aberration-free phase function for a dual-layer rotational zoom metalens. By adopting the exact lens phase expression rather t",
-              "score": 89.8,
+              "title": "Quantum communication protocol enables three users to establish a shared secure key",
+              "url": "https://phys.org/news/2026-09-quantum-communication-protocol-enables-users.html",
+              "source": "Phys.org 物理新闻",
+              "summary": "Quantum key distribution allows two users to establish secret keys whose security is grounded in the laws of quantum mechanics. Extending this capability to multiple users is an essential step toward quantum networks that support secure com",
+              "score": 80.0,
               "role": "科研",
-              "published_at": "2026-09-22T04:00:00+00:00"
+              "published_at": null
             }
           ]
         },
@@ -4449,62 +4458,44 @@
               "url": "http://www.c114.net/news/16/a997101.html",
               "source": "C114中国通信网_要闻精选",
               "summary": "",
-              "score": 82.5,
+              "score": 95.0,
               "role": "行业媒体",
               "published_at": null
             },
             {
-              "title": "大招齐发，英特尔直击网络转型",
-              "url": "http://www.c114.com.cn/topic/5096/a996852.html?utm_medium=C114&dclid=CLmNp8bEwdICFRwhKgodT4YHqQ",
-              "source": "C114中国通信网_要闻精选",
-              "summary": "运营商是实现5G连接及应用和业务创新的重要基石，也是网络转型的主角。作为中国三大运营商之一的中国电信，正在努力推进网络转型，为5G的到来做好准备。中国电信选择与英特尔合作，采用英特尔RSD实施方案，联手击破运营商在网络转型中的各个难题，真正做到在网络转型之路所向披靡。",
-              "score": 77.5,
-              "role": "行业媒体",
+              "title": "工业和信息化部等五部门关于组织开展2026年度国家绿色算力设施推荐工作的通知",
+              "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_37e463f44fbd44ed9b0fdf4833c3aacd.html",
+              "source": "工信部要闻",
+              "summary": "",
+              "score": 90.0,
+              "role": "媒体",
               "published_at": null
             },
             {
-              "title": "英特尔助力电信网络转型 让5G不再是“看上去很美”",
-              "url": "http://www.c114.net/topic/5096/a996887.html",
-              "source": "C114中国通信网_要闻精选",
-              "summary": "实现5G愿景，可并不仅仅是从基站到手机终端那点事。对无线技术进行革新，只是5G万里长征中的一段路。虽然对于普通消费者而言，这是他们未来能够从手机端看到的变革，但更多他们看不到的变化——电信运营商网络的转型。",
-              "score": 77.5,
-              "role": "行业媒体",
+              "title": "工业和信息化部关于印发《信息通信行业发展“十五五”规划》的通知",
+              "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_456511e63be14508aa5b0d113af559fe.html",
+              "source": "工信部要闻",
+              "summary": "",
+              "score": 90.0,
+              "role": "媒体",
               "published_at": null
             },
             {
-              "title": "两会关注：提速降费步伐加快，三大运营商打出全新组合拳",
-              "url": "http://www.c114.net/news/16/a997421.html",
-              "source": "C114中国通信网_要闻精选",
-              "summary": "年两会总理提出了2017年“网络提速降费要迈出更大步伐”，并明确了三个方向：年内全部取消手机国内长途和漫游费；大幅降低中小企业互联网专线接入资费；降低国际长途电话费。为了响应政府号召，三大运营商都公布了2017年提速降费的新政，通过一些列组合拳持续推进提速降费。",
-              "score": 75.0,
-              "role": "行业媒体",
+              "title": "工业和信息化部等五部门组织开展2026年度国家绿色算力设施推荐工作",
+              "url": "https://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_cbd9a41d5f834b9a928205c30766f028.html",
+              "source": "工信部要闻",
+              "summary": "",
+              "score": 90.0,
+              "role": "媒体",
               "published_at": null
             },
             {
-              "title": "中国电信六大新举措持续推进提速降费",
-              "url": "http://www.c114.net/news/117/a997412.html",
-              "source": "C114中国通信网_要闻精选",
-              "summary": "今天上午，国务院新闻办公室举办国务院政策吹风会。根据会议的内容显示，2017年10月1日起，三大运营商将全部取消手机国内长途和漫游费。此外，运营商还需要进一步提速降费。作为三大运营商之一的中国电信响应国家号召，2017年中国电信推出六大新举措，持续推进提速降费。",
-              "score": 75.0,
-              "role": "行业媒体",
-              "published_at": null
-            },
-            {
-              "title": "MWC 2017之无线篇：设备商5G竞赛正式打响",
-              "url": "http://www.c114.net/news/16/a996704.html",
-              "source": "C114中国通信网_要闻精选",
-              "summary": "在近日于西班牙巴塞罗那举行2017世界移动大会(Mobile World Congress，MWC 2017)上，5G无疑是本次展会的最大亮点之一。在此期间，各5G研发组织、运营商、设备商、学术界以及合作伙伴等产业链各方在5G研发方面的最新进展备受业界关注。其中，移动通信设备商纷纷选择在大会期间发布重磅新品和解决方案，以期在5G竞赛中占得先机。",
-              "score": 75.0,
-              "role": "行业媒体",
-              "published_at": null
-            },
-            {
-              "title": "华为汪涛：把NPO“种”进超节点，加速大模型向十万亿参数规模迈进",
-              "url": "https://www.c114.com.cn/news/126/a1318027.html",
-              "source": "C114中国通信网_设备商",
-              "summary": "超节点是华为交给这个时代的答案，昇腾960超节点则是这份答案中最新、也最有分量的一笔。",
-              "score": 75.0,
-              "role": "行业媒体",
+              "title": "辽宁通信管理局召开通信行业发展“十五五”规划终审会议擘画未来五年发展蓝图",
+              "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_472c83c75f8e4e3797d2f59ce0712f6c.html",
+              "source": "工信部要闻",
+              "summary": "",
+              "score": 90.0,
+              "role": "媒体",
               "published_at": null
             },
             {
@@ -4512,7 +4503,25 @@
               "url": "https://www.c114.com.cn/news/550/a1304689.html",
               "source": "C114中国通信网_监管",
               "summary": "为深入贯彻落实党中央、国务院决策部署，加快形成全国算力资源一本账，全面提升我国算力资源管理效能，工业和信息化部办公厅近日印发《关于全面开展算力态势感知自动化监测工作的通知》（以下简称《通知》）。",
-              "score": 72.5,
+              "score": 85.0,
+              "role": "行业媒体",
+              "published_at": null
+            },
+            {
+              "title": "工信部：2027年基本建成全域覆盖、高效畅通的城域毫秒级算力网络体系",
+              "url": "https://www.c114.com.cn/news/550/a1298868.html",
+              "source": "C114中国通信网_监管",
+              "summary": "颜翊）为落实《算力基础设施高质量发展行动计划》要求，提升算力高效运载能力，切实推动算网融合发展，现组织开展城域“毫秒用算”专项行动，工业和信息化部办公厅近日正式印发《关于开展城域“毫秒用算”专项行动的通知》，在全国范围内梯次推进毫秒用算网络建设，明确到2027年基本形成全域覆盖、高效畅通的城域毫秒用算网络能力体系。",
+              "score": 85.0,
+              "role": "行业媒体",
+              "published_at": null
+            },
+            {
+              "title": "工信部等七部门：按需布局算力基础设施 加速算力与行业融合应用",
+              "url": "https://www.c114.com.cn/news/550/a1298426.html",
+              "source": "C114中国通信网_监管",
+              "summary": "方案还强调夯实服务型制造发展底座，要求深化“5G+工业互联网”融合创新和规模化应用，按需布局算力基础设施，加速算力与行业融合应用。提升工业数据要素供给，推动数据资源化、资产化和要素化，建设一批高质量行业数据集。",
+              "score": 85.0,
               "role": "行业媒体",
               "published_at": null
             }
@@ -4531,6 +4540,51 @@
               "published_at": null
             },
             {
+              "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
+              "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6aff1cc2d094936aaca2f131389d3f8.html",
+              "source": "工信部要闻",
+              "summary": "",
+              "score": 90.0,
+              "role": "媒体",
+              "published_at": null
+            },
+            {
+              "title": "工业和信息化部召开部分省份工业经济运行座谈会",
+              "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_ab5c2644b3134b74b1d1267af2198bc4.html",
+              "source": "工信部要闻",
+              "summary": "",
+              "score": 90.0,
+              "role": "媒体",
+              "published_at": null
+            },
+            {
+              "title": "工业和信息化部等十部门关于印发《医药工业发展“十五五”规划》的通知",
+              "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9463adac4db040159f6cbf482675eeea.html",
+              "source": "工信部要闻",
+              "summary": "",
+              "score": 90.0,
+              "role": "媒体",
+              "published_at": null
+            },
+            {
+              "title": "两部门关于印发《电子信息制造业发展“十五五”规划》的通知",
+              "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_f4864217588b44c489d58da20de766c8.html",
+              "source": "工信部要闻",
+              "summary": "",
+              "score": 90.0,
+              "role": "媒体",
+              "published_at": null
+            },
+            {
+              "title": "工业和信息化部介绍全力抓好“十五五”规划实施、加快推进新型工业化有关情况",
+              "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_934ddb14d33e4cd5b787d88a15c5c0eb.html",
+              "source": "工信部要闻",
+              "summary": "",
+              "score": 90.0,
+              "role": "媒体",
+              "published_at": null
+            },
+            {
               "title": "华为全联接大会2026 | 鲲鹏 为更先进的数智世界而计算",
               "url": "https://www.c114.com.cn/news/126/a1317961.html",
               "source": "C114中国通信网_设备商",
@@ -4540,58 +4594,13 @@
               "published_at": null
             },
             {
-              "title": "面向超节点+集群，华为多维探索Agentic计算",
-              "url": "https://www.c114.com.cn/news/126/a1318036.html",
-              "source": "C114中国通信网_设备商",
-              "summary": "在华为全联接大会2026期间，华为计算首席战略官朱照生发表主题演讲，介绍鲲鹏、昇腾生态最新进展，面向“超节点+集群”提出Agentic计算新开发方式，为社区开发者上线万卡算力集群，助力伙伴和开发者加速创新落地，共建全球AI新生态。",
-              "score": 75.0,
+              "title": "工信部等四部门：到2035年，全面建成新型互联网基础设施",
+              "url": "https://www.c114.com.cn/news/550/a1313800.html",
+              "source": "C114中国通信网_监管",
+              "summary": "贯彻落实党中央、国务院决策部署，为推动我国互联网基础资源高质量发展，塑造互联网发展新动能新优势，工业和信息化部、中央网信办、国家发展改革委、国家数据局等四部门近日联合印发《关于推动互联网基础资源高质量发展的指导意见》。",
+              "score": 85.0,
               "role": "行业媒体",
               "published_at": null
-            },
-            {
-              "title": "蓝盾光电H1持续亏损，环境监测收入缩水，欲跨界“追光”谋突围",
-              "url": "https://optics.ofweek.com/2026-09/ART-250003-12003-30704100.html",
-              "source": "OFweek 光电频道",
-              "summary": "",
-              "score": 75.0,
-              "role": "行业媒体",
-              "published_at": "2026-09"
-            },
-            {
-              "title": "董秘圈“迪丽热巴”空降！欧菲光再次引发关注",
-              "url": "https://optics.ofweek.com/2026-09/ART-250003-12002-30703937.html",
-              "source": "OFweek 光电频道",
-              "summary": "",
-              "score": 75.0,
-              "role": "行业媒体",
-              "published_at": "2026-09"
-            },
-            {
-              "title": "后GoPro时代: 智能影像三国杀变二人转",
-              "url": "https://optics.ofweek.com/2026-09/ART-250003-8420-30703857.html",
-              "source": "OFweek 光电频道",
-              "summary": "",
-              "score": 75.0,
-              "role": "行业媒体",
-              "published_at": "2026-09"
-            },
-            {
-              "title": "影石，正站在新估值的起点",
-              "url": "https://optics.ofweek.com/2026-09/ART-250003-8420-30703473.html",
-              "source": "OFweek 光电频道",
-              "summary": "",
-              "score": 75.0,
-              "role": "行业媒体",
-              "published_at": "2026-09"
-            },
-            {
-              "title": "人事变动！乾照光电董事辞职",
-              "url": "https://optics.ofweek.com/2026-09/ART-8100-2500-30703265.html",
-              "source": "OFweek 光电频道",
-              "summary": "",
-              "score": 75.0,
-              "role": "行业媒体",
-              "published_at": "2026-09"
             }
           ]
         }

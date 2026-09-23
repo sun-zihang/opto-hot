@@ -1,68 +1,119 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T09:10:22.063639+00:00",
+  "generatedAt": "2026-09-23T09:11:25.348835+00:00",
   "count": 10,
   "items": [
     {
-      "id": "f81bc7aff046",
-      "title": "All-optical spin-selective control and shaping of frequency conversion pathways",
+      "id": "596551be777e",
+      "title": "Resonant multi-harmonic acousto-optics for programmable frequency control of visible light in a CMOS platform",
       "status": "发酵中",
-      "heat": 81.7,
+      "heat": 82.3,
       "sourceCount": 4,
-      "signalCount": 24,
-      "latestAt": "2026-09-22T09:10:22.063639+00:00",
+      "signalCount": 22,
+      "latestAt": "2026-09-23T09:11:25.348835+00:00",
       "sources": [
-        "EDN 电子工程专辑",
+        "LEDinside 英文",
         "Nature Photonics",
         "Phys.org 物理新闻",
         "arXiv 光学与光子学 (physics.optics)"
       ],
       "links": [
         {
-          "title": "All-optical spin-selective control and shaping of frequency conversion pathways",
-          "url": "https://arxiv.org/abs/2609.22530",
+          "title": "Resonant multi-harmonic acousto-optics for programmable frequency control of visible light in a CMOS platform",
+          "url": "https://arxiv.org/abs/2609.25593",
           "source": "arXiv 光学与光子学 (physics.optics)",
           "score": 89.8,
-          "published_at": "2026-09-22T04:00:00+00:00"
+          "published_at": "2026-09-23T04:00:00+00:00"
         },
         {
-          "title": "Ultrafast light-sheet optical tweezers for in situ parallelized biomechanical characterization of cells and soft tissues",
-          "url": "https://arxiv.org/abs/2609.22540",
+          "title": "Photonic half-semimetals with dual semimetal-insulator topology",
+          "url": "https://arxiv.org/abs/2609.25596",
           "source": "arXiv 光学与光子学 (physics.optics)",
           "score": 89.8,
-          "published_at": "2026-09-22T04:00:00+00:00"
+          "published_at": "2026-09-23T04:00:00+00:00"
         },
         {
-          "title": "Cascaded Brillouin-Kerr microcombs in surface nanoscale axial photonic resonators",
-          "url": "https://arxiv.org/abs/2609.22629",
+          "title": "Intra-bandgap Bound-State Magnonics in a Photonic Crystal Waveguide",
+          "url": "https://arxiv.org/abs/2609.25744",
           "source": "arXiv 光学与光子学 (physics.optics)",
           "score": 89.8,
-          "published_at": "2026-09-22T04:00:00+00:00"
+          "published_at": "2026-09-23T04:00:00+00:00"
         },
         {
-          "title": "High-Q Magneto-Optical Microdisk Resonators Based on Monocrystalline Bismuth-substituted Yttrium Iron Garnets",
-          "url": "https://arxiv.org/abs/2609.22841",
+          "title": "Meta-Optics-Based Diffractive Learning Machine for Angle-Multiplexed Multi-Task Processing",
+          "url": "https://arxiv.org/abs/2609.25792",
           "source": "arXiv 光学与光子学 (physics.optics)",
           "score": 89.8,
-          "published_at": "2026-09-22T04:00:00+00:00"
+          "published_at": "2026-09-23T04:00:00+00:00"
         },
         {
-          "title": "$f$-2$f$ self-referencing for silicon nitride photonics via a heterogeneously integrated lithium niobate layer",
-          "url": "https://arxiv.org/abs/2609.23328",
+          "title": "Optical-Memory Transport Imaging: Extension to Stochastic Diffusion",
+          "url": "https://arxiv.org/abs/2609.25946",
           "source": "arXiv 光学与光子学 (physics.optics)",
           "score": 89.8,
-          "published_at": "2026-09-22T04:00:00+00:00"
+          "published_at": "2026-09-23T04:00:00+00:00"
         }
       ]
     },
     {
-      "id": "d11015a6e839",
+      "id": "09b0c244cdfc",
+      "title": "工信部对我国网络强国建设提出四点建议",
+      "status": "发酵中",
+      "heat": 77.5,
+      "sourceCount": 3,
+      "signalCount": 21,
+      "latestAt": "2026-09-23T09:11:25.348835+00:00",
+      "sources": [
+        "C114中国通信网_监管",
+        "C114中国通信网_要闻精选",
+        "工信部要闻"
+      ],
+      "links": [
+        {
+          "title": "工信部对我国网络强国建设提出四点建议",
+          "url": "http://www.c114.net/news/16/a997101.html",
+          "source": "C114中国通信网_要闻精选",
+          "score": 95.0,
+          "published_at": null
+        },
+        {
+          "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
+          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6aff1cc2d094936aaca2f131389d3f8.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
+        },
+        {
+          "title": "工业和信息化部召开部分省份工业经济运行座谈会",
+          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_ab5c2644b3134b74b1d1267af2198bc4.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
+        },
+        {
+          "title": "三部门关于印发《轻工纺织产业发展“十五五”规划》的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9fb9b35709f941d4805d064092032bd0.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
+        },
+        {
+          "title": "工业和信息化部等五部门关于组织开展2026年度国家绿色算力设施推荐工作的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_37e463f44fbd44ed9b0fdf4833c3aacd.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "id": "adec33366f89",
       "title": "长光华芯上半年营收3.91亿元 同比增长82.67%",
       "status": "发酵中",
-      "heat": 74.8,
+      "heat": 73.8,
       "sourceCount": 3,
-      "signalCount": 15,
-      "latestAt": "2026-09-22T09:10:22.063639+00:00",
+      "signalCount": 16,
+      "latestAt": "2026-09-23T09:11:25.348835+00:00",
       "sources": [
         "C114中国通信网_通信财经",
         "COEMA 中国光电子行业协会",
@@ -107,17 +158,17 @@
       ]
     },
     {
-      "id": "aceb1071f7b1",
+      "id": "d62b9f30d0ad",
       "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
       "status": "发酵中",
       "heat": 53.0,
       "sourceCount": 3,
       "signalCount": 3,
-      "latestAt": "2026-09-22T09:10:22.063639+00:00",
+      "latestAt": "2026-09-23T09:11:25.348835+00:00",
       "sources": [
         "OFweek 激光频道",
-        "搜狗微信·光电行业 · 汽车之家",
-        "搜狗微信·光电行业 · 雾遮霞"
+        "搜狗微信·光电行业 · 有车以后",
+        "搜狗微信·光电行业 · 科创价值拆解"
       ],
       "links": [
         {
@@ -128,68 +179,18 @@
           "published_at": "2026-08"
         },
         {
-          "title": "问界M6、智界V9亮相:896线激光雷达成为全系标配",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9vj77TvILLLvwqmcsOLUnXV01xQBzoMolqXa8Fplpd9p-yTJKvanTYXq-A2d1WJon-F3BrA33Z7ZdyHPpb3D2JGP95PV17S5HgAq8A4S13ypMzXxNnHwnYbyCtuNv9H8Bbd6YUnLo-i_sUkPlRUqRyoEjc4c-Ul_KyjS9Ehr_RdsMZ7tmSnUUvqTFa1y2BvqTiZ3YwyIRv0VdrIQXVMVrKfxjh3za6jWA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=615C3A3AB4E866D3C7C19AC87EE720C7C7967CB86AB245DE",
-          "source": "搜狗微信·光电行业 · 雾遮霞",
-          "score": 72.3,
-          "published_at": "2026-09-22T04:25:44+00:00"
-        },
-        {
-          "title": "896线激光雷达,17.2英寸双联屏,流光环抱式座舱,买新车的看看这辆!",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9vj77TvILLLvwqmcsOLUnXV01xQBzoMolqXa8Fplpd9Mg5Uv-M28TsZPpnIvoOG3dmRqk8p8DSeK4DH1a7CrVPoCr1KWwTVVJvhmu3DLnbPFzBK0Y8YM-IxvMJ4Y8jsNpAnq0omlnete4OPNw0hX1ZDoE-3uGtlbCNyrnVVKwhjauyjMJ2lChn5cPnR_SH_T4eWkOikx5c_KDS6nICwgF3wdVqCwyPdzA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=615C3A3AB4E866D3C7C19AC87EE720C7C7967CB86AB245DE",
-          "source": "搜狗微信·光电行业 · 汽车之家",
-          "score": 72.2,
-          "published_at": "2026-09-22T00:00:32+00:00"
-        }
-      ]
-    },
-    {
-      "id": "d7b47cd923b8",
-      "title": "工信部对我国网络强国建设提出四点建议",
-      "status": "关注中",
-      "heat": 52.5,
-      "sourceCount": 2,
-      "signalCount": 5,
-      "latestAt": "2026-09-22T09:10:22.063639+00:00",
-      "sources": [
-        "C114中国通信网_监管",
-        "C114中国通信网_要闻精选"
-      ],
-      "links": [
-        {
-          "title": "工信部对我国网络强国建设提出四点建议",
-          "url": "http://www.c114.net/news/16/a997101.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 82.5,
-          "published_at": null
-        },
-        {
-          "title": "工信部等四部门：到2035年，全面建成新型互联网基础设施",
-          "url": "https://www.c114.com.cn/news/550/a1313800.html",
-          "source": "C114中国通信网_监管",
+          "title": "拆解NO.005 期|禾赛科技:把激光雷达打到白菜价,反而开始赚钱了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwYJ_SHIvEVoqnR9qhXthRNHRZg5uTp1VlqXa8Fplpd98nSCTvMdjJdslK2Uq7v9T1Zrh2NQP0EoVxkrZdCD5GWuvWxmkEbxf19BHzS_DM9AJKb7Ud_wQRUPAOA9cG0pGpPc2QmU25877VdDrouqB-aCHfaONLwRD4uhXxbnNJNpi3M-v2v2dFG8DjvEipKX26VhvtsXZErEulhvRls4hN32CsG6-xMgzQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=693829BF1E32A7064B4A17699776B8F44C1874706AB397B7",
+          "source": "搜狗微信·光电行业 · 科创价值拆解",
           "score": 72.5,
-          "published_at": null
+          "published_at": "2026-09-23T08:50:42+00:00"
         },
         {
-          "title": "工信部全面开展算力态势感知自动化监测工作",
-          "url": "https://www.c114.com.cn/news/550/a1304689.html",
-          "source": "C114中国通信网_监管",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "工信部：2027年基本建成全域覆盖、高效畅通的城域毫秒级算力网络体系",
-          "url": "https://www.c114.com.cn/news/550/a1298868.html",
-          "source": "C114中国通信网_监管",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "工信部等七部门：按需布局算力基础设施 加速算力与行业融合应用",
-          "url": "https://www.c114.com.cn/news/550/a1298426.html",
-          "source": "C114中国通信网_监管",
-          "score": 72.5,
-          "published_at": null
+          "title": "12万的合资激光雷达家轿,我帮你选好了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwYJ_SHIvEVoqnR9qhXthRNHRZg5uTp1VlqXa8Fplpd9x75WMtD7eJsPg-GvYuOpifgXczXitCP90cE-aCf1ayX-T_81XoPJJhZPnH09QTomHFae6ZIr2BkSFvWl0IaVxonLv5rWDKmXPeHRIM_9y_Cr-ONSmD0d-oq0m3SwZMMgPsyvVXFqKOZ0LqcA5fZu9Qqb9zx1tgGnw4gcK7j0aU5r1dbZWbKUeQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=693829BF1E32A7064B4A17699776B8F44C1874706AB397B7",
+          "source": "搜狗微信·光电行业 · 有车以后",
+          "score": 71.9,
+          "published_at": "2026-09-22T14:44:51+00:00"
         }
       ]
     },
@@ -200,7 +201,7 @@
       "heat": 48.5,
       "sourceCount": 1,
       "signalCount": 6,
-      "latestAt": "2026-09-22T09:10:22.063639+00:00",
+      "latestAt": "2026-09-23T09:11:25.348835+00:00",
       "sources": [
         "C114中国通信网_设备商"
       ],
@@ -243,42 +244,13 @@
       ]
     },
     {
-      "id": "dab5df4ed6a7",
-      "title": "Real-Time Doppler-Frequency Measurement and Frequency-Pulling Suppression in Arm-locking",
-      "status": "关注中",
-      "heat": 42.0,
-      "sourceCount": 2,
-      "signalCount": 2,
-      "latestAt": "2026-09-22T09:10:22.063639+00:00",
-      "sources": [
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "links": [
-        {
-          "title": "Real-Time Doppler-Frequency Measurement and Frequency-Pulling Suppression in Arm-locking",
-          "url": "https://arxiv.org/abs/2609.24686",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 69.8,
-          "published_at": "2026-09-22T04:00:00+00:00"
-        },
-        {
-          "title": "Real-time quantum jump in sound observed for first time",
-          "url": "https://phys.org/news/2026-09-real-quantum.html",
-          "source": "Phys.org 物理新闻",
-          "score": 60.0,
-          "published_at": null
-        }
-      ]
-    },
-    {
       "id": "f3596e90ef88",
       "title": "宇树科技计划登陆科创板 中国移动已投资",
       "status": "关注中",
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-09-22T09:10:22.063639+00:00",
+      "latestAt": "2026-09-23T09:11:25.348835+00:00",
       "sources": [
         "C114中国通信网_IT资讯",
         "COEMA 中国光电子行业协会"
@@ -301,44 +273,89 @@
       ]
     },
     {
-      "id": "b802a9e29ffc",
-      "title": "Non-Hermitian photonic time quasicrystal",
+      "id": "b4ee382fcd64",
+      "title": "魔飞光电完成B轮融资，加速光波导与CPO技术布局",
       "status": "关注中",
-      "heat": 41.5,
-      "sourceCount": 1,
-      "signalCount": 4,
-      "latestAt": "2026-09-22T09:10:22.063639+00:00",
+      "heat": 42.0,
+      "sourceCount": 2,
+      "signalCount": 2,
+      "latestAt": "2026-09-23T09:11:25.348835+00:00",
       "sources": [
-        "arXiv 光学与光子学 (physics.optics)"
+        "COEMA 中国光电子行业协会",
+        "LEDinside 中文"
       ],
       "links": [
         {
-          "title": "Non-Hermitian photonic time quasicrystal",
-          "url": "https://arxiv.org/abs/2609.24327",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 74.8,
-          "published_at": "2026-09-22T04:00:00+00:00"
+          "title": "魔飞光电完成B轮融资，加速光波导与CPO技术布局",
+          "url": "https://www.ledinside.cn/news/20260923-62625.html",
+          "source": "LEDinside 中文",
+          "score": 74.7,
+          "published_at": "2026-09-23"
         },
         {
-          "title": "Replica Symmetry Breaking in the Quasi Mode Locked Regime of Titanium Sapphire Lasers",
-          "url": "https://arxiv.org/abs/2609.24643",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 74.8,
-          "published_at": "2026-09-22T04:00:00+00:00"
+          "title": "国科光芯完成数亿元B＋轮融资！",
+          "url": "https://www.coema.org.cn/industry/202609/5827.html",
+          "source": "COEMA 中国光电子行业协会",
+          "score": 70.0,
+          "published_at": "2026-09"
+        }
+      ]
+    },
+    {
+      "id": "ff7091df48bc",
+      "title": "最近的光模块,在交易什么?",
+      "status": "关注中",
+      "heat": 42.0,
+      "sourceCount": 2,
+      "signalCount": 2,
+      "latestAt": "2026-09-23T09:11:25.348835+00:00",
+      "sources": [
+        "搜狗微信·光电行业 · 大盘纪要",
+        "搜狗微信·光电行业 · 阿拉丁资产"
+      ],
+      "links": [
+        {
+          "title": "最近的光模块,在交易什么?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwYJ_SHIvEVoMmaKL4xetgJHRZg5uTp1VlqXa8Fplpd9ooTTiC3TO0AkPvTWEJYwwp50F6-Eu7x6Z_f0vaX-4CjMq-2CaG-bG57dErAe_OKhmBAlxQW4xxg_khpwwqwKXtfi6Xk4jI2VJ5AJoedJ7z15WZBklvrTuD_8zcB8FmFqq0hL2x8EmlJDyjyMHcQ8fuwsmkyszDAyKizsOf1SNwrYl_Q5RRZQjg..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=693817411E32A7064B4A17699776B8F44C1874706AB397B4",
+          "source": "搜狗微信·光电行业 · 大盘纪要",
+          "score": 69.8,
+          "published_at": "2026-09-23T03:49:19+00:00"
         },
         {
-          "title": "Observation of Replica Symmetry Breaking in Filamentation and Multifilamentation",
-          "url": "https://arxiv.org/abs/2609.24712",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 74.8,
-          "published_at": "2026-09-22T04:00:00+00:00"
+          "title": "光模块独角兽,刚刚IPO了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwYJ_SHIvEVoMmaKL4xetgJHRZg5uTp1VlqXa8Fplpd98YRgoipC1RIoXNh_DUaVfavdOixEqbnhlEk_QEj1lo029VCbx25x_ZCuPzNslQA-7mdVqsqQhp6kagUKIItsFJM_B1y63Nw0qg8fY98wXQhYsjgmYZr83aa67InZRzq_xsy9Vw2v3KhjGWOo93tPFQ7Gg4V3p62fDTsEEsOjcQgHpHkoPMgL3A..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=693817411E32A7064B4A17699776B8F44C1874706AB397B4",
+          "source": "搜狗微信·光电行业 · 阿拉丁资产",
+          "score": 69.7,
+          "published_at": "2026-09-22T23:31:18+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6de86b056fcb",
+      "title": "《激光雷达、EVA机器人、爆胎稳行系统等多项技术燃油车首发!星瑞L PLUS 预售限时售价11.57万元起,重塑燃油轿车价值新标杆》",
+      "status": "关注中",
+      "heat": 42.0,
+      "sourceCount": 2,
+      "signalCount": 2,
+      "latestAt": "2026-09-23T09:11:25.348835+00:00",
+      "sources": [
+        "搜狗微信·光电行业 · Y车评",
+        "搜狗微信·光电行业 · 临沂天立吉利4S店"
+      ],
+      "links": [
+        {
+          "title": "《激光雷达、EVA机器人、爆胎稳行系统等多项技术燃油车首发!星瑞L PLUS 预售限时售价11.57万元起,重塑燃油轿车价值新标杆》",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwYJ_SHIvEVoqnR9qhXthRNHRZg5uTp1VlqXa8Fplpd9Rs57xv3f9lLSVh0WuCmkQBbH6eiHg7bYs1IFaeBA6jVP7PFX3xeds4dwSVf6_hyymwuUd-DLHMSZCqtUuxxe8Lpbeup_S8QM1tWCAGYGOAwa-3wTpCQ_6MjbaU4umdpuUwu5VU2lJrCOtLSdst2bvER-t4kqvAzgljf9lq_dso15Nu7CnoSqqg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=693829BF1E32A7064B4A17699776B8F44C1874706AB397B7",
+          "source": "搜狗微信·光电行业 · 临沂天立吉利4S店",
+          "score": 70.0,
+          "published_at": "2026-09-23T09:01:52+00:00"
         },
         {
-          "title": "Non-Hermitian mode locking in an L-band monolithic InP dual-ring laser",
-          "url": "https://arxiv.org/abs/2609.24798",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 74.8,
-          "published_at": "2026-09-22T04:00:00+00:00"
+          "title": "视频 | 燃油车也能智能化 带激光雷达的星瑞L PLUS来了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwYJ_SHIvEVoqnR9qhXthRNHRZg5uTp1VlqXa8Fplpd9gVtdvWk3naVYCcSsrRU7CA4M2tZGqeunB_DggHUeS6OvlDWrdR_5V7TYrmpdvKGyJJj2LlWbK7kHToouO3-yqkCFvbnYXmZHvD3Bv7bR5gJSfZzdN6REV9o3mdicv6PvXY8uo6_SIG1b91zdqfLC5eaNLWKp67Ryvz6_nLr8UU55Nu7CnoSqqg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=693829BF1E32A7064B4A17699776B8F44C1874706AB397B7",
+          "source": "搜狗微信·光电行业 · Y车评",
+          "score": 69.7,
+          "published_at": "2026-09-23T00:14:29+00:00"
         }
       ]
     },
@@ -349,7 +366,7 @@
       "heat": 38.0,
       "sourceCount": 1,
       "signalCount": 3,
-      "latestAt": "2026-09-22T09:10:22.063639+00:00",
+      "latestAt": "2026-09-23T09:11:25.348835+00:00",
       "sources": [
         "C114中国通信网_要闻精选"
       ],
@@ -373,41 +390,6 @@
           "url": "http://www.c114.net/topic/5096/a996887.html",
           "source": "C114中国通信网_要闻精选",
           "score": 77.5,
-          "published_at": null
-        }
-      ]
-    },
-    {
-      "id": "79ca1f2a334a",
-      "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
-      "status": "关注中",
-      "heat": 38.0,
-      "sourceCount": 1,
-      "signalCount": 3,
-      "latestAt": "2026-09-22T09:10:22.063639+00:00",
-      "sources": [
-        "C114中国通信网_IT资讯"
-      ],
-      "links": [
-        {
-          "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
-          "url": "https://www.c114.com.cn/news/213/a1282089.html",
-          "source": "C114中国通信网_IT资讯",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "苹果税惹麻烦：苹果在英国面临15亿英镑集体诉讼",
-          "url": "https://www.c114.com.cn/news/213/a1281942.html",
-          "source": "C114中国通信网_IT资讯",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "苹果公司在英面临15亿英镑司法索赔，被指在App Store收费“过高且不公平”",
-          "url": "https://www.c114.com.cn/news/213/a1281915.html",
-          "source": "C114中国通信网_IT资讯",
-          "score": 72.5,
           "published_at": null
         }
       ]
