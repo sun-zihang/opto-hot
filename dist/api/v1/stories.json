@@ -1,78 +1,77 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T09:29:45.289437+00:00",
+  "generatedAt": "2026-09-26T09:17:45.148049+00:00",
   "count": 10,
   "items": [
     {
-      "id": "8deee95d062d",
+      "id": "fb58bb80b83d",
       "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
       "status": "爆",
-      "heat": 93.0,
-      "sourceCount": 8,
-      "signalCount": 8,
-      "latestAt": "2026-09-25T09:29:45.289437+00:00",
+      "heat": 96.5,
+      "sourceCount": 9,
+      "signalCount": 9,
+      "latestAt": "2026-09-26T09:17:45.148049+00:00",
       "sources": [
         "OFweek 激光频道",
-        "搜狗微信·光电行业 · Carson的收藏馆",
-        "搜狗微信·光电行业 · My车轱辘",
-        "搜狗微信·光电行业 · 即刻出行",
+        "搜狗微信·光电行业 · 30秒懂车",
+        "搜狗微信·光电行业 · 夯哥聊数码",
+        "搜狗微信·光电行业 · 安兔兔",
         "搜狗微信·光电行业 · 小久的世界旅行",
-        "搜狗微信·光电行业 · 微路况",
-        "搜狗微信·光电行业 · 晗旭2019",
-        "搜狗微信·光电行业 · 木子李文利"
+        "搜狗微信·光电行业 · 懂车",
+        "搜狗微信·光电行业 · 易车",
+        "搜狗微信·光电行业 · 禾观木",
+        "搜狗微信·光电行业 · 车解读"
       ],
       "links": [
         {
           "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
           "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
           "source": "OFweek 激光频道",
-          "score": 95.0,
+          "score": 97.5,
           "published_at": "2026-08"
         },
         {
-          "title": "领克20凭啥还没上市就火?全系标配激光雷达,这配置谁顶得住?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1LY10C-oMS6bx0clIpzMP9ApsW7stYn6VqXa8Fplpd9Q1m0kyQI78nkPuXMscBVvNhMjhNfl0ut3OEkO8pLi2qUd6w7y8mS9tv95lz9jjMzxXXJ9jMcPJ6DirHeaRxGuYPOwJxE1AqAix8--EdjoMTZgCbbphL7xU19f-sFAa1UBC-RPNZVsyHVGgRUOzY5qZzxDBatt1uts35xjx48wIHyPfCoem7FzA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=7957EDB95165191BB7BEE4FCE105B020B8D4C6926AB63F02",
+          "title": "15万买合资SUV带激光雷达?马自达这次不拼花哨,专治怕新势力翻车的家庭",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxsg8x0VxdwXoyl0hma-q3JPy1gcYDD8IFqXa8Fplpd9HAXgvqxp5p-DEIEp-C-lcYo1WWfteys43xVDBmJqlWKzk1XK3zAKpbClsG4tKuUbW4aHyw889z3Yx5cGQG2KPKwqMgLcCcBrZJSsL88VdAPcas6QwqauKCKCAg_Wj0aMhLQSsqMCJH5Uvk1gh2r59xGxh9YPlQGLczVzB47qAgrm0CtGSSkZQQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=81202EABCA1DFDE87A7C252635189E727A100C7A6AB78DB2",
+          "source": "搜狗微信·光电行业 · 禾观木",
+          "score": 87.5,
+          "published_at": "2026-09-26T08:50:33+00:00"
+        },
+        {
+          "title": "10.99万起,增加激光雷达,纯电续航最高625km,中大型车,日产新N7上市!",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxsg8x0VxdwXoyl0hma-q3JPy1gcYDD8IFqXa8Fplpd9fzeD-EmmPtqMK6Zz8AwVHk7x1EcZthJQGR0gTjIFvUwblZjcZF2FecEuNRO2gl3JA0oC8UyzxH6GTO7sktbVG2g_yFHYFarttl-5VllIHl09y1IPZyhOzf6TLNLV_vl_BmgX8480IWFdBA88SMAQAaFrPkn1KsZrMzQzwKZ8h2XFcvUoAZZH7Q..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=81202EABCA1DFDE87A7C252635189E727A100C7A6AB78DB2",
+          "source": "搜狗微信·光电行业 · 易车",
+          "score": 87.4,
+          "published_at": "2026-09-26T07:04:00+00:00"
+        },
+        {
+          "title": "合资车终于不摆烂了?马自达把激光雷达砸到15万,新势力还咋卖?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxsg8x0VxdwXoyl0hma-q3JPy1gcYDD8IFqXa8Fplpd9HLhFKpysbjjFRdO5pzyy2t-PWwczF0dtPd5xO7zgE5Jp9xbJM02mWbfe9q2g1rNOJWbztXr4BB5b307vEZ2sHRg_bY1r1q0UBek-gEYA12lOgsYP9Bsrd9tYoMvnuG3O_RR3mwubLd7q1XLAGXD0LzGIxwdW53r7G0btUs8dwrGE8RsmObDbtQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=81202EABCA1DFDE87A7C252635189E727A100C7A6AB78DB2",
           "source": "搜狗微信·光电行业 · 小久的世界旅行",
-          "score": 85.0,
-          "published_at": "2026-09-25T09:29:10+00:00"
+          "score": 87.4,
+          "published_at": "2026-09-26T07:47:55+00:00"
         },
         {
-          "title": "小米这车20万出头就配激光雷达?别光图便宜,小心成了智驾小白鼠",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1LY10C-oMS6bx0clIpzMP9ApsW7stYn6VqXa8Fplpd99I0k1czo2NCzj49rp5oEXcLDfl6pQ7C31hlFN6JPu5wSoaik9vEP-iqNo5_voTBoB4wJiCotsVGfvWqVafLQcmgDR8q4lffJxN8rVoOTL7QtPISaF16pjiJWhEtEIi5iGBurRiovYkWjCrZc1jdEPGas6KIbiDMLQhDkPyPpZLvs46dn8Efgxg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=7957EDB95165191BB7BEE4FCE105B020B8D4C6926AB63F02",
-          "source": "搜狗微信·光电行业 · 木子李文利",
-          "score": 85.0,
-          "published_at": "2026-09-25T09:07:33+00:00"
-        },
-        {
-          "title": "9.99万起配激光雷达!新款吉利博越L上市!",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1LY10C-oMS6bx0clIpzMP9ApsW7stYn6VqXa8Fplpd9YeCIkXkuvOuXuxV1NEF_eoGGHFnsuv1DnAQZfihq1v1Eoui-OWqYojrLVsfQ-9LGY04cbjkYammdIteyA1t6L8ivCVoeH76zWGtynpTiz-pPP1-2_HM9SSobSwT44VWVbpxZDAT8ZZzRd2SHvHb8-QvIC9-nk_cakulr9_6sTNOE8RsmObDbtQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=7957EDB95165191BB7BEE4FCE105B020B8D4C6926AB63F02",
-          "source": "搜狗微信·光电行业 · 晗旭2019",
-          "score": 85.0,
-          "published_at": "2026-09-25T08:50:19+00:00"
-        },
-        {
-          "title": "激光雷达+千里浩瀚H5辅助驾驶方案,9.29万起!全新第四代博越L正式上市",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1LY10C-oMS6bx0clIpzMP9ApsW7stYn6VqXa8Fplpd9n237Cc0TLx9ijM15qJS0JuDxZrtuYqAZLMPLTRp6KTMdmrOL7HsxVR9hxyLEwSQIKJ0Tg1Q401gFGdTRhX9Ho6ycCV9RvKF-6hQvZi1fORkprlv3Fmf6nE36DxkbonlSptk2V7HPC7fAQ1cZRdyABLP54rfWVP4yzbsHK-9tpmH2CsG6-xMgzQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=7957EDB95165191BB7BEE4FCE105B020B8D4C6926AB63F02",
-          "source": "搜狗微信·光电行业 · 即刻出行",
-          "score": 84.9,
-          "published_at": "2026-09-25T06:26:24+00:00"
+          "title": "林肯方盒子曝光,配混动+激光雷达,会卖多",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxsg8x0VxdwXoyl0hma-q3JPy1gcYDD8IFqXa8Fplpd9mvxyD3ei_M1ARG8F1yJIu2ddaVd6iaVuJy442YFkFPgNc_7XKirnYKGLN97yjEtFvirP0Io1R5_YWMC92MtAWckDjXMHm-iRI_W8mUcYHtvJNCUK-eHhc9j4PucBNnYwguAMAe6G1BSUcoarlm2uq05OnzzKcIyTI0hoKDZplv2q3X8EKMKOIA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=81202EABCA1DFDE87A7C252635189E727A100C7A6AB78DB2",
+          "source": "搜狗微信·光电行业 · 车解读",
+          "score": 87.4,
+          "published_at": "2026-09-26T07:05:33+00:00"
         }
       ]
     },
     {
-      "id": "c54735109d07",
+      "id": "d11015a6e839",
       "title": "长光华芯上半年营收3.91亿元 同比增长82.67%",
-      "status": "爆",
-      "heat": 89.0,
-      "sourceCount": 5,
-      "signalCount": 17,
-      "latestAt": "2026-09-25T09:29:45.289437+00:00",
+      "status": "发酵中",
+      "heat": 74.8,
+      "sourceCount": 3,
+      "signalCount": 15,
+      "latestAt": "2026-09-26T09:17:45.148049+00:00",
       "sources": [
         "C114中国通信网_通信财经",
         "COEMA 中国光电子行业协会",
-        "LEDinside 中文",
-        "搜狗微信·光电行业 · 万舍研社",
-        "搜狗微信·光电行业 · 逐步成为更好的自己"
+        "LEDinside 中文"
       ],
       "links": [
         {
@@ -113,78 +112,18 @@
       ]
     },
     {
-      "id": "e12a031db065",
-      "title": "Attosecond streaking of photoelectron angular momentum",
-      "status": "发酵中",
-      "heat": 80.4,
-      "sourceCount": 4,
-      "signalCount": 26,
-      "latestAt": "2026-09-25T09:29:45.289437+00:00",
-      "sources": [
-        "LEDinside 英文",
-        "Nature Photonics",
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "links": [
-        {
-          "title": "Attosecond streaking of photoelectron angular momentum",
-          "url": "https://www.nature.com/articles/s41566-026-02020-z",
-          "source": "Nature Photonics",
-          "score": 93.8,
-          "published_at": "2026-09-24T00:00:00+00:00"
-        },
-        {
-          "title": "Volumetrically continuous 3D dynamic holography via cascaded light-field propagation",
-          "url": "https://www.nature.com/articles/s41566-026-02016-9",
-          "source": "Nature Photonics",
-          "score": 93.0,
-          "published_at": "2026-09-23T00:00:00+00:00"
-        },
-        {
-          "title": "Millimetre-wave generation with 18 zs Hz<sup>−1/2</sup> timing noise floor via Kerr optical frequency division",
-          "url": "https://www.nature.com/articles/s41566-026-02014-x",
-          "source": "Nature Photonics",
-          "score": 93.0,
-          "published_at": "2026-09-23T00:00:00+00:00"
-        },
-        {
-          "title": "Breakdown of Axis Separability and Structured Inversion in Finite-Domain Normalized Position Measurements: A Quadrant Photodetector Case Study",
-          "url": "https://arxiv.org/abs/2609.29009",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-25T04:00:00+00:00"
-        },
-        {
-          "title": "Vertical microcavities with optical Kerr materials",
-          "url": "https://arxiv.org/abs/2609.29415",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-09-25T04:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "a3fe9c6f6ba6",
-      "title": "工信部对我国网络强国建设提出四点建议",
-      "status": "发酵中",
-      "heat": 77.5,
-      "sourceCount": 3,
-      "signalCount": 20,
-      "latestAt": "2026-09-25T09:29:45.289437+00:00",
+      "id": "cef9b1382018",
+      "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
+      "status": "关注中",
+      "heat": 70.0,
+      "sourceCount": 2,
+      "signalCount": 19,
+      "latestAt": "2026-09-26T09:17:45.148049+00:00",
       "sources": [
         "C114中国通信网_监管",
-        "C114中国通信网_要闻精选",
         "工信部要闻"
       ],
       "links": [
-        {
-          "title": "工信部对我国网络强国建设提出四点建议",
-          "url": "http://www.c114.net/news/16/a997101.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 95.0,
-          "published_at": null
-        },
         {
           "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
           "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6aff1cc2d094936aaca2f131389d3f8.html",
@@ -212,6 +151,64 @@
           "source": "工信部要闻",
           "score": 90.0,
           "published_at": null
+        },
+        {
+          "title": "工业和信息化部等十部门关于印发《医药工业发展“十五五”规划》的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9463adac4db040159f6cbf482675eeea.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "id": "c3d6321c3ea0",
+      "title": "Dangling-bond-free, chemically anisotropic semiconductors for ultrahigh-resolution X-ray imaging",
+      "status": "发酵中",
+      "heat": 69.8,
+      "sourceCount": 3,
+      "signalCount": 13,
+      "latestAt": "2026-09-26T09:17:45.148049+00:00",
+      "sources": [
+        "LEDinside 英文",
+        "Nature Photonics",
+        "Phys.org 物理新闻"
+      ],
+      "links": [
+        {
+          "title": "Dangling-bond-free, chemically anisotropic semiconductors for ultrahigh-resolution X-ray imaging",
+          "url": "https://www.nature.com/articles/s41566-026-02013-y",
+          "source": "Nature Photonics",
+          "score": 93.8,
+          "published_at": "2026-09-25T00:00:00+00:00"
+        },
+        {
+          "title": "Programmable photonic unitary processor enables parameterized differentiable long-haul spatial division multiplexed transmission",
+          "url": "https://www.nature.com/articles/s41566-026-01997-x",
+          "source": "Nature Photonics",
+          "score": 93.8,
+          "published_at": "2026-09-25T00:00:00+00:00"
+        },
+        {
+          "title": "Observation of multiphoton entanglement in resonance fluorescence",
+          "url": "https://www.nature.com/articles/s41566-026-02022-x",
+          "source": "Nature Photonics",
+          "score": 93.0,
+          "published_at": "2026-09-24T00:00:00+00:00"
+        },
+        {
+          "title": "Volumetrically continuous 3D dynamic holography via cascaded light-field propagation",
+          "url": "https://www.nature.com/articles/s41566-026-02016-9",
+          "source": "Nature Photonics",
+          "score": 92.2,
+          "published_at": "2026-09-23T00:00:00+00:00"
+        },
+        {
+          "title": "[News] Full-Color RGBW Microdisplays: Next Generation for Brilliant, Energy-Efficient Visualization",
+          "url": "//www.ledinside.com/news/2026/9/2026_09_24_04",
+          "source": "LEDinside 英文",
+          "score": 88.0,
+          "published_at": "2026-09-23T23:18:44+00:00"
         }
       ]
     },
@@ -222,7 +219,7 @@
       "heat": 52.5,
       "sourceCount": 2,
       "signalCount": 5,
-      "latestAt": "2026-09-25T09:29:45.289437+00:00",
+      "latestAt": "2026-09-26T09:17:45.148049+00:00",
       "sources": [
         "C114中国通信网_监管",
         "工信部要闻"
@@ -272,7 +269,7 @@
       "heat": 48.5,
       "sourceCount": 1,
       "signalCount": 6,
-      "latestAt": "2026-09-25T09:29:45.289437+00:00",
+      "latestAt": "2026-09-26T09:17:45.148049+00:00",
       "sources": [
         "C114中国通信网_设备商"
       ],
@@ -321,7 +318,7 @@
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-09-25T09:29:45.289437+00:00",
+      "latestAt": "2026-09-26T09:17:45.148049+00:00",
       "sources": [
         "C114中国通信网_IT资讯",
         "COEMA 中国光电子行业协会"
@@ -344,13 +341,48 @@
       ]
     },
     {
+      "id": "79ca1f2a334a",
+      "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
+      "status": "关注中",
+      "heat": 38.0,
+      "sourceCount": 1,
+      "signalCount": 3,
+      "latestAt": "2026-09-26T09:17:45.148049+00:00",
+      "sources": [
+        "C114中国通信网_IT资讯"
+      ],
+      "links": [
+        {
+          "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
+          "url": "https://www.c114.com.cn/news/213/a1282089.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
+          "published_at": null
+        },
+        {
+          "title": "苹果税惹麻烦：苹果在英国面临15亿英镑集体诉讼",
+          "url": "https://www.c114.com.cn/news/213/a1281942.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
+          "published_at": null
+        },
+        {
+          "title": "苹果公司在英面临15亿英镑司法索赔，被指在App Store收费“过高且不公平”",
+          "url": "https://www.c114.com.cn/news/213/a1281915.html",
+          "source": "C114中国通信网_IT资讯",
+          "score": 72.5,
+          "published_at": null
+        }
+      ]
+    },
+    {
       "id": "8ba3e22da6c9",
       "title": "Meta发布新一代AI眼镜，Ray-Ban Meta Gen 3、Audio新品亮相",
       "status": "关注中",
-      "heat": 39.0,
+      "heat": 29.0,
       "sourceCount": 2,
       "signalCount": 4,
-      "latestAt": "2026-09-25T09:29:45.289437+00:00",
+      "latestAt": "2026-09-26T09:17:45.148049+00:00",
       "sources": [
         "LEDinside 中文",
         "LEDinside 英文"
@@ -360,99 +392,72 @@
           "title": "Meta发布新一代AI眼镜，Ray-Ban Meta Gen 3、Audio新品亮相",
           "url": "https://www.ledinside.cn/news/20260924-62675.html",
           "source": "LEDinside 中文",
-          "score": 78.8,
+          "score": 78.0,
           "published_at": "2026-09-24"
         },
         {
           "title": "京东方发布全球最薄玻璃基MicroLED显示屏",
           "url": "https://www.ledinside.cn/products/20260923-62623.html",
           "source": "LEDinside 中文",
-          "score": 78.0,
+          "score": 77.2,
           "published_at": "2026-09-23"
         },
         {
           "title": "[News] New Features for Meta Ray-Ban Display",
           "url": "//www.ledinside.com/news/2026/9/2026_09_24_03",
           "source": "LEDinside 英文",
-          "score": 73.8,
+          "score": 73.0,
           "published_at": "2026-09-23T23:12:26+00:00"
         },
         {
           "title": "LG发布新一代Micro LED显示屏",
           "url": "https://www.ledinside.cn/products/20260911-62531.html",
           "source": "LEDinside 中文",
-          "score": 68.0,
+          "score": 67.2,
           "published_at": "2026-09-11"
         }
       ]
     },
     {
-      "id": "d891ec63722e",
-      "title": "Global Framework for Dynamics and Criticality of Bound States in the Continuum",
+      "id": "3c663f4234b6",
+      "title": "展商回顾 | 宽光谱CIS与半导体晶圆检测成像方案引关注，新型光电探测器赋能多行业应用",
       "status": "关注中",
-      "heat": 38.0,
-      "sourceCount": 1,
-      "signalCount": 3,
-      "latestAt": "2026-09-25T09:29:45.289437+00:00",
+      "heat": 29.0,
+      "sourceCount": 2,
+      "signalCount": 4,
+      "latestAt": "2026-09-26T09:17:45.148049+00:00",
       "sources": [
-        "arXiv 光学与光子学 (physics.optics)"
+        "CIOE 中国光博会",
+        "LEDinside 中文"
       ],
       "links": [
         {
-          "title": "Global Framework for Dynamics and Criticality of Bound States in the Continuum",
-          "url": "https://arxiv.org/abs/2609.28934",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 72.3,
-          "published_at": "2026-09-25T04:00:00+00:00"
+          "title": "展商回顾 | 宽光谱CIS与半导体晶圆检测成像方案引关注，新型光电探测器赋能多行业应用",
+          "url": "https://cioe.cn/news/3036_info.html",
+          "source": "CIOE 中国光博会",
+          "score": 77.2,
+          "published_at": "2026-09-23"
         },
         {
-          "title": "Topology of bound states in the continuum from the angular structure of leading radiation",
-          "url": "https://arxiv.org/abs/2609.29074",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 72.3,
-          "published_at": "2026-09-25T04:00:00+00:00"
+          "title": "MicroLED 开启显示与光互连双成长曲线",
+          "url": "https://www.ledinside.cn/research/20260916-62572.html",
+          "source": "LEDinside 中文",
+          "score": 71.3,
+          "published_at": "2026-09-16"
         },
         {
-          "title": "Geometric Phases and Holonomy in Structured Optical Fields",
-          "url": "https://arxiv.org/abs/2602.05427",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 72.3,
-          "published_at": "2026-09-25T04:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "40753cddc649",
-      "title": "大招齐发，英特尔直击网络转型",
-      "status": "关注中",
-      "heat": 38.0,
-      "sourceCount": 1,
-      "signalCount": 3,
-      "latestAt": "2026-09-25T09:29:45.289437+00:00",
-      "sources": [
-        "C114中国通信网_要闻精选"
-      ],
-      "links": [
-        {
-          "title": "大招齐发，英特尔直击网络转型",
-          "url": "http://www.c114.com.cn/topic/5096/a996852.html?utm_medium=C114&dclid=CLmNp8bEwdICFRwhKgodT4YHqQ",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
+          "title": "晶湛半导体MicroLED光通信技术取得新突破",
+          "url": "https://www.ledinside.cn/knowledge/20260617-61902.html",
+          "source": "LEDinside 中文",
+          "score": 55.0,
+          "published_at": "2026-06-17"
         },
         {
-          "title": "对话英特尔：产业协作与标准化助推5G成功",
-          "url": "http://www.c114.net/news/138/a996926.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
-        },
-        {
-          "title": "英特尔助力电信网络转型 让5G不再是“看上去很美”",
-          "url": "http://www.c114.net/topic/5096/a996887.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
+          "title": "光电前沿 | 从OCS到Micro LED CPO：光学与CIS的新机遇",
+          "url": "https://cioe.cn/news/2918_info.html",
+          "source": "CIOE 中国光博会",
+          "score": 55.0,
+          "published_at": "2026-07-14"
         }
       ]
     }
