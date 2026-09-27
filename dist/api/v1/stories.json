@@ -1,62 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T09:17:45.148049+00:00",
+  "generatedAt": "2026-09-27T09:58:38.206739+00:00",
   "count": 10,
   "items": [
     {
-      "id": "fb58bb80b83d",
+      "id": "8fbee45869dc",
       "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
       "status": "爆",
-      "heat": 96.5,
-      "sourceCount": 9,
-      "signalCount": 9,
-      "latestAt": "2026-09-26T09:17:45.148049+00:00",
+      "heat": 93.0,
+      "sourceCount": 8,
+      "signalCount": 8,
+      "latestAt": "2026-09-27T09:58:38.206739+00:00",
       "sources": [
         "OFweek 激光频道",
-        "搜狗微信·光电行业 · 30秒懂车",
-        "搜狗微信·光电行业 · 夯哥聊数码",
-        "搜狗微信·光电行业 · 安兔兔",
-        "搜狗微信·光电行业 · 小久的世界旅行",
-        "搜狗微信·光电行业 · 懂车",
+        "搜狗微信·光电行业 · 搞一部电影",
+        "搜狗微信·光电行业 · 数码笔记",
         "搜狗微信·光电行业 · 易车",
-        "搜狗微信·光电行业 · 禾观木",
-        "搜狗微信·光电行业 · 车解读"
+        "搜狗微信·光电行业 · 暖星小舍",
+        "搜狗微信·光电行业 · 趣味车视界",
+        "搜狗微信·光电行业 · 钟叔驾道",
+        "搜狗微信·光电行业 · 青辰遇见你"
       ],
       "links": [
         {
           "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
           "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
           "source": "OFweek 激光频道",
-          "score": 97.5,
+          "score": 95.0,
           "published_at": "2026-08"
         },
         {
-          "title": "15万买合资SUV带激光雷达?马自达这次不拼花哨,专治怕新势力翻车的家庭",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxsg8x0VxdwXoyl0hma-q3JPy1gcYDD8IFqXa8Fplpd9HAXgvqxp5p-DEIEp-C-lcYo1WWfteys43xVDBmJqlWKzk1XK3zAKpbClsG4tKuUbW4aHyw889z3Yx5cGQG2KPKwqMgLcCcBrZJSsL88VdAPcas6QwqauKCKCAg_Wj0aMhLQSsqMCJH5Uvk1gh2r59xGxh9YPlQGLczVzB47qAgrm0CtGSSkZQQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=81202EABCA1DFDE87A7C252635189E727A100C7A6AB78DB2",
-          "source": "搜狗微信·光电行业 · 禾观木",
-          "score": 87.5,
-          "published_at": "2026-09-26T08:50:33+00:00"
+          "title": "配备激光雷达“自动驾驶”的马自达CX-6e在中国上市,起售价为14.59万元",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9uWlCo90NVwAmApWUHHf3L0ux9aMAcsklqXa8Fplpd9IYd_zjmFxopMO7D4BAPhl13yc9UmAowS-a4zMEtW27kRfLSKEbTi9C-ljzKaBEwIu3Dc_ULpZU5-_R_rE7nzmq_kyl03-673azkIDAiykWVj444dyDP91L43H_L943zK9vAWoAWi4s4jCT_3sOE2-UCEMctNPaL0E-3Ww2fa5p5FH6In5Ei3zg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=898A0644D9834AB8BCBDE7CF4043002BBCA0F95C6AB8E8C9",
+          "source": "搜狗微信·光电行业 · 搞一部电影",
+          "score": 85.0,
+          "published_at": "2026-09-27T09:47:24+00:00"
         },
         {
-          "title": "10.99万起,增加激光雷达,纯电续航最高625km,中大型车,日产新N7上市!",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxsg8x0VxdwXoyl0hma-q3JPy1gcYDD8IFqXa8Fplpd9fzeD-EmmPtqMK6Zz8AwVHk7x1EcZthJQGR0gTjIFvUwblZjcZF2FecEuNRO2gl3JA0oC8UyzxH6GTO7sktbVG2g_yFHYFarttl-5VllIHl09y1IPZyhOzf6TLNLV_vl_BmgX8480IWFdBA88SMAQAaFrPkn1KsZrMzQzwKZ8h2XFcvUoAZZH7Q..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=81202EABCA1DFDE87A7C252635189E727A100C7A6AB78DB2",
+          "title": "全新马自达EZ-60迎来上市,新增激光雷达,限时售11.39万起",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9uWlCo90NVwAmApWUHHf3L0ux9aMAcsklqXa8Fplpd9URNBNHBC-suqxBB65QvjhBXvFuX6MTaWQUgiSHGbpqWPZcuDr3W-eVQw88jHhFO_ksac4W_R0vIP9WUWLyULVKweQ2JYOqhxZiBrPIPzaRnugpYrRkaMxV3W02Pw_75UQGb-Chto1yUI6sOYwrY8X858bnTGeusioOi_r1Db8Lxf_71bqkOtiw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=898A0644D9834AB8BCBDE7CF4043002BBCA0F95C6AB8E8C9",
+          "source": "搜狗微信·光电行业 · 趣味车视界",
+          "score": 85.0,
+          "published_at": "2026-09-27T08:52:58+00:00"
+        },
+        {
+          "title": "钟观 | 14.59万元起买激光雷达高阶智驾,马自达EZ-60激光版有多强?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9uWlCo90NVwAmApWUHHf3L0ux9aMAcsklqXa8Fplpd93W3GG1IOESuGZldV5Z3FkEyLgJfu2vDrXGc7Onr36cjsZqmDys3ahPGG0M5ytk5CtZTfmoyg_nm9RCWvBVYn9auGrczulV2uO8uJN7MVbU8944IISEvqY3YU9bKoxBrgWyr0n4cdXeQ1ed5fbvdBnDds6L3S33Lag3dROrW69JxFH6In5Ei3zg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=898A0644D9834AB8BCBDE7CF4043002BBCA0F95C6AB8E8C9",
+          "source": "搜狗微信·光电行业 · 钟叔驾道",
+          "score": 84.9,
+          "published_at": "2026-09-27T07:42:32+00:00"
+        },
+        {
+          "title": "9.29万起,燃油/混动双动力,标配激光雷达,紧凑型SUV,全新第四代博越L上市!",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9uWlCo90NVwAmApWUHHf3L0ux9aMAcsklqXa8Fplpd91AfFCkTzPZPH0GRnGFaAyA8LbpG_gDgVmG3aIkPDMR36mWwyfcnlp4We6yZjmRqM8y4OV_OT4ncOGDcXDrsbF4XH0J4nFujnyq9L7hkzOjgEeTc9Iiif6LxBm_aSFE2BtXqG-cxSjViO5vwzi-nxoPLDqyv4G3UuZeJP-bQx-qxFkDr8IT4KYw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=898A0644D9834AB8BCBDE7CF4043002BBCA0F95C6AB8E8C9",
           "source": "搜狗微信·光电行业 · 易车",
-          "score": 87.4,
-          "published_at": "2026-09-26T07:04:00+00:00"
-        },
-        {
-          "title": "合资车终于不摆烂了?马自达把激光雷达砸到15万,新势力还咋卖?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxsg8x0VxdwXoyl0hma-q3JPy1gcYDD8IFqXa8Fplpd9HLhFKpysbjjFRdO5pzyy2t-PWwczF0dtPd5xO7zgE5Jp9xbJM02mWbfe9q2g1rNOJWbztXr4BB5b307vEZ2sHRg_bY1r1q0UBek-gEYA12lOgsYP9Bsrd9tYoMvnuG3O_RR3mwubLd7q1XLAGXD0LzGIxwdW53r7G0btUs8dwrGE8RsmObDbtQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=81202EABCA1DFDE87A7C252635189E727A100C7A6AB78DB2",
-          "source": "搜狗微信·光电行业 · 小久的世界旅行",
-          "score": 87.4,
-          "published_at": "2026-09-26T07:47:55+00:00"
-        },
-        {
-          "title": "林肯方盒子曝光,配混动+激光雷达,会卖多",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxsg8x0VxdwXoyl0hma-q3JPy1gcYDD8IFqXa8Fplpd9mvxyD3ei_M1ARG8F1yJIu2ddaVd6iaVuJy442YFkFPgNc_7XKirnYKGLN97yjEtFvirP0Io1R5_YWMC92MtAWckDjXMHm-iRI_W8mUcYHtvJNCUK-eHhc9j4PucBNnYwguAMAe6G1BSUcoarlm2uq05OnzzKcIyTI0hoKDZplv2q3X8EKMKOIA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=81202EABCA1DFDE87A7C252635189E727A100C7A6AB78DB2",
-          "source": "搜狗微信·光电行业 · 车解读",
-          "score": 87.4,
-          "published_at": "2026-09-26T07:05:33+00:00"
+          "score": 84.9,
+          "published_at": "2026-09-27T07:03:56+00:00"
         }
       ]
     },
@@ -67,7 +66,7 @@
       "heat": 74.8,
       "sourceCount": 3,
       "signalCount": 15,
-      "latestAt": "2026-09-26T09:17:45.148049+00:00",
+      "latestAt": "2026-09-27T09:58:38.206739+00:00",
       "sources": [
         "C114中国通信网_通信财经",
         "COEMA 中国光电子行业协会",
@@ -118,7 +117,7 @@
       "heat": 70.0,
       "sourceCount": 2,
       "signalCount": 19,
-      "latestAt": "2026-09-26T09:17:45.148049+00:00",
+      "latestAt": "2026-09-27T09:58:38.206739+00:00",
       "sources": [
         "C114中国通信网_监管",
         "工信部要闻"
@@ -165,10 +164,10 @@
       "id": "c3d6321c3ea0",
       "title": "Dangling-bond-free, chemically anisotropic semiconductors for ultrahigh-resolution X-ray imaging",
       "status": "发酵中",
-      "heat": 69.8,
+      "heat": 66.7,
       "sourceCount": 3,
       "signalCount": 13,
-      "latestAt": "2026-09-26T09:17:45.148049+00:00",
+      "latestAt": "2026-09-27T09:58:38.206739+00:00",
       "sources": [
         "LEDinside 英文",
         "Nature Photonics",
@@ -179,35 +178,35 @@
           "title": "Dangling-bond-free, chemically anisotropic semiconductors for ultrahigh-resolution X-ray imaging",
           "url": "https://www.nature.com/articles/s41566-026-02013-y",
           "source": "Nature Photonics",
-          "score": 93.8,
+          "score": 93.0,
           "published_at": "2026-09-25T00:00:00+00:00"
         },
         {
           "title": "Programmable photonic unitary processor enables parameterized differentiable long-haul spatial division multiplexed transmission",
           "url": "https://www.nature.com/articles/s41566-026-01997-x",
           "source": "Nature Photonics",
-          "score": 93.8,
+          "score": 93.0,
           "published_at": "2026-09-25T00:00:00+00:00"
         },
         {
           "title": "Observation of multiphoton entanglement in resonance fluorescence",
           "url": "https://www.nature.com/articles/s41566-026-02022-x",
           "source": "Nature Photonics",
-          "score": 93.0,
+          "score": 92.2,
           "published_at": "2026-09-24T00:00:00+00:00"
         },
         {
           "title": "Volumetrically continuous 3D dynamic holography via cascaded light-field propagation",
           "url": "https://www.nature.com/articles/s41566-026-02016-9",
           "source": "Nature Photonics",
-          "score": 92.2,
+          "score": 91.3,
           "published_at": "2026-09-23T00:00:00+00:00"
         },
         {
           "title": "[News] Full-Color RGBW Microdisplays: Next Generation for Brilliant, Energy-Efficient Visualization",
           "url": "//www.ledinside.com/news/2026/9/2026_09_24_04",
           "source": "LEDinside 英文",
-          "score": 88.0,
+          "score": 87.1,
           "published_at": "2026-09-23T23:18:44+00:00"
         }
       ]
@@ -219,7 +218,7 @@
       "heat": 52.5,
       "sourceCount": 2,
       "signalCount": 5,
-      "latestAt": "2026-09-26T09:17:45.148049+00:00",
+      "latestAt": "2026-09-27T09:58:38.206739+00:00",
       "sources": [
         "C114中国通信网_监管",
         "工信部要闻"
@@ -269,7 +268,7 @@
       "heat": 48.5,
       "sourceCount": 1,
       "signalCount": 6,
-      "latestAt": "2026-09-26T09:17:45.148049+00:00",
+      "latestAt": "2026-09-27T09:58:38.206739+00:00",
       "sources": [
         "C114中国通信网_设备商"
       ],
@@ -312,13 +311,42 @@
       ]
     },
     {
+      "id": "a8023010ad59",
+      "title": "中际旭创上半年营收417.78亿元，同比增长182.49%",
+      "status": "关注中",
+      "heat": 42.0,
+      "sourceCount": 2,
+      "signalCount": 2,
+      "latestAt": "2026-09-27T09:58:38.206739+00:00",
+      "sources": [
+        "C114中国通信网_通信财经",
+        "搜狗微信·光电行业 · 数之涌现"
+      ],
+      "links": [
+        {
+          "title": "中际旭创上半年营收417.78亿元，同比增长182.49%",
+          "url": "https://www.c114.com.cn/news/123/a1316157.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 75.0,
+          "published_at": null
+        },
+        {
+          "title": "光模块模拟芯片调研:中际旭创供应链,国产二供卡位",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9uWlCo90NVwb58OZ6c1vFL0ux9aMAcsklqXa8Fplpd9575X3sV-z76RGqj0dZMXHBXmmuSQE-dKjHaqgJkn_y4Vypz32MjLnn-3CORZTe5YZ86qNT59duLinfwrp_pqqCudSQzhhCtEroW2FU4XGaYgiKUuy_MdLPFcpNYYUWAVnIJxg6AWD7JCqvfUXPIKmcNhdW4eUe69rqyfF2aPzj6TJmCU1UgHwQ..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=8989F860D9834AB8BCBDE7CF4043002BBCA0F95C6AB8E8C6",
+          "source": "搜狗微信·光电行业 · 数之涌现",
+          "score": 69.3,
+          "published_at": "2026-09-26T14:04:14+00:00"
+        }
+      ]
+    },
+    {
       "id": "f3596e90ef88",
       "title": "宇树科技计划登陆科创板 中国移动已投资",
       "status": "关注中",
       "heat": 42.0,
       "sourceCount": 2,
       "signalCount": 2,
-      "latestAt": "2026-09-26T09:17:45.148049+00:00",
+      "latestAt": "2026-09-27T09:58:38.206739+00:00",
       "sources": [
         "C114中国通信网_IT资讯",
         "COEMA 中国光电子行业协会"
@@ -347,7 +375,7 @@
       "heat": 38.0,
       "sourceCount": 1,
       "signalCount": 3,
-      "latestAt": "2026-09-26T09:17:45.148049+00:00",
+      "latestAt": "2026-09-27T09:58:38.206739+00:00",
       "sources": [
         "C114中国通信网_IT资讯"
       ],
@@ -382,7 +410,7 @@
       "heat": 29.0,
       "sourceCount": 2,
       "signalCount": 4,
-      "latestAt": "2026-09-26T09:17:45.148049+00:00",
+      "latestAt": "2026-09-27T09:58:38.206739+00:00",
       "sources": [
         "LEDinside 中文",
         "LEDinside 英文"
@@ -392,72 +420,29 @@
           "title": "Meta发布新一代AI眼镜，Ray-Ban Meta Gen 3、Audio新品亮相",
           "url": "https://www.ledinside.cn/news/20260924-62675.html",
           "source": "LEDinside 中文",
-          "score": 78.0,
+          "score": 77.2,
           "published_at": "2026-09-24"
         },
         {
           "title": "京东方发布全球最薄玻璃基MicroLED显示屏",
           "url": "https://www.ledinside.cn/products/20260923-62623.html",
           "source": "LEDinside 中文",
-          "score": 77.2,
+          "score": 76.3,
           "published_at": "2026-09-23"
         },
         {
           "title": "[News] New Features for Meta Ray-Ban Display",
           "url": "//www.ledinside.com/news/2026/9/2026_09_24_03",
           "source": "LEDinside 英文",
-          "score": 73.0,
+          "score": 72.1,
           "published_at": "2026-09-23T23:12:26+00:00"
         },
         {
           "title": "LG发布新一代Micro LED显示屏",
           "url": "https://www.ledinside.cn/products/20260911-62531.html",
           "source": "LEDinside 中文",
-          "score": 67.2,
+          "score": 66.3,
           "published_at": "2026-09-11"
-        }
-      ]
-    },
-    {
-      "id": "3c663f4234b6",
-      "title": "展商回顾 | 宽光谱CIS与半导体晶圆检测成像方案引关注，新型光电探测器赋能多行业应用",
-      "status": "关注中",
-      "heat": 29.0,
-      "sourceCount": 2,
-      "signalCount": 4,
-      "latestAt": "2026-09-26T09:17:45.148049+00:00",
-      "sources": [
-        "CIOE 中国光博会",
-        "LEDinside 中文"
-      ],
-      "links": [
-        {
-          "title": "展商回顾 | 宽光谱CIS与半导体晶圆检测成像方案引关注，新型光电探测器赋能多行业应用",
-          "url": "https://cioe.cn/news/3036_info.html",
-          "source": "CIOE 中国光博会",
-          "score": 77.2,
-          "published_at": "2026-09-23"
-        },
-        {
-          "title": "MicroLED 开启显示与光互连双成长曲线",
-          "url": "https://www.ledinside.cn/research/20260916-62572.html",
-          "source": "LEDinside 中文",
-          "score": 71.3,
-          "published_at": "2026-09-16"
-        },
-        {
-          "title": "晶湛半导体MicroLED光通信技术取得新突破",
-          "url": "https://www.ledinside.cn/knowledge/20260617-61902.html",
-          "source": "LEDinside 中文",
-          "score": 55.0,
-          "published_at": "2026-06-17"
-        },
-        {
-          "title": "光电前沿 | 从OCS到Micro LED CPO：光学与CIS的新机遇",
-          "url": "https://cioe.cn/news/2918_info.html",
-          "source": "CIOE 中国光博会",
-          "score": 55.0,
-          "published_at": "2026-07-14"
         }
       ]
     }
