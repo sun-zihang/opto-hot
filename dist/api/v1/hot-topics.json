@@ -1,365 +1,93 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T10:43:13.657003+00:00",
+  "generatedAt": "2026-09-29T10:33:09.812159+00:00",
   "count": 10,
   "items": [
     {
       "terms": [
-        "ez-60",
-        "momenta",
-        "智驾",
         "激光",
         "激光雷达"
       ],
-      "source_count": 10,
-      "signal_count": 11,
+      "source_count": 6,
+      "signal_count": 7,
       "sources": [
         "OFweek 激光频道",
-        "搜狗微信·光电行业 · 21世纪经济报道",
-        "搜狗微信·光电行业 · 30秒懂车",
         "搜狗微信·光电行业 · E车汇",
-        "搜狗微信·光电行业 · 懂车",
+        "搜狗微信·光电行业 · 汽车之家",
         "搜狗微信·光电行业 · 汽车行业关注",
-        "搜狗微信·光电行业 · 维科网激光",
-        "搜狗微信·光电行业 · 蜀锦传媒",
-        "搜狗微信·光电行业 · 轮上的情书",
-        "搜狗微信·光电行业 · 钟叔驾道"
+        "搜狗微信·光电行业 · 科技正在发生",
+        "搜狗微信·光电行业 · 车主指南"
       ],
-      "score": 98.2,
-      "latest_at": "2026-09-28T10:43:13.657003+00:00",
+      "score": 89.5,
+      "latest_at": "2026-09-29T10:33:09.812159+00:00",
       "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-      "id": "f7b6b42a8897",
+      "id": "7199454529f9",
       "links": [
         {
           "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
           "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
           "source": "OFweek 激光频道",
-          "score": 100.0,
+          "score": 92.5,
           "published_at": "2026-08"
         },
         {
-          "title": "空气悬架+激光雷达 900km续航 20万级纯电轿跑卷疯了",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9uWlCo90NVwsGaOlW4YmjGiyxmgBKu861qXa8Fplpd9xBoBz-KUftpXb7OfLqAgXz4xMigT1CQ_5RotI2NuXZvt32t3YU5MAsgrAHVQFva57y4latXjECMS-0jc2mEFtvrTbMylN_aa8gzh5nGzlhuYKr17GqQjobvKu0_GWSr7EkKSIz4uMNKCxcrdRwEhCqjIo8zur4SzJ2pTxwAXHY6jotuuiAmOIg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=91F9CA23158A7C41545209DDEC8794845584D3876ABA44BB",
-          "source": "搜狗微信·光电行业 · 30秒懂车",
-          "score": 90.0,
-          "published_at": "2026-09-28T10:38:53+00:00"
+          "title": "智界RX 25.98万起,4激光雷达+双腔空悬,全系800V",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-flhjqCJ9XVJX1iyFy1sBKSb8KBKAa8rFqXa8Fplpd95wPwGIaew90bGaxD3s1Ywl8E46QdaUQ2kyKeLXURtjs1gyLNLh9DzEd8e0Q5708bKbyxd-nmyEmjzNxTgkrIBh7S16EpQdtMqkrQbJWOlOnZgvQXGgxZXqHMqFhztarJNht44dig_uvYVXVAc2ac1Fy1HOhKboEMrxDDLj_FCp9hWLv6O878UA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=9A28E99BDDC6779DADA8F2311D6C1AADAECEA6FC6ABB93DF",
+          "source": "搜狗微信·光电行业 · 车主指南",
+          "score": 82.5,
+          "published_at": "2026-09-29T10:13:19+00:00"
         },
         {
-          "title": "激光雷达巨头与英伟达深化物理AI合作!",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9uWlCo90NVwsGaOlW4YmjGiyxmgBKu861qXa8Fplpd9BWUIPGcvZVmrhT1hZFrGsgyYnotMGfLY9JZpnNmRHDubGbt7ay5VlVA6JT-00gEKGLhNyCxrIrf1JaB5YTU-AcLtmM_hNQL9js-s960d0ygZrDJO0rA6aJhJMlZnT2qPg1oZ5JF0U8aJQNvqp6ImDPLrlMn9lDi86cbwYmsQfmBr1dbZWbKUeQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=91F9CA23158A7C41545209DDEC8794845584D3876ABA44BB",
-          "source": "搜狗微信·光电行业 · 维科网激光",
-          "score": 90.0,
-          "published_at": "2026-09-28T09:47:13+00:00"
+          "title": "年底10款燃油新车扎堆,激光雷达+后轮转向我也有!",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-flhjqCJ9XVJX1iyFy1sBKSb8KBKAa8rFqXa8Fplpd95wPwGIaew90bGaxD3s1Ywl8E46QdaUQ2kyKeLXURtjs1gyLNLh9DzIx0f-aAXQHKre1Op03C8QcvleYnC1n3v1iphCKjsj0ztJXNgisFrDhnqf_lbw-Wb22IX5HTC95ldcHVJWHegHtgKhKphQu9YrdKaUW6Woteonl6TfQOxFDs46dn8Efgxg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=9A28E99BDDC6779DADA8F2311D6C1AADAECEA6FC6ABB93DF",
+          "source": "搜狗微信·光电行业 · 车主指南",
+          "score": 82.5,
+          "published_at": "2026-09-29T10:13:19+00:00"
         },
         {
-          "title": "限时9.29万起+激光雷达高阶智驾,第四代博越L这是不给对手留活路",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9uWlCo90NVwsGaOlW4YmjGiyxmgBKu861qXa8Fplpd9v_zs1wpleGvak7TiCHacqf-LHaPKMggzzk5p2QMUIoEwDl31AXSsp-VodT-tdFuOWJorr6ywaTmZoAp1cNCDRtlvzgUEpaAjWxkTD4zfMJVSOzQt6-USzQIr-hL9mAceBG2-Ik1GyisvRBmFE0kTdtweXPSTRLYYMRH8bl-1p5Vj32-j2KiwUw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=91F9CA23158A7C41545209DDEC8794845584D3876ABA44BB",
-          "source": "搜狗微信·光电行业 · 蜀锦传媒",
-          "score": 89.9,
-          "published_at": "2026-09-28T09:03:53+00:00"
-        },
-        {
-          "title": "城区智驾加激光雷达,EZ-60激光版要做合资卷王",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9uWlCo90NVwsGaOlW4YmjGiyxmgBKu861qXa8Fplpd9hTirKvWbFQoEyX3ZtY396ZXrZTGCxT1PjkbVPU5vlGjHUa2I56kiN9Fg8wOn3ExQWB_a72PDndzvpaJIWB-yg4kr-0EF_eHe4yQAers2o57EBlZGtURPTdPtZTEdh2W12tW-PodertUzBilhGRf0tCHjXWMyguzMPzqwNhyqlqXy08OLTBhW0A..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=91F9CA23158A7C41545209DDEC8794845584D3876ABA44BB",
+          "title": "11.88万起标配激光雷达,全新领克20这次不玩虚的",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-flhjqCJ9XVJX1iyFy1sBKSb8KBKAa8rFqXa8Fplpd9CR2eWnaiVFaN8mdq3oA6kgWrZGFLEG1nhXmetdvaimeRnLy2TGQ4sfguzG_IQV4YlBLALajE7ImBEpbjcluMYKhtsr4RPpurC0Cpi54gFdrDao79BKlSJU4KkztZpx3YffwtObdAx4p1gTlNLwLTCQJZaMsKE6nn5QzzJfhVaLvuL0unUdKkuw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=9A28E99BDDC6779DADA8F2311D6C1AADAECEA6FC6ABB93DF",
           "source": "搜狗微信·光电行业 · E车汇",
-          "score": 89.9,
-          "published_at": "2026-09-28T06:50:45+00:00"
+          "score": 82.5,
+          "published_at": "2026-09-29T09:32:29+00:00"
+        },
+        {
+          "title": "11.88万起,全系800V+激光雷达:领克20昨晚上市,1小时大定14663台",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-flhjqCJ9XVJX1iyFy1sBKSb8KBKAa8rFqXa8Fplpd94_TcEBAZ0dOu6jgnSz52qbKh-wlCE9PaYN1R66kYKLWFFgOSH5LmUag1cUdeX5Z1Sgv99YrDTBfWZrx5oqS4pVMY2hPN5aOIJNjJJ0XXmW0heqo5uQDs1aepY8-1LhpeToZzF1DMW_oHPn9JGKKGkWqcEeWugkL1gsU-8H3bXrUHpHkoPMgL3A..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=9A28E99BDDC6779DADA8F2311D6C1AADAECEA6FC6ABB93DF",
+          "source": "搜狗微信·光电行业 · 科技正在发生",
+          "score": 82.3,
+          "published_at": "2026-09-29T05:41:45+00:00"
         }
       ],
       "top_terms": [
+        "万起",
         "激光",
         "光雷",
         "雷达",
-        "激光雷达",
-        "万级"
+        "全系"
       ],
       "rank": 1,
-      "heat": 98.2,
-      "status": "爆"
-    },
-    {
-      "terms": [
-        "aberration-retrieval",
-        "activation",
-        "angular",
-        "anisotropic",
-        "architecture",
-        "atomic",
-        "attosecond",
-        "black-hole",
-        "breakthrough",
-        "brilliant",
-        "cascaded",
-        "characterization",
-        "chemically",
-        "circuits",
-        "clock",
-        "coherent",
-        "collective-state",
-        "comb",
-        "communication",
-        "communications",
-        "computational",
-        "connecting",
-        "connectorized",
-        "continuous",
-        "crack",
-        "dangling-bond-free",
-        "deposition",
-        "differentiable",
-        "dissipative-soliton-resonance",
-        "distance",
-        "distributed",
-        "diverge",
-        "division",
-        "dynamic",
-        "ecosystem",
-        "energy",
-        "energy-efficient",
-        "energy-loss",
-        "energy-selective",
-        "enhancing",
-        "entangled",
-        "entanglement",
-        "establish",
-        "excitation",
-        "excited-state",
-        "expanding",
-        "exponents",
-        "femtosecond",
-        "fiber",
-        "films",
-        "floor",
-        "flowspim",
-        "fluorescence",
-        "fog-resilient",
-        "formation",
-        "frequency",
-        "full-color",
-        "fundamentals",
-        "future",
-        "gate",
-        "graphene",
-        "hamiltonians",
-        "holography",
-        "illumination",
-        "imaging",
-        "infrared",
-        "interconnects",
-        "iterative",
-        "kernel",
-        "kerr",
-        "laser",
-        "laser-induced",
-        "lattice",
-        "light-field",
-        "lithium",
-        "long",
-        "long-haul",
-        "longer",
-        "magnetic",
-        "magnetism",
-        "math",
-        "measurements",
-        "memories",
-        "microdisplays",
-        "microscope",
-        "microscopy",
-        "mid-infrared",
-        "millimetre-wave",
-        "momentum",
-        "multi-core",
-        "multiphoton",
-        "multiplexed",
-        "multipulsing",
-        "nanoscale",
-        "next",
-        "nodes",
-        "noise",
-        "noise-assisted",
-        "openspim",
-        "optical",
-        "osram",
-        "parameterized",
-        "patterns",
-        "periodic",
-        "photoelectron",
-        "photonic",
-        "photonics",
-        "photons",
-        "physicists",
-        "physics",
-        "pixels",
-        "polarimetry",
-        "preparation",
-        "probing",
-        "process",
-        "processor",
-        "propagation",
-        "protocol",
-        "quantum",
-        "quantum-coherence",
-        "radar",
-        "regime",
-        "rephasing",
-        "resonance",
-        "reveal",
-        "rgbw",
-        "scalable",
-        "scale-up",
-        "scattering",
-        "secure",
-        "seeding",
-        "seismic",
-        "semiconductors",
-        "sensitivity",
-        "sensor",
-        "shared",
-        "sheet",
-        "showcasing",
-        "silica",
-        "single-photon",
-        "single-shot",
-        "small-angle",
-        "solution",
-        "spatial",
-        "spin",
-        "states",
-        "store",
-        "streaking",
-        "structured",
-        "subwavelength",
-        "super",
-        "super-resolution",
-        "surface",
-        "tantalate",
-        "telecommunication",
-        "thermal",
-        "thin-film",
-        "three",
-        "timing",
-        "tomography",
-        "tomorrow",
-        "transitions",
-        "transmission",
-        "triangular",
-        "trimer",
-        "ultrafast",
-        "ultrahigh-resolution",
-        "ultraslow",
-        "ultrasound",
-        "ultrathin",
-        "undetected",
-        "unified",
-        "unitary",
-        "unlocking",
-        "unveils",
-        "users",
-        "vcsel",
-        "versatility",
-        "vertical",
-        "visualization",
-        "volumetrically",
-        "wave",
-        "wavelength",
-        "weak",
-        "x-ray",
-        "yalo3"
-      ],
-      "source_count": 5,
-      "signal_count": 27,
-      "sources": [
-        "EDN 电子工程专辑",
-        "LEDinside 英文",
-        "Nature Photonics",
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "score": 85.8,
-      "latest_at": "2026-09-28T10:43:13.657003+00:00",
-      "title": "Lattice light sheet activation structured illumination super-resolution microscopy",
-      "id": "78740b8adb93",
-      "links": [
-        {
-          "title": "Lattice light sheet activation structured illumination super-resolution microscopy",
-          "url": "https://www.nature.com/articles/s41566-026-02019-6",
-          "source": "Nature Photonics",
-          "score": 94.6,
-          "published_at": "2026-09-28T00:00:00+00:00"
-        },
-        {
-          "title": "Dangling-bond-free, chemically anisotropic semiconductors for ultrahigh-resolution X-ray imaging",
-          "url": "https://www.nature.com/articles/s41566-026-02013-y",
-          "source": "Nature Photonics",
-          "score": 92.1,
-          "published_at": "2026-09-25T00:00:00+00:00"
-        },
-        {
-          "title": "Programmable photonic unitary processor enables parameterized differentiable long-haul spatial division multiplexed transmission",
-          "url": "https://www.nature.com/articles/s41566-026-01997-x",
-          "source": "Nature Photonics",
-          "score": 92.1,
-          "published_at": "2026-09-25T00:00:00+00:00"
-        },
-        {
-          "title": "Observation of multiphoton entanglement in resonance fluorescence",
-          "url": "https://www.nature.com/articles/s41566-026-02022-x",
-          "source": "Nature Photonics",
-          "score": 91.3,
-          "published_at": "2026-09-24T00:00:00+00:00"
-        },
-        {
-          "title": "Attosecond streaking of photoelectron angular momentum",
-          "url": "https://www.nature.com/articles/s41566-026-02020-z",
-          "source": "Nature Photonics",
-          "score": 91.3,
-          "published_at": "2026-09-24T00:00:00+00:00"
-        }
-      ],
-      "top_terms": [
-        "quantum",
-        "optical",
-        "energy",
-        "imaging",
-        "noise"
-      ],
-      "rank": 2,
-      "heat": 85.8,
+      "heat": 89.5,
       "status": "爆"
     },
     {
       "terms": [
         "算力"
       ],
-      "source_count": 3,
-      "signal_count": 20,
+      "source_count": 2,
+      "signal_count": 17,
       "sources": [
         "C114中国通信网_监管",
-        "C114中国通信网_要闻精选",
         "工信部要闻"
       ],
-      "score": 77.5,
-      "latest_at": "2026-09-28T10:43:13.657003+00:00",
-      "title": "工信部对我国网络强国建设提出四点建议",
-      "id": "7fdc01d4ea7b",
+      "score": 70.0,
+      "latest_at": "2026-09-29T10:33:09.812159+00:00",
+      "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
+      "id": "f7943a0a1720",
       "links": [
-        {
-          "title": "工信部对我国网络强国建设提出四点建议",
-          "url": "http://www.c114.net/news/16/a997101.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 95.0,
-          "published_at": null
-        },
         {
           "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
           "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6aff1cc2d094936aaca2f131389d3f8.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
-        },
-        {
-          "title": "工业和信息化部召开部分省份工业经济运行座谈会",
-          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_ab5c2644b3134b74b1d1267af2198bc4.html",
           "source": "工信部要闻",
           "score": 90.0,
           "published_at": null
@@ -377,6 +105,20 @@
           "source": "工信部要闻",
           "score": 90.0,
           "published_at": null
+        },
+        {
+          "title": "工业和信息化部等十部门关于印发《医药工业发展“十五五”规划》的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9463adac4db040159f6cbf482675eeea.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
+        },
+        {
+          "title": "两部门关于印发《电子信息制造业发展“十五五”规划》的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_f4864217588b44c489d58da20de766c8.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
         }
       ],
       "top_terms": [
@@ -386,16 +128,14 @@
         "业和",
         "和信"
       ],
-      "rank": 3,
-      "heat": 77.5,
-      "status": "发酵中"
+      "rank": 2,
+      "heat": 70.0,
+      "status": "关注中"
     },
     {
       "terms": [
-        "cpo",
         "光互联",
         "光电",
-        "光纤",
         "光通信",
         "半导体",
         "激光"
@@ -407,9 +147,9 @@
         "LEDinside 中文"
       ],
       "score": 67.1,
-      "latest_at": "2026-09-28T10:43:13.657003+00:00",
+      "latest_at": "2026-09-29T10:33:09.812159+00:00",
       "title": "长光华芯上半年营收3.91亿元 同比增长82.67%",
-      "id": "c910a24bcf03",
+      "id": "62cc8f9cadd8",
       "links": [
         {
           "title": "长光华芯上半年营收3.91亿元 同比增长82.67%",
@@ -454,49 +194,148 @@
         "增长",
         "同比"
       ],
-      "rank": 4,
+      "rank": 3,
       "heat": 67.1,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "black-hole",
+        "circuits",
+        "connecting",
+        "crack",
+        "electrodes",
+        "fluctuations",
+        "gapless",
+        "interconnects",
+        "laser",
+        "magnetic",
+        "magnetism",
+        "magnets",
+        "math",
+        "nanoscale",
+        "optical",
+        "patterns",
+        "photonics",
+        "physicists",
+        "physics",
+        "quantum",
+        "reprograms",
+        "reveal",
+        "sensor",
+        "survives",
+        "temporarily",
+        "tomorrow",
+        "ultrafast",
+        "ultraslow",
+        "ultrathin",
+        "vertical",
+        "weak"
+      ],
+      "source_count": 2,
+      "signal_count": 6,
+      "sources": [
+        "LEDinside 英文",
+        "Phys.org 物理新闻"
+      ],
+      "score": 52.7,
+      "latest_at": "2026-09-29T10:33:09.812159+00:00",
+      "title": "[News] AI Photonics – creating the optical interconnects of tomorrow",
+      "id": "28e71e1dabf2",
+      "links": [
+        {
+          "title": "[News] AI Photonics – creating the optical interconnects of tomorrow",
+          "url": "//www.ledinside.com/news/2026/9/2026_09_23_01",
+          "source": "LEDinside 英文",
+          "score": 74.0,
+          "published_at": "2026-09-22T06:50:41+00:00"
+        },
+        {
+          "title": "Laser temporarily reprograms ultrathin optical device without electrodes",
+          "url": "https://phys.org/news/2026-09-laser-temporarily-reprograms-ultrathin-optical.html",
+          "source": "Phys.org 物理新闻",
+          "score": 70.0,
+          "published_at": null
+        },
+        {
+          "title": "Magnetic order survives weak quantum fluctuations in gapless magnets",
+          "url": "https://phys.org/news/2026-09-magnetic-survives-weak-quantum-fluctuations.html",
+          "source": "Phys.org 物理新闻",
+          "score": 70.0,
+          "published_at": null
+        },
+        {
+          "title": "Ultrathin materials could make quantum light circuits programmable",
+          "url": "https://phys.org/news/2026-09-ultrathin-materials-quantum-circuits-programmable.html",
+          "source": "Phys.org 物理新闻",
+          "score": 70.0,
+          "published_at": null
+        },
+        {
+          "title": "Vertical quantum sensor could reveal nanoscale magnetic patterns in quantum materials",
+          "url": "https://phys.org/news/2026-09-vertical-quantum-sensor-reveal-nanoscale.html",
+          "source": "Phys.org 物理新闻",
+          "score": 70.0,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "quantum",
+        "ultrathin",
+        "optical",
+        "magnetic",
+        "laser"
+      ],
+      "rank": 4,
+      "heat": 52.7,
       "status": "关注中"
     },
     {
       "terms": [],
       "source_count": 2,
-      "signal_count": 4,
+      "signal_count": 5,
       "sources": [
         "C114中国通信网_监管",
         "工信部要闻"
       ],
-      "score": 49.0,
-      "latest_at": "2026-09-28T10:43:13.657003+00:00",
+      "score": 52.5,
+      "latest_at": "2026-09-29T10:33:09.812159+00:00",
       "title": "2026年中国国际信息通信展览会在京开幕",
-      "id": "1f9b68c68b9a",
+      "id": "fb7ec84ba2c4",
       "links": [
         {
           "title": "2026年中国国际信息通信展览会在京开幕",
           "url": "https://www.miit.gov.cn/xwfb/bldhd/art/2026/art_2fc0c942477d4a2694137f8fe8d17f47.html",
           "source": "工信部要闻",
-          "score": 75.0,
+          "score": 77.5,
+          "published_at": null
+        },
+        {
+          "title": "四川部署实施信息通信网络运行安全强基提质三年行动",
+          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_8d57241d33fd47f9ab836fe99f34576a.html",
+          "source": "工信部要闻",
+          "score": 77.5,
           "published_at": null
         },
         {
           "title": "江苏信息通信业开展2026年国家网络安全宣传周暨反诈集中宣传活动",
           "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_1b7be603e6884fe29259042b9d13180c.html",
           "source": "工信部要闻",
-          "score": 75.0,
+          "score": 77.5,
           "published_at": null
         },
         {
           "title": "工信部部署2026年信息通信业安全生产与网络运行安全工作",
           "url": "https://www.c114.com.cn/news/550/a1307461.html",
           "source": "C114中国通信网_监管",
-          "score": 70.0,
+          "score": 72.5,
           "published_at": null
         },
         {
           "title": "工信部召开2026年信息通信业行风建设暨纠风工作会议",
           "url": "https://www.c114.com.cn/news/550/a1306739.html",
           "source": "C114中国通信网_监管",
-          "score": 70.0,
+          "score": 72.5,
           "published_at": null
         }
       ],
@@ -504,11 +343,11 @@
         "信息",
         "息通",
         "通信",
-        "信业",
-        "安全"
+        "安全",
+        "信业"
       ],
       "rank": 5,
-      "heat": 49.0,
+      "heat": 52.5,
       "status": "关注中"
     },
     {
@@ -522,7 +361,7 @@
         "C114中国通信网_设备商"
       ],
       "score": 48.5,
-      "latest_at": "2026-09-28T10:43:13.657003+00:00",
+      "latest_at": "2026-09-29T10:33:09.812159+00:00",
       "title": "构建开源开放人才生态，夯实产业自主根基｜2026华为ICT学院年会圆满举办",
       "id": "8e5d96df92ef",
       "links": [
@@ -575,6 +414,90 @@
     },
     {
       "terms": [
+        "atom",
+        "atomically",
+        "breakthrough",
+        "catalogs",
+        "connectorized",
+        "ecosystem",
+        "expanding",
+        "fiber",
+        "future",
+        "longer",
+        "mapping",
+        "memories",
+        "multi-core",
+        "osram",
+        "possibilities",
+        "quantum",
+        "rephasing",
+        "scale-up",
+        "showcasing",
+        "single-photon",
+        "solution",
+        "spin",
+        "states",
+        "store",
+        "thin",
+        "thin-film",
+        "unbounded",
+        "uncovers",
+        "unveils",
+        "vcsel"
+      ],
+      "source_count": 2,
+      "signal_count": 4,
+      "sources": [
+        "LEDinside 英文",
+        "Phys.org 物理新闻"
+      ],
+      "score": 44.0,
+      "latest_at": "2026-09-29T10:33:09.812159+00:00",
+      "title": "[News] ams OSRAM unveils breakthrough Thin-Film VCSEL for AI Scale-Up, showcasing connectorized multi-core fiber solution and expanding ecosystem network",
+      "id": "1dbaeb3995f4",
+      "links": [
+        {
+          "title": "[News] ams OSRAM unveils breakthrough Thin-Film VCSEL for AI Scale-Up, showcasing connectorized multi-core fiber solution and expanding ecosystem network",
+          "url": "//www.ledinside.com/news/2026/9/2026_09_23_02",
+          "source": "LEDinside 英文",
+          "score": 69.3,
+          "published_at": "2026-09-22T15:43:10+00:00"
+        },
+        {
+          "title": "Mapping one atom's interaction with light uncovers an unbounded network of quantum states",
+          "url": "https://phys.org/news/2026-09-atom-interaction-uncovers-unbounded-network.html",
+          "source": "Phys.org 物理新闻",
+          "score": 65.0,
+          "published_at": null
+        },
+        {
+          "title": "Spin rephasing helps quantum memories store single-photon states longer for future networks",
+          "url": "https://phys.org/news/2026-09-rephasing-quantum-memories-photon-states.html",
+          "source": "Phys.org 物理新闻",
+          "score": 65.0,
+          "published_at": null
+        },
+        {
+          "title": "New catalogs map the quantum possibilities of atomically thin materials",
+          "url": "https://phys.org/news/2026-09-quantum-possibilities-atomically-thin-materials.html",
+          "source": "Phys.org 物理新闻",
+          "score": 65.0,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "quantum",
+        "states",
+        "thin",
+        "mapping",
+        "atom"
+      ],
+      "rank": 7,
+      "heat": 44.0,
+      "status": "关注中"
+    },
+    {
+      "terms": [
         "光纤",
         "激光",
         "激光器"
@@ -586,7 +509,7 @@
         "COEMA 中国光电子行业协会"
       ],
       "score": 42.0,
-      "latest_at": "2026-09-28T10:43:13.657003+00:00",
+      "latest_at": "2026-09-29T10:33:09.812159+00:00",
       "title": "宇树科技计划登陆科创板 中国移动已投资",
       "id": "f3596e90ef88",
       "links": [
@@ -612,94 +535,8 @@
         "创板",
         "激光"
       ],
-      "rank": 7,
-      "heat": 42.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [
-        "光模块"
-      ],
-      "source_count": 2,
-      "signal_count": 2,
-      "sources": [
-        "搜狗微信·光电行业 · 无双资金流",
-        "搜狗微信·光电行业 · 物燃"
-      ],
-      "score": 42.0,
-      "latest_at": "2026-09-28T10:43:13.657003+00:00",
-      "title": "光模块崩了,问题却不在光模块!",
-      "id": "3892c17a51c9",
-      "links": [
-        {
-          "title": "光模块崩了,问题却不在光模块!",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9uWlCo90NVwhZGWgVF8FkaiyxmgBKu861qXa8Fplpd9z7OLqDPCCBwwSuCljnBMqWAFp2vzPjywjL6qVI4HtbaFn2EkgQaHD32bzI6UbS07H_KQJt2faa0mK1uFK1eVzVQ9kOu4lcxFoFD7hzBQqZmQwwDBzPpybuDUcWTnCx87ZpeTQHGWwxHrjyndUjt8tUPOwZeKDqxA0cSLJ1klTCLFcvUoAZZH7Q..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=91F9BCF1158A7C41545209DDEC8794845584D3876ABA44B8",
-          "source": "搜狗微信·光电行业 · 无双资金流",
-          "score": 69.9,
-          "published_at": "2026-09-28T08:56:25+00:00"
-        },
-        {
-          "title": "光模块,怎么跌了?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9uWlCo90NVwhZGWgVF8FkaiyxmgBKu861qXa8Fplpd9oEDh_BpXq0lT-bgwPKZTJwkLMLO2Ams1ryfxeIcNSgKXzsGTe4D6_F0IcGwzXormqJf6JyK7kZJBlfHPW12Taqvt1xReu-DDu_3hsrqAqpRdknNtr-oSZfsrKTtDohCMCUfra4pyYtGjLLvdSJTZ8lTPm_9Ub-7A0gdWWtyjKqICYioxHkzTmA..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=91F9BCF1158A7C41545209DDEC8794845584D3876ABA44B8",
-          "source": "搜狗微信·光电行业 · 物燃",
-          "score": 69.7,
-          "published_at": "2026-09-28T03:19:13+00:00"
-        }
-      ],
-      "top_terms": [
-        "光模",
-        "模块",
-        "光模块",
-        "怎么跌了",
-        "怎么"
-      ],
       "rank": 8,
       "heat": 42.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [],
-      "source_count": 1,
-      "signal_count": 3,
-      "sources": [
-        "C114中国通信网_要闻精选"
-      ],
-      "score": 38.0,
-      "latest_at": "2026-09-28T10:43:13.657003+00:00",
-      "title": "大招齐发，英特尔直击网络转型",
-      "id": "40753cddc649",
-      "links": [
-        {
-          "title": "大招齐发，英特尔直击网络转型",
-          "url": "http://www.c114.com.cn/topic/5096/a996852.html?utm_medium=C114&dclid=CLmNp8bEwdICFRwhKgodT4YHqQ",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
-        },
-        {
-          "title": "对话英特尔：产业协作与标准化助推5G成功",
-          "url": "http://www.c114.net/news/138/a996926.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
-        },
-        {
-          "title": "英特尔助力电信网络转型 让5G不再是“看上去很美”",
-          "url": "http://www.c114.net/topic/5096/a996887.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
-        }
-      ],
-      "top_terms": [
-        "英特",
-        "特尔",
-        "网络",
-        "络转",
-        "转型"
-      ],
-      "rank": 9,
-      "heat": 38.0,
       "status": "关注中"
     },
     {
@@ -712,7 +549,7 @@
         "C114中国通信网_IT资讯"
       ],
       "score": 38.0,
-      "latest_at": "2026-09-28T10:43:13.657003+00:00",
+      "latest_at": "2026-09-29T10:33:09.812159+00:00",
       "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
       "id": "79ca1f2a334a",
       "links": [
@@ -745,8 +582,68 @@
         "英镑",
         "英国"
       ],
-      "rank": 10,
+      "rank": 9,
       "heat": 38.0,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "cpo",
+        "led",
+        "micro",
+        "micro led",
+        "microled",
+        "ocs",
+        "光学",
+        "光电",
+        "光通信",
+        "半导体",
+        "成像",
+        "探测器",
+        "晶圆"
+      ],
+      "source_count": 2,
+      "signal_count": 3,
+      "sources": [
+        "CIOE 中国光博会",
+        "LEDinside 中文"
+      ],
+      "score": 25.5,
+      "latest_at": "2026-09-29T10:33:09.812159+00:00",
+      "title": "展商回顾 | 宽光谱CIS与半导体晶圆检测成像方案引关注，新型光电探测器赋能多行业应用",
+      "id": "1a2833b62423",
+      "links": [
+        {
+          "title": "展商回顾 | 宽光谱CIS与半导体晶圆检测成像方案引关注，新型光电探测器赋能多行业应用",
+          "url": "https://cioe.cn/news/3036_info.html",
+          "source": "CIOE 中国光博会",
+          "score": 72.1,
+          "published_at": "2026-09-23"
+        },
+        {
+          "title": "晶湛半导体MicroLED光通信技术取得新突破",
+          "url": "https://www.ledinside.cn/knowledge/20260617-61902.html",
+          "source": "LEDinside 中文",
+          "score": 52.5,
+          "published_at": "2026-06-17"
+        },
+        {
+          "title": "光电前沿 | 从OCS到Micro LED CPO：光学与CIS的新机遇",
+          "url": "https://cioe.cn/news/2918_info.html",
+          "source": "CIOE 中国光博会",
+          "score": 52.5,
+          "published_at": "2026-07-14"
+        }
+      ],
+      "top_terms": [
+        "半导",
+        "导体",
+        "光电",
+        "cis",
+        "晶湛半导体"
+      ],
+      "rank": 10,
+      "heat": 25.5,
       "status": "关注中"
     }
   ]
