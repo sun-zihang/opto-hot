@@ -1,75 +1,77 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T09:45:38.155506+00:00",
+  "generatedAt": "2026-10-04T10:29:30.979875+00:00",
   "count": 10,
   "items": [
     {
       "terms": [
+        "光互联",
+        "光电",
+        "光芯片",
+        "光通信",
+        "半导体",
         "激光",
-        "激光雷达"
+        "算力"
       ],
-      "source_count": 8,
-      "signal_count": 9,
+      "source_count": 5,
+      "signal_count": 16,
       "sources": [
-        "OFweek 激光频道",
-        "搜狗微信·光电行业 · 大鱼侃车",
-        "搜狗微信·光电行业 · 摩羯好好说",
-        "搜狗微信·光电行业 · 易车",
-        "搜狗微信·光电行业 · 望见春山a.",
-        "搜狗微信·光电行业 · 盎司说车",
-        "搜狗微信·光电行业 · 科技略说",
-        "搜狗微信·光电行业 · 酒玖说车"
+        "C114中国通信网_通信财经",
+        "LEDinside 中文",
+        "OFweek 光电频道",
+        "搜狗微信·光电行业 · 真诚投研日记",
+        "搜狗微信·光电行业 · 芯桉视野"
       ],
-      "score": 96.5,
-      "latest_at": "2026-10-03T09:45:38.155506+00:00",
-      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-      "id": "3d907108f66b",
+      "score": 87.5,
+      "latest_at": "2026-10-04T10:29:30.979875+00:00",
+      "title": "净利暴增186%！光库科技正在兑现AI算力红利",
+      "id": "e76c2b8a8f13",
       "links": [
         {
-          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
-          "source": "OFweek 激光频道",
-          "score": 97.5,
+          "title": "净利暴增186%！光库科技正在兑现AI算力红利",
+          "url": "https://optics.ofweek.com/2026-08/ART-8100-2500-30698997.html",
+          "source": "OFweek 光电频道",
+          "score": 100.0,
           "published_at": "2026-08"
         },
         {
-          "title": "510km+激光雷达,零跑A05才卖6万多起?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9q2rPc8anW151Uzaqu-LtlAv6Veh1YUF1qXa8Fplpd9wHNPBXoBJfOvMbw7QU-CBOOXq-9SiLGpWBk69isItbUtaUE8yEmHCRkNqn-CnFs3xBH-bYeVHNJrmQfNfBlAzAGn2utZ7Bf7wT9L69thzGhYfrfNqxQ28Azw9XcrO492dEdQ2nakL2qmrHNteJI38RPNEopc_bU1KXp7bM2kyxLdrgozfSg6bw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=BADBBFB39C9B8D231A1C47F69B5B56DA1B43C2106AC0CEB9",
-          "source": "搜狗微信·光电行业 · 酒玖说车",
-          "score": 87.5,
-          "published_at": "2026-10-03T09:39:49+00:00"
+          "title": "长光华芯上半年营收3.91亿元 同比增长82.67%",
+          "url": "https://www.c114.com.cn/news/123/a1316669.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
         },
         {
-          "title": "十万级激光雷达刚杀到,二十万级三把锁又来了,这车市真要变天了",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9q2rPc8anW151Uzaqu-LtlAv6Veh1YUF1qXa8Fplpd9wO3T28-ieefGnJclU-VHqANxq0N0KpMsMpVLnFtnvNK9EbbB7UecrQvYKdZYAMXCMq4lPecpH718UAkwWSLl45v3pXX1aXTdZ4m_znSHpx2t0KlLxjILNyo3IRhELslwGlrBrYIOdi7mcVoLy9vwHL6vytw_R2ETuE5a7FiFMpGAFV_3u-a3OQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=BADBBFB39C9B8D231A1C47F69B5B56DA1B43C2106AC0CEB9",
-          "source": "搜狗微信·光电行业 · 望见春山a.",
-          "score": 87.5,
-          "published_at": "2026-10-03T09:37:27+00:00"
+          "title": "广和通上半年营收37.78亿元增长1.92% 净利润同比下降71.63%",
+          "url": "https://www.c114.com.cn/news/123/a1316478.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
         },
         {
-          "title": "15万就能把激光雷达和AI大模型搬回家?深蓝S07这是要把合资车逼上绝路",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9q2rPc8anW151Uzaqu-LtlAv6Veh1YUF1qXa8Fplpd9TvmUqN6IDt95RzSRn46cS10mm1VNvZesJhCK4t0sNs8wAwbGtggOCJn7wXR68H4rbfTjX9jkylnNXAdIRFsXlJ_JJ7unztgV-ccIGu9X3eApyL-glNbglFLORm8ep8iZ7JYKZ1f4V1Jbh0jbLQty-yFstTdeZD94T2FYV1Om9Ttr1dbZWbKUeQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=BADBBFB39C9B8D231A1C47F69B5B56DA1B43C2106AC0CEB9",
-          "source": "搜狗微信·光电行业 · 科技略说",
-          "score": 87.5,
-          "published_at": "2026-10-03T09:24:55+00:00"
+          "title": "频准激光上半年营收2.56亿元增42.13% 净利润增24.58%",
+          "url": "https://www.c114.com.cn/news/123/a1316461.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
         },
         {
-          "title": "领克20全系标配激光雷达,大定破万,火了?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9q2rPc8anW151Uzaqu-LtlAv6Veh1YUF1qXa8Fplpd9kuegS3uLdlQB_540OJpHa_yc8CdV5Wx95rRFYYJzNb_BsEvdPmJmRAZcBQpflc5HmeQo98i4ksv5L8yuBq_tFm9u63VuuQQYx-SIfvcvypikilGjFrMAi3Uy8h2IFdeifkMJaGh2fggB0IehrkAovaDNDozMUk7FK9pj8w4SzkWrCDCayYmfpA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=BADBBFB39C9B8D231A1C47F69B5B56DA1B43C2106AC0CEB9",
-          "source": "搜狗微信·光电行业 · 大鱼侃车",
-          "score": 87.5,
-          "published_at": "2026-10-03T09:28:59+00:00"
+          "title": "亨通光电上半年净利润31.2亿元 同比增长93.38%",
+          "url": "https://www.c114.com.cn/news/123/a1316458.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
         }
       ],
       "top_terms": [
-        "激光",
-        "光雷",
-        "雷达",
-        "零跑",
-        "合资"
+        "亿元",
+        "上半",
+        "半年",
+        "增长",
+        "同比"
       ],
       "rank": 1,
-      "heat": 96.5,
+      "heat": 87.5,
       "status": "爆"
     },
     {
@@ -84,7 +86,7 @@
         "工信部要闻"
       ],
       "score": 77.5,
-      "latest_at": "2026-10-03T09:45:38.155506+00:00",
+      "latest_at": "2026-10-04T10:29:30.979875+00:00",
       "title": "工信部对我国网络强国建设提出四点建议",
       "id": "f1bb13f709a5",
       "links": [
@@ -137,70 +139,67 @@
     },
     {
       "terms": [
-        "光互联",
-        "光电",
-        "光通信",
-        "半导体",
         "激光",
-        "算力"
+        "激光雷达"
       ],
-      "source_count": 3,
-      "signal_count": 14,
+      "source_count": 4,
+      "signal_count": 5,
       "sources": [
-        "C114中国通信网_通信财经",
-        "LEDinside 中文",
-        "OFweek 光电频道"
+        "OFweek 激光频道",
+        "搜狗微信·光电行业 · 啊飞4587",
+        "搜狗微信·光电行业 · 大熊说手机",
+        "搜狗微信·光电行业 · 心似海蔚蓝如天"
       ],
-      "score": 74.6,
-      "latest_at": "2026-10-03T09:45:38.155506+00:00",
-      "title": "净利暴增186%！光库科技正在兑现AI算力红利",
-      "id": "73dc326ed190",
+      "score": 67.5,
+      "latest_at": "2026-10-04T10:29:30.979875+00:00",
+      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
+      "id": "792f419269ff",
       "links": [
         {
-          "title": "净利暴增186%！光库科技正在兑现AI算力红利",
-          "url": "https://optics.ofweek.com/2026-08/ART-8100-2500-30698997.html",
-          "source": "OFweek 光电频道",
-          "score": 100.0,
+          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
+          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
+          "source": "OFweek 激光频道",
+          "score": 87.5,
           "published_at": "2026-08"
         },
         {
-          "title": "长光华芯上半年营收3.91亿元 同比增长82.67%",
-          "url": "https://www.c114.com.cn/news/123/a1316669.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 95.0,
-          "published_at": null
+          "title": "9万买激光雷达?比亚迪新车官宣,值不值?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_vI90utM7DZVRH0bblwtz61qXa8Fplpd9VWcgPvZ7E_T52buigQ4EQVw5VB1ppHcEjGk5OcfR5lU5DY0evKUaPN5796pCx7y17HNkc_kcwkPTDIlBEWsZCqj7ogQnJrnCYAUbc_M3YO6_Qq5LiWZvuMD6kbinQHHvatXYC3rmVXXXF0-utpvdwg3eG2Z-iiVEVDkvroE7GNJ5Nu7CnoSqqg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=C355C40E1ADA5EE8FDFAA0FDC0E516ADFD326A696AC22A83",
+          "source": "搜狗微信·光电行业 · 大熊说手机",
+          "score": 77.5,
+          "published_at": "2026-10-04T09:26:34+00:00"
         },
         {
-          "title": "广和通上半年营收37.78亿元增长1.92% 净利润同比下降71.63%",
-          "url": "https://www.c114.com.cn/news/123/a1316478.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 95.0,
-          "published_at": null
+          "title": "马自达新车官宣:11.39万起标配激光雷达,这次真拼了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_vI90utM7DZVRH0bblwtz61qXa8Fplpd9VWcgPvZ7E_T52buigQ4EQVw5VB1ppHcEjGk5OcfR5lU5DY0evKUaPO9RGzF11__BMAlou4nanrECzqx6z3TNmFZj2vhGj3dvedCE4Zo5ai8i_tzGZS0zZGe2oqxad58DUfr3l3Pd3dd3n_f0E43KQh0BvBK3tTt0pgZnZ5zzH0cNGbbB75bUeA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=C355C40E1ADA5EE8FDFAA0FDC0E516ADFD326A696AC22A83",
+          "source": "搜狗微信·光电行业 · 大熊说手机",
+          "score": 77.4,
+          "published_at": "2026-10-04T08:22:14+00:00"
         },
         {
-          "title": "频准激光上半年营收2.56亿元增42.13% 净利润增24.58%",
-          "url": "https://www.c114.com.cn/news/123/a1316461.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 95.0,
-          "published_at": null
+          "title": "8万块买激光雷达?零跑A10这台小车,凭什么单月卖3万辆",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_vI90utM7DZVRH0bblwtz61qXa8Fplpd9uPiHxIhJqaLH_HudixCRtkv0-MI2b6r09SBwy3bXboQvBz8umylJ_v5pzy_9JJq-T7-hxM2AZNRgeEWKtin5Q8PLdZj70PJwkc2EI5qp3VmjlIJURU_Q6ICIjFm_UllnWh0N1onrAG1NaWr26_xPNkAq5vzdwiw_BpAg97vttALwdVqCwyPdzA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=C355C40E1ADA5EE8FDFAA0FDC0E516ADFD326A696AC22A83",
+          "source": "搜狗微信·光电行业 · 啊飞4587",
+          "score": 77.3,
+          "published_at": "2026-10-04T05:12:37+00:00"
         },
         {
-          "title": "亨通光电上半年净利润31.2亿元 同比增长93.38%",
-          "url": "https://www.c114.com.cn/news/123/a1316458.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 95.0,
-          "published_at": null
+          "title": "13.59万起,长安启源Q06把激光雷达带到了15万级",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_vI90utM7DZVRH0bblwtz61qXa8Fplpd9WAaiqbg1AF1G1wklZw1ZjhjHEJ2ISjNfa-JKbp_kjMJkp16R9l3XiH4wB4wiWXXmiRMxAhWrja9_YBYsiPZEnanEYMPtQlU8OqtzMTheHPcwrnYgW8SVDuLok10zMAut1NJrN5cYMleD3LUdNK20D3lT-lG3sXOVQMlT4JJTQ2y00NVofL2iDw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=C355C40E1ADA5EE8FDFAA0FDC0E516ADFD326A696AC22A83",
+          "source": "搜狗微信·光电行业 · 心似海蔚蓝如天",
+          "score": 77.1,
+          "published_at": "2026-10-03T23:48:51+00:00"
         }
       ],
       "top_terms": [
-        "亿元",
-        "上半",
-        "半年",
-        "增长",
-        "同比"
+        "激光",
+        "光雷",
+        "雷达",
+        "万起",
+        "买激"
       ],
       "rank": 3,
-      "heat": 74.6,
+      "heat": 67.5,
       "status": "发酵中"
     },
     {
@@ -212,7 +211,7 @@
         "工信部要闻"
       ],
       "score": 52.5,
-      "latest_at": "2026-10-03T09:45:38.155506+00:00",
+      "latest_at": "2026-10-04T10:29:30.979875+00:00",
       "title": "2026年中国国际信息通信展览会在京开幕",
       "id": "9802be91aca7",
       "links": [
@@ -274,7 +273,7 @@
         "C114中国通信网_设备商"
       ],
       "score": 48.5,
-      "latest_at": "2026-10-03T09:45:38.155506+00:00",
+      "latest_at": "2026-10-04T10:29:30.979875+00:00",
       "title": "构建开源开放人才生态，夯实产业自主根基｜2026华为ICT学院年会圆满举办",
       "id": "8e5d96df92ef",
       "links": [
@@ -338,7 +337,7 @@
         "COEMA 中国光电子行业协会"
       ],
       "score": 42.0,
-      "latest_at": "2026-10-03T09:45:38.155506+00:00",
+      "latest_at": "2026-10-04T10:29:30.979875+00:00",
       "title": "宇树科技计划登陆科创板 中国移动已投资",
       "id": "f3596e90ef88",
       "links": [
@@ -369,6 +368,47 @@
       "status": "关注中"
     },
     {
+      "terms": [
+        "光模块"
+      ],
+      "source_count": 2,
+      "signal_count": 2,
+      "sources": [
+        "搜狗微信·光电行业 · 万象有趣",
+        "搜狗微信·光电行业 · 半导体产业纵横"
+      ],
+      "score": 42.0,
+      "latest_at": "2026-10-04T10:29:30.979875+00:00",
+      "title": "光模块还能打吗?",
+      "id": "4e6a8f555ff1",
+      "links": [
+        {
+          "title": "光模块还能打吗?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_MaYjFHkvkHhRH0bblwtz61qXa8Fplpd9s0HwG96TH2OwFrzzog8occhgm8kzGr0wwDGh1PHtZiqrenwH9uNccxl1v9iVbqxaYR2TNr9jcomty9AimgACLZ_osgFhiWjPWpNegctKvvRd9GdKwkgbGBogRZy5azO52IVP-r2wJaI9k03cU7EmkHdKOWbIblsi9geAmD5MmHfuL0unUdKkuw..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=C355B7931ADA5EE8FDFAA0FDC0E516ADFD326A696AC22A80",
+          "source": "搜狗微信·光电行业 · 半导体产业纵横",
+          "score": 69.8,
+          "published_at": "2026-10-04T03:21:21+00:00"
+        },
+        {
+          "title": "光模块有泡沫了吗?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_MaYjFHkvkHhRH0bblwtz61qXa8Fplpd9NB8kwdAk-iP-7_VdhcuISmAtNPFGnjpG5UXmd2OML_PVGoqYtke3dMX3RJcMEw4Ky-Htm8Rd3Ryp-T9p5-mZBoeEDgHavThpY5krJRcHW-OlHNgI0BY2wy6cElH3MvjXEGGekGaYJ3QKVpj9HBwEuG432o_mAUJyvYtjKIvrWusY-UZGbO56rA..&amp;type=2&amp;query=%E5%85%89%E6%A8%A1%E5%9D%97&amp;token=C355B7931ADA5EE8FDFAA0FDC0E516ADFD326A696AC22A80",
+          "source": "搜狗微信·光电行业 · 万象有趣",
+          "score": 69.3,
+          "published_at": "2026-10-03T13:51:16+00:00"
+        }
+      ],
+      "top_terms": [
+        "光模",
+        "模块",
+        "光模块有泡沫了吗",
+        "块有",
+        "有泡"
+      ],
+      "rank": 7,
+      "heat": 42.0,
+      "status": "关注中"
+    },
+    {
       "terms": [],
       "source_count": 1,
       "signal_count": 3,
@@ -376,7 +416,7 @@
         "C114中国通信网_要闻精选"
       ],
       "score": 38.0,
-      "latest_at": "2026-10-03T09:45:38.155506+00:00",
+      "latest_at": "2026-10-04T10:29:30.979875+00:00",
       "title": "大招齐发，英特尔直击网络转型",
       "id": "40753cddc649",
       "links": [
@@ -409,7 +449,7 @@
         "络转",
         "转型"
       ],
-      "rank": 7,
+      "rank": 8,
       "heat": 38.0,
       "status": "关注中"
     },
@@ -423,7 +463,7 @@
         "C114中国通信网_IT资讯"
       ],
       "score": 38.0,
-      "latest_at": "2026-10-03T09:45:38.155506+00:00",
+      "latest_at": "2026-10-04T10:29:30.979875+00:00",
       "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
       "id": "79ca1f2a334a",
       "links": [
@@ -456,118 +496,60 @@
         "英镑",
         "英国"
       ],
-      "rank": 8,
+      "rank": 9,
       "heat": 38.0,
       "status": "关注中"
     },
     {
       "terms": [
-        "硅光"
+        "charge",
+        "delaying",
+        "detection",
+        "dots",
+        "faster",
+        "groundwork",
+        "laying",
+        "oxide",
+        "quantum",
+        "qubits",
+        "spin",
+        "zinc"
       ],
       "source_count": 2,
       "signal_count": 2,
       "sources": [
-        "COEMA 中国光电子行业协会",
-        "LEDinside 中文"
+        "Nature Photonics",
+        "Phys.org 物理新闻"
       ],
       "score": 32.0,
-      "latest_at": "2026-10-03T09:45:38.155506+00:00",
-      "title": "51亿港元投向AI硅光，罗博特科港股挂牌",
-      "id": "085025a64e46",
+      "latest_at": "2026-10-04T10:29:30.979875+00:00",
+      "title": "Delaying light from quantum dots",
+      "id": "c991b133ac0a",
       "links": [
         {
-          "title": "51亿港元投向AI硅光，罗博特科港股挂牌",
-          "url": "https://www.ledinside.cn/news/20260930-62706.html",
-          "source": "LEDinside 中文",
-          "score": 72.2,
-          "published_at": "2026-09-30"
-        },
-        {
-          "title": "国科光芯完成数亿元B＋轮融资！",
-          "url": "https://www.coema.org.cn/industry/202609/5827.html",
-          "source": "COEMA 中国光电子行业协会",
-          "score": 70.0,
-          "published_at": "2026-09"
-        }
-      ],
-      "top_terms": [
-        "硅光",
-        "亿港元投向",
-        "亿港",
-        "港元",
-        "元投"
-      ],
-      "rank": 9,
-      "heat": 32.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [
-        "center",
-        "cioe",
-        "connectivity",
-        "corning",
-        "data",
-        "demos",
-        "ecoc",
-        "high-density",
-        "industry-first",
-        "infrastructure",
-        "interconnects",
-        "led",
-        "lumentum",
-        "marvell",
-        "micro",
-        "micro led",
-        "optical",
-        "qualcomm",
-        "scale-up",
-        "showcase",
-        "stage",
-        "take",
-        "vcsel"
-      ],
-      "source_count": 1,
-      "signal_count": 3,
-      "sources": [
-        "LEDinside 英文"
-      ],
-      "score": 31.3,
-      "latest_at": "2026-10-03T09:45:38.155506+00:00",
-      "title": "[News] Lumentum, Qualcomm, and Corning to Demonstrate High-Density 1060 nm VCSEL Optical D2D Connectivity for AI Scale-Up at ECOC 2026",
-      "id": "3f67f7bfd2b2",
-      "links": [
-        {
-          "title": "[News] Lumentum, Qualcomm, and Corning to Demonstrate High-Density 1060 nm VCSEL Optical D2D Connectivity for AI Scale-Up at ECOC 2026",
-          "url": "//www.ledinside.com/news/2026/10/2026_10_02_04",
-          "source": "LEDinside 英文",
+          "title": "Delaying light from quantum dots",
+          "url": "https://www.nature.com/articles/s41566-026-02015-w",
+          "source": "Nature Photonics",
           "score": 71.3,
-          "published_at": "2026-10-01T23:39:46+00:00"
+          "published_at": "2026-09-30T00:00:00+00:00"
         },
         {
-          "title": "[News] Marvell to Showcase Industry-First 2nm Optical Technology Demos for AI Data Center Infrastructure at ECOC 2026",
-          "url": "//www.ledinside.com/news/2026/10/2026_10_02_05",
-          "source": "LEDinside 英文",
-          "score": 71.0,
-          "published_at": "2026-10-01T15:42:30+00:00"
-        },
-        {
-          "title": "[News] Micro LED Optical Interconnects Take Center Stage at CIOE 2026",
-          "url": "//www.ledinside.com/news/2026/10/2026_10_01_02",
-          "source": "LEDinside 英文",
-          "score": 70.2,
-          "published_at": "2026-09-30T16:13:15+00:00"
+          "title": "Zinc oxide quantum dots enable faster charge detection, laying groundwork for spin qubits",
+          "url": "https://phys.org/news/2026-09-zinc-oxide-quantum-dots-enable.html",
+          "source": "Phys.org 物理新闻",
+          "score": 60.0,
+          "published_at": null
         }
       ],
       "top_terms": [
-        "optical",
-        "ecoc",
-        "center",
-        "lumentum",
-        "qualcomm"
+        "quantum",
+        "dots",
+        "delaying",
+        "zinc",
+        "oxide"
       ],
       "rank": 10,
-      "heat": 31.3,
+      "heat": 32.0,
       "status": "关注中"
     }
   ]
