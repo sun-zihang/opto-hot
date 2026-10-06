@@ -1,288 +1,30 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T11:16:52.570472+00:00",
+  "generatedAt": "2026-10-06T11:09:48.390027+00:00",
   "count": 10,
   "items": [
     {
       "terms": [
-        "tops",
-        "智驾",
-        "激光",
-        "激光雷达",
-        "算力"
-      ],
-      "source_count": 8,
-      "signal_count": 9,
-      "sources": [
-        "OFweek 激光频道",
-        "搜狗微信·光电行业 · 一起去SUV",
-        "搜狗微信·光电行业 · 小赞的驾值观",
-        "搜狗微信·光电行业 · 幸福美满一家",
-        "搜狗微信·光电行业 · 林林是吃货",
-        "搜狗微信·光电行业 · 车主指南",
-        "搜狗微信·光电行业 · 车友会会",
-        "搜狗微信·光电行业 · 风风聊车"
-      ],
-      "score": 96.5,
-      "latest_at": "2026-10-05T11:16:52.570472+00:00",
-      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-      "id": "34fa6fafc8f5",
-      "links": [
-        {
-          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
-          "source": "OFweek 激光频道",
-          "score": 97.5,
-          "published_at": "2026-08"
-        },
-        {
-          "title": "2560TOPS算力+4激光雷达+710km续航,9月4款重磅MPV上市",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_GBOvV8xnfbex-Lcu9a2NgFqXa8Fplpd9dQSGigrSc_D3vV7-Aeo_wmFiSFUlZNytdlBZvIBHsQDmJiun5ST8hBWL38imU8nxIpAK2e9Vz84JRppCmRZ5wIruo0Gkl93LWE_7M0Forav9_CoDC6q7DABAQpcbzw2dJ_lzAvltlmzD5ZVLuY44f6_paeSqFf9DqmuJd4RvRJD1AfaFW2DefQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=CB36A06F148350101E18430B1D61A6B51EA10ED26AC3871F",
-          "source": "搜狗微信·光电行业 · 车主指南",
-          "score": 87.5,
-          "published_at": "2026-10-05T10:07:37+00:00"
-        },
-        {
-          "title": "30万级MPV迎来＂智驾卷王＂?双激光雷达上车,续航超1100公里,家用真香",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_GBOvV8xnfbex-Lcu9a2NgFqXa8Fplpd92tJYCNn3hWnWh7urxKi0kRD7T4Iv1EekC3RUL0W82nAZqSswzWnSFpYujnRb3dPKcBgAolJ5-7BZWBvXwj_8IC0UHugv9xnOFsC03gg_rW7ugqqm7vNFOp6uh5qLK4Neq7mAtOnUVT2BSqoL9urYPqEMZ6RaeVkEp_N8bAULp3FQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=CB36A06F148350101E18430B1D61A6B51EA10ED26AC3871F",
-          "source": "搜狗微信·光电行业 · 车友会会",
-          "score": 87.5,
-          "published_at": "2026-10-05T10:59:07+00:00"
-        },
-        {
-          "title": "以前觉得国产车没激光雷达,现在十一万出头就全系标配?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_GBOvV8xnfbex-Lcu9a2NgFqXa8Fplpd94droCAgZ9UFsUEoiNTDidP6KETyGobiiGCQ7VE-t8uXmw60nCdtrVa5HV7GZbtdEp1qHn7ym3OEOj-a71an-ijp1q4E2LAVciTzor_WC5Q_OcM9t2eNheSqGL7TiwJVfNJU5OipSQblz69Ks9rMnfDHnYE0y3wrpkv_D9TKNTgzP28temKTOwg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=CB36A06F148350101E18430B1D61A6B51EA10ED26AC3871F",
-          "source": "搜狗微信·光电行业 · 幸福美满一家",
-          "score": 87.4,
-          "published_at": "2026-10-05T09:29:31+00:00"
-        },
-        {
-          "title": "12万的车竟全系标配激光雷达?深蓝S05把比亚迪海狮05逼急了",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_GBOvV8xnfbex-Lcu9a2NgFqXa8Fplpd9_f5F5fLqRqlkdYioZGIqd8MTMcjy0yOsHUnlbwoWYQZrRy2n-nS9jfDSuj8jNjaCLZzxAn98N0lDSz6CE1NbnWiNHdAxRAXDhU0syIxgniln5AidcoHpDI2owLHJMchbENNcslK9DFBNLas16cN86lVg4NbcrHek5zfCvS_jxdb6zvkPgoArRQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=CB36A06F148350101E18430B1D61A6B51EA10ED26AC3871F",
-          "source": "搜狗微信·光电行业 · 风风聊车",
-          "score": 87.4,
-          "published_at": "2026-10-05T09:20:07+00:00"
-        }
-      ],
-      "top_terms": [
-        "激光",
-        "光雷",
-        "雷达",
-        "标配",
-        "深蓝"
-      ],
-      "rank": 1,
-      "heat": 96.5,
-      "status": "爆"
-    },
-    {
-      "terms": [
-        "算力"
-      ],
-      "source_count": 3,
-      "signal_count": 16,
-      "sources": [
-        "C114中国通信网_监管",
-        "C114中国通信网_要闻精选",
-        "工信部要闻"
-      ],
-      "score": 77.5,
-      "latest_at": "2026-10-05T11:16:52.570472+00:00",
-      "title": "工信部对我国网络强国建设提出四点建议",
-      "id": "f1bb13f709a5",
-      "links": [
-        {
-          "title": "工信部对我国网络强国建设提出四点建议",
-          "url": "http://www.c114.net/news/16/a997101.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 95.0,
-          "published_at": null
-        },
-        {
-          "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
-          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6aff1cc2d094936aaca2f131389d3f8.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
-        },
-        {
-          "title": "三部门关于印发《轻工纺织产业发展“十五五”规划》的通知",
-          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9fb9b35709f941d4805d064092032bd0.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
-        },
-        {
-          "title": "工业和信息化部等五部门关于组织开展2026年度国家绿色算力设施推荐工作的通知",
-          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_37e463f44fbd44ed9b0fdf4833c3aacd.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
-        },
-        {
-          "title": "工业和信息化部等十部门关于印发《医药工业发展“十五五”规划》的通知",
-          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9463adac4db040159f6cbf482675eeea.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
-        }
-      ],
-      "top_terms": [
-        "规划",
-        "工业",
-        "信息",
-        "工信",
-        "信部"
-      ],
-      "rank": 2,
-      "heat": 77.5,
-      "status": "发酵中"
-    },
-    {
-      "terms": [
-        "absence",
-        "aperture",
-        "atomic",
-        "backscattering",
-        "boosts",
-        "cavities",
-        "characterization",
-        "coherence",
-        "communication",
-        "controllable",
-        "coupling",
-        "crystal",
-        "down-conversion",
-        "electrons",
-        "engineering",
-        "experimental",
-        "fabrication",
-        "far-field",
-        "fast",
-        "fiber",
-        "fields",
-        "foundational",
-        "free-space",
-        "functionalities",
-        "functions",
-        "generates",
-        "green",
-        "immunity",
-        "indistinguishable",
-        "inter-core",
-        "inverse",
-        "inverse-designed",
-        "lantern",
-        "mode-tunable",
-        "multicore",
-        "nano-printed",
-        "nanophotonic",
-        "nearly",
-        "numerical",
-        "parametric",
-        "photon-number-resolved",
-        "photonic",
-        "photons",
-        "polarization",
-        "precomputed",
-        "previously",
-        "push",
-        "quantitative",
-        "quantum",
-        "reach",
-        "reciprocal",
-        "spin-orbit",
-        "states",
-        "stimulated",
-        "storage",
-        "structured",
-        "subwavelength-scale",
-        "telecom",
-        "trap",
-        "two-photon-polymerized",
-        "universal",
-        "versatile",
-        "waveguides"
-      ],
-      "source_count": 3,
-      "signal_count": 10,
-      "sources": [
-        "Nature Photonics",
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "score": 75.5,
-      "latest_at": "2026-10-05T11:16:52.570472+00:00",
-      "title": "Hybrid nanophotonic trap boosts atomic storage and coherence times",
-      "id": "d6438656b719",
-      "links": [
-        {
-          "title": "Hybrid nanophotonic trap boosts atomic storage and coherence times",
-          "url": "https://www.nature.com/articles/s41566-026-02005-y",
-          "source": "Nature Photonics",
-          "score": 90.4,
-          "published_at": "2026-09-30T00:00:00+00:00"
-        },
-        {
-          "title": "Absence of universal backscattering immunity in reciprocal photonic waveguides",
-          "url": "https://arxiv.org/abs/2610.02758",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.7,
-          "published_at": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Fast Nanophotonic Inverse Design using Precomputed Numerical Green Functions",
-          "url": "https://arxiv.org/abs/2610.02821",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.7,
-          "published_at": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Quantitative spin-orbit engineering enables subwavelength-scale programmable polarization states for versatile photonic functionalities",
-          "url": "https://arxiv.org/abs/2610.03521",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.7,
-          "published_at": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Stimulated Parametric Down-Conversion: From Foundational Coherence to Structured Light Applications",
-          "url": "https://arxiv.org/abs/2610.03241",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.7,
-          "published_at": "2026-10-05T04:00:00+00:00"
-        }
-      ],
-      "top_terms": [
-        "photonic",
-        "quantum",
-        "nanophotonic",
-        "inverse",
-        "numerical"
-      ],
-      "rank": 3,
-      "heat": 75.5,
-      "status": "发酵中"
-    },
-    {
-      "terms": [
         "光互联",
         "光电",
+        "光纤",
         "光通信",
         "半导体",
         "激光",
         "算力"
       ],
-      "source_count": 3,
-      "signal_count": 14,
+      "source_count": 4,
+      "signal_count": 15,
       "sources": [
         "C114中国通信网_通信财经",
         "LEDinside 中文",
-        "OFweek 光电频道"
+        "OFweek 光电频道",
+        "搜狗微信·光电行业 · 科技链研究笔记"
       ],
-      "score": 74.6,
-      "latest_at": "2026-10-05T11:16:52.570472+00:00",
+      "score": 81.0,
+      "latest_at": "2026-10-06T11:09:48.390027+00:00",
       "title": "净利暴增186%！光库科技正在兑现AI算力红利",
-      "id": "73dc326ed190",
+      "id": "9cee7a3681f7",
       "links": [
         {
           "title": "净利暴增186%！光库科技正在兑现AI算力红利",
@@ -327,9 +69,71 @@
         "增长",
         "同比"
       ],
-      "rank": 4,
-      "heat": 74.6,
+      "rank": 1,
+      "heat": 81.0,
       "status": "发酵中"
+    },
+    {
+      "terms": [
+        "算力"
+      ],
+      "source_count": 2,
+      "signal_count": 15,
+      "sources": [
+        "C114中国通信网_监管",
+        "工信部要闻"
+      ],
+      "score": 70.0,
+      "latest_at": "2026-10-06T11:09:48.390027+00:00",
+      "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
+      "id": "64ea20247d6d",
+      "links": [
+        {
+          "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
+          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6aff1cc2d094936aaca2f131389d3f8.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
+        },
+        {
+          "title": "三部门关于印发《轻工纺织产业发展“十五五”规划》的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9fb9b35709f941d4805d064092032bd0.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
+        },
+        {
+          "title": "工业和信息化部等五部门关于组织开展2026年度国家绿色算力设施推荐工作的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_37e463f44fbd44ed9b0fdf4833c3aacd.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
+        },
+        {
+          "title": "工业和信息化部等十部门关于印发《医药工业发展“十五五”规划》的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9463adac4db040159f6cbf482675eeea.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
+        },
+        {
+          "title": "两部门关于印发《电子信息制造业发展“十五五”规划》的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_f4864217588b44c489d58da20de766c8.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "规划",
+        "工业",
+        "信息",
+        "部门",
+        "业和"
+      ],
+      "rank": 2,
+      "heat": 70.0,
+      "status": "关注中"
     },
     {
       "terms": [],
@@ -340,7 +144,7 @@
         "工信部要闻"
       ],
       "score": 52.5,
-      "latest_at": "2026-10-05T11:16:52.570472+00:00",
+      "latest_at": "2026-10-06T11:09:48.390027+00:00",
       "title": "2026年中国国际信息通信展览会在京开幕",
       "id": "9802be91aca7",
       "links": [
@@ -387,7 +191,7 @@
         "息通",
         "信业"
       ],
-      "rank": 5,
+      "rank": 3,
       "heat": 52.5,
       "status": "关注中"
     },
@@ -402,7 +206,7 @@
         "C114中国通信网_设备商"
       ],
       "score": 48.5,
-      "latest_at": "2026-10-05T11:16:52.570472+00:00",
+      "latest_at": "2026-10-06T11:09:48.390027+00:00",
       "title": "构建开源开放人才生态，夯实产业自主根基｜2026华为ICT学院年会圆满举办",
       "id": "8e5d96df92ef",
       "links": [
@@ -449,61 +253,83 @@
         "为全",
         "全联"
       ],
-      "rank": 6,
+      "rank": 4,
       "heat": 48.5,
       "status": "关注中"
     },
     {
       "terms": [
-        "digital",
-        "field-of-view",
-        "fraunhofer",
-        "frequency",
+        "antenna",
+        "cucumbers",
+        "earth",
+        "electrons",
+        "experimental",
+        "fields",
         "full",
-        "holographic",
-        "image",
+        "grow",
+        "intelligent",
         "laser",
-        "pattern",
-        "patterning",
-        "reveals",
-        "rotating",
-        "twin"
+        "laser-ionized",
+        "led",
+        "lighting",
+        "lightsaber-like",
+        "philips",
+        "plasma",
+        "previously",
+        "push",
+        "quantum",
+        "radio",
+        "reach",
+        "states",
+        "thanet",
+        "tomatoes",
+        "transmit",
+        "uses",
+        "waves",
+        "winter"
       ],
       "source_count": 2,
-      "signal_count": 2,
+      "signal_count": 3,
       "sources": [
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
+        "LEDinside 英文",
+        "Phys.org 物理新闻"
       ],
-      "score": 42.0,
-      "latest_at": "2026-10-05T11:16:52.570472+00:00",
-      "title": "Digital twin for full field-of-view Fraunhofer holographic patterning",
-      "id": "5db232b529fc",
+      "score": 45.5,
+      "latest_at": "2026-10-06T11:09:48.390027+00:00",
+      "title": "[News] Thanet Earth Uses Intelligent Philips LED Lighting to Grow Cucumbers and Tomatoes throughout the Full UK Winter",
+      "id": "3784f7a72076",
       "links": [
         {
-          "title": "Digital twin for full field-of-view Fraunhofer holographic patterning",
-          "url": "https://arxiv.org/abs/2610.02518",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 69.7,
-          "published_at": "2026-10-05T04:00:00+00:00"
+          "title": "[News] Thanet Earth Uses Intelligent Philips LED Lighting to Grow Cucumbers and Tomatoes throughout the Full UK Winter",
+          "url": "//www.ledinside.com/news/2026/10/2026_10_06_07",
+          "source": "LEDinside 英文",
+          "score": 72.1,
+          "published_at": "2026-10-05T23:58:30+00:00"
         },
         {
-          "title": "Rotating light pattern reveals laser frequency in a single image",
-          "url": "https://phys.org/news/2026-09-rotating-pattern-reveals-laser-frequency.html",
+          "title": "Lightsaber-like plasma antenna uses laser-ionized air to transmit radio waves",
+          "url": "https://phys.org/news/2026-10-lightsaber-plasma-antenna-laser-ionized.html",
           "source": "Phys.org 物理新闻",
-          "score": 60.0,
+          "score": 62.5,
+          "published_at": null
+        },
+        {
+          "title": "3D light fields push electrons into quantum states previously beyond experimental reach",
+          "url": "https://phys.org/news/2026-09-3d-fields-electrons-quantum-states.html",
+          "source": "Phys.org 物理新闻",
+          "score": 62.5,
           "published_at": null
         }
       ],
       "top_terms": [
-        "digital",
-        "twin",
-        "full",
-        "field",
-        "view"
+        "uses",
+        "lightsaber",
+        "like",
+        "plasma",
+        "antenna"
       ],
-      "rank": 7,
-      "heat": 42.0,
+      "rank": 5,
+      "heat": 45.5,
       "status": "关注中"
     },
     {
@@ -519,7 +345,7 @@
         "COEMA 中国光电子行业协会"
       ],
       "score": 42.0,
-      "latest_at": "2026-10-05T11:16:52.570472+00:00",
+      "latest_at": "2026-10-06T11:09:48.390027+00:00",
       "title": "宇树科技计划登陆科创板 中国移动已投资",
       "id": "f3596e90ef88",
       "links": [
@@ -545,52 +371,126 @@
         "创板",
         "激光"
       ],
-      "rank": 8,
+      "rank": 6,
       "heat": 42.0,
       "status": "关注中"
     },
     {
-      "terms": [],
-      "source_count": 1,
-      "signal_count": 3,
-      "sources": [
-        "C114中国通信网_要闻精选"
+      "terms": [
+        "smart",
+        "tops",
+        "激光",
+        "激光雷达",
+        "算力"
       ],
-      "score": 38.0,
-      "latest_at": "2026-10-05T11:16:52.570472+00:00",
-      "title": "大招齐发，英特尔直击网络转型",
-      "id": "40753cddc649",
+      "source_count": 2,
+      "signal_count": 2,
+      "sources": [
+        "搜狗微信·光电行业 · 车主指南",
+        "搜狗微信·光电行业 · 静屿风清"
+      ],
+      "score": 42.0,
+      "latest_at": "2026-10-06T11:09:48.390027+00:00",
+      "title": "都有激光雷达,smart精灵#2 11月上市,2.75米、双门双座+近400公里续航",
+      "id": "cce81f3b3356",
       "links": [
         {
-          "title": "大招齐发，英特尔直击网络转型",
-          "url": "http://www.c114.com.cn/topic/5096/a996852.html?utm_medium=C114&dclid=CLmNp8bEwdICFRwhKgodT4YHqQ",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
+          "title": "都有激光雷达,smart精灵#2 11月上市,2.75米、双门双座+近400公里续航",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh6WNnlr2MCaeFoOQSL5SBJ81qXa8Fplpd9QOpvHUyr-Yoy-dP3LhqKMJhqmEITrdAWP4VlPBV07W5sOeZ-a41jXd5-OhNSDPS0Voqo3XE5RBaEru9t0fWU4YTWv2mmS_PR44c5RgBLcZymfGuewe6dgxDqZYCiMe_ctoM-wyn1E-MUFEb_XRehwIDCIEOPnJtyLb2zG_LbQ5lAe0f8bRARvQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=D2E308FFF44010796D683344699416856EEFC7166AC4D6F5",
+          "source": "搜狗微信·光电行业 · 静屿风清",
+          "score": 70.0,
+          "published_at": "2026-10-06T11:05:51+00:00"
         },
         {
-          "title": "对话英特尔：产业协作与标准化助推5G成功",
-          "url": "http://www.c114.net/news/138/a996926.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
-        },
-        {
-          "title": "英特尔助力电信网络转型 让5G不再是“看上去很美”",
-          "url": "http://www.c114.net/topic/5096/a996887.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
+          "title": "2560TOPS算力+4激光雷达+710km续航,9月4款重磅MPV上市",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh6WNnlr2MCaeFoOQSL5SBJ81qXa8Fplpd9--2cWApOQh37ImyAR4Ecu24v6mWPhARV55Ej96DhEigfAmGDKzWh5Es50n8iru6zGb07pt2WSqw3E0oTOaMyu4uahVxTuwG9KjmngJ2KY8qOSRmasoHDwHgx4vzZ67FcTu5V5K4GzLlv8h0vVuZurPijGkfTm_rVDn6lGhVV5jZr1dbZWbKUeQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=D2E308FFF44010796D683344699416856EEFC7166AC4D6F5",
+          "source": "搜狗微信·光电行业 · 车主指南",
+          "score": 69.1,
+          "published_at": "2026-10-05T10:07:37+00:00"
         }
       ],
       "top_terms": [
-        "英特",
-        "特尔",
-        "网络",
-        "络转",
-        "转型"
+        "续航",
+        "上市",
+        "激光",
+        "光雷",
+        "雷达"
       ],
-      "rank": 9,
+      "rank": 7,
+      "heat": 42.0,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "acquires",
+        "advance",
+        "autonomous",
+        "capabilities",
+        "defense",
+        "directorate",
+        "drone",
+        "edison",
+        "forces",
+        "innovations",
+        "innoviz",
+        "israel",
+        "lidar",
+        "mafat",
+        "ministry",
+        "operations",
+        "optoelectronic",
+        "ouster",
+        "partners",
+        "patent",
+        "portfolio",
+        "recognizes",
+        "research",
+        "response",
+        "seneca",
+        "strategic",
+        "suitable",
+        "wildfire"
+      ],
+      "source_count": 1,
+      "signal_count": 3,
+      "sources": [
+        "LEDinside 英文"
+      ],
+      "score": 38.0,
+      "latest_at": "2026-10-06T11:09:48.390027+00:00",
+      "title": "[News] Ouster Partners with Seneca to Advance Autonomous Drone Technology for Wildfire Response Operations",
+      "id": "10c209351442",
+      "links": [
+        {
+          "title": "[News] Ouster Partners with Seneca to Advance Autonomous Drone Technology for Wildfire Response Operations",
+          "url": "//www.ledinside.com/news/2026/10/2026_10_06_05",
+          "source": "LEDinside 英文",
+          "score": 72.1,
+          "published_at": "2026-10-05T23:48:03+00:00"
+        },
+        {
+          "title": "[News] Edison Innovations Acquires Strategic Patent Portfolio From  Advanced Optoelectronic Technology",
+          "url": "//www.ledinside.com/news/2026/10/2026_10_06_02",
+          "source": "LEDinside 英文",
+          "score": 71.6,
+          "published_at": "2026-10-05T10:33:14+00:00"
+        },
+        {
+          "title": "[News] Israel Defense Forces, Through the Ministry of Defense's Directorate of Defense, Research and Development (MAFAT) Recognizes Innoviz Technologies' LiDAR Capabilities as Suitable for Defense Applications",
+          "url": "//www.ledinside.com/news/2026/10/2026_10_05_03",
+          "source": "LEDinside 英文",
+          "score": 71.2,
+          "published_at": "2026-10-04T22:50:39+00:00"
+        }
+      ],
+      "top_terms": [
+        "defense",
+        "ouster",
+        "partners",
+        "seneca",
+        "advance"
+      ],
+      "rank": 8,
       "heat": 38.0,
       "status": "关注中"
     },
@@ -604,7 +504,7 @@
         "C114中国通信网_IT资讯"
       ],
       "score": 38.0,
-      "latest_at": "2026-10-05T11:16:52.570472+00:00",
+      "latest_at": "2026-10-06T11:09:48.390027+00:00",
       "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
       "id": "79ca1f2a334a",
       "links": [
@@ -637,8 +537,60 @@
         "英镑",
         "英国"
       ],
-      "rank": 10,
+      "rank": 9,
       "heat": 38.0,
+      "status": "关注中"
+    },
+    {
+      "terms": [
+        "charge",
+        "delaying",
+        "detection",
+        "dots",
+        "faster",
+        "groundwork",
+        "laying",
+        "oxide",
+        "quantum",
+        "qubits",
+        "spin",
+        "zinc"
+      ],
+      "source_count": 2,
+      "signal_count": 2,
+      "sources": [
+        "Nature Photonics",
+        "Phys.org 物理新闻"
+      ],
+      "score": 32.0,
+      "latest_at": "2026-10-06T11:09:48.390027+00:00",
+      "title": "Delaying light from quantum dots",
+      "id": "c991b133ac0a",
+      "links": [
+        {
+          "title": "Delaying light from quantum dots",
+          "url": "https://www.nature.com/articles/s41566-026-02015-w",
+          "source": "Nature Photonics",
+          "score": 69.6,
+          "published_at": "2026-09-30T00:00:00+00:00"
+        },
+        {
+          "title": "Zinc oxide quantum dots enable faster charge detection, laying groundwork for spin qubits",
+          "url": "https://phys.org/news/2026-09-zinc-oxide-quantum-dots-enable.html",
+          "source": "Phys.org 物理新闻",
+          "score": 60.0,
+          "published_at": null
+        }
+      ],
+      "top_terms": [
+        "quantum",
+        "dots",
+        "delaying",
+        "zinc",
+        "oxide"
+      ],
+      "rank": 10,
+      "heat": 32.0,
       "status": "关注中"
     }
   ]
