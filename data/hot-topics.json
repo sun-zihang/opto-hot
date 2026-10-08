@@ -1,349 +1,278 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T10:55:45.897278+00:00",
+  "generatedAt": "2026-10-08T11:16:53.357755+00:00",
   "count": 10,
   "items": [
     {
       "terms": [
-        "absorber",
-        "achiral",
-        "amplifier",
-        "antenna",
-        "atomic-layer",
-        "atoms",
-        "benchmark",
-        "bismuth-substituted",
-        "bound",
-        "broadband",
-        "calibration-free",
-        "chirality",
-        "circuit",
-        "communication",
-        "compact",
-        "conductivity-driven",
-        "conical",
-        "consistent",
-        "continuity",
-        "contributions",
-        "cord",
-        "crossover",
-        "cucumbers",
-        "degeneracy",
-        "delaying",
-        "detectors",
-        "dichalcogenide",
-        "direct",
-        "dispersion",
-        "dots",
-        "dual-channel",
-        "dynamics",
-        "earth",
-        "effect",
-        "effects",
-        "electrodipole",
-        "electronics",
-        "electrons",
-        "emerge",
-        "energy",
-        "estimation",
-        "experimental",
-        "extraction",
-        "faraday",
-        "femtosecond",
-        "fermions",
-        "fields",
-        "free-electron",
-        "full",
-        "functions",
-        "fundamentals",
-        "garnets",
-        "generates",
-        "geometrically",
-        "giant",
-        "gravitational-wave",
-        "grow",
-        "heat",
-        "heavy",
-        "heterogeneity",
-        "huygens",
-        "hyperspectral",
-        "identify",
-        "imaging",
-        "imperfect",
-        "implications",
-        "in-line",
-        "indistinguishable",
-        "intelligent",
-        "inter-valley",
-        "interactions",
-        "interface",
-        "interference",
-        "interferometry",
-        "inverse",
-        "iron",
-        "laguerre-gaussian",
-        "laser",
-        "laser-ionized",
-        "lasers",
-        "led",
-        "levitated",
-        "lighting",
-        "lightsaber-like",
-        "lightwave",
-        "long-pulse",
-        "magnetic",
-        "magnetism",
-        "magneto-optics",
-        "magnetodipole",
-        "mediated",
-        "metabolism",
-        "metal",
-        "metasurface",
-        "metasurfaces",
-        "modal",
-        "mode",
-        "modulation",
-        "monitoring",
-        "monolayers",
-        "moving",
-        "multilayer",
-        "multimodal",
-        "nanoantenna-based",
-        "nanostructures",
-        "near-field",
-        "nearly",
-        "non-equilibrium",
-        "non-markovian",
-        "nonreciprocal",
-        "octupolar",
-        "optical",
-        "optics",
-        "optimizing",
-        "optomechanical",
-        "optomechanics",
-        "oxygenation",
-        "parametric",
-        "perfect",
-        "perfusion",
-        "philips",
-        "phonon",
-        "photons",
-        "physicists",
-        "physics-grounded",
-        "plasma",
-        "plasmonic",
-        "platform",
-        "polarscale",
-        "previously",
-        "profiles",
-        "protons",
-        "pulses",
-        "push",
-        "quantum",
-        "radio",
-        "radiometrically",
-        "raman",
-        "reach",
-        "real",
-        "recoil-heating",
-        "reconstructive",
-        "record",
-        "refractometric",
-        "resonance",
-        "resonators",
-        "respond",
-        "reveals",
-        "rgb-to-stokes",
-        "ride",
-        "scattering",
-        "semi-infinite",
-        "semiconductor",
-        "sensing",
-        "shaping",
-        "simultaneous",
-        "skyrmion",
-        "spatial",
-        "speckle",
-        "spectrometer",
-        "spinal",
-        "squeezed",
-        "states",
-        "stimulated",
-        "synthesizing",
-        "test",
-        "testing",
-        "thanet",
-        "theory",
-        "tomatoes",
-        "transition",
-        "transmit",
-        "unlocking",
-        "uses",
-        "visualization",
-        "wave",
-        "wavefront",
-        "waveguide",
-        "waves",
-        "ways",
-        "winter",
-        "x-ray"
-      ],
-      "source_count": 5,
-      "signal_count": 27,
-      "sources": [
-        "EDN 电子工程专辑",
-        "LEDinside 英文",
-        "Nature Photonics",
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "score": 91.0,
-      "latest_at": "2026-10-07T10:55:45.897278+00:00",
-      "title": "Calibration-Free Broadband Reconstructive Spectrometer based on Conical Phase Modulation",
-      "id": "9da965c35aa6",
-      "links": [
-        {
-          "title": "Calibration-Free Broadband Reconstructive Spectrometer based on Conical Phase Modulation",
-          "url": "https://arxiv.org/abs/2610.07021",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-10-07T04:00:00+00:00"
-        },
-        {
-          "title": "Conductivity-driven chirality in geometrically achiral plasmonic nanostructures and metasurfaces",
-          "url": "https://arxiv.org/abs/2610.07063",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-10-07T04:00:00+00:00"
-        },
-        {
-          "title": "Dual-channel metasurfaces for refractometric and spatial heterogeneity sensing",
-          "url": "https://arxiv.org/abs/2610.07188",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-10-07T04:00:00+00:00"
-        },
-        {
-          "title": "Recoil-heating modulation in levitated optomechanics through optical wavefront shaping",
-          "url": "https://arxiv.org/abs/2610.07235",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-10-07T04:00:00+00:00"
-        },
-        {
-          "title": "Compact Circuit Models for Nanoantenna-Based Lightwave Electronics",
-          "url": "https://arxiv.org/abs/2610.07408",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.8,
-          "published_at": "2026-10-07T04:00:00+00:00"
-        }
-      ],
-      "top_terms": [
-        "quantum",
-        "laser",
-        "metasurfaces",
-        "non",
-        "free"
-      ],
-      "rank": 1,
-      "heat": 91.0,
-      "status": "爆"
-    },
-    {
-      "terms": [
-        "光互联",
-        "光电",
-        "光芯片",
-        "光通信",
-        "半导体",
         "激光",
-        "硅光",
-        "算力"
+        "激光雷达"
       ],
-      "source_count": 5,
-      "signal_count": 16,
+      "source_count": 6,
+      "signal_count": 7,
       "sources": [
-        "C114中国通信网_通信财经",
-        "LEDinside 中文",
-        "OFweek 光电频道",
-        "搜狗微信·光电行业 · AI智境社",
-        "搜狗微信·光电行业 · 硬核芯知"
+        "OFweek 激光频道",
+        "搜狗微信·光电行业 · 30秒懂车",
+        "搜狗微信·光电行业 · 一起去SUV",
+        "搜狗微信·光电行业 · 汽车之家",
+        "搜狗微信·光电行业 · 汽车前瞻资讯",
+        "搜狗微信·光电行业 · 驾仕派"
       ],
-      "score": 87.5,
-      "latest_at": "2026-10-07T10:55:45.897278+00:00",
-      "title": "净利暴增186%！光库科技正在兑现AI算力红利",
-      "id": "d1f539a71675",
+      "score": 89.5,
+      "latest_at": "2026-10-08T11:16:53.357755+00:00",
+      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
+      "id": "4dbec7b22a85",
       "links": [
         {
-          "title": "净利暴增186%！光库科技正在兑现AI算力红利",
-          "url": "https://optics.ofweek.com/2026-08/ART-8100-2500-30698997.html",
-          "source": "OFweek 光电频道",
-          "score": 100.0,
+          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
+          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
+          "source": "OFweek 激光频道",
+          "score": 92.5,
           "published_at": "2026-08"
         },
         {
-          "title": "长光华芯上半年营收3.91亿元 同比增长82.67%",
-          "url": "https://www.c114.com.cn/news/123/a1316669.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 95.0,
-          "published_at": null
+          "title": "9.29万起 CCD悬架 激光雷达 综合续航1160km 同级最省",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzMET5g_tS2yrsUI0mVClRw3lk0nwceKqVqXa8Fplpd9dNV0Eavg593Pwb3TVSdw_QRlrrxold_iOrbnIwq0K8HcU4yhXQipRtTrsyLiHln2dFFoQSzSidAxxdBWHNnAzCnq0Pi7vuvWT8jzct-fgIg4hScI3jHe77pjiVsIiEvWqSP22h4B9mjbsqBqKtG3GOkNFw-LZI1DKLyEloht6tjuL0unUdKkuw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=E2B5C70A33C7B5AF040559515FEED6C404120A076AC77B9E",
+          "source": "搜狗微信·光电行业 · 30秒懂车",
+          "score": 82.5,
+          "published_at": "2026-10-08T10:04:11+00:00"
         },
         {
-          "title": "广和通上半年营收37.78亿元增长1.92% 净利润同比下降71.63%",
-          "url": "https://www.c114.com.cn/news/123/a1316478.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 95.0,
-          "published_at": null
+          "title": "14.99万起,深蓝S07把激光雷达打下来了?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzMET5g_tS2yrsUI0mVClRw3lk0nwceKqVqXa8Fplpd99rek7RkpC-TVv0_riR_vzUaWDApUKKQi7rAqsbI-M0X8bgYE5pJ49uw82Tm1cpftBybI_FtkeSu1EdbN_8L1En8mcEMver-9v1FHeQUeNvnkB453yQINbC-yIiCx431OOWyCUdTbDoZeguxFVj4gJU2LursUeBcEkfyyM7-TXH7uL0unUdKkuw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=E2B5C70A33C7B5AF040559515FEED6C404120A076AC77B9E",
+          "source": "搜狗微信·光电行业 · 汽车前瞻资讯",
+          "score": 82.5,
+          "published_at": "2026-10-08T10:58:25+00:00"
         },
         {
-          "title": "频准激光上半年营收2.56亿元增42.13% 净利润增24.58%",
-          "url": "https://www.c114.com.cn/news/123/a1316461.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 95.0,
-          "published_at": null
+          "title": "11.88万元起,领克20入门就有激光雷达/800V,在同价位竞争力肉眼可见",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzMET5g_tS2yrsUI0mVClRw3lk0nwceKqVqXa8Fplpd9BXL0CoKJwChVkNIoVZn1Uq4l1UmABBDFikzsqEti8lpeEYSHx_rUZV9GBjpSl2dzI809cKI_n3H0zg6zVwDgjFc3x1_K-D9yEuspT5r9adM4uKyGgkCDlDUtrqRvcPirDKTBDdbZZV0XPN7ALBo0_FTVwkfJI8Hk2C_gshkGJGbRtmyIGw2VAg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=E2B5C70A33C7B5AF040559515FEED6C404120A076AC77B9E",
+          "source": "搜狗微信·光电行业 · 驾仕派",
+          "score": 82.3,
+          "published_at": "2026-10-08T04:37:19+00:00"
         },
         {
-          "title": "亨通光电上半年净利润31.2亿元 同比增长93.38%",
-          "url": "https://www.c114.com.cn/news/123/a1316458.html",
-          "source": "C114中国通信网_通信财经",
-          "score": 95.0,
-          "published_at": null
+          "title": "800V高压平台,标配激光雷达,限时11.88万起就入手!",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzMET5g_tS2yrsUI0mVClRw3lk0nwceKqVqXa8Fplpd9NXLLksGNrVY7CF5T0vMH1AjTFhai52eeppcCzCD_Q1xOgqwDs7fUHlL8DW186Rc8eOF1fMxCH3WhI_NR0FFSZRoa9ngamA7aXdbK6ptmWThZ0biv9rGPqoT52JCIYJNFqNCnHGBaC1fz_R124Ib7XluTdngywiN-fthmnRWg8q7wdVqCwyPdzA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=E2B5C70A33C7B5AF040559515FEED6C404120A076AC77B9E",
+          "source": "搜狗微信·光电行业 · 汽车之家",
+          "score": 82.2,
+          "published_at": "2026-10-08T03:00:13+00:00"
         }
       ],
       "top_terms": [
-        "亿元",
-        "上半",
-        "半年",
-        "增长",
-        "同比"
+        "万起",
+        "激光",
+        "光雷",
+        "雷达",
+        "有激"
+      ],
+      "rank": 1,
+      "heat": 89.5,
+      "status": "爆"
+    },
+    {
+      "terms": [
+        "absorption",
+        "acceleration",
+        "alignment-free",
+        "angular",
+        "atomic-layer",
+        "augmented",
+        "came",
+        "cavity",
+        "characterization",
+        "charge",
+        "cluster",
+        "coherent",
+        "collisions",
+        "comoving",
+        "compact",
+        "computing",
+        "conflicting",
+        "contrast",
+        "density",
+        "detection",
+        "diamond",
+        "dissipation",
+        "easier",
+        "effect",
+        "efficient",
+        "electromagnetic",
+        "electromagnetically",
+        "emerge",
+        "engineered",
+        "experiments",
+        "explain",
+        "fermions",
+        "field",
+        "fluctuation",
+        "forget",
+        "front-tilted",
+        "fully",
+        "function",
+        "gold",
+        "grating",
+        "gratings",
+        "guided",
+        "heavy",
+        "heterodyne",
+        "integrated",
+        "interactions",
+        "interconnect",
+        "interface",
+        "interference",
+        "interferometers",
+        "kerr",
+        "laser",
+        "laser-driven",
+        "lattice",
+        "linearly",
+        "magneto-optical",
+        "magnetometry",
+        "makes",
+        "measured",
+        "mechanical",
+        "metamaterials",
+        "metasurfaces",
+        "microwave",
+        "mitigation",
+        "mode",
+        "modeling",
+        "nano-magnetic",
+        "nanodisk",
+        "nanophotonic",
+        "near-perfect",
+        "never",
+        "non-ideal",
+        "non-relativistic",
+        "nonlinear",
+        "observer",
+        "opaque",
+        "optical",
+        "oscillating",
+        "parameter",
+        "parasitic",
+        "particle",
+        "physics",
+        "plates",
+        "point",
+        "polarization",
+        "polarized",
+        "pulse",
+        "pulses",
+        "quantum",
+        "quarter-wave",
+        "quite",
+        "real",
+        "reality",
+        "reducing",
+        "reflective",
+        "requirements",
+        "resolution",
+        "respond",
+        "reveals",
+        "scattering",
+        "scheme",
+        "shortcut",
+        "simulate",
+        "simulations",
+        "single-frequency",
+        "spectral",
+        "spin-dense",
+        "start-to-end",
+        "states",
+        "stimulated",
+        "stokes",
+        "stretching",
+        "superconducting",
+        "theory",
+        "thermally",
+        "they",
+        "transmissive",
+        "transversely",
+        "tuning",
+        "unlocking",
+        "visibility",
+        "waveguide",
+        "waveguides",
+        "ways",
+        "where",
+        "x-ray"
+      ],
+      "source_count": 3,
+      "signal_count": 19,
+      "sources": [
+        "EDN 电子工程专辑",
+        "Phys.org 物理新闻",
+        "arXiv 光学与光子学 (physics.optics)"
+      ],
+      "score": 77.5,
+      "latest_at": "2026-10-08T11:16:53.357755+00:00",
+      "title": "Electromagnetically Transmissive and Thermally Opaque Engineered Microwave Interconnect",
+      "id": "952f6f928220",
+      "links": [
+        {
+          "title": "Electromagnetically Transmissive and Thermally Opaque Engineered Microwave Interconnect",
+          "url": "https://arxiv.org/abs/2610.09359",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.7,
+          "published_at": "2026-10-08T04:00:00+00:00"
+        },
+        {
+          "title": "Compact Fully Integrated Alignment-Free and Linearly Polarized Ho$^{3+}$ Single-Frequency Waveguide Laser",
+          "url": "https://arxiv.org/abs/2610.09435",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.7,
+          "published_at": "2026-10-08T04:00:00+00:00"
+        },
+        {
+          "title": "Electromagnetic Field of an Oscillating Point Charge Measured by a Transversely Comoving Observer",
+          "url": "https://arxiv.org/abs/2610.09445",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.7,
+          "published_at": "2026-10-08T04:00:00+00:00"
+        },
+        {
+          "title": "Angular resolution limit of augmented reality waveguides from guided mode theory",
+          "url": "https://arxiv.org/abs/2610.09527",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.7,
+          "published_at": "2026-10-08T04:00:00+00:00"
+        },
+        {
+          "title": "Enhanced Magneto-Optical Kerr Effect in Nano-Magnetic Metamaterials with Near-Perfect Coherent Absorption",
+          "url": "https://arxiv.org/abs/2610.09917",
+          "source": "arXiv 光学与光子学 (physics.optics)",
+          "score": 89.7,
+          "published_at": "2026-10-08T04:00:00+00:00"
+        }
+      ],
+      "top_terms": [
+        "quantum",
+        "laser",
+        "optical",
+        "non",
+        "spectral"
       ],
       "rank": 2,
-      "heat": 87.5,
-      "status": "爆"
+      "heat": 77.5,
+      "status": "发酵中"
     },
     {
       "terms": [
         "算力"
       ],
-      "source_count": 3,
-      "signal_count": 16,
+      "source_count": 2,
+      "signal_count": 17,
       "sources": [
         "C114中国通信网_监管",
-        "C114中国通信网_要闻精选",
         "工信部要闻"
       ],
-      "score": 77.5,
-      "latest_at": "2026-10-07T10:55:45.897278+00:00",
-      "title": "工信部对我国网络强国建设提出四点建议",
-      "id": "f1bb13f709a5",
+      "score": 70.0,
+      "latest_at": "2026-10-08T11:16:53.357755+00:00",
+      "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
+      "id": "e54932e24f29",
       "links": [
-        {
-          "title": "工信部对我国网络强国建设提出四点建议",
-          "url": "http://www.c114.net/news/16/a997101.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 95.0,
-          "published_at": null
-        },
         {
           "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
           "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6aff1cc2d094936aaca2f131389d3f8.html",
@@ -371,69 +300,91 @@
           "source": "工信部要闻",
           "score": 90.0,
           "published_at": null
+        },
+        {
+          "title": "两部门关于印发《电子信息制造业发展“十五五”规划》的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_f4864217588b44c489d58da20de766c8.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
         }
       ],
       "top_terms": [
         "规划",
         "工业",
         "信息",
-        "工信",
-        "信部"
+        "部门",
+        "业和"
       ],
       "rank": 3,
-      "heat": 77.5,
-      "status": "发酵中"
+      "heat": 70.0,
+      "status": "关注中"
     },
     {
       "terms": [
-        "智驾",
-        "激光",
-        "激光雷达"
+        "光互联",
+        "光电",
+        "光通信",
+        "半导体",
+        "激光"
       ],
-      "source_count": 3,
-      "signal_count": 3,
+      "source_count": 2,
+      "signal_count": 14,
       "sources": [
-        "OFweek 激光频道",
-        "搜狗微信·光电行业 · 卡卡不听话",
-        "搜狗微信·光电行业 · 张怀英你好"
+        "C114中国通信网_通信财经",
+        "LEDinside 中文"
       ],
-      "score": 53.0,
-      "latest_at": "2026-10-07T10:55:45.897278+00:00",
-      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-      "id": "7d4c97a5e50d",
+      "score": 65.7,
+      "latest_at": "2026-10-08T11:16:53.357755+00:00",
+      "title": "长光华芯上半年营收3.91亿元 同比增长82.67%",
+      "id": "9874592c6334",
       "links": [
         {
-          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
-          "source": "OFweek 激光频道",
-          "score": 82.5,
-          "published_at": "2026-08"
+          "title": "长光华芯上半年营收3.91亿元 同比增长82.67%",
+          "url": "https://www.c114.com.cn/news/123/a1316669.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
         },
         {
-          "title": "800V快充+激光雷达,5米车长,20万级轿车看它",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0F7hGJIozHKZDW3hJLa6W7uGEwkoZqhmlqXa8Fplpd9QkAdUFuBqh7huF5j6SrXPmvKH-zn9ZSBN7EO2mxk8La0AjgSB-SB88EH7EBFbLRMxkkYFvV1tMBy7zV7e-QtfJZsq-Pq4ToJWxiAfD4Ajn_J6eW8VySJlRqVVWKw3PG8KwBktwiFXgiKcIpWG_JijIuVDIKVtUl4rpGuXqNqG3vI3OTRHYU2og..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=DA9F569A3839BDE8C1C79CFC33A75F28C163EF016AC62529",
-          "source": "搜狗微信·光电行业 · 卡卡不听话",
-          "score": 72.5,
-          "published_at": "2026-10-07T10:27:07+00:00"
+          "title": "广和通上半年营收37.78亿元增长1.92% 净利润同比下降71.63%",
+          "url": "https://www.c114.com.cn/news/123/a1316478.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
         },
         {
-          "title": "哈弗H10起售价21.48万元,全系激光雷达真香,但家庭用户别只盯着智驾",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0F7hGJIozHKZDW3hJLa6W7uGEwkoZqhmlqXa8Fplpd9KmeX5um7JlAStLN5rEsOwTXmvtDsUv11UikwduRPw1VmznOeS0MqtNYaoQ5Gt9UV2d7fM-AZDLPbqYu2Z2PntC8NhGue7wi1Baw_mk8q4rZ9sDTT9XI-O7xSPJ3r4l69VPsgK2Fl-LqqiFB_BL85DL_KkzmPLs7wFKEnKknS4NL2CsG6-xMgzQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=DA9F569A3839BDE8C1C79CFC33A75F28C163EF016AC62529",
-          "source": "搜狗微信·光电行业 · 张怀英你好",
-          "score": 72.5,
-          "published_at": "2026-10-07T09:53:51+00:00"
+          "title": "频准激光上半年营收2.56亿元增42.13% 净利润增24.58%",
+          "url": "https://www.c114.com.cn/news/123/a1316461.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
+        },
+        {
+          "title": "亨通光电上半年净利润31.2亿元 同比增长93.38%",
+          "url": "https://www.c114.com.cn/news/123/a1316458.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
+        },
+        {
+          "title": "华工科技：2026年上半年，光互联业务营收38.03亿元",
+          "url": "https://www.c114.com.cn/news/123/a1316431.html",
+          "source": "C114中国通信网_通信财经",
+          "score": 95.0,
+          "published_at": null
         }
       ],
       "top_terms": [
-        "激光",
-        "光雷",
-        "雷达",
-        "快充",
-        "哈弗"
+        "亿元",
+        "上半",
+        "半年",
+        "增长",
+        "同比"
       ],
       "rank": 4,
-      "heat": 53.0,
-      "status": "发酵中"
+      "heat": 65.7,
+      "status": "关注中"
     },
     {
       "terms": [],
@@ -444,9 +395,9 @@
         "工信部要闻"
       ],
       "score": 52.5,
-      "latest_at": "2026-10-07T10:55:45.897278+00:00",
+      "latest_at": "2026-10-08T11:16:53.357755+00:00",
       "title": "2026年中国国际信息通信展览会在京开幕",
-      "id": "9802be91aca7",
+      "id": "80e31757e005",
       "links": [
         {
           "title": "2026年中国国际信息通信展览会在京开幕",
@@ -456,15 +407,15 @@
           "published_at": null
         },
         {
-          "title": "河南通信管理局成功举办2026年国家网络安全宣传周河南省电信日活动",
-          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_2563d2463c364efd8b504ce09d04e9f1.html",
+          "title": "重庆通信管理局成功举办2026年重庆网络安全宣传周电信日主题活动",
+          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_28edaf0b33454bf29dd62545fdae8654.html",
           "source": "工信部要闻",
           "score": 77.5,
           "published_at": null
         },
         {
-          "title": "贵州通信管理局组织开展2026年国家网络安全宣传周信息通信业“电信日”活动",
-          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_37cf1dc31edc47b3bd18a09ad33c4d0d.html",
+          "title": "内蒙古信息通信行业2026年网络安全宣传周电信日主题活动成功举办",
+          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_631330b802254020ac4948fd718a3591.html",
           "source": "工信部要闻",
           "score": 77.5,
           "published_at": null
@@ -489,7 +440,7 @@
         "安全",
         "信息",
         "息通",
-        "信业"
+        "网络"
       ],
       "rank": 5,
       "heat": 52.5,
@@ -506,7 +457,7 @@
         "C114中国通信网_设备商"
       ],
       "score": 48.5,
-      "latest_at": "2026-10-07T10:55:45.897278+00:00",
+      "latest_at": "2026-10-08T11:16:53.357755+00:00",
       "title": "构建开源开放人才生态，夯实产业自主根基｜2026华为ICT学院年会圆满举办",
       "id": "8e5d96df92ef",
       "links": [
@@ -559,53 +510,53 @@
     },
     {
       "terms": [
-        "adas",
-        "激光",
-        "激光雷达",
-        "驱动"
+        "demand",
+        "insight",
+        "leading",
+        "million",
+        "projected",
+        "reach",
+        "says",
+        "suppliers",
+        "trendforce",
+        "units",
+        "vcsel"
       ],
       "source_count": 2,
-      "signal_count": 3,
+      "signal_count": 2,
       "sources": [
-        "搜狗微信·光电行业 · 汽车之地",
-        "搜狗微信·光电行业 · 汽车研究"
+        "LEDinside 中文",
+        "LEDinside 英文"
       ],
-      "score": 45.5,
-      "latest_at": "2026-10-07T10:55:45.897278+00:00",
-      "title": "【国盛汽车|行业专题】激光雷达: ADAS+机器人共同驱动,需求提升与降本共振",
-      "id": "c7158bbcdf46",
+      "score": 42.0,
+      "latest_at": "2026-10-08T11:16:53.357755+00:00",
+      "title": "TrendForce：六大主要厂商布局VCSEL NPO，2031年VCSEL市场上看6.5亿颗",
+      "id": "ccbf76c1f47e",
       "links": [
         {
-          "title": "【国盛汽车|行业专题】激光雷达: ADAS+机器人共同驱动,需求提升与降本共振",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0F7hGJIozHKZDW3hJLa6W7uGEwkoZqhmlqXa8Fplpd9ZoxigEAY-AAJjkuAmiWX9TEG_Emb0NdExdl7LuvdfUd9wTF5O2ZE0j1g299c72-wjDrNMA3KYzS9LEYAs46vL6mykuOrxEjcO5w1SQkNa6glOsN6UDiX6mzjR57GyPLqlJaaowWdrHqGbzhr-f79bq2r80EC67QZWQtPG2UPNtBQ_LeJW-Rhtg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=DA9F569A3839BDE8C1C79CFC33A75F28C163EF016AC62529",
-          "source": "搜狗微信·光电行业 · 汽车研究",
-          "score": 72.4,
-          "published_at": "2026-10-07T07:32:33+00:00"
+          "title": "TrendForce：六大主要厂商布局VCSEL NPO，2031年VCSEL市场上看6.5亿颗",
+          "url": "https://www.ledinside.cn/research/20261008-62722.html",
+          "source": "LEDinside 中文",
+          "score": 74.6,
+          "published_at": "2026-10-08"
         },
         {
-          "title": "【报告】激光雷达行业深度研究:驱动因素、市场格局、产业链及相关公司深度梳理(附26页PDF文件下载)",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0F7hGJIozHKZDW3hJLa6W7uGEwkoZqhmlqXa8Fplpd9oVVo1giJ3iCJW4oQI-Y0rVdFHatKeK1LgZS7HWDxXq8FrB5sXBL52d2vskWxqJIWmrQXmO0dGBHeenEFF1UgJNpT9L0deoes0XIfufZwEZKqT-wdbWvBJnhJC3Lq-nJIUL5ZEaRIxY9RZsMcfv3fAP-gr5-9G4PlGZbrhEYTIzdQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=DA9F569A3839BDE8C1C79CFC33A75F28C163EF016AC62529",
-          "source": "搜狗微信·光电行业 · 汽车之地",
-          "score": 72.2,
-          "published_at": "2026-10-07T01:28:04+00:00"
-        },
-        {
-          "title": "【报告】2026年激光雷达行业深度研究:技术路径、发展趋势、产业链与竞争格局等(附61页PDF文件下载)",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0F7hGJIozHKZDW3hJLa6W7uGEwkoZqhmlqXa8Fplpd9oVVo1giJ3iCJW4oQI-Y0rVdFHatKeK1LgZS7HWDxXq8FrB5sXBL52Qi8NzhuPIdKdhzrOmx0lb-jinqzXOBlU_HQRA057Lvh6erMcIaSjnRZVhxNp1cS3pY9NWx9kKhkOOH3ecinwhG9RB3wxx9BI_W96Kk9k2JYjM0qSYyrOh86Ebq8fk9diw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=DA9F569A3839BDE8C1C79CFC33A75F28C163EF016AC62529",
-          "source": "搜狗微信·光电行业 · 汽车之地",
-          "score": 72.2,
-          "published_at": "2026-10-07T01:28:04+00:00"
+          "title": "[Insight] Six Leading Suppliers Bet on VCSEL NPO; VCSEL Demand Projected to Reach 650 Million Units by 2031, Says TrendForce",
+          "url": "//www.ledinside.com/intelligence/2026/10/2026_10_08_08",
+          "source": "LEDinside 英文",
+          "score": 69.3,
+          "published_at": "2026-10-07T15:36:14+00:00"
         }
       ],
       "top_terms": [
-        "报告",
-        "行业",
-        "激光",
-        "光雷",
-        "雷达"
+        "vcsel",
+        "npo",
+        "trendforce",
+        "亿颗",
+        "insight"
       ],
       "rank": 7,
-      "heat": 45.5,
+      "heat": 42.0,
       "status": "关注中"
     },
     {
@@ -621,7 +572,7 @@
         "COEMA 中国光电子行业协会"
       ],
       "score": 42.0,
-      "latest_at": "2026-10-07T10:55:45.897278+00:00",
+      "latest_at": "2026-10-08T11:16:53.357755+00:00",
       "title": "宇树科技计划登陆科创板 中国移动已投资",
       "id": "f3596e90ef88",
       "links": [
@@ -652,95 +603,89 @@
       "status": "关注中"
     },
     {
-      "terms": [],
-      "source_count": 1,
-      "signal_count": 3,
-      "sources": [
-        "C114中国通信网_要闻精选"
+      "terms": [
+        "microled",
+        "pre-a",
+        "光电"
       ],
-      "score": 38.0,
-      "latest_at": "2026-10-07T10:55:45.897278+00:00",
-      "title": "大招齐发，英特尔直击网络转型",
-      "id": "40753cddc649",
+      "source_count": 2,
+      "signal_count": 2,
+      "sources": [
+        "COEMA 中国光电子行业协会",
+        "LEDinside 中文"
+      ],
+      "score": 42.0,
+      "latest_at": "2026-10-08T11:16:53.357755+00:00",
+      "title": "微玖光电完成数亿元Pre-A轮融资，加快MicroLED量产布局",
+      "id": "be3e2c5b066a",
       "links": [
         {
-          "title": "大招齐发，英特尔直击网络转型",
-          "url": "http://www.c114.com.cn/topic/5096/a996852.html?utm_medium=C114&dclid=CLmNp8bEwdICFRwhKgodT4YHqQ",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
+          "title": "微玖光电完成数亿元Pre-A轮融资，加快MicroLED量产布局",
+          "url": "https://www.ledinside.cn/news/20261008-62731.html",
+          "source": "LEDinside 中文",
+          "score": 74.6,
+          "published_at": "2026-10-08"
         },
         {
-          "title": "对话英特尔：产业协作与标准化助推5G成功",
-          "url": "http://www.c114.net/news/138/a996926.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
-        },
-        {
-          "title": "英特尔助力电信网络转型 让5G不再是“看上去很美”",
-          "url": "http://www.c114.net/topic/5096/a996887.html",
-          "source": "C114中国通信网_要闻精选",
-          "score": 77.5,
-          "published_at": null
+          "title": "国科光芯完成数亿元B＋轮融资！",
+          "url": "https://www.coema.org.cn/industry/202609/5827.html",
+          "source": "COEMA 中国光电子行业协会",
+          "score": 70.0,
+          "published_at": "2026-09"
         }
       ],
       "top_terms": [
-        "英特",
-        "特尔",
-        "网络",
-        "络转",
-        "转型"
+        "完成",
+        "成数",
+        "数亿",
+        "亿元",
+        "轮融资"
       ],
       "rank": 9,
-      "heat": 38.0,
+      "heat": 42.0,
       "status": "关注中"
     },
     {
       "terms": [
-        "store"
+        "aura",
+        "激光",
+        "激光雷达"
       ],
-      "source_count": 1,
-      "signal_count": 3,
+      "source_count": 2,
+      "signal_count": 2,
       "sources": [
-        "C114中国通信网_IT资讯"
+        "搜狗微信·光电行业 · 张解车",
+        "搜狗微信·光电行业 · 玩车教授"
       ],
-      "score": 38.0,
-      "latest_at": "2026-10-07T10:55:45.897278+00:00",
-      "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
-      "id": "79ca1f2a334a",
+      "score": 42.0,
+      "latest_at": "2026-10-08T11:16:53.357755+00:00",
+      "title": "新款日产N7 纯电动轿车 增激光雷达版 产品实力更强",
+      "id": "de7e9f3c843c",
       "links": [
         {
-          "title": "苹果、亚马逊成功在英国驳回4.94 亿英镑合谋诉讼",
-          "url": "https://www.c114.com.cn/news/213/a1282089.html",
-          "source": "C114中国通信网_IT资讯",
-          "score": 72.5,
-          "published_at": null
+          "title": "新款日产N7 纯电动轿车 增激光雷达版 产品实力更强",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzMET5g_tS2yrsUI0mVClRw3lk0nwceKqVqXa8Fplpd9ylUHoOyTD-UnXgNfSOehKfgfvPczbBi7q7SXmvG2EgOnYTeqRweFfTeL_9JyY4-i2QO88YYa3CPwbfW27xa06qEXEn1jCkxyd-Lin0mu-lymqQf0211DxYG72ygi9tuqcLPMBHzgEl7z8OMJtiOmi4WdePeg1uXKeLUrZC-Fijdr1dbZWbKUeQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=E2B5C70A33C7B5AF040559515FEED6C404120A076AC77B9E",
+          "source": "搜狗微信·光电行业 · 张解车",
+          "score": 70.0,
+          "published_at": "2026-10-08T11:05:43+00:00"
         },
         {
-          "title": "苹果税惹麻烦：苹果在英国面临15亿英镑集体诉讼",
-          "url": "https://www.c114.com.cn/news/213/a1281942.html",
-          "source": "C114中国通信网_IT资讯",
-          "score": 72.5,
-          "published_at": null
-        },
-        {
-          "title": "苹果公司在英面临15亿英镑司法索赔，被指在App Store收费“过高且不公平”",
-          "url": "https://www.c114.com.cn/news/213/a1281915.html",
-          "source": "C114中国通信网_IT资讯",
-          "score": 72.5,
-          "published_at": null
+          "title": "ID. AURA序列又上新 带激光雷达的纯电轿跑",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzMET5g_tS2yrsUI0mVClRw3lk0nwceKqVqXa8Fplpd9V0Jv1hFdYyWhB3inYPHf7h-3FmNCkHb15vxMV_d-1AugouQ_qR-SYFnsPM_A5_a1l_siDrQnugDPlO2T-iHYz0n4preOLvixXPUGhn8yZyqkpg2c91dtVun5z42ew7XP6TgwXYveQFvixBz2uV0Q7lt-8q4t5hiVvwGoJV_LczGAFV_3u-a3OQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=E2B5C70A33C7B5AF040559515FEED6C404120A076AC77B9E",
+          "source": "搜狗微信·光电行业 · 玩车教授",
+          "score": 69.8,
+          "published_at": "2026-10-08T06:46:20+00:00"
         }
       ],
       "top_terms": [
-        "苹果",
-        "在英",
-        "亿英",
-        "英镑",
-        "英国"
+        "激光",
+        "光雷",
+        "雷达",
+        "纯电",
+        "序列又上新"
       ],
       "rank": 10,
-      "heat": 38.0,
+      "heat": 42.0,
       "status": "关注中"
     }
   ]
