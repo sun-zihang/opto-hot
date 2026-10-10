@@ -1,216 +1,202 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T11:16:19.424988+00:00",
+  "generatedAt": "2026-10-10T10:29:25.782587+00:00",
   "count": 10,
   "items": [
     {
       "terms": [
-        "plus",
-        "激光",
-        "激光雷达"
+        "算力"
       ],
-      "source_count": 8,
-      "signal_count": 8,
+      "source_count": 3,
+      "signal_count": 16,
       "sources": [
-        "OFweek 激光频道",
-        "搜狗微信·光电行业 · 30秒懂车",
-        "搜狗微信·光电行业 · IT168",
-        "搜狗微信·光电行业 · 佩奇主",
-        "搜狗微信·光电行业 · 时日漫游局",
-        "搜狗微信·光电行业 · 棱镜one",
-        "搜狗微信·光电行业 · 热带商眼",
-        "搜狗微信·光电行业 · 维科网半导体"
+        "C114中国通信网_监管",
+        "C114中国通信网_要闻精选",
+        "工信部要闻"
       ],
-      "score": 93.0,
-      "latest_at": "2026-10-09T11:16:19.424988+00:00",
-      "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-      "id": "08678360c52e",
+      "score": 77.5,
+      "latest_at": "2026-10-10T10:29:25.782587+00:00",
+      "title": "工信部对我国网络强国建设提出四点建议",
+      "id": "f1bb13f709a5",
       "links": [
         {
-          "title": "8万的车也有激光雷达？30万才有的配置现在白菜价了",
-          "url": "https://laser.ofweek.com/2026-08/ART-240001-12003-30698178.html",
-          "source": "OFweek 激光频道",
+          "title": "工信部对我国网络强国建设提出四点建议",
+          "url": "http://www.c114.net/news/16/a997101.html",
+          "source": "C114中国通信网_要闻精选",
           "score": 95.0,
-          "published_at": "2026-08"
+          "published_at": null
         },
         {
-          "title": "2米9轴距 激光雷达 725km续航 800V平台 不到15万拿下",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_gwArl3Ui2yzY6gVgN3RV2WicYAb5lsDVqXa8Fplpd9DiZiEP1Mwe66yvQK0WDalui0KAKhiqpgfeX7OwuPUllCTsQEcwVfza-fAb-WdDx7HVLvYXcjgzc2_y22Z95p3XTbkpDjwLLUHaUMfATqvCZcg5oVePMUKNmAEItTp2zMU074qVXhHhVZemFKSUVHip5oIevDrIOqd270dOUUcNbdrgozfSg6bw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=EB27131B108D6AD6C3C49FA5BA773EC3C339E97A6AC8CCFC",
-          "source": "搜狗微信·光电行业 · 30秒懂车",
-          "score": 85.0,
-          "published_at": "2026-10-09T10:05:12+00:00"
+          "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
+          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6aff1cc2d094936aaca2f131389d3f8.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
         },
         {
-          "title": "能激光雷达,轴距加到2800,“新秦PLUS”还在10万以内吗?",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_gwArl3Ui2yzY6gVgN3RV2WicYAb5lsDVqXa8Fplpd9_Ur1x1dPKyQhuPTLvzO0UbpdXvCXyBx5xl1sZSw2eGD3vY-6EBjlzenTZDzCS0bRr-43BskwtMCRGQ8KvMrY9XZyUrsL9AusIe4Q08bUjaxsgN8dWfsYEQSEoGxXdBNNgulq771U6u_bZ70ClvnQNUVtBtWb_YxkkHqW115NTyLm0CtGSSkZQQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=EB27131B108D6AD6C3C49FA5BA773EC3C339E97A6AC8CCFC",
-          "source": "搜狗微信·光电行业 · 热带商眼",
-          "score": 85.0,
-          "published_at": "2026-10-09T10:46:23+00:00"
+          "title": "三部门关于印发《轻工纺织产业发展“十五五”规划》的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9fb9b35709f941d4805d064092032bd0.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
         },
         {
-          "title": "单季59.56万台!速腾聚创激光雷达销量增220.9%,机器人业务增309%",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_gwArl3Ui2yzY6gVgN3RV2WicYAb5lsDVqXa8Fplpd9tqX82e8PAy0VeFYHuw_k37RGWWC8AAYJASXYSEJCFzOXCQ5Vx_pqSiZgLFz3nyXS-PfaoTVh00YbWD-L79lr8_Stx35eiOUkssC6gtneHg2-aSkMPCm6nKWsPyhHbIqJIGwZh_S7sv4H4aeEao12hH9uhT5LUpmIpqZv_yXeHx-00NVofL2iDw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=EB27131B108D6AD6C3C49FA5BA773EC3C339E97A6AC8CCFC",
-          "source": "搜狗微信·光电行业 · IT168",
-          "score": 85.0,
-          "published_at": "2026-10-09T10:32:44+00:00"
+          "title": "工业和信息化部等五部门关于组织开展2026年度国家绿色算力设施推荐工作的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_37e463f44fbd44ed9b0fdf4833c3aacd.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
         },
         {
-          "title": "一年两笔大额融资!这家激光雷达芯片厂商估值达28.4亿",
-          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_gwArl3Ui2yzY6gVgN3RV2WicYAb5lsDVqXa8Fplpd9R1fmRhJ7BnhYb9gxOVulZp8zMnc9EPxTMiCkQB1ixc44DYJ9WH5t1_YHBns4pShvo035CdIf0ZvLXfqSJK2fTWINhlG15JeDSPFcuuu13ZCc26L1wCxNHXLyJFlzW2lqHqW9juXcsGQKM4zhvDotR8MfMPu68uwFKQm0KI8tjUHuL0unUdKkuw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=EB27131B108D6AD6C3C49FA5BA773EC3C339E97A6AC8CCFC",
-          "source": "搜狗微信·光电行业 · 维科网半导体",
-          "score": 85.0,
-          "published_at": "2026-10-09T10:08:42+00:00"
+          "title": "工业和信息化部等十部门关于印发《医药工业发展“十五五”规划》的通知",
+          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9463adac4db040159f6cbf482675eeea.html",
+          "source": "工信部要闻",
+          "score": 90.0,
+          "published_at": null
         }
       ],
       "top_terms": [
-        "激光",
-        "光雷",
-        "雷达",
-        "轴距",
-        "速腾"
+        "规划",
+        "工业",
+        "信息",
+        "工信",
+        "信部"
       ],
       "rank": 1,
-      "heat": 93.0,
-      "status": "爆"
+      "heat": 77.5,
+      "status": "发酵中"
     },
     {
       "terms": [
-        "antenna",
         "atomic-layer",
-        "brillouin",
-        "chirality",
+        "chemical",
+        "chip",
+        "circuit",
         "coherent",
-        "components",
         "condensates",
+        "condensation",
         "conflicting",
-        "corner",
+        "core-level",
         "coupling",
         "crystals",
+        "delaying",
+        "dots",
+        "elusive",
         "emerge",
         "emitted",
+        "entangled",
+        "exciton",
         "experiments",
         "explain",
-        "fabry-perot",
         "fermions",
-        "fiber",
-        "floquet",
-        "global",
+        "groups",
         "heavy",
         "helium",
-        "impact",
-        "infrared",
+        "holds",
         "infrastructure",
-        "instability",
         "integrated",
+        "interactions",
         "interface",
-        "inverse",
+        "larger",
         "laser",
-        "laser-ionized",
         "launches",
         "layered",
-        "lightsaber-like",
-        "long-wave",
+        "links",
         "magnetic",
-        "manipulating",
-        "media",
-        "mid-infrared",
-        "modulation",
+        "memory",
+        "microscope",
+        "multiple",
+        "once",
+        "opening",
         "optics",
+        "path",
         "photon",
-        "photonic",
         "photonlink",
-        "plasma",
+        "photons",
         "platform",
-        "probing",
+        "porous",
+        "precursors",
         "pulses",
         "quantum",
-        "radiation",
-        "radio",
+        "reads",
         "real",
-        "resonators",
         "respond",
         "reveals",
-        "robust",
-        "scattering",
+        "scalable",
         "semiconductor",
+        "sensors",
+        "smaller",
         "spectroscopy",
+        "spins",
         "states",
-        "stimulated",
         "stretching",
         "strong",
-        "strong-field",
         "superconducting",
-        "symmetries",
-        "temporal",
-        "terahertz",
-        "transmit",
-        "undetected",
+        "thin",
+        "ultrafast",
+        "ultrashort",
         "unlocking",
         "unlocks",
-        "uses",
-        "visible-light",
-        "waves",
         "ways",
         "x-ray"
       ],
-      "source_count": 4,
-      "signal_count": 13,
+      "source_count": 3,
+      "signal_count": 12,
       "sources": [
         "LEDinside 英文",
         "Nature Photonics",
-        "Phys.org 物理新闻",
-        "arXiv 光学与光子学 (physics.optics)"
+        "Phys.org 物理新闻"
       ],
-      "score": 83.5,
-      "latest_at": "2026-10-09T11:16:19.424988+00:00",
-      "title": "Impact of Stimulated Brillouin Scattering on Modulation Instability in Fiber Fabry-Perot Resonators",
-      "id": "a4b978ddceca",
+      "score": 72.5,
+      "latest_at": "2026-10-10T10:29:25.782587+00:00",
+      "title": "[News] Coherent Launches PhotonLink™ Integrated Optics Platform for AI Infrastructure",
+      "id": "38369dff38e7",
       "links": [
         {
-          "title": "Impact of Stimulated Brillouin Scattering on Modulation Instability in Fiber Fabry-Perot Resonators",
-          "url": "https://arxiv.org/abs/2610.11413",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.7,
-          "published_at": "2026-10-09T04:00:00+00:00"
+          "title": "[News] Coherent Launches PhotonLink™ Integrated Optics Platform for AI Infrastructure",
+          "url": "//www.ledinside.com/news/2026/10/2026_10_08_03",
+          "source": "LEDinside 英文",
+          "score": 87.9,
+          "published_at": "2026-10-07T22:55:19+00:00"
         },
         {
-          "title": "Inverse Design of Integrated Photonic Components for Visible-Light Applications",
-          "url": "https://arxiv.org/abs/2610.11453",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.7,
-          "published_at": "2026-10-09T04:00:00+00:00"
+          "title": "Strong coupling of photon to an electron on helium",
+          "url": "https://www.nature.com/articles/s41566-026-02018-7",
+          "source": "Nature Photonics",
+          "score": 86.3,
+          "published_at": "2026-09-30T00:00:00+00:00"
         },
         {
-          "title": "Undetected Photon Spectroscopy in the Long-wave and Far Infrared",
-          "url": "https://arxiv.org/abs/2610.11582",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.7,
-          "published_at": "2026-10-09T04:00:00+00:00"
+          "title": "Delaying light from quantum dots",
+          "url": "https://www.nature.com/articles/s41566-026-02015-w",
+          "source": "Nature Photonics",
+          "score": 86.3,
+          "published_at": "2026-09-30T00:00:00+00:00"
         },
         {
-          "title": "Temporal chirality in Floquet photonic media",
-          "url": "https://arxiv.org/abs/2610.11940",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.7,
-          "published_at": "2026-10-09T04:00:00+00:00"
+          "title": "Quantum chip holds multiple photons at once, opening path to scalable memory",
+          "url": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html",
+          "source": "Phys.org 物理新闻",
+          "score": 80.0,
+          "published_at": null
         },
         {
-          "title": "Observation of robust corner states in photonic crystals without global symmetries",
-          "url": "https://arxiv.org/abs/2610.12062",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 89.7,
-          "published_at": "2026-10-09T04:00:00+00:00"
+          "title": "Light reads electron spins inside porous crystals, opening path to quantum chemical sensors",
+          "url": "https://phys.org/news/2026-10-electron-porous-crystals-path-quantum.html",
+          "source": "Phys.org 物理新闻",
+          "score": 80.0,
+          "published_at": null
         }
       ],
       "top_terms": [
         "quantum",
-        "photonic",
-        "integrated",
         "photon",
-        "infrared"
+        "opening",
+        "path",
+        "reveals"
       ],
       "rank": 2,
-      "heat": 83.5,
+      "heat": 72.5,
       "status": "发酵中"
     },
     {
@@ -218,21 +204,19 @@
         "光互联",
         "光电",
         "光通信",
-        "半导体",
         "激光",
         "算力"
       ],
-      "source_count": 3,
-      "signal_count": 15,
+      "source_count": 2,
+      "signal_count": 12,
       "sources": [
         "C114中国通信网_通信财经",
-        "LEDinside 中文",
         "OFweek 光电频道"
       ],
-      "score": 74.8,
-      "latest_at": "2026-10-09T11:16:19.424988+00:00",
+      "score": 70.0,
+      "latest_at": "2026-10-10T10:29:25.782587+00:00",
       "title": "净利暴增186%！光库科技正在兑现AI算力红利",
-      "id": "f6ca89b731e9",
+      "id": "c8463b738a6b",
       "links": [
         {
           "title": "净利暴增186%！光库科技正在兑现AI算力红利",
@@ -278,129 +262,191 @@
         "增长"
       ],
       "rank": 3,
-      "heat": 74.8,
-      "status": "发酵中"
-    },
-    {
-      "terms": [
-        "算力"
-      ],
-      "source_count": 2,
-      "signal_count": 15,
-      "sources": [
-        "C114中国通信网_监管",
-        "工信部要闻"
-      ],
-      "score": 70.0,
-      "latest_at": "2026-10-09T11:16:19.424988+00:00",
-      "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
-      "id": "64ea20247d6d",
-      "links": [
-        {
-          "title": "工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神",
-          "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6aff1cc2d094936aaca2f131389d3f8.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
-        },
-        {
-          "title": "三部门关于印发《轻工纺织产业发展“十五五”规划》的通知",
-          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9fb9b35709f941d4805d064092032bd0.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
-        },
-        {
-          "title": "工业和信息化部等五部门关于组织开展2026年度国家绿色算力设施推荐工作的通知",
-          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_37e463f44fbd44ed9b0fdf4833c3aacd.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
-        },
-        {
-          "title": "工业和信息化部等十部门关于印发《医药工业发展“十五五”规划》的通知",
-          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_9463adac4db040159f6cbf482675eeea.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
-        },
-        {
-          "title": "两部门关于印发《电子信息制造业发展“十五五”规划》的通知",
-          "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_f4864217588b44c489d58da20de766c8.html",
-          "source": "工信部要闻",
-          "score": 90.0,
-          "published_at": null
-        }
-      ],
-      "top_terms": [
-        "规划",
-        "工业",
-        "信息",
-        "部门",
-        "业和"
-      ],
-      "rank": 4,
       "heat": 70.0,
       "status": "关注中"
     },
     {
+      "terms": [
+        "激光",
+        "激光雷达"
+      ],
+      "source_count": 4,
+      "signal_count": 5,
+      "sources": [
+        "搜狗微信·光电行业 · 八十一间",
+        "搜狗微信·光电行业 · 孔家小女孩",
+        "搜狗微信·光电行业 · 汽车之家",
+        "搜狗微信·光电行业 · 轮上的情书"
+      ],
+      "score": 67.5,
+      "latest_at": "2026-10-10T10:29:25.782587+00:00",
+      "title": "10月车市大变样,激光雷达杀入十五万级,咱兜里两万到底怎么花?",
+      "id": "2fb05e2ecb6b",
+      "links": [
+        {
+          "title": "10月车市大变样,激光雷达杀入十五万级,咱兜里两万到底怎么花?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgnM9ADH1ztH_N_eLDhkV10lqXa8Fplpd9qrXGyz-WvYqo5wClG5C9gbvpGhIoESngHltpZtRMFmDyOefdgJ2UCUcElJ6bC-4IrNSeSuxC-ZbeYz1v2x7bwmuy9nd3LiO36cQBGgBvOCoLkM12trCYMlPkmyQGDhygJrvTJfxzUj0iS73PP2lHfin4e5PzrnFsQTBrldVJA7RflztgI7RZ1g..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=F33215D78D82429CA7AEFADE47A383C7A88074A96ACA1380",
+          "source": "搜狗微信·光电行业 · 轮上的情书",
+          "score": 77.4,
+          "published_at": "2026-10-10T08:21:23+00:00"
+        },
+        {
+          "title": "车圈价格战杀疯了,激光雷达成标配,你的钱包准备好了吗?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgnM9ADH1ztH_N_eLDhkV10lqXa8Fplpd9qrXGyz-WvYqo5wClG5C9gbvpGhIoESngHltpZtRMFmDyOefdgJ2UCVKQInVahiz8YkpPeiRJzWgh-33AaOdbG6X5oDG6-caqomNHsUSlPU6pCtQK8iahQhT2wfYEfGnY220FOC0_cC6MIX04RhfVrlEJf32jOsqC7GWJtL66_m-FW6cwuUnkdA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=F33215D78D82429CA7AEFADE47A383C7A88074A96ACA1380",
+          "source": "搜狗微信·光电行业 · 轮上的情书",
+          "score": 77.4,
+          "published_at": "2026-10-10T08:21:23+00:00"
+        },
+        {
+          "title": "国庆后车市杀疯了,混动装激光雷达纯电破千,普通家庭该怎么选?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgnM9ADH1ztH_N_eLDhkV10lqXa8Fplpd92HlMZeswq6oEFeWlMRytNaJMP4Fa_euiCtBGJ8SV42AWmXYDoGGWNSpH-hmeIwI7TsNIyEyC14HJ6uvWIaterq-k58TiP-jxjqWn9gOHyoGayVK38DhVlMGccO8WtDfluSSQye6viUDHiSc_5pV3JhP_fuHtuazrEUxfreaLUsfuL0unUdKkuw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=F33215D78D82429CA7AEFADE47A383C7A88074A96ACA1380",
+          "source": "搜狗微信·光电行业 · 八十一间",
+          "score": 77.4,
+          "published_at": "2026-10-10T08:22:04+00:00"
+        },
+        {
+          "title": "1600km+激光雷达!大众新车官宣:10月12日,正式登场",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgnM9ADH1ztH_N_eLDhkV10lqXa8Fplpd9yKD8wt2IJMZlovg61j0UgP1QysiWMRYUmTUyV5KPB_9ybbDbTd7W0Ol5GUBQctppgdy7gM_PUW3SPhtve7C8CageklVlyUtIc_U4cCj9FkXFYDEzaKwnHponyBYHsE4ymyevxfL-CbOsWGTm98rFbdHTL3p2B6MJ-6HXMBklpaFCy6umSSPEsg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=F33215D78D82429CA7AEFADE47A383C7A88074A96ACA1380",
+          "source": "搜狗微信·光电行业 · 孔家小女孩",
+          "score": 77.2,
+          "published_at": "2026-10-10T02:59:15+00:00"
+        },
+        {
+          "title": "激光雷达,前后独立悬架,买新车的再等等!",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgnM9ADH1ztH_N_eLDhkV10lqXa8Fplpd9OmgoPKkCeuvDk8ui2gxEQVa8-dAglqStwGzLjknPRauDd8Rn2cDDSygnYA2oDCoalReb3hDVk7sZOhYNPQ1KsmKSKI2J7ixIh8pgjnFKQeSaOixDBn3WNVEMHwa2j8BpLJVrUc-sR09PEAf8JAQwfJDGimtV9SxvLIl4dAW7yGOAFV_3u-a3OQ..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=F33215D78D82429CA7AEFADE47A383C7A88074A96ACA1380",
+          "source": "搜狗微信·光电行业 · 汽车之家",
+          "score": 77.1,
+          "published_at": "2026-10-10T00:01:11+00:00"
+        }
+      ],
+      "top_terms": [
+        "激光",
+        "光雷",
+        "雷达",
+        "激光雷达",
+        "新车"
+      ],
+      "rank": 4,
+      "heat": 67.5,
+      "status": "发酵中"
+    },
+    {
+      "terms": [
+        "智驾",
+        "激光",
+        "激光雷达"
+      ],
+      "source_count": 4,
+      "signal_count": 4,
+      "sources": [
+        "搜狗微信·光电行业 · Kj研究日常",
+        "搜狗微信·光电行业 · 时世旅行官",
+        "搜狗微信·光电行业 · 百马白马",
+        "搜狗微信·光电行业 · 车动态"
+      ],
+      "score": 64.0,
+      "latest_at": "2026-10-10T10:29:25.782587+00:00",
+      "title": "深蓝L06,激光雷达+磁流变悬架,身价上涨?",
+      "id": "17592017ea48",
+      "links": [
+        {
+          "title": "深蓝L06,激光雷达+磁流变悬架,身价上涨?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgnM9ADH1ztH_N_eLDhkV10lqXa8Fplpd9tSEQkkMSRzHVbpizN-kkNNmaysbuRDWlUTSNg6Ycvxk3vE2z9Mdk28UKKkPlPCQhaGiOiEYtk7cTbmtVWKJqySOsfnj8MytJjFF-M5DR-TAk7osZbKfSbhipOeegKjGtuWiQBOF-x2AY8umiO82VDcvxIDcx9B6YJ2tpqgr-HJJ535pjGOOjYg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=F33215D78D82429CA7AEFADE47A383C7A88074A96ACA1380",
+          "source": "搜狗微信·光电行业 · 车动态",
+          "score": 75.0,
+          "published_at": "2026-10-10T09:40:09+00:00"
+        },
+        {
+          "title": "14.99万起,华为智驾+800V+激光雷达,深蓝S07凭什么这么狠?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgnM9ADH1ztH_N_eLDhkV10lqXa8Fplpd9EExJxL-jummn_Ju1znwZqROtGFM_nPeSLvaanZM-1tV1p7ZG6A5EyyLzQaiW9TaHVBGI45Hhybx-3HiIiaN_L8c4hBCOoNb7tuXTs4vKNNaghLLtA-jSx36MN3hDV-y3CHIRQ6aza5bkwSsvclPuXCf3gXh75VTvExP2CWNzEATdrgozfSg6bw..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=F33215D78D82429CA7AEFADE47A383C7A88074A96ACA1380",
+          "source": "搜狗微信·光电行业 · Kj研究日常",
+          "score": 74.9,
+          "published_at": "2026-10-10T06:41:57+00:00"
+        },
+        {
+          "title": "13万出头带激光雷达,深蓝S05凭啥让比亚迪都得正视?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgnM9ADH1ztH_N_eLDhkV10lqXa8Fplpd9v8t-ctMd4ASpgYqsqKg-8WF1gTSGzoRufmhHR46XW3iaeSm6gBpoNJrqlxCnTDhj9PxBlH3E8FfaJsuqSYzVP4GcWmRRqtK0KVbXoepXcYLuumxyE_vtAZ2KCspiVQfm9EhOafmCzjWF9u4UrBZZsEPmbOOmDV_2ZidDMoJzv2ZhlgeRt7bSzA..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=F33215D78D82429CA7AEFADE47A383C7A88074A96ACA1380",
+          "source": "搜狗微信·光电行业 · 百马白马",
+          "score": 74.9,
+          "published_at": "2026-10-10T08:48:45+00:00"
+        },
+        {
+          "title": "13万出头就带激光雷达?深蓝S05把高阶智驾门槛拉低,销量猛涨近16%",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZgnM9ADH1ztH_N_eLDhkV10lqXa8Fplpd9XnM83z_SQfIGhdAlYybcN7YUedxloHefRblWPFz28pkjLVEtqr9V-EqsQNwW1AQsgy9LP5qZtqmq9SHYus8z8C9MoiGB7ZBadC52HjbKWQLJe7Z8cv3XxUbkTXUKlMj8AUXuJqmaeyQDCY-_k1fI24V80MzLN527f2BhZlT-VgHYl_Q5RRZQjg..&amp;type=2&amp;query=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE&amp;token=F33215D78D82429CA7AEFADE47A383C7A88074A96ACA1380",
+          "source": "搜狗微信·光电行业 · 时世旅行官",
+          "score": 74.9,
+          "published_at": "2026-10-10T07:29:30+00:00"
+        }
+      ],
+      "top_terms": [
+        "深蓝",
+        "激光",
+        "光雷",
+        "雷达",
+        "激光雷达"
+      ],
+      "rank": 5,
+      "heat": 64.0,
+      "status": "发酵中"
+    },
+    {
       "terms": [],
       "source_count": 2,
-      "signal_count": 6,
+      "signal_count": 5,
       "sources": [
         "C114中国通信网_监管",
         "工信部要闻"
       ],
-      "score": 56.0,
-      "latest_at": "2026-10-09T11:16:19.424988+00:00",
+      "score": 52.5,
+      "latest_at": "2026-10-10T10:29:25.782587+00:00",
       "title": "2026年中国国际信息通信展览会在京开幕",
-      "id": "aac7f0f41007",
+      "id": "913606b48ce6",
       "links": [
         {
           "title": "2026年中国国际信息通信展览会在京开幕",
           "url": "https://www.miit.gov.cn/xwfb/bldhd/art/2026/art_2fc0c942477d4a2694137f8fe8d17f47.html",
           "source": "工信部要闻",
-          "score": 80.0,
+          "score": 77.5,
           "published_at": null
         },
         {
           "title": "西藏信息通信行业扎实开展2026年国家网络安全宣传周“电信日”主题活动",
           "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_9480b1fd112441f59819ea0a8a86a733.html",
           "source": "工信部要闻",
-          "score": 80.0,
+          "score": 77.5,
           "published_at": null
         },
         {
           "title": "甘肃信息通信行业国家网络安全宣传周“电信日”活动正式启动",
           "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_8fa90ffc230247469fe859780d627c5d.html",
           "source": "工信部要闻",
-          "score": 80.0,
-          "published_at": null
-        },
-        {
-          "title": "宁夏通信管理局举办2026年国家网络安全宣传周“电信日”政策宣贯培训会",
-          "url": "https://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_e6cc05a7b861405bbd9639e819a13567.html",
-          "source": "工信部要闻",
-          "score": 80.0,
+          "score": 77.5,
           "published_at": null
         },
         {
           "title": "工信部部署2026年信息通信业安全生产与网络运行安全工作",
           "url": "https://www.c114.com.cn/news/550/a1307461.html",
           "source": "C114中国通信网_监管",
-          "score": 75.0,
+          "score": 72.5,
+          "published_at": null
+        },
+        {
+          "title": "工信部召开2026年信息通信业行风建设暨纠风工作会议",
+          "url": "https://www.c114.com.cn/news/550/a1306739.html",
+          "source": "C114中国通信网_监管",
+          "score": 72.5,
           "published_at": null
         }
       ],
       "top_terms": [
-        "通信",
-        "安全",
         "信息",
         "息通",
+        "通信",
+        "安全",
         "网络"
       ],
-      "rank": 5,
-      "heat": 56.0,
+      "rank": 6,
+      "heat": 52.5,
       "status": "关注中"
     },
     {
@@ -414,7 +460,7 @@
         "C114中国通信网_设备商"
       ],
       "score": 48.5,
-      "latest_at": "2026-10-09T11:16:19.424988+00:00",
+      "latest_at": "2026-10-10T10:29:25.782587+00:00",
       "title": "构建开源开放人才生态，夯实产业自主根基｜2026华为ICT学院年会圆满举办",
       "id": "8e5d96df92ef",
       "links": [
@@ -461,59 +507,71 @@
         "为全",
         "全联"
       ],
-      "rank": 6,
+      "rank": 7,
       "heat": 48.5,
       "status": "关注中"
     },
     {
       "terms": [
-        "demand",
-        "insight",
-        "leading",
-        "million",
-        "projected",
-        "reach",
-        "says",
-        "suppliers",
-        "trendforce",
-        "units",
-        "vcsel"
+        "激光",
+        "激光雷达",
+        "自动驾驶"
       ],
-      "source_count": 2,
-      "signal_count": 2,
+      "source_count": 1,
+      "signal_count": 5,
       "sources": [
-        "LEDinside 中文",
-        "LEDinside 英文"
+        "OFweek 激光频道"
       ],
-      "score": 42.0,
-      "latest_at": "2026-10-09T11:16:19.424988+00:00",
-      "title": "TrendForce：六大主要厂商布局VCSEL NPO，2031年VCSEL市场上看6.5亿颗",
-      "id": "ccbf76c1f47e",
+      "score": 45.0,
+      "latest_at": "2026-10-10T10:29:25.782587+00:00",
+      "title": "自动驾驶激光雷达应如何进行标定？",
+      "id": "ed12f3ba9cbe",
       "links": [
         {
-          "title": "TrendForce：六大主要厂商布局VCSEL NPO，2031年VCSEL市场上看6.5亿颗",
-          "url": "https://www.ledinside.cn/research/20261008-62722.html",
-          "source": "LEDinside 中文",
-          "score": 73.8,
-          "published_at": "2026-10-08"
+          "title": "自动驾驶激光雷达应如何进行标定？",
+          "url": "https://laser.ofweek.com/2026-04/ART-240002-8140-30685436.html",
+          "source": "OFweek 激光频道",
+          "score": 87.5,
+          "published_at": "2026-04"
         },
         {
-          "title": "[Insight] Six Leading Suppliers Bet on VCSEL NPO; VCSEL Demand Projected to Reach 650 Million Units by 2031, Says TrendForce",
-          "url": "//www.ledinside.com/intelligence/2026/10/2026_10_08_08",
-          "source": "LEDinside 英文",
-          "score": 68.5,
-          "published_at": "2026-10-07T15:36:14+00:00"
+          "title": "自动驾驶中激光雷达搭载越多融合越困难吗？",
+          "url": "https://laser.ofweek.com/2026-04/ART-240002-8140-30685550.html",
+          "source": "OFweek 激光频道",
+          "score": 87.5,
+          "published_at": "2026-04"
+        },
+        {
+          "title": "自动驾驶激光雷达无法识别反光背心吗？",
+          "url": "https://laser.ofweek.com/2026-04/ART-240002-8140-30684861.html",
+          "source": "OFweek 激光频道",
+          "score": 87.5,
+          "published_at": "2026-04"
+        },
+        {
+          "title": "自动驾驶激光雷达中的角分辨率决定了什么？",
+          "url": "https://laser.ofweek.com/2026-04/ART-240015-8140-30684289.html",
+          "source": "OFweek 激光频道",
+          "score": 87.5,
+          "published_at": "2026-04"
+        },
+        {
+          "title": "高线束激光雷达对自动驾驶的能力有何提升？",
+          "url": "https://laser.ofweek.com/2026-03/ART-8140-2400-30683964.html",
+          "source": "OFweek 激光频道",
+          "score": 87.5,
+          "published_at": "2026-03"
         }
       ],
       "top_terms": [
-        "vcsel",
-        "npo",
-        "trendforce",
-        "亿颗",
-        "insight"
+        "自动",
+        "动驾",
+        "驾驶",
+        "激光",
+        "光雷"
       ],
-      "rank": 7,
-      "heat": 42.0,
+      "rank": 8,
+      "heat": 45.0,
       "status": "关注中"
     },
     {
@@ -525,7 +583,7 @@
         "OFweek 光电频道"
       ],
       "score": 42.0,
-      "latest_at": "2026-10-09T11:16:19.424988+00:00",
+      "latest_at": "2026-10-10T10:29:25.782587+00:00",
       "title": "融资20亿、供货中际旭创，这家光器件公司IPO了！",
       "id": "9cf427609ed1",
       "links": [
@@ -551,7 +609,7 @@
         "亿元",
         "融资"
       ],
-      "rank": 8,
+      "rank": 9,
       "heat": 42.0,
       "status": "关注中"
     },
@@ -568,7 +626,7 @@
         "COEMA 中国光电子行业协会"
       ],
       "score": 42.0,
-      "latest_at": "2026-10-09T11:16:19.424988+00:00",
+      "latest_at": "2026-10-10T10:29:25.782587+00:00",
       "title": "宇树科技计划登陆科创板 中国移动已投资",
       "id": "f3596e90ef88",
       "links": [
@@ -594,76 +652,8 @@
         "创板",
         "激光"
       ],
-      "rank": 9,
-      "heat": 42.0,
-      "status": "关注中"
-    },
-    {
-      "terms": [
-        "biomedical",
-        "complexes",
-        "defects",
-        "femtosecond",
-        "fluorescent",
-        "hard",
-        "imaging",
-        "isolated",
-        "laser",
-        "membrane-protein",
-        "optical",
-        "perspective",
-        "platforms",
-        "proteins",
-        "quantum",
-        "sensing",
-        "single-protein",
-        "solid-state",
-        "spin",
-        "three-dimensional",
-        "vacuo",
-        "x-ray"
-      ],
-      "source_count": 1,
-      "signal_count": 3,
-      "sources": [
-        "arXiv 光学与光子学 (physics.optics)"
-      ],
-      "score": 38.0,
-      "latest_at": "2026-10-09T11:16:19.424988+00:00",
-      "title": "From Solid-State Spin Defects to Fluorescent Proteins: A Perspective on Quantum Optical Sensing Platforms for Biomedical Applications",
-      "id": "bcc44436480f",
-      "links": [
-        {
-          "title": "From Solid-State Spin Defects to Fluorescent Proteins: A Perspective on Quantum Optical Sensing Platforms for Biomedical Applications",
-          "url": "https://arxiv.org/abs/2610.11644",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 72.2,
-          "published_at": "2026-10-09T04:00:00+00:00"
-        },
-        {
-          "title": "Three-dimensional imaging of isolated membrane-protein complexes in vacuo with an X-ray laser",
-          "url": "https://arxiv.org/abs/2610.11729",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 72.2,
-          "published_at": "2026-10-09T04:00:00+00:00"
-        },
-        {
-          "title": "Femtosecond Three-Dimensional Imaging of Single-Protein with Hard X-ray Laser",
-          "url": "https://arxiv.org/abs/2610.11892",
-          "source": "arXiv 光学与光子学 (physics.optics)",
-          "score": 72.2,
-          "published_at": "2026-10-09T04:00:00+00:00"
-        }
-      ],
-      "top_terms": [
-        "three",
-        "dimensional",
-        "imaging",
-        "protein",
-        "ray"
-      ],
       "rank": 10,
-      "heat": 38.0,
+      "heat": 42.0,
       "status": "关注中"
     }
   ]
